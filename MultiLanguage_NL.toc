@@ -1,0 +1,34 @@
+## Interface: 120001
+## Title: MultiLanguage_NL
+## Notes: Dutch (NL) language pack for the MultiLanguage addon, with TTS support
+## Author: Kenneth Audenaert
+## Version: 1.0.0
+## Dependencies: MultiLanguage
+## SavedVariables: MultiLanguageNLOptions
+
+Database/Quests/quests.lua
+
+Database/Items/items.lua
+Database/Items/itemsOne.lua
+Database/Items/itemsTwo.lua
+Database/Items/itemsThree.lua
+Database/Items/itemsFour.lua
+
+Database/Npcs/npcs.lua
+Database/Npcs/npcsOne.lua
+Database/Npcs/npcsTwo.lua
+Database/Npcs/npcsThree.lua
+Database/Npcs/npcsFour.lua
+Database/Npcs/npcsFive.lua
+
+Database/Spells/spells.lua
+Database/Spells/spellsOne.lua
+Database/Spells/spellsTwo.lua
+Database/Spells/spellsThree.lua
+Database/Spells/spellsFour.lua
+Database/Spells/spellsFive.lua
+Database/Spells/spellsSix.lua
+Database/Spells/spellsSeven.lua
+Database/Spells/spellsEight.lua
+
+MultiLanguage_NL.lua
