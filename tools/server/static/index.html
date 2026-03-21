@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MultiLanguage_NL Server</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, sans-serif; background: #0f1117; color: #c9d1d9; min-height: 100vh; }
+  header { background: #161b22; border-bottom: 1px solid #30363d; padding: 16px 32px; display: flex; align-items: center; gap: 16px; }
+  header h1 { font-size: 18px; font-weight: 600; color: #f0f6fc; }
+  header .badge { background: #1f6feb; color: #fff; font-size: 11px; padding: 2px 8px; border-radius: 12px; }
+  nav { background: #161b22; border-bottom: 1px solid #30363d; display: flex; gap: 0; padding: 0 32px; }
+  nav button { background: none; border: none; color: #8b949e; padding: 12px 20px; cursor: pointer; font-size: 14px; border-bottom: 2px solid transparent; }
+  nav button.active { color: #f0f6fc; border-bottom-color: #1f6feb; }
+  nav button:hover { color: #c9d1d9; }
+  main { padding: 32px; max-width: 1200px; margin: 0 auto; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px; }
+  .stat-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; }
+  .stat-card .value { font-size: 32px; font-weight: 700; color: #f0f6fc; }
+  .stat-card .label { font-size: 12px; color: #8b949e; margin-top: 4px; }
+  .stat-card.online .value { color: #56d364; }
+  .stat-card.offline .value { color: #ff7b72; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin-bottom: 24px; }
+  .card-header { padding: 16px 20px; border-bottom: 1px solid #30363d; display: flex; align-items: center; justify-content: space-between; }
+  .card-header h2 { font-size: 15px; font-weight: 600; color: #f0f6fc; }
+  .search { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; color: #c9d1d9; font-size: 14px; width: 240px; }
+  .search:focus { outline: none; border-color: #1f6feb; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { padding: 10px 16px; text-align: left; color: #8b949e; font-weight: 500; border-bottom: 1px solid #30363d; white-space: nowrap; }
+  td { padding: 10px 16px; border-bottom: 1px solid #21262d; vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #1c2128; }
+  .info-row { display: flex; gap: 8px; padding: 12px 20px; border-bottom: 1px solid #21262d; font-size: 13px; }
+  .info-row:last-child { border-bottom: none; }
+  .info-label { color: #8b949e; min-width: 160px; }
+  .info-value { color: #f0f6fc; }
+  .cat-badge { padding: 2px 8px; border-radius: 12px; font-size: 11px; }
+  .cat-personage { background: #6e40c922; color: #bc8cff; }
+  .cat-locatie   { background: #1f6feb22; color: #79c0ff; }
+  .cat-zone      { background: #2ea04322; color: #56d364; }
+  .cat-fractie   { background: #d2992222; color: #e3b341; }
+  .cat-ras       { background: #da363322; color: #ff7b72; }
+  .cat-klasse    { background: #17808422; color: #39d3bb; }
+  .cat-item      { background: #30363d; color: #8b949e; }
+  .cat-valuta    { background: #30363d; color: #8b949e; }
+  .cat-godheid   { background: #6e40c922; color: #bc8cff; }
+  .cat-general   { background: #30363d; color: #8b949e; }
+  .btn { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; }
+  .btn:hover { border-color: #8b949e; }
+  .btn-primary { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+  .btn-primary:hover { background: #388bfd; }
+  .btn-danger { color: #ff7b72; border-color: #ff7b72; }
+  .btn-danger:hover { background: #ff7b7222; }
+  .form-row { display: flex; gap: 8px; padding: 12px 16px; border-top: 1px solid #30363d; flex-wrap: wrap; }
+  .form-row input, .form-row select { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 10px; color: #c9d1d9; font-size: 13px; }
+  .form-row input:focus, .form-row select:focus { outline: none; border-color: #1f6feb; }
+  .tab { display: none; }
+  .tab.active { display: block; }
+  .empty { padding: 40px; text-align: center; color: #484f58; }
+  .refresh-btn { background: none; border: 1px solid #30363d; color: #8b949e; padding: 4px 10px; border-radius: 4px; cursor: pointer; font-size: 12px; }
+  .refresh-btn:hover { border-color: #8b949e; color: #c9d1d9; }
+  .test-area { display: flex; gap: 8px; padding: 16px 20px; }
+  .test-area textarea { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; color: #c9d1d9; font-size: 13px; flex: 1; min-height: 60px; resize: vertical; font-family: inherit; }
+  .test-area textarea:focus { outline: none; border-color: #1f6feb; }
+  .test-result { padding: 0 20px 16px; font-size: 13px; color: #56d364; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>MultiLanguage_NL</h1>
+  <span class="badge">Translation Server</span>
+  <span id="server-status" style="margin-left:auto;font-size:12px;color:#484f58;">verbinden...</span>
+</header>
+
+<nav>
+  <button class="active" onclick="showTab('status')">Status</button>
+  <button onclick="showTab('glossary')">Glossary</button>
+  <button onclick="showTab('test')">Vertaaltest</button>
+</nav>
+
+<main>
+
+  <!-- ── STATUS ── -->
+  <div id="tab-status" class="tab active">
+    <div class="stats-grid" id="status-grid"></div>
+    <div class="card">
+      <div class="card-header">
+        <h2>Server info</h2>
+        <button class="refresh-btn" onclick="loadStatus()">&#8635; Vernieuwen</button>
+      </div>
+      <div id="server-info"></div>
+    </div>
+  </div>
+
+  <!-- ── GLOSSARY ── -->
+  <div id="tab-glossary" class="tab">
+    <div class="card">
+      <div class="card-header">
+        <h2>Glossary <span id="gloss-count" style="color:#8b949e;font-weight:400;font-size:13px;"></span></h2>
+        <div style="display:flex;gap:8px;">
+          <input class="search" type="text" placeholder="Zoeken..." oninput="filterGlossary(this.value)">
+          <select id="cat-filter" onchange="filterGlossary(document.querySelector('#tab-glossary .search').value)" style="background:#0d1117;border:1px solid #30363d;border-radius:6px;padding:6px 10px;color:#c9d1d9;font-size:13px;">
+            <option value="">Alle categorieen</option>
+            <option>personage</option><option>godheid</option><option>locatie</option>
+            <option>zone</option><option>fractie</option><option>ras</option>
+            <option>klasse</option><option>item</option><option>valuta</option><option>general</option>
+          </select>
+          <button class="refresh-btn" onclick="loadGlossary()">&#8635; Vernieuwen</button>
+        </div>
+      </div>
+      <table>
+        <thead>
+          <tr><th>Origineel</th><th>Bewaar als</th><th>Categorie</th><th>Notities</th><th></th></tr>
+        </thead>
+        <tbody id="gloss-tbody"></tbody>
+      </table>
+      <div class="form-row">
+        <input id="g-source" placeholder="Originele term (EN)" style="flex:1;min-width:140px;">
+        <input id="g-keep"   placeholder="Bewaar als" style="flex:1;min-width:140px;">
+        <select id="g-cat" style="background:#0d1117;border:1px solid #30363d;border-radius:6px;padding:6px 10px;color:#c9d1d9;font-size:13px;">
+          <option>personage</option><option>godheid</option><option>locatie</option>
+          <option>zone</option><option>fractie</option><option>ras</option>
+          <option>klasse</option><option>item</option><option>valuta</option><option>general</option>
+        </select>
+        <input id="g-notes" placeholder="Notities (optioneel)" style="flex:2;min-width:140px;">
+        <button class="btn btn-primary" onclick="addGlossaryTerm()">+ Toevoegen</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── VERTAALTEST ── -->
+  <div id="tab-test" class="tab">
+    <div class="card">
+      <div class="card-header"><h2>Vertaaltest</h2></div>
+      <div class="test-area">
+        <textarea id="test-input" placeholder="Typ Engelse tekst om te vertalen..."></textarea>
+        <button class="btn btn-primary" onclick="testTranslate()" style="align-self:flex-end;">Vertaal</button>
+      </div>
+      <div class="test-result" id="test-result"></div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+const API = window.location.origin;
+let allGlossary = [];
+
+// ── Tab navigatie ──────────────────────────────────────────────────────────
+function showTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + name).classList.add('active');
+  event.target.classList.add('active');
+  if (name === 'status')   loadStatus();
+  if (name === 'glossary') loadGlossary();
+}
+
+// ── Server status ──────────────────────────────────────────────────────────
+async function loadStatus() {
+  try {
+    const [health, stats] = await Promise.all([
+      fetch(API + '/health').then(r => r.json()),
+      fetch(API + '/stats').then(r => r.json()),
+    ]);
+
+    document.getElementById('server-status').textContent = '● online';
+    document.getElementById('server-status').style.color = '#56d364';
+
+    document.getElementById('status-grid').innerHTML = `
+      <div class="stat-card online"><div class="value">Online</div><div class="label">Server status</div></div>
+      <div class="stat-card"><div class="value">${stats.translations_cached || 0}</div><div class="label">Vertalingen in cache</div></div>
+      <div class="stat-card"><div class="value">${stats.glossary_terms || 0}</div><div class="label">Glossary termen</div></div>
+      <div class="stat-card"><div class="value">${stats.total_hits || 0}</div><div class="label">Totaal cache hits</div></div>
+    `;
+
+    document.getElementById('server-info').innerHTML = `
+      <div class="info-row"><span class="info-label">Model</span><span class="info-value">${health.model || '—'}</span></div>
+      <div class="info-row"><span class="info-label">Engine</span><span class="info-value">${health.engine || '—'}</span></div>
+      <div class="info-row"><span class="info-label">Beam size</span><span class="info-value">${health.beam_size || '—'}</span></div>
+      <div class="info-row"><span class="info-label">Data directory</span><span class="info-value">${health.data_dir || '—'}</span></div>
+      <div class="info-row"><span class="info-label">Glossary geladen</span><span class="info-value">${health.glossary_exists ? 'Ja' : 'Nee'}</span></div>
+    `;
+  } catch {
+    document.getElementById('server-status').textContent = '● offline';
+    document.getElementById('server-status').style.color = '#ff7b72';
+    document.getElementById('status-grid').innerHTML = `
+      <div class="stat-card offline"><div class="value">Offline</div><div class="label">Server status</div></div>
+    `;
+    document.getElementById('server-info').innerHTML = `
+      <div class="empty">Server niet bereikbaar</div>
+    `;
+  }
+}
+
+// ── Glossary ───────────────────────────────────────────────────────────────
+async function loadGlossary() {
+  try {
+    const r = await fetch(API + '/glossary');
+    allGlossary = await r.json();
+    allGlossary.sort((a,b) => a.source_term.localeCompare(b.source_term));
+    document.getElementById('gloss-count').textContent = '(' + allGlossary.length + ')';
+    renderGlossary(allGlossary);
+  } catch(e) { console.error(e); }
+}
+
+function renderGlossary(data) {
+  const tbody = document.getElementById('gloss-tbody');
+  if (!data.length) { tbody.innerHTML = '<tr><td colspan="5" class="empty">Geen termen.</td></tr>'; return; }
+  tbody.innerHTML = data.map(g => `
+    <tr>
+      <td style="font-weight:500;color:#f0f6fc;">${esc(g.source_term)}</td>
+      <td>${esc(g.keep_as)}</td>
+      <td><span class="cat-badge cat-${g.category}">${g.category}</span></td>
+      <td class="text-en">${esc(g.notes||'')}</td>
+      <td><button class="btn btn-danger" onclick="deleteGlossaryTerm('${esc(g.source_term)}')">Verwijder</button></td>
+    </tr>`).join('');
+}
+
+function filterGlossary(q) {
+  const cat = document.getElementById('cat-filter').value;
+  q = q.toLowerCase();
+  const filtered = allGlossary.filter(g =>
+    (!cat || g.category === cat) &&
+    (!q || g.source_term.toLowerCase().includes(q) || g.keep_as.toLowerCase().includes(q))
+  );
+  renderGlossary(filtered);
+}
+
+async function addGlossaryTerm() {
+  const source = document.getElementById('g-source').value.trim();
+  const keep   = document.getElementById('g-keep').value.trim();
+  const cat    = document.getElementById('g-cat').value;
+  const notes  = document.getElementById('g-notes').value.trim();
+  if (!source || !keep) { alert('Vul originele term en bewaar-als in.'); return; }
+  await fetch(API + '/glossary', {
+    method: 'POST',
+    headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({source_term:source, keep_as:keep, category:cat, notes})
+  });
+  document.getElementById('g-source').value = '';
+  document.getElementById('g-keep').value   = '';
+  document.getElementById('g-notes').value  = '';
+  loadGlossary();
+}
+
+async function deleteGlossaryTerm(term) {
+  if (!confirm('Verwijder "' + term + '" uit de glossary?')) return;
+  await fetch(API + '/glossary/' + encodeURIComponent(term), {method:'DELETE'});
+  loadGlossary();
+}
+
+// ── Vertaaltest ────────────────────────────────────────────────────────────
+async function testTranslate() {
+  const text = document.getElementById('test-input').value.trim();
+  if (!text) return;
+  const result = document.getElementById('test-result');
+  result.textContent = 'Vertalen...';
+  result.style.color = '#8b949e';
+  try {
+    const r = await fetch(API + '/translate', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({id: 'test', text})
+    });
+    const d = await r.json();
+    result.textContent = d.nl || d.translation || JSON.stringify(d);
+    result.style.color = '#56d364';
+  } catch(e) {
+    result.textContent = 'Fout: ' + e;
+    result.style.color = '#ff7b72';
+  }
+}
+
+// ── Hulpfuncties ───────────────────────────────────────────────────────────
+function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+// ── Init ───────────────────────────────────────────────────────────────────
+loadStatus();
+setInterval(loadStatus, 30000);
+</script>
+</body>
+</html>
