@@ -171,15 +171,21 @@ async function loadStatus() {
 
     document.getElementById('status-grid').innerHTML = `
       <div class="stat-card online"><div class="value">Online</div><div class="label">Server status</div></div>
-      <div class="stat-card"><div class="value">${stats.translations_cached || 0}</div><div class="label">Vertalingen in cache</div></div>
+      <div class="stat-card"><div class="value">${fmtUptime(stats.uptime_seconds)}</div><div class="label">Uptime</div></div>
+      <div class="stat-card"><div class="value">${stats.translate_requests || 0}</div><div class="label">Vertaalverzoeken</div></div>
+      <div class="stat-card"><div class="value">${(stats.translate_texts || 0).toLocaleString()}</div><div class="label">Teksten vertaald</div></div>
+      <div class="stat-card"><div class="value">${stats.avg_translate_ms || 0} ms</div><div class="label">Gem. vertaaltijd</div></div>
+      <div class="stat-card"><div class="value">${stats.translate_errors || 0}</div><div class="label">Fouten</div></div>
+      <div class="stat-card"><div class="value">${stats.tts_requests || 0}</div><div class="label">TTS verzoeken</div></div>
+      <div class="stat-card"><div class="value">${(stats.audio_ogg_cached || 0).toLocaleString()}</div><div class="label">OGG bestanden</div></div>
       <div class="stat-card"><div class="value">${stats.glossary_terms || 0}</div><div class="label">Glossary termen</div></div>
-      <div class="stat-card"><div class="value">${stats.total_hits || 0}</div><div class="label">Totaal cache hits</div></div>
     `;
 
     document.getElementById('server-info').innerHTML = `
       <div class="info-row"><span class="info-label">Model</span><span class="info-value">${health.model || '—'}</span></div>
       <div class="info-row"><span class="info-label">Engine</span><span class="info-value">${health.engine || '—'}</span></div>
       <div class="info-row"><span class="info-label">Beam size</span><span class="info-value">${health.beam_size || '—'}</span></div>
+      <div class="info-row"><span class="info-label">Gestart op</span><span class="info-value">${stats.started_at ? new Date(stats.started_at).toLocaleString('nl-BE') : '—'}</span></div>
       <div class="info-row"><span class="info-label">Data directory</span><span class="info-value">${health.data_dir || '—'}</span></div>
       <div class="info-row"><span class="info-label">Glossary geladen</span><span class="info-value">${health.glossary_exists ? 'Ja' : 'Nee'}</span></div>
     `;
@@ -276,6 +282,13 @@ async function testTranslate() {
 
 // ── Hulpfuncties ───────────────────────────────────────────────────────────
 function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function fmtUptime(s) {
+  if (!s) return '—';
+  const d = Math.floor(s / 86400), h = Math.floor((s % 86400) / 3600), m = Math.floor((s % 3600) / 60);
+  if (d > 0) return d + 'd ' + h + 'h';
+  if (h > 0) return h + 'h ' + m + 'm';
+  return m + 'm';
+}
 
 // ── Init ───────────────────────────────────────────────────────────────────
 loadStatus();

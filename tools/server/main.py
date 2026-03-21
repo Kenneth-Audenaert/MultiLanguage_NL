@@ -17,6 +17,7 @@ from pathlib import Path
 from contextlib import asynccontextmanager, contextmanager
 from datetime import datetime, timezone
 from threading import Lock
+from time import monotonic
 
 import ctranslate2
 import sentencepiece as spm
@@ -387,6 +388,26 @@ async def lifespan(app: FastAPI):
 app = FastAPI(title="MultiLanguage_NL Server", lifespan=lifespan)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
+# ─── Runtime metrics ─────────────────────────────────────────────────────────
+_metrics_lock = Lock()
+_metrics = {
+    "started_at": monotonic(),
+    "started_at_utc": datetime.now(timezone.utc).isoformat(),
+    "translate_requests": 0,
+    "translate_texts": 0,       # totaal individuele teksten (batch telt meerdere)
+    "translate_errors": 0,
+    "total_translate_ms": 0.0,
+    "tts_requests": 0,
+}
+
+def _record_translate(text_count: int, duration_ms: float, error: bool = False):
+    with _metrics_lock:
+        _metrics["translate_requests"] += 1
+        _metrics["translate_texts"] += text_count
+        _metrics["total_translate_ms"] += duration_ms
+        if error:
+            _metrics["translate_errors"] += 1
+
 @app.get("/health")
 async def health():
     return {
@@ -451,13 +472,16 @@ async def get_glossary() -> list[dict]:
 async def translate(req: TranslateRequest):
     glossary = await get_glossary()
     gl = [{"source": g["source_term"], "keep": g["keep_as"]} for g in glossary]
+    t0 = monotonic()
     try:
         nl_text = await asyncio.get_event_loop().run_in_executor(
             None, translate_locally, req.text, gl
         )
     except Exception as e:
+        _record_translate(1, (monotonic() - t0) * 1000, error=True)
         log.error(f"Vertaalfout: {e}")
         raise HTTPException(500, f"Vertaling mislukt: {e}")
+    _record_translate(1, (monotonic() - t0) * 1000)
 
     audio = await get_or_synthesize(req.id, nl_text, req.tts)
 
@@ -481,13 +505,16 @@ async def translate_batch(req: BatchTranslateRequest):
     gl = [{"source": g["source_term"], "keep": g["keep_as"]} for g in glossary]
 
     items = [{"id": item.id, "text": item.text} for item in req.items]
+    t0 = monotonic()
     try:
         translations = await asyncio.get_event_loop().run_in_executor(
             None, translate_batch_locally, items, gl
         )
     except Exception as e:
+        _record_translate(len(items), (monotonic() - t0) * 1000, error=True)
         log.error(f"Batch vertaalfout: {e}")
         raise HTTPException(500, f"Batch vertaling mislukt: {e}")
+    _record_translate(len(items), (monotonic() - t0) * 1000)
 
     results = [
         TranslateResponse(id=item.id, nl=translations.get(item.id, ""), audio=None, cached=False)
@@ -507,6 +534,8 @@ class TtsResponse(BaseModel):
 @app.post("/tts", response_model=TtsResponse)
 async def tts(req: TtsRequest):
     """Genereer alleen TTS audio voor een reeds vertaalde tekst."""
+    with _metrics_lock:
+        _metrics["tts_requests"] += 1
     existing = await asyncio.get_event_loop().run_in_executor(None, audio_get, req.id)
     if existing:
         return TtsResponse(id=req.id, created=False)
@@ -572,10 +601,27 @@ async def get_audio_ogg(key: str):
 
 @app.get("/stats")
 async def stats():
-    audio_count = len(list(AUDIO_DIR.glob("*.wav"))) if AUDIO_DIR.exists() else 0
+    audio_wav = len(list(AUDIO_DIR.glob("*.wav"))) if AUDIO_DIR.exists() else 0
+    audio_ogg = len(list(AUDIO_DIR.glob("*.ogg"))) if AUDIO_DIR.exists() else 0
+    glossary = await get_glossary()
+
+    with _metrics_lock:
+        m = dict(_metrics)
+
+    uptime_s = monotonic() - m["started_at"]
+    avg_ms = (m["total_translate_ms"] / m["translate_requests"]) if m["translate_requests"] else 0
+
     return {
-        "audio_cached": audio_count,
-        "glossary_exists": GLOSSARY_FILE.exists(),
+        "uptime_seconds": round(uptime_s),
+        "started_at": m["started_at_utc"],
+        "translate_requests": m["translate_requests"],
+        "translate_texts": m["translate_texts"],
+        "translate_errors": m["translate_errors"],
+        "avg_translate_ms": round(avg_ms, 1),
+        "tts_requests": m["tts_requests"],
+        "audio_wav_cached": audio_wav,
+        "audio_ogg_cached": audio_ogg,
+        "glossary_terms": len(glossary),
     }
 
 @app.get("/glossary")
