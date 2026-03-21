@@ -170,29 +170,35 @@ local function HookQuestTranslationFrame()
 end
 
 -- ─── Slash commands ─────────────────────────────────────────────────────────
+local function countTable(tbl)
+    local n = 0
+    if tbl then for _ in pairs(tbl) do n = n + 1 end end
+    return n
+end
+
+local function fmtCount(nlCount, enCount)
+    if enCount > 0 then
+        return nlCount .. "/" .. enCount
+    end
+    return tostring(nlCount)
+end
+
 SLASH_MULTILANGUAGENL1 = "/mlnl"
 SlashCmdList["MULTILANGUAGENL"] = function(msg)
-    local questCount = 0
-    if MultiLanguageQuestData and MultiLanguageQuestData["nl"] then
-        for _ in pairs(MultiLanguageQuestData["nl"]) do questCount = questCount + 1 end
-    end
-    local itemCount = 0
-    if MultiLanguageItemData and MultiLanguageItemData["nl"] then
-        for _ in pairs(MultiLanguageItemData["nl"]) do itemCount = itemCount + 1 end
-    end
-    local spellCount = 0
-    if MultiLanguageSpellData and MultiLanguageSpellData["nl"] then
-        for _ in pairs(MultiLanguageSpellData["nl"]) do spellCount = spellCount + 1 end
-    end
-    local npcCount = 0
-    if MultiLanguageNpcData and MultiLanguageNpcData["nl"] then
-        for _ in pairs(MultiLanguageNpcData["nl"]) do npcCount = npcCount + 1 end
-    end
+    local qNL = countTable(MultiLanguageQuestData and MultiLanguageQuestData["nl"])
+    local qEN = countTable(MultiLanguageQuestData and MultiLanguageQuestData["en"])
+    local iNL = countTable(MultiLanguageItemData and MultiLanguageItemData["nl"])
+    local iEN = countTable(MultiLanguageItemData and MultiLanguageItemData["en"])
+    local sNL = countTable(MultiLanguageSpellData and MultiLanguageSpellData["nl"])
+    local sEN = countTable(MultiLanguageSpellData and MultiLanguageSpellData["en"])
+    local nNL = countTable(MultiLanguageNpcData and MultiLanguageNpcData["nl"])
+    local nEN = countTable(MultiLanguageNpcData and MultiLanguageNpcData["en"])
+
     print("|cff00ccff[ML_NL]|r Nederlandse vertalingen geladen:")
-    print("|cff00ccff[ML_NL]|r   Quests: " .. questCount)
-    print("|cff00ccff[ML_NL]|r   Items:  " .. itemCount)
-    print("|cff00ccff[ML_NL]|r   Spells: " .. spellCount)
-    print("|cff00ccff[ML_NL]|r   NPCs:   " .. npcCount)
+    print("|cff00ccff[ML_NL]|r   Quests: " .. fmtCount(qNL, qEN))
+    print("|cff00ccff[ML_NL]|r   Items:  " .. fmtCount(iNL, iEN))
+    print("|cff00ccff[ML_NL]|r   Spells: " .. fmtCount(sNL, sEN))
+    print("|cff00ccff[ML_NL]|r   NPCs:   " .. fmtCount(nNL, nEN))
 end
 
 -- ─── "Always show" modus: update vertaalframe bij quest selectie ─────────────
