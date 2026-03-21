@@ -73,7 +73,7 @@ Configuration via environment variables (all optional):
 | Variable | Default | Description |
 |---|---|---|
 | `MLNL_SERVER_URL` | `http://localhost:8000` | Translation server URL |
-| `MLNL_ADDONS_DIR` | `E:\Games\World of Warcraft\_retail_\Interface\AddOns` | WoW AddOns directory |
+| `MLNL_ADDONS_DIR` | *(auto-detected)* | WoW AddOns directory. Auto-detects common install paths. |
 | `MLNL_NAS_SHARE` | *(empty)* | Optional NAS share for `--output nas` |
 
 ## Server API

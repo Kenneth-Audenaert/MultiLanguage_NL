@@ -45,9 +45,22 @@ log = logging.getLogger("ML_NL-PreCache")
 # Overschrijf via environment variables of pas de defaults hieronder aan.
 SERVER_URL = os.environ.get("MLNL_SERVER_URL", "http://localhost:8000")
 
+def _detect_addons_dir() -> str:
+    """Auto-detect WoW AddOns directory, or fall back to script location."""
+    candidates = [
+        Path(__file__).resolve().parents[1],  # tools/ zit in de addon dir
+        Path(r"C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns"),
+        Path(r"C:\Program Files\World of Warcraft\_retail_\Interface\AddOns"),
+        Path(r"D:\Games\World of Warcraft\_retail_\Interface\AddOns"),
+        Path(r"E:\Games\World of Warcraft\_retail_\Interface\AddOns"),
+    ]
+    for p in candidates:
+        if (p / "MultiLanguage").is_dir():
+            return str(p)
+    return str(candidates[0])
+
 ADDONS_DIR = Path(
-    os.environ.get("MLNL_ADDONS_DIR",
-                   r"E:\Games\World of Warcraft\_retail_\Interface\AddOns")
+    os.environ.get("MLNL_ADDONS_DIR", _detect_addons_dir())
 )
 ML_DIR = ADDONS_DIR / "MultiLanguage"
 NL_DIR = ADDONS_DIR / "MultiLanguage_NL"
