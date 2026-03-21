@@ -1,2 +1,11 @@
 # TTS audio files (generated via precache.py --tts-ogg, ~3.7 GB)
 Audio/
+
+# Precache progress/state files (local to each user)
+tools/precache_progress_*.json
+tools/precache_versions.json
+tools/precache_retranslate_tracker.json
+
+# Python
+__pycache__/
+*.pyc
