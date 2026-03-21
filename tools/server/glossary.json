@@ -1,0 +1,626 @@
+[
+  {
+    "source_term": "Alliance",
+    "keep_as": "Alliance",
+    "category": "fractie",
+    "notes": ""
+  },
+  {
+    "source_term": "Argent Dawn",
+    "keep_as": "Argent Dawn",
+    "category": "fractie",
+    "notes": ""
+  },
+  {
+    "source_term": "Cenarion Circle",
+    "keep_as": "Cenarion Circle",
+    "category": "fractie",
+    "notes": ""
+  },
+  {
+    "source_term": "Horde",
+    "keep_as": "Horde",
+    "category": "fractie",
+    "notes": ""
+  },
+  {
+    "source_term": "Requires any Alliance race",
+    "keep_as": "Requires any Alliance race",
+    "category": "fractie",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Requires any Horde race",
+    "keep_as": "Requires any Horde race",
+    "category": "fractie",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Scarlet Crusade",
+    "keep_as": "Scarlet Crusade",
+    "category": "fractie",
+    "notes": ""
+  },
+  {
+    "source_term": "Agility",
+    "keep_as": "Agility",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Armor",
+    "keep_as": "Armor",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Avoidance",
+    "keep_as": "Avoidance",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Critical Strike",
+    "keep_as": "Critical Strike",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Durability",
+    "keep_as": "Durability",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Haste",
+    "keep_as": "Haste",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Intellect",
+    "keep_as": "Intellect",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Leech",
+    "keep_as": "Leech",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Mastery",
+    "keep_as": "Mastery",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Speed",
+    "keep_as": "Speed",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Stamina",
+    "keep_as": "Stamina",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Strength",
+    "keep_as": "Strength",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Versatility",
+    "keep_as": "Versatility",
+    "category": "general",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Elune",
+    "keep_as": "Elune",
+    "category": "godheid",
+    "notes": ""
+  },
+  {
+    "source_term": "Agility or Intellect",
+    "keep_as": "Agility or Intellect",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Back",
+    "keep_as": "Back",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Binds to Warband",
+    "keep_as": "Binds to Warband",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Binds when equipped",
+    "keep_as": "Binds when equipped",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Binds when picked up",
+    "keep_as": "Binds when picked up",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Binds when used",
+    "keep_as": "Binds when used",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Buy Price:",
+    "keep_as": "Buy Price:",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Cloth",
+    "keep_as": "Cloth",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Cosmetic",
+    "keep_as": "Cosmetic",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Finger",
+    "keep_as": "Finger",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Hearthstone",
+    "keep_as": "Hearthstone",
+    "category": "item",
+    "notes": ""
+  },
+  {
+    "source_term": "Heroic",
+    "keep_as": "Heroic",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Leather",
+    "keep_as": "Leather",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Legacy Set: Bonus is inactive",
+    "keep_as": "Legacy Set: Bonus is inactive",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Mail",
+    "keep_as": "Mail",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Meta Socket",
+    "keep_as": "Meta Socket",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Mythic",
+    "keep_as": "Mythic",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Neck",
+    "keep_as": "Neck",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Plate",
+    "keep_as": "Plate",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Prismatic Socket",
+    "keep_as": "Prismatic Socket",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Quest Item",
+    "keep_as": "Quest Item",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Sell Price:",
+    "keep_as": "Sell Price:",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Shield",
+    "keep_as": "Shield",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Strength or Agility",
+    "keep_as": "Strength or Agility",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Strength or Intellect",
+    "keep_as": "Strength or Intellect",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "This Item Begins a Quest",
+    "keep_as": "This Item Begins a Quest",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Titanforged",
+    "keep_as": "Titanforged",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Trinket",
+    "keep_as": "Trinket",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Unique",
+    "keep_as": "Unique",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Unique-Equipped",
+    "keep_as": "Unique-Equipped",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Use: Add this appearance to your Warband collection.",
+    "keep_as": "Use: Add this appearance to your Warband collection.",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Warforged",
+    "keep_as": "Warforged",
+    "category": "item",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Death Knight",
+    "keep_as": "Classes: Death Knight",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Demon Hunter",
+    "keep_as": "Classes: Demon Hunter",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Druid",
+    "keep_as": "Classes: Druid",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Evoker",
+    "keep_as": "Classes: Evoker",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Hunter",
+    "keep_as": "Classes: Hunter",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Mage",
+    "keep_as": "Classes: Mage",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Monk",
+    "keep_as": "Classes: Monk",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Paladin",
+    "keep_as": "Classes: Paladin",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Priest",
+    "keep_as": "Classes: Priest",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Rogue",
+    "keep_as": "Classes: Rogue",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Shaman",
+    "keep_as": "Classes: Shaman",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Warlock",
+    "keep_as": "Classes: Warlock",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Classes: Warrior",
+    "keep_as": "Classes: Warrior",
+    "category": "klasse",
+    "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Death Knight",
+    "keep_as": "Death Knight",
+    "category": "klasse",
+    "notes": ""
+  },
+  {
+    "source_term": "Demon Hunter",
+    "keep_as": "Demon Hunter",
+    "category": "klasse",
+    "notes": ""
+  },
+  {
+    "source_term": "Evoker",
+    "keep_as": "Evoker",
+    "category": "klasse",
+    "notes": ""
+  },
+  {
+    "source_term": "Boralus",
+    "keep_as": "Boralus",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Dalaran",
+    "keep_as": "Dalaran",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Ironforge",
+    "keep_as": "Ironforge",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Orgrimmar",
+    "keep_as": "Orgrimmar",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Silvermoon",
+    "keep_as": "Silvermoon",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Stormwind",
+    "keep_as": "Stormwind",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Thunder Bluff",
+    "keep_as": "Thunder Bluff",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Undercity",
+    "keep_as": "Undercity",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Valdrakken",
+    "keep_as": "Valdrakken",
+    "category": "locatie",
+    "notes": ""
+  },
+  {
+    "source_term": "Anduin",
+    "keep_as": "Anduin",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Arthas",
+    "keep_as": "Arthas",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Illidan",
+    "keep_as": "Illidan",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Jaina",
+    "keep_as": "Jaina",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Malfurion",
+    "keep_as": "Malfurion",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Ner'zhul",
+    "keep_as": "Ner'zhul",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Sargeras",
+    "keep_as": "Sargeras",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Sylvanas",
+    "keep_as": "Sylvanas",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Thrall",
+    "keep_as": "Thrall",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Tyrande",
+    "keep_as": "Tyrande",
+    "category": "personage",
+    "notes": ""
+  },
+  {
+    "source_term": "Blood Elf",
+    "keep_as": "Blood Elf",
+    "category": "ras",
+    "notes": ""
+  },
+  {
+    "source_term": "Draenei",
+    "keep_as": "Draenei",
+    "category": "ras",
+    "notes": ""
+  },
+  {
+    "source_term": "Forsaken",
+    "keep_as": "Forsaken",
+    "category": "ras",
+    "notes": ""
+  },
+  {
+    "source_term": "Night Elf",
+    "keep_as": "Night Elf",
+    "category": "ras",
+    "notes": ""
+  },
+  {
+    "source_term": "Pandaren",
+    "keep_as": "Pandaren",
+    "category": "ras",
+    "notes": ""
+  },
+  {
+    "source_term": "Copper",
+    "keep_as": "Koper",
+    "category": "valuta",
+    "notes": ""
+  },
+  {
+    "source_term": "Gold",
+    "keep_as": "Goud",
+    "category": "valuta",
+    "notes": ""
+  },
+  {
+    "source_term": "Silver",
+    "keep_as": "Zilver",
+    "category": "valuta",
+    "notes": ""
+  },
+  {
+    "source_term": "Azeroth",
+    "keep_as": "Azeroth",
+    "category": "wereld",
+    "notes": ""
+  },
+  {
+    "source_term": "Dragon Isles",
+    "keep_as": "Dragon Isles",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "Durotar",
+    "keep_as": "Durotar",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "Elwynn Forest",
+    "keep_as": "Elwynn Forest",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "Northrend",
+    "keep_as": "Northrend",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "Outland",
+    "keep_as": "Outland",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "Shadowlands",
+    "keep_as": "Shadowlands",
+    "category": "zone",
+    "notes": ""
+  },
+  {
+    "source_term": "The Emerald Dream",
+    "keep_as": "The Emerald Dream",
+    "category": "zone",
+    "notes": ""
+  }
+]
