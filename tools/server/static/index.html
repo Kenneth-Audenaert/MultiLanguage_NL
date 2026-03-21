@@ -172,7 +172,7 @@ async function loadStatus() {
     document.getElementById('status-grid').innerHTML = `
       <div class="stat-card online"><div class="value">Online</div><div class="label">Server status</div></div>
       <div class="stat-card"><div class="value">${fmtUptime(stats.uptime_seconds)}</div><div class="label">Uptime</div></div>
-      <div class="stat-card"><div class="value">${stats.translate_requests || 0}</div><div class="label">Vertaalverzoeken</div></div>
+      <div class="stat-card"><div class="value">${(stats.translate_requests || 0).toLocaleString()}</div><div class="label">Vertaalverzoeken</div></div>
       <div class="stat-card"><div class="value">${(stats.translate_texts || 0).toLocaleString()}</div><div class="label">Teksten vertaald</div></div>
       <div class="stat-card"><div class="value">${stats.avg_translate_ms || 0} ms</div><div class="label">Gem. vertaaltijd</div></div>
       <div class="stat-card"><div class="value">${stats.translate_errors || 0}</div><div class="label">Fouten</div></div>
