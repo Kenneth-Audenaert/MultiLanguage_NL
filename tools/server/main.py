@@ -384,29 +384,76 @@ async def lifespan(app: FastAPI):
     log.info(f"Glossary:    {GLOSSARY_FILE}")
     log.info(f"Audio cache: {AUDIO_DIR}")
     yield
+    # Sla all-time metrics op bij shutdown
+    _save_alltime()
+    log.info("All-time metrics opgeslagen.")
 
 app = FastAPI(title="MultiLanguage_NL Server", lifespan=lifespan)
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 # ─── Runtime metrics ─────────────────────────────────────────────────────────
 _metrics_lock = Lock()
+METRICS_FILE = DATA_DIR / "metrics_alltime.json"
+
+def _load_alltime() -> dict:
+    """Laad all-time tellers van disk."""
+    if METRICS_FILE.exists():
+        try:
+            return json.loads(METRICS_FILE.read_text())
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {
+        "translate_requests": 0,
+        "translate_texts": 0,
+        "translate_errors": 0,
+        "tts_requests": 0,
+    }
+
+def _save_alltime():
+    """Schrijf all-time tellers naar disk."""
+    try:
+        METRICS_FILE.write_text(json.dumps({
+            "translate_requests": _metrics["alltime_translate_requests"],
+            "translate_texts": _metrics["alltime_translate_texts"],
+            "translate_errors": _metrics["alltime_translate_errors"],
+            "tts_requests": _metrics["alltime_tts_requests"],
+        }))
+    except OSError as e:
+        log.warning(f"Metrics opslaan mislukt: {e}")
+
+_alltime = _load_alltime()
 _metrics = {
     "started_at": monotonic(),
     "started_at_utc": datetime.now(timezone.utc).isoformat(),
+    # Sessie tellers (reset bij herstart)
     "translate_requests": 0,
-    "translate_texts": 0,       # totaal individuele teksten (batch telt meerdere)
+    "translate_texts": 0,
     "translate_errors": 0,
     "total_translate_ms": 0.0,
     "tts_requests": 0,
+    # All-time tellers (persistent)
+    "alltime_translate_requests": _alltime["translate_requests"],
+    "alltime_translate_texts": _alltime["translate_texts"],
+    "alltime_translate_errors": _alltime["translate_errors"],
+    "alltime_tts_requests": _alltime["tts_requests"],
 }
+_save_counter = 0  # sla elke N requests op, niet elke keer
 
 def _record_translate(text_count: int, duration_ms: float, error: bool = False):
+    global _save_counter
     with _metrics_lock:
         _metrics["translate_requests"] += 1
         _metrics["translate_texts"] += text_count
         _metrics["total_translate_ms"] += duration_ms
+        _metrics["alltime_translate_requests"] += 1
+        _metrics["alltime_translate_texts"] += text_count
         if error:
             _metrics["translate_errors"] += 1
+            _metrics["alltime_translate_errors"] += 1
+        _save_counter += 1
+        if _save_counter >= 50:
+            _save_counter = 0
+            _save_alltime()
 
 @app.get("/health")
 async def health():
@@ -536,6 +583,7 @@ async def tts(req: TtsRequest):
     """Genereer alleen TTS audio voor een reeds vertaalde tekst."""
     with _metrics_lock:
         _metrics["tts_requests"] += 1
+        _metrics["alltime_tts_requests"] += 1
     existing = await asyncio.get_event_loop().run_in_executor(None, audio_get, req.id)
     if existing:
         return TtsResponse(id=req.id, created=False)
@@ -614,11 +662,18 @@ async def stats():
     return {
         "uptime_seconds": round(uptime_s),
         "started_at": m["started_at_utc"],
+        # Sessie metrics
         "translate_requests": m["translate_requests"],
         "translate_texts": m["translate_texts"],
         "translate_errors": m["translate_errors"],
         "avg_translate_ms": round(avg_ms, 1),
         "tts_requests": m["tts_requests"],
+        # All-time metrics
+        "alltime_translate_requests": m["alltime_translate_requests"],
+        "alltime_translate_texts": m["alltime_translate_texts"],
+        "alltime_translate_errors": m["alltime_translate_errors"],
+        "alltime_tts_requests": m["alltime_tts_requests"],
+        # Overig
         "audio_wav_cached": audio_wav,
         "audio_ogg_cached": audio_ogg,
         "glossary_terms": len(glossary),

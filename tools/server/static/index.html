@@ -85,6 +85,9 @@
   <!-- ── STATUS ── -->
   <div id="tab-status" class="tab active">
     <div class="stats-grid" id="status-grid"></div>
+    <h3 style="color:#8b949e;font-size:13px;margin-bottom:12px;margin-top:8px;">All-time</h3>
+    <div class="stats-grid" id="alltime-grid"></div>
+
     <div class="card">
       <div class="card-header">
         <h2>Server info</h2>
@@ -179,6 +182,13 @@ async function loadStatus() {
       <div class="stat-card"><div class="value">${stats.tts_requests || 0}</div><div class="label">TTS verzoeken</div></div>
       <div class="stat-card"><div class="value">${(stats.audio_ogg_cached || 0).toLocaleString()}</div><div class="label">OGG bestanden</div></div>
       <div class="stat-card"><div class="value">${stats.glossary_terms || 0}</div><div class="label">Glossary termen</div></div>
+    `;
+
+    document.getElementById('alltime-grid').innerHTML = `
+      <div class="stat-card"><div class="value">${(stats.alltime_translate_requests || 0).toLocaleString()}</div><div class="label">Vertaalverzoeken</div></div>
+      <div class="stat-card"><div class="value">${(stats.alltime_translate_texts || 0).toLocaleString()}</div><div class="label">Teksten vertaald</div></div>
+      <div class="stat-card"><div class="value">${(stats.alltime_translate_errors || 0).toLocaleString()}</div><div class="label">Fouten</div></div>
+      <div class="stat-card"><div class="value">${(stats.alltime_tts_requests || 0).toLocaleString()}</div><div class="label">TTS verzoeken</div></div>
     `;
 
     document.getElementById('server-info').innerHTML = `
