@@ -2,12 +2,6 @@
 -- Author: Kenneth Audenaert
 
 local addonName = ...
-local ADDON_PREFIX = "MLNLTTS"
-
--- SavedVariables
-MultiLanguageNLOptions = MultiLanguageNLOptions or {
-    TTS_ENABLED = true,
-}
 
 -- ─── Taalregistratie (zelfde patroon als MultiLanguage_DE) ──────────────────
 local optionsFrame = CreateFrame("Frame")
@@ -82,7 +76,6 @@ end
 
 -- ─── TTS knop op het quest vertaalframe ─────────────────────────────────────
 local ttsButton = nil
-local lastTTSQuestID = nil
 local lastTTSSoundHandle = nil
 
 local function CreateTTSButton()
@@ -116,13 +109,8 @@ local function CreateTTSButton()
         GameTooltip:Hide()
     end)
 
-    -- Klik handler: stuur TTS verzoek via whisper (real-time IPC)
+    -- Klik handler: speel pre-cached OGG audio af
     ttsButton:SetScript("OnClick", function()
-        if not MultiLanguageNLOptions.TTS_ENABLED then
-            print("|cff00ccff[ML_NL]|r TTS is uitgeschakeld. Gebruik /mlnl tts om in te schakelen.")
-            return
-        end
-
         local questID = GetQuestID()
         if not questID or questID == 0 then
             questID = C_QuestLog and C_QuestLog.GetSelectedQuest and C_QuestLog.GetSelectedQuest() or 0
@@ -130,24 +118,6 @@ local function CreateTTSButton()
 
         if questID == 0 then
             print("|cff00ccff[ML_NL]|r Geen quest gevonden voor TTS.")
-            return
-        end
-
-        -- Haal de NL tekst op voor TTS
-        local questData = nil
-        if MultiLanguageQuestData and MultiLanguageQuestData["nl"] then
-            questData = MultiLanguageQuestData["nl"][questID]
-        end
-
-        if not questData then
-            print("|cff00ccff[ML_NL]|r Geen Nederlandse vertaling beschikbaar voor deze quest.")
-            return
-        end
-
-        -- Bepaal welke tekst voorgelezen moet worden
-        local ttsText = questData.description or questData.completion or questData.objective
-        if not ttsText or ttsText == "" then
-            print("|cff00ccff[ML_NL]|r Geen tekst beschikbaar om voor te lezen.")
             return
         end
 
@@ -170,10 +140,8 @@ local function CreateTTSButton()
                 end
             end)
         else
-            print("|cff00ccff[ML_NL]|r Geen audio beschikbaar voor quest " .. questID .. ". Voer precache.py --tts-ogg uit.")
+            print("|cff00ccff[ML_NL]|r Geen audio beschikbaar voor quest " .. questID)
         end
-
-        lastTTSQuestID = questID
     end)
 end
 
@@ -185,8 +153,7 @@ local function HookQuestTranslationFrame()
 
     -- Toon/verberg TTS knop met het vertaalframe
     QuestTranslationFrame:HookScript("OnShow", function()
-        if ttsButton and MultiLanguageNLOptions.TTS_ENABLED then
-            -- Toon alleen als NL geselecteerd is
+        if ttsButton then
             if MultiLanguageOptions and MultiLanguageOptions.SELECTED_LANGUAGE == "nl" then
                 ttsButton:Show()
             else
@@ -205,21 +172,27 @@ end
 -- ─── Slash commands ─────────────────────────────────────────────────────────
 SLASH_MULTILANGUAGENL1 = "/mlnl"
 SlashCmdList["MULTILANGUAGENL"] = function(msg)
-    local cmd = msg:lower():match("^%s*(%S+)") or ""
-    if cmd == "tts" then
-        MultiLanguageNLOptions.TTS_ENABLED = not MultiLanguageNLOptions.TTS_ENABLED
-        print("|cff00ccff[ML_NL]|r TTS: " .. (MultiLanguageNLOptions.TTS_ENABLED and "AAN" or "UIT"))
-    elseif cmd == "status" then
-        local questCount = 0
-        if MultiLanguageQuestData and MultiLanguageQuestData["nl"] then
-            for _ in pairs(MultiLanguageQuestData["nl"]) do questCount = questCount + 1 end
-        end
-        print("|cff00ccff[ML_NL]|r NL vertalingen: " .. questCount .. " quests")
-        print("|cff00ccff[ML_NL]|r TTS: " .. (MultiLanguageNLOptions.TTS_ENABLED and "AAN" or "UIT"))
-        print("|cff00ccff[ML_NL]|r Selecteer 'Dutch' in MultiLanguage instellingen.")
-    else
-        print("|cff00ccff[ML_NL]|r Commando's: /mlnl tts | status")
+    local questCount = 0
+    if MultiLanguageQuestData and MultiLanguageQuestData["nl"] then
+        for _ in pairs(MultiLanguageQuestData["nl"]) do questCount = questCount + 1 end
     end
+    local itemCount = 0
+    if MultiLanguageItemData and MultiLanguageItemData["nl"] then
+        for _ in pairs(MultiLanguageItemData["nl"]) do itemCount = itemCount + 1 end
+    end
+    local spellCount = 0
+    if MultiLanguageSpellData and MultiLanguageSpellData["nl"] then
+        for _ in pairs(MultiLanguageSpellData["nl"]) do spellCount = spellCount + 1 end
+    end
+    local npcCount = 0
+    if MultiLanguageNpcData and MultiLanguageNpcData["nl"] then
+        for _ in pairs(MultiLanguageNpcData["nl"]) do npcCount = npcCount + 1 end
+    end
+    print("|cff00ccff[ML_NL]|r Nederlandse vertalingen geladen:")
+    print("|cff00ccff[ML_NL]|r   Quests: " .. questCount)
+    print("|cff00ccff[ML_NL]|r   Items:  " .. itemCount)
+    print("|cff00ccff[ML_NL]|r   Spells: " .. spellCount)
+    print("|cff00ccff[ML_NL]|r   NPCs:   " .. npcCount)
 end
 
 -- ─── "Always show" modus: update vertaalframe bij quest selectie ─────────────
@@ -263,10 +236,7 @@ local function addonLoaded(self, event, addonLoadedName)
             for _ in pairs(MultiLanguageQuestData["nl"]) do questCount = questCount + 1 end
         end
 
-        print("|cff00ccff[ML_NL]|r Nederlandse taalpack geladen. " .. questCount .. " quests beschikbaar.")
-        if questCount == 0 then
-            print("|cff00ccff[ML_NL]|r Voer precache.py uit om vertalingen te genereren.")
-        end
+        print("|cff00ccff[ML_NL]|r Nederlandse taalpack geladen. " .. questCount .. " quests beschikbaar. /mlnl voor status.")
     end
 end
 

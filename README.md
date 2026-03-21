@@ -31,8 +31,7 @@ This addon adds Dutch (Nederlands) translations for World of Warcraft quests, it
 
 | Command | Description |
 |---|---|
-| `/mlnl status` | Show translation stats and TTS status |
-| `/mlnl tts` | Toggle TTS on/off |
+| `/mlnl` | Show loaded translation counts per data type |
 
 ## TTS Audio (optional)
 
