@@ -4,7 +4,6 @@
 ## Author: Kenneth Audenaert
 ## Version: 1.0.0
 ## Dependencies: MultiLanguage
-## SavedVariables: MultiLanguageNLOptions
 
 Database/Quests/quests.lua
 
