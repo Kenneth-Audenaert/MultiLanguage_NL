@@ -343,6 +343,60 @@ def escape_lua_string(s: str) -> str:
     )
 
 
+_STRIP_Q_RE = re.compile(r"^\[q\]")
+# Pre-compiled regexes voor strip_spell_additional_info
+_STRIP_REGEXES = [
+    # Formules en spell power
+    (re.compile(r"\[[\d.%\s()+*/×xX\-]*(?:Attack Power|Spell Power|AP|SP)[\d.%\s()+*/×xX\-,]*\]"), ""),
+    (re.compile(r"\[[^\]]*\*[^\]]*\]"), ""),
+    (re.compile(r"\([\d.]+%\s+of\s+(?:Spell|Attack)\s+Power\)"), ""),
+    # Talent referenties
+    (re.compile(r"\s*\[\s*[A-Z][^]]*?:[^]]+\]"), ""),
+    # Getallen en eenheden
+    (re.compile(r"\s+by\s+\d[\d.]*%?\s+for\s+\d[\d.]*\s*sec\b\.?"), ""),
+    (re.compile(r"\s+for\s+\d[\d.]*\s*(?:sec|min)\b\.?"), ""),
+    (re.compile(r"\s+over\s+\d[\d.]*\s*(?:sec|min)\b\.?"), ""),
+    (re.compile(r"\s+every\s+\d[\d.]*\s*(?:sec|min)\b\.?"), ""),
+    (re.compile(r"\s+by\s+\d[\d.]*%?(?!\s*(?:yard|yd|enemy|enem|allies|ally))"), ""),
+    (re.compile(r"\d[\d.]*%\s+chance"), "a chance"),
+    (re.compile(r"(increased|reduced|decreased)\s+by\s+\d[\d.]*%?"), r"\1"),
+    (re.compile(r"(absorbing|dealing|healing for|healing)\s+\d[\d.,]*"), r"\1"),
+    (re.compile(r"\b\d[\d.,]*\s+((?:Fire|Frost|Shadow|Nature|Arcane|Holy|Physical)\s+damage)"), r"\1"),
+    (re.compile(r"\b\d[\d.,]*\s+damage\b"), "damage"),
+    (re.compile(r"within\s+\d[\d.]*\s*(?:yards?|yds?)"), "within range"),
+    (re.compile(r"\b\d[\d.]*\s*(?:yards?|yds?)\b"), ""),
+    (re.compile(r"stacking\s+(?:up\s+to\s+)?\d[\d.]*"), "stacking"),
+    (re.compile(r"\s+up\s+to\s+\d[\d.]*"), ""),
+    (re.compile(r"([Gg]enerate[sd]?)\s+\d[\d.]*\s+"), r"\1 "),
+    (re.compile(r"([Cc]osts?)\s+\d[\d.]*\s+"), r"\1 "),
+    (re.compile(r"([Aa]wards?)\s+\d[\d.]*\s+"), r"\1 "),
+    (re.compile(r"\s*Limit\s+\d+\.?"), ""),
+    (re.compile(r"\s*[Ll]asts?\s+\d[\d.]*\s*(?:sec|min)\.?"), ""),
+    (re.compile(r"\b\d[\d.]*%"), ""),
+    (re.compile(r"\(\d+ms\s+cooldown\)"), ""),
+    (re.compile(r"\(Proc chance[^)]*\)"), ""),
+]
+_STRIP_CLEANUP = [
+    (re.compile(r"\bfor\s+of\b"), "of"),
+    (re.compile(r"\bfor\s+and\b"), "and"),
+    (re.compile(r"\bfor\s+(?=maximum|minimum|total)"), ""),
+    (re.compile(r"\bof\s+of\b"), "of"),
+    (re.compile(r",?\s*healing\s+for\b(?!\s+\w)"), ""),
+    (re.compile(r"\bfor\s*\."), "."),
+    (re.compile(r"\bover\s*\."), "."),
+    (re.compile(r"increased\s+of\b"), "increased from"),
+    (re.compile(r"\ba\s+a\b"), "a"),
+    (re.compile(r"(?:causing|dealing)\s*\."), "."),
+    (re.compile(r",\s*,"), ","),
+    (re.compile(r"\.\s*\."), "."),
+    (re.compile(r"  +"), " "),
+    (re.compile(r" +\."), "."),
+    (re.compile(r" +,"), ","),
+    (re.compile(r"\n{3,}"), "\n\n"),
+]
+_strip_cache: dict[str, str] = {}
+
+
 def strip_spell_additional_info(text: str) -> str:
     """Strip mechanische stats en getallen uit spell additional_info.
 
@@ -350,64 +404,37 @@ def strip_spell_additional_info(text: str) -> str:
     Behoudt de beschrijvende zinnen, verwijdert getallen die talent-afhankelijk zijn.
     De speler ziet de exacte waarden altijd in de originele EN tooltip.
     """
+    cached = _strip_cache.get(text)
+    if cached is not None:
+        return cached
+
+    original = text
+
     # Stap 1: behoud alleen regels vanaf de eerste [q] beschrijvingstag
-    # [q] = beschrijving (gouden tekst), [q0]-[q8] = item quality tags — die overslaan
     lines = text.split("\n")
     desc_lines = []
     in_desc = False
     for line in lines:
-        if not in_desc and re.match(r"\[q\]", line):
+        if not in_desc and _STRIP_Q_RE.match(line):
             in_desc = True
         if in_desc:
             desc_lines.append(line)
     if not desc_lines:
+        _strip_cache[original] = text
         return text
     text = "\n".join(desc_lines)
 
-    # Stap 2: verwijder formules en spell power referenties
-    # [Attack Power * 1.8 * (1 + Versatility) * 1.02]
-    text = re.sub(r"\[[\d.%\s()+*/×xX\-]*(?:Attack Power|Spell Power|AP|SP)[\d.%\s()+*/×xX\-,]*\]", "", text)
-    # [((225% of Attack Power) + ...) * 7]
-    text = re.sub(r"\[[^\]]*\*[^\]]*\]", "", text)
-    # (106.37% of Spell Power) / (21% of Attack Power)
-    text = re.sub(r"\([\d.]+%\s+of\s+(?:Spell|Attack)\s+Power\)", "", text)
+    # Stap 2-4: pre-compiled regexes
+    for pattern, repl in _STRIP_REGEXES:
+        text = pattern.sub(repl, text)
 
-    # Stap 3: verwijder talent referenties [ Talent Name : description ]
-    text = re.sub(r"\s*\[\s*[A-Z][^]]*?:[^]]+\]", "", text)
+    # Stap 5: opruimen
+    for pattern, repl in _STRIP_CLEANUP:
+        text = pattern.sub(repl, text)
+    text = text.strip()
 
-    # Stap 4: verwijder getallen en eenheden (behoud de woorden)
-    # "by 80% for 8 sec" → ""
-    text = re.sub(r"\s+by\s+\d[\d.]*%?\s+for\s+\d[\d.]*\s*sec\b\.?", "", text)
-    # "for 6 sec" / "for 1 min" → ""
-    text = re.sub(r"\s+for\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
-    # "over 10 sec" → ""
-    text = re.sub(r"\s+over\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
-    # "every 2 sec" → ""
-    text = re.sub(r"\s+every\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
-    # "by 30%" / "by 80" → ""
-    text = re.sub(r"\s+by\s+\d[\d.]*%?(?!\s*(?:yard|yd|enemy|enem|allies|ally))", "", text)
-    # "X% chance" → "a chance"
-    text = re.sub(r"\d[\d.]*%\s+chance", "a chance", text)
-    # "increased by X%" → "increased"
-    text = re.sub(r"(increased|reduced|decreased)\s+by\s+\d[\d.]*%?", r"\1", text)
-    # "absorbing X damage" → "absorbing damage"
-    text = re.sub(r"(absorbing|dealing|healing for|healing)\s+\d[\d.,]*", r"\1", text)
-    # "X Fire damage" / "X Physical damage" → "Fire damage" etc.
-    text = re.sub(r"\b\d[\d.,]*\s+((?:Fire|Frost|Shadow|Nature|Arcane|Holy|Physical)\s+damage)", r"\1", text)
-    # "X damage" (zonder type) → "damage"
-    text = re.sub(r"\b\d[\d.,]*\s+damage\b", "damage", text)
-    # "within X yards/yds" → "within range"
-    text = re.sub(r"within\s+\d[\d.]*\s*(?:yards?|yds?)", "within range", text)
-    # "X yards/yds" (standalone) → laten staan of strippen
-    text = re.sub(r"\b\d[\d.]*\s*(?:yards?|yds?)\b", "", text)
-    # "stacking up to X" → "stacking"
-    text = re.sub(r"stacking\s+(?:up\s+to\s+)?\d[\d.]*", "stacking", text)
-    # "up to X" → ""
-    text = re.sub(r"\s+up\s+to\s+\d[\d.]*", "", text)
-    # "Generates X Focus/Rage/etc." → "Generates Focus/Rage/etc."
-    text = re.sub(r"([Gg]enerate[sd]?)\s+\d[\d.]*\s+", r"\1 ", text)
-    # "Costs X Energy/Mana" → "Costs Energy/Mana"
-    text = re.sub(r"([Cc]osts?)\s+\d[\d.]*\s+", r"\1 ", text)
+    _strip_cache[original] = text
+    return text
     # "Awards X combo point" → "Awards combo points"
     text = re.sub(r"([Aa]wards?)\s+\d[\d.]*\s+", r"\1 ", text)
     # "Limit X" → ""
