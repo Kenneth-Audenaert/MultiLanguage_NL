@@ -783,6 +783,9 @@ def generate_lua(config: DataTypeConfig, done: dict[str, str],
                 # Voor spells: strip stats uit additional_info
                 if config.name == "spells" and field_name == "additional_info":
                     val = strip_spell_additional_info(val)
+                # Verwijder lege "Sell Price:" / "Verkoopprijs:" aan het einde
+                if field_name == "additional_info":
+                    val = re.sub(r"\n?(?:Sell Price|Verkoopprijs|Buy Price|Koopprijs):?\s*$", "", val)
                 parts.append(f'{field_name} = "{escape_lua_string(val)}"')
             else:
                 parts.append(f"{field_name} = nil")
