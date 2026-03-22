@@ -350,12 +350,13 @@ def strip_spell_additional_info(text: str) -> str:
     Behoudt de beschrijvende zinnen, verwijdert getallen die talent-afhankelijk zijn.
     De speler ziet de exacte waarden altijd in de originele EN tooltip.
     """
-    # Stap 1: behoud alleen regels vanaf de eerste [q] tag
+    # Stap 1: behoud alleen regels vanaf de eerste [q] beschrijvingstag
+    # [q] = beschrijving (gouden tekst), [q0]-[q8] = item quality tags — die overslaan
     lines = text.split("\n")
     desc_lines = []
     in_desc = False
     for line in lines:
-        if not in_desc and re.match(r"\[q\d?\]", line):
+        if not in_desc and re.match(r"\[q\]", line):
             in_desc = True
         if in_desc:
             desc_lines.append(line)

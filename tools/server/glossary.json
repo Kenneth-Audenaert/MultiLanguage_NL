@@ -198,6 +198,12 @@
     "notes": "NL combat/spell term"
   },
   {
+    "source_term": "Forms",
+    "keep_as": "Vormt",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
     "source_term": "Frost damage",
     "keep_as": "Vorstschade",
     "category": "general",
@@ -471,7 +477,7 @@
     "source_term": "Stuns",
     "keep_as": "Verdooft",
     "category": "general",
-    "notes": "NL combat/spell term"
+    "notes": "NL combat term"
   },
   {
     "source_term": "Versatility",

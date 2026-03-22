@@ -210,10 +210,13 @@ def restore_terms(text: str, restore: dict) -> str:
         pattern = re.compile(re.escape(token), re.IGNORECASE)
         text = pattern.sub(restore[token], text)
 
-    # Vang gelekte tokens op: model kan prefix/suffix toevoegen (bijv. "FA00Forms")
-    text = re.sub(r"PH[a-z]\d{2}", "", text, flags=re.IGNORECASE)
+    # Vang gelekte tokens op: model kan letters droppen/toevoegen
+    # Match PH + optioneel letter + 1-3 cijfers (vangt PHa00, PH00, PHab01 etc.)
+    text = re.sub(r"\bPH[a-z]?\d{2,3}\b", "", text, flags=re.IGNORECASE)
     # Opruimen na token-verwijdering
     text = re.sub(r"  +", " ", text)
+    text = re.sub(r" +\.", ".", text)
+    text = re.sub(r" +,", ",", text)
     text = text.strip()
     return text
 
