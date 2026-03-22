@@ -43,7 +43,7 @@ log = logging.getLogger("ML_NL-PreCache")
 
 # ─── Configuratie ────────────────────────────────────────────────────────────
 # Overschrijf via environment variables of pas de defaults hieronder aan.
-SERVER_URL = os.environ.get("MLNL_SERVER_URL", "http://localhost:8000")
+SERVER_URL = os.environ.get("MLNL_SERVER_URL", "http://192.168.1.11:8000")
 
 def _detect_addons_dir() -> str:
     """Auto-detect WoW AddOns directory, or fall back to script location."""
@@ -67,7 +67,7 @@ NL_DIR = ADDONS_DIR / "MultiLanguage_NL"
 SCRIPT_DIR = Path(__file__).parent
 
 # Optionele NAS share — indien gezet, schrijft precache ook hierheen
-_nas = os.environ.get("MLNL_NAS_SHARE", "")
+_nas = os.environ.get("MLNL_NAS_SHARE", r"\\192.168.1.11\questnl\shared")
 NAS_SHARE = Path(_nas) if _nas else None
 NAS_NL_DIR = NAS_SHARE  # Database/ en Audio/ staan direct in shared/
 
@@ -341,6 +341,105 @@ def escape_lua_string(s: str) -> str:
         .replace("\r", "")
         .replace("\t", "\\t")
     )
+
+
+def strip_spell_additional_info(text: str) -> str:
+    """Strip mechanische stats en getallen uit spell additional_info.
+
+    Wordt toegepast op de ENGELSE brontekst VOOR vertaling.
+    Behoudt de beschrijvende zinnen, verwijdert getallen die talent-afhankelijk zijn.
+    De speler ziet de exacte waarden altijd in de originele EN tooltip.
+    """
+    # Stap 1: behoud alleen regels vanaf de eerste [q] tag
+    lines = text.split("\n")
+    desc_lines = []
+    in_desc = False
+    for line in lines:
+        if not in_desc and re.match(r"\[q\d?\]", line):
+            in_desc = True
+        if in_desc:
+            desc_lines.append(line)
+    if not desc_lines:
+        return text
+    text = "\n".join(desc_lines)
+
+    # Stap 2: verwijder formules en spell power referenties
+    # [Attack Power * 1.8 * (1 + Versatility) * 1.02]
+    text = re.sub(r"\[[\d.%\s()+*/×xX\-]*(?:Attack Power|Spell Power|AP|SP)[\d.%\s()+*/×xX\-,]*\]", "", text)
+    # [((225% of Attack Power) + ...) * 7]
+    text = re.sub(r"\[[^\]]*\*[^\]]*\]", "", text)
+    # (106.37% of Spell Power) / (21% of Attack Power)
+    text = re.sub(r"\([\d.]+%\s+of\s+(?:Spell|Attack)\s+Power\)", "", text)
+
+    # Stap 3: verwijder talent referenties [ Talent Name : description ]
+    text = re.sub(r"\s*\[\s*[A-Z][^]]*?:[^]]+\]", "", text)
+
+    # Stap 4: verwijder getallen en eenheden (behoud de woorden)
+    # "by 80% for 8 sec" → ""
+    text = re.sub(r"\s+by\s+\d[\d.]*%?\s+for\s+\d[\d.]*\s*sec\b\.?", "", text)
+    # "for 6 sec" / "for 1 min" → ""
+    text = re.sub(r"\s+for\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
+    # "over 10 sec" → ""
+    text = re.sub(r"\s+over\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
+    # "every 2 sec" → ""
+    text = re.sub(r"\s+every\s+\d[\d.]*\s*(?:sec|min)\b\.?", "", text)
+    # "by 30%" / "by 80" → ""
+    text = re.sub(r"\s+by\s+\d[\d.]*%?(?!\s*(?:yard|yd|enemy|enem|allies|ally))", "", text)
+    # "X% chance" → "a chance"
+    text = re.sub(r"\d[\d.]*%\s+chance", "a chance", text)
+    # "increased by X%" → "increased"
+    text = re.sub(r"(increased|reduced|decreased)\s+by\s+\d[\d.]*%?", r"\1", text)
+    # "absorbing X damage" → "absorbing damage"
+    text = re.sub(r"(absorbing|dealing|healing for|healing)\s+\d[\d.,]*", r"\1", text)
+    # "X Fire damage" / "X Physical damage" → "Fire damage" etc.
+    text = re.sub(r"\b\d[\d.,]*\s+((?:Fire|Frost|Shadow|Nature|Arcane|Holy|Physical)\s+damage)", r"\1", text)
+    # "X damage" (zonder type) → "damage"
+    text = re.sub(r"\b\d[\d.,]*\s+damage\b", "damage", text)
+    # "within X yards/yds" → "within range"
+    text = re.sub(r"within\s+\d[\d.]*\s*(?:yards?|yds?)", "within range", text)
+    # "X yards/yds" (standalone) → laten staan of strippen
+    text = re.sub(r"\b\d[\d.]*\s*(?:yards?|yds?)\b", "", text)
+    # "stacking up to X" → "stacking"
+    text = re.sub(r"stacking\s+(?:up\s+to\s+)?\d[\d.]*", "stacking", text)
+    # "up to X" → ""
+    text = re.sub(r"\s+up\s+to\s+\d[\d.]*", "", text)
+    # "Generates X Focus/Rage/etc." → "Generates Focus/Rage/etc."
+    text = re.sub(r"([Gg]enerate[sd]?)\s+\d[\d.]*\s+", r"\1 ", text)
+    # "Costs X Energy/Mana" → "Costs Energy/Mana"
+    text = re.sub(r"([Cc]osts?)\s+\d[\d.]*\s+", r"\1 ", text)
+    # "Awards X combo point" → "Awards combo points"
+    text = re.sub(r"([Aa]wards?)\s+\d[\d.]*\s+", r"\1 ", text)
+    # "Limit X" → ""
+    text = re.sub(r"\s*Limit\s+\d+\.?", "", text)
+    # "Lasts X sec/min" → ""
+    text = re.sub(r"\s*[Ll]asts?\s+\d[\d.]*\s*(?:sec|min)\.?", "", text)
+    # Overgebleven losse percentages
+    text = re.sub(r"\b\d[\d.]*%", "", text)
+    # "(500ms cooldown)" etc.
+    text = re.sub(r"\(\d+ms\s+cooldown\)", "", text)
+    # "(Proc chance: X%)" etc.
+    text = re.sub(r"\(Proc chance[^)]*\)", "", text)
+
+    # Stap 5: opruimen
+    text = re.sub(r"\bfor\s+of\b", "of", text)    # "for 50% of" → "for of" → "of"
+    text = re.sub(r"\bfor\s+and\b", "and", text)  # "for 30% and" → "for and" → "and"
+    text = re.sub(r"\bfor\s+(?=maximum|minimum|total)", "", text)  # "for 100% of maximum" → "for maximum" → "maximum"
+    text = re.sub(r"\bof\s+of\b", "of", text)     # dubbel of
+    text = re.sub(r",?\s*healing\s+for\b(?!\s+\w)", "", text)  # trailing "healing for"
+    text = re.sub(r"\bfor\s*\.", ".", text)         # trailing "for."
+    text = re.sub(r"\bover\s*\.", ".", text)        # "over." → "."
+    text = re.sub(r"increased\s+of\b", "increased from", text)  # "increased of" → "increased from"
+    text = re.sub(r"\ba\s+a\b", "a", text)         # "a a chance" → "a chance"
+    text = re.sub(r"(?:causing|dealing)\s*\.", ".", text)  # "causing." zonder object
+    text = re.sub(r",\s*,", ",", text)             # dubbele komma's
+    text = re.sub(r"\.\s*\.", ".", text)            # dubbele punten
+    text = re.sub(r"  +", " ", text)               # dubbele spaties
+    text = re.sub(r" +\.", ".", text)               # spatie voor punt
+    text = re.sub(r" +,", ",", text)               # spatie voor komma
+    text = re.sub(r"\n{3,}", "\n\n", text)         # teveel lege regels
+    text = text.strip()
+
+    return text
 
 
 # Alle patronen die beschermd moeten worden bij vertaling
@@ -629,10 +728,15 @@ def build_tasks(
                 if compound_key in done:
                     continue
 
+            # Voor spells: strip stats uit additional_info vóór vertaling
+            text = raw
+            if config.name == "spells" and field_name == "additional_info":
+                text = strip_spell_additional_info(text)
+
             tasks.append({
                 "entry_id": entry_id,
                 "field": field_name,
-                "text": raw,
+                "text": text,
                 "compound_key": compound_key,
             })
     return tasks
@@ -675,6 +779,9 @@ def generate_lua(config: DataTypeConfig, done: dict[str, str],
         for field_name in config.all_fields:
             val = fields.get(field_name)
             if val:
+                # Voor spells: strip stats uit additional_info
+                if config.name == "spells" and field_name == "additional_info":
+                    val = strip_spell_additional_info(val)
                 parts.append(f'{field_name} = "{escape_lua_string(val)}"')
             else:
                 parts.append(f"{field_name} = nil")
