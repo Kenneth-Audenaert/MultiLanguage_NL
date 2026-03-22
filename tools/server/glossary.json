@@ -42,10 +42,28 @@
     "notes": ""
   },
   {
+    "source_term": "Absorbing",
+    "keep_as": "Absorbeert",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Absorbs",
+    "keep_as": "Absorbeert",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Agility",
     "keep_as": "Agility",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Arcane damage",
+    "keep_as": "Arcaneschade",
+    "category": "general",
+    "notes": "NL combat/spell term"
   },
   {
     "source_term": "Armor",
@@ -54,10 +72,64 @@
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Astral Power",
+    "keep_as": "Astrale Kracht",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Avoidance",
     "keep_as": "Avoidance",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Awards",
+    "keep_as": "Geeft",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
+    "source_term": "Bleed",
+    "keep_as": "Bloeding",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Bleeding",
+    "keep_as": "Bloedend",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Bleeds",
+    "keep_as": "Bloedt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Block enemy",
+    "keep_as": "blokkeren van vijandelijke",
+    "category": "general",
+    "notes": "NL context-specific combat term"
+  },
+  {
+    "source_term": "Chi",
+    "keep_as": "Chi",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Combo point",
+    "keep_as": "Combopunt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Combo points",
+    "keep_as": "Combopunten",
+    "category": "general",
+    "notes": "NL combat/spell term"
   },
   {
     "source_term": "Critical Strike",
@@ -66,10 +138,76 @@
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Dispel",
+    "keep_as": "Verdrijven",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Dispelled",
+    "keep_as": "Verdreven",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Dodge enemy",
+    "keep_as": "ontwijken van vijandelijke",
+    "category": "general",
+    "notes": "NL context-specific combat term"
+  },
+  {
     "source_term": "Durability",
     "keep_as": "Durability",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Energy",
+    "keep_as": "Energie",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Essence",
+    "keep_as": "Essentie",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Fear",
+    "keep_as": "Vrees",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Feared",
+    "keep_as": "Bevreesd",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Fire damage",
+    "keep_as": "Vuurschade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Focus",
+    "keep_as": "Focus",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Frost damage",
+    "keep_as": "Vorstschade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Fury",
+    "keep_as": "Furie",
+    "category": "general",
+    "notes": "NL combat/spell term"
   },
   {
     "source_term": "Haste",
@@ -78,10 +216,70 @@
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Heal",
+    "keep_as": "Heelt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Heals",
+    "keep_as": "Heelt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Holy Power",
+    "keep_as": "Heilige Kracht",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Holy damage",
+    "keep_as": "Heilige schade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Incapacitated",
+    "keep_as": "Uitgeschakeld",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Insanity",
+    "keep_as": "Waanzin",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Intellect",
     "keep_as": "Intellect",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Interrupt",
+    "keep_as": "Onderbreking",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Interrupts",
+    "keep_as": "Onderbreekt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Knocks back",
+    "keep_as": "Slaat terug",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
+    "source_term": "Knocks nearby enemies back",
+    "keep_as": "Slaat nabije vijanden terug",
+    "category": "general",
+    "notes": "NL combat term"
   },
   {
     "source_term": "Leech",
@@ -90,10 +288,142 @@
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Maelstrom",
+    "keep_as": "Maalstroom",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Mana",
+    "keep_as": "Mana",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Mastery",
     "keep_as": "Mastery",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "Nature damage",
+    "keep_as": "Natuurschade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Parry",
+    "keep_as": "Pareren",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Physical damage",
+    "keep_as": "Fysieke schade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Rage",
+    "keep_as": "Woede",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Root",
+    "keep_as": "Vastworteling",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Rooted",
+    "keep_as": "Vastgeworteld",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Roots",
+    "keep_as": "Wortelt vast",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Rune",
+    "keep_as": "Rune",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Runic Power",
+    "keep_as": "Runische Kracht",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Shadow damage",
+    "keep_as": "Schaduwschade",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Shield",
+    "keep_as": "Schild",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Shields",
+    "keep_as": "Beschermt",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
+    "source_term": "Shields an ally",
+    "keep_as": "Beschermt een bondgenoot",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
+    "source_term": "Silence",
+    "keep_as": "Stilte",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Silenced",
+    "keep_as": "Tot zwijgen gebracht",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Silences",
+    "keep_as": "Brengt tot zwijgen",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Slow",
+    "keep_as": "Vertraging",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Slows",
+    "keep_as": "Vertraagt",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Soul Shard",
+    "keep_as": "Zielscherf",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Soul Shards",
+    "keep_as": "Zielscherven",
+    "category": "general",
+    "notes": "NL combat/spell term"
   },
   {
     "source_term": "Speed",
@@ -108,16 +438,112 @@
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Stealth",
+    "keep_as": "Sluipmodus",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Stealthed",
+    "keep_as": "Gesluierd",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Strength",
     "keep_as": "Strength",
     "category": "general",
     "notes": "WoW game term - do not translate"
   },
   {
+    "source_term": "Stun",
+    "keep_as": "Verdoving",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Stunned",
+    "keep_as": "Verdoofd",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "Stuns",
+    "keep_as": "Verdooft",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
     "source_term": "Versatility",
     "keep_as": "Versatility",
     "category": "general",
     "notes": "WoW game term - do not translate"
+  },
+  {
+    "source_term": "chance to block",
+    "keep_as": "kans om te blokkeren",
+    "category": "general",
+    "notes": "NL context-specific combat term"
+  },
+  {
+    "source_term": "chance to dodge",
+    "keep_as": "kans om te ontwijken",
+    "category": "general",
+    "notes": "NL context-specific combat term"
+  },
+  {
+    "source_term": "channel",
+    "keep_as": "kanaliseren",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "channeling",
+    "keep_as": "kanaliserend",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "channels",
+    "keep_as": "kanaliseert",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "cooldown",
+    "keep_as": "cooldown",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "crowd control",
+    "keep_as": "massabeheersing",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "knocked back",
+    "keep_as": "teruggeslagen",
+    "category": "general",
+    "notes": "NL combat term"
+  },
+  {
+    "source_term": "melee",
+    "keep_as": "melee",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "ranged",
+    "keep_as": "op afstand",
+    "category": "general",
+    "notes": "NL combat/spell term"
+  },
+  {
+    "source_term": "threat",
+    "keep_as": "dreiging",
+    "category": "general",
+    "notes": "NL combat/spell term"
   },
   {
     "source_term": "Elune",
@@ -254,12 +680,6 @@
   {
     "source_term": "Sell Price:",
     "keep_as": "Sell Price:",
-    "category": "item",
-    "notes": "WoW game term - do not translate"
-  },
-  {
-    "source_term": "Shield",
-    "keep_as": "Shield",
     "category": "item",
     "notes": "WoW game term - do not translate"
   },

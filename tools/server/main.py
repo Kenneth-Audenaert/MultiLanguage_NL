@@ -163,32 +163,58 @@ def load_mt_model():
 
 # ─── Vertaallogica ────────────────────────────────────────────────────────────
 PLACEHOLDER_RE = re.compile(
-    r'(\|c[0-9a-fA-F]{8}|\|r|\|H[^|]+\|h|\|h|\[[^\]]+\]|\{[^}]+\}|PROT\w+?PROT)'
+    r'(\|c[0-9a-fA-F]{8}|\|r|\|H[^|]+\|h|\|h|\{[^}]+\}|PROT\w+?PROT)'
+    # NB: [q] en [q0]-[q8] tags worden NIET beschermd — die moeten in de output blijven.
+    # Eerder matchte \[[^\]]+\] alle [...] content inclusief [q] tags.
 )
 
 def protect_terms(text: str, glossary: list[dict]) -> tuple[str, dict]:
+    """Bescherm glossary termen en WoW codes tegen vertaling.
+
+    Vervangt beschermde termen met korte placeholder woorden die het model
+    als onbekende eigennamen doorgeeft zonder te vertalen.
+    Gebruikt formaat: PHxNN (bijv. PHa00, PHb01) — ziet eruit als een acroniem.
+    """
     restore = {}
+    counter = [0]
+
+    def make_token(original: str) -> str:
+        idx = counter[0]
+        counter[0] += 1
+        # PHxNN: korte "eigennaam"-achtige token, afwisselend prefix voor variatie
+        prefix = chr(ord('a') + (idx % 26))
+        token = f"PH{prefix}{idx:02d}"
+        restore[token] = original
+        return token
 
     def replace_wow(m):
-        token = f"WOWCODE{len(restore)}"
-        restore[token] = m.group(0)
-        return token
+        return make_token(m.group(0))
     text = PLACEHOLDER_RE.sub(replace_wow, text)
 
     for entry in sorted(glossary, key=lambda g: -len(g["source"])):
         src  = entry["source"]
         keep = entry["keep"]
-        pattern = re.compile(re.escape(src), re.IGNORECASE)
+        # Gebruik word boundaries zodat "Heal" niet matcht in "health"
+        pattern = re.compile(r"\b" + re.escape(src) + r"\b", re.IGNORECASE)
         if pattern.search(text):
-            token = f"GLOSS{len(restore)}"
-            restore[token] = keep
+            token = make_token(keep)
             text = pattern.sub(token, text)
 
     return text, restore
 
 def restore_terms(text: str, restore: dict) -> str:
-    for token, original in restore.items():
-        text = text.replace(token, original)
+    # Sorteer tokens op lengte (langste eerst) om partial matches te voorkomen
+    for token in sorted(restore.keys(), key=len, reverse=True):
+        # Case-insensitive restore: model kan hoofdletters wijzigen
+        # Ook matchen als model het token aan een woord plakt (geen spatie)
+        pattern = re.compile(re.escape(token), re.IGNORECASE)
+        text = pattern.sub(restore[token], text)
+
+    # Vang gelekte tokens op: model kan prefix/suffix toevoegen (bijv. "FA00Forms")
+    text = re.sub(r"PH[a-z]\d{2}", "", text, flags=re.IGNORECASE)
+    # Opruimen na token-verwijdering
+    text = re.sub(r"  +", " ", text)
+    text = text.strip()
     return text
 
 def translate_locally(text: str, glossary: list[dict]) -> str:
