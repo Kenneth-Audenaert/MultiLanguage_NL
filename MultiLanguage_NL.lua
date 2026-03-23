@@ -74,6 +74,39 @@ local function registerTranslations()
     }
 end
 
+-- ─── Injecteer NL vertalingen in alle bestaande taaltabellen ─────────────────
+-- De dropdown haalt tekst op via optionsTranslations["languages"][value] en
+-- optionsTranslations["interactionModes"][value], dus elke taal moet "nl" en
+-- "always" kennen, anders wordt de tekst nil (leeg in de dropdown).
+local function injectIntoAllTranslations()
+    local translations = _G["MultiLanguageTranslations"]
+    if not translations then return end
+
+    local nlLanguageNames = {
+        en = "Dutch", es = "Neerlandés", de = "Niederländisch",
+        fr = "Néerlandais", pt = "Holandês", ru = "Нидерландский",
+        ko = "네덜란드어", cn = "荷兰语", mx = "Neerlandés", tw = "荷蘭語",
+        nl = "Nederlands",
+    }
+    local alwaysNames = {
+        en = "Always show", es = "Mostrar siempre", de = "Immer anzeigen",
+        fr = "Toujours afficher", pt = "Sempre mostrar", ru = "Всегда показывать",
+        ko = "항상 표시", cn = "始终显示", mx = "Mostrar siempre", tw = "始終顯示",
+        nl = "Altijd tonen",
+    }
+
+    for lang, data in pairs(translations) do
+        if data.options then
+            if data.options.languages then
+                data.options.languages["nl"] = data.options.languages["nl"] or nlLanguageNames[lang] or "Dutch"
+            end
+            if data.options.interactionModes then
+                data.options.interactionModes["always"] = data.options.interactionModes["always"] or alwaysNames[lang] or "Always show"
+            end
+        end
+    end
+end
+
 -- ─── TTS knop op het quest vertaalframe ─────────────────────────────────────
 local ttsButton = nil
 local lastTTSSoundHandle = nil
@@ -225,6 +258,7 @@ end
 local function addonLoaded(self, event, addonLoadedName)
     if addonLoadedName == addonName then
         registerTranslations()
+        injectIntoAllTranslations()
         addLanguageOption()
         addAlwaysInteraction()
         HookQuestTranslationFrame()
