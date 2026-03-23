@@ -4078,54 +4078,183 @@ MultiLanguageNpcData['nl'][242411] = {name = "Party Raket", subname = nil}
 MultiLanguageNpcData['nl'][242413] = {name = "Grootmeester Rommath", subname = nil}
 MultiLanguageNpcData['nl'][242414] = {name = "Halduron Brightwing", subname = "Ranger-generaal van Silvermoon"}
 MultiLanguageNpcData['nl'][242415] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][242417] = {name = "Vluchtende burger", subname = nil}
+MultiLanguageNpcData['nl'][242418] = {name = "Gnasher", subname = "Critter"}
+MultiLanguageNpcData['nl'][242419] = {name = "Zwarte kat", subname = "Critter"}
+MultiLanguageNpcData['nl'][242420] = {name = "Voidcoil", subname = nil}
+MultiLanguageNpcData['nl'][242421] = {name = "Voidborn Infester", subname = nil}
+MultiLanguageNpcData['nl'][242422] = {name = "Trench Shredclaw", subname = nil}
 MultiLanguageNpcData['nl'][242423] = {name = "Enkelvoud FX", subname = nil}
+MultiLanguageNpcData['nl'][242425] = {name = "Vorewing", subname = nil}
 MultiLanguageNpcData['nl'][242426] = {name = "Teleporter", subname = nil}
 MultiLanguageNpcData['nl'][242428] = {name = "Teleporter", subname = nil}
 MultiLanguageNpcData['nl'][242429] = {name = "Teleporter", subname = nil}
+MultiLanguageNpcData['nl'][242430] = {name = "Kill Credit: Enter Delve [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][242432] = {name = "Kill Credit: delve voltooid, spreken met npc buiten [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][242433] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][242434] = {name = "Keening Voidscyte", subname = nil}
+MultiLanguageNpcData['nl'][242435] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][242437] = {name = "Bleakwing Harrower", subname = nil}
+MultiLanguageNpcData['nl'][242438] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][242440] = {name = "Dragonhawk Misswooper", subname = nil}
+MultiLanguageNpcData['nl'][242441] = {name = "Geschorst zwijn", subname = nil}
+MultiLanguageNpcData['nl'][242443] = {name = "Malspawn Harbinger", subname = nil}
+MultiLanguageNpcData['nl'][242444] = {name = "Arcane Projector", subname = nil}
+MultiLanguageNpcData['nl'][242445] = {name = "Gered burger", subname = nil}
+MultiLanguageNpcData['nl'][242446] = {name = "Meloraen", subname = nil}
+MultiLanguageNpcData['nl'][242451] = {name = "Niblet", subname = nil}
+MultiLanguageNpcData['nl'][242453] = {name = "Zapgut aal", subname = nil}
+MultiLanguageNpcData['nl'][242454] = {name = "Voidborn Infester", subname = nil}
 MultiLanguageNpcData['nl'][242456] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][242457] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][242459] = {name = "Vervloekt Elementaal", subname = nil}
+MultiLanguageNpcData['nl'][242460] = {name = "Steggy", subname = nil}
+MultiLanguageNpcData['nl'][242461] = {name = "Steggy", subname = nil}
+MultiLanguageNpcData['nl'][242462] = {name = "Saku", subname = nil}
+MultiLanguageNpcData['nl'][242463] = {name = "Orchon", subname = nil}
+MultiLanguageNpcData['nl'][242464] = {name = "Elder Ren'zen", subname = "Witherbark Elder"}
+MultiLanguageNpcData['nl'][242465] = {name = "Controller Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242467] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][242469] = {name = "Teruk", subname = nil}
+MultiLanguageNpcData['nl'][242471] = {name = "Bang kind", subname = nil}
+MultiLanguageNpcData['nl'][242472] = {name = "Voidborn Infester", subname = nil}
+MultiLanguageNpcData['nl'][242474] = {name = "Onh'shora", subname = nil}
+MultiLanguageNpcData['nl'][242475] = {name = "Verdachte Spore", subname = nil}
 MultiLanguageNpcData['nl'][242478] = {name = "Bronzen Drake", subname = nil}
+MultiLanguageNpcData['nl'][242481] = {name = "Bitter Beest", subname = nil}
 MultiLanguageNpcData['nl'][242482] = {name = "Gefraaid tijdelijke draad", subname = nil}
 MultiLanguageNpcData['nl'][242483] = {name = "Controller Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242484] = {name = "Lightbloom Lasher", subname = nil}
 MultiLanguageNpcData['nl'][242485] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][242487] = {name = "Eversong Defender", subname = nil}
 MultiLanguageNpcData['nl'][242488] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][242489] = {name = "Template Dungeon Lieuntentant Creature [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][242490] = {name = "Template Dungeon Standaard Creatuur [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][242491] = {name = "Template Dungeon Swarmer Creatuur [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][242492] = {name = "Holiday Master", subname = nil}
+MultiLanguageNpcData['nl'][242494] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][242495] = {name = "Almu", subname = nil}
+MultiLanguageNpcData['nl'][242500] = {name = "Slain Tranquillien Verrader", subname = nil}
+MultiLanguageNpcData['nl'][242502] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][242504] = {name = "Monsterachtige Voidscyte", subname = nil}
+MultiLanguageNpcData['nl'][242506] = {name = "Grote V-indicator Sorvo's", subname = nil}
+MultiLanguageNpcData['nl'][242507] = {name = "Kapitein Fareeya.", subname = "De Crescent Glaive"}
+MultiLanguageNpcData['nl'][242508] = {name = "Beschermer van het Licht", subname = nil}
+MultiLanguageNpcData['nl'][242509] = {name = "T'paartos", subname = nil}
+MultiLanguageNpcData['nl'][242511] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][242512] = {name = "Verplaatst Lynx", subname = nil}
+MultiLanguageNpcData['nl'][242513] = {name = "Verplaatst Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][242514] = {name = "Voidclot", subname = nil}
+MultiLanguageNpcData['nl'][242515] = {name = "Kill Animals Q02 Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][242517] = {name = "Shadowed Fateshaper", subname = nil}
+MultiLanguageNpcData['nl'][242518] = {name = "Karion", subname = nil}
+MultiLanguageNpcData['nl'][242520] = {name = "Encroaching Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][242521] = {name = "Encroaching Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][242522] = {name = "Hammer of Perdition", subname = nil}
 MultiLanguageNpcData['nl'][242523] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][242524] = {name = "Karion", subname = nil}
 MultiLanguageNpcData['nl'][242525] = {name = "Losgekoppelde Rampager", subname = nil}
 MultiLanguageNpcData['nl'][242526] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][242527] = {name = "Geslachte buitenwerelder", subname = nil}
 MultiLanguageNpcData['nl'][242528] = {name = "Kill Credit - Reshii Ribbon", subname = nil}
+MultiLanguageNpcData['nl'][242529] = {name = "Farstrider Hawktamer", subname = nil}
+MultiLanguageNpcData['nl'][242530] = {name = "Voidcythe", subname = nil}
+MultiLanguageNpcData['nl'][242531] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][242532] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][242533] = {name = "Scathing Voidcaller", subname = nil}
+MultiLanguageNpcData['nl'][242534] = {name = "Blocciniux", subname = "Lady Darkglen's Minion"}
 MultiLanguageNpcData['nl'][242535] = {name = "Ongebonden Swarmer", subname = nil}
+MultiLanguageNpcData['nl'][242536] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][242537] = {name = "Shadowguard Adept", subname = nil}
 MultiLanguageNpcData['nl'][242538] = {name = "Ve'nari", subname = "Oprichter van de Trust"}
+MultiLanguageNpcData['nl'][242539] = {name = "Gnasher", subname = nil}
+MultiLanguageNpcData['nl'][242541] = {name = "Ren'dorei Scholar", subname = nil}
+MultiLanguageNpcData['nl'][242542] = {name = "Leeg vallen", subname = nil}
 MultiLanguageNpcData['nl'][242544] = {name = "Voidfire Deathcycle", subname = nil}
 MultiLanguageNpcData['nl'][242545] = {name = "Voidfire Deathcycle Frame", subname = nil}
 MultiLanguageNpcData['nl'][242548] = {name = "Lurking Phaseburrower", subname = nil}
 MultiLanguageNpcData['nl'][242549] = {name = "Etherische energieomvormer", subname = nil}
 MultiLanguageNpcData['nl'][242550] = {name = "Lorewalker starten", subname = nil}
+MultiLanguageNpcData['nl'][242552] = {name = "Zeehond", subname = nil}
+MultiLanguageNpcData['nl'][242553] = {name = "Voorzichtige Nederlandwasp", subname = nil}
 MultiLanguageNpcData['nl'][242566] = {name = "Lorewalker starten", subname = nil}
 MultiLanguageNpcData['nl'][242567] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][242568] = {name = "Directrice Narsilla", subname = nil}
+MultiLanguageNpcData['nl'][242569] = {name = "Ranger Lethvalin", subname = nil}
 MultiLanguageNpcData['nl'][242570] = {name = "Haymar de Devout", subname = nil}
 MultiLanguageNpcData['nl'][242571] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][242581] = {name = "Archmage Khadgar", subname = nil}
+MultiLanguageNpcData['nl'][242582] = {name = "Eitrigg", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][242583] = {name = "Danath Trollbane", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][242584] = {name = "Kurdran Wildhammer", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][242585] = {name = "Archmage Khadgar", subname = nil}
 MultiLanguageNpcData['nl'][242586] = {name = "Arcane Manifestatie", subname = nil}
 MultiLanguageNpcData['nl'][242587] = {name = "Levende massa", subname = nil}
 MultiLanguageNpcData['nl'][242589] = {name = "Void Manifestatie", subname = nil}
 MultiLanguageNpcData['nl'][242590] = {name = "Lampaansteker Leif", subname = nil}
 MultiLanguageNpcData['nl'][242591] = {name = "Lampaansteker Kaerter", subname = nil}
+MultiLanguageNpcData['nl'][242592] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][242593] = {name = "Monte Gazlowe", subname = "Bilgewater Trade-Prince"}
+MultiLanguageNpcData['nl'][242594] = {name = "Nahuut", subname = nil}
+MultiLanguageNpcData['nl'][242595] = {name = "Obscurion subjugator", subname = nil}
+MultiLanguageNpcData['nl'][242596] = {name = "Imhayo", subname = "Speelgoedmaker"}
+MultiLanguageNpcData['nl'][242597] = {name = "Obscurion subjugator", subname = nil}
 MultiLanguageNpcData['nl'][242602] = {name = "Voidfire Deathcycle", subname = nil}
+MultiLanguageNpcData['nl'][242603] = {name = "Encroaching Forest Lynx", subname = nil}
+MultiLanguageNpcData['nl'][242604] = {name = "Encroaching Forest Lynx", subname = nil}
+MultiLanguageNpcData['nl'][242606] = {name = "Valunei", subname = "Tyr's Guard"}
+MultiLanguageNpcData['nl'][242607] = {name = "Nolaki", subname = "Tyr's Guard"}
+MultiLanguageNpcData['nl'][242608] = {name = "Taelia Fordragon", subname = nil}
+MultiLanguageNpcData['nl'][242609] = {name = "Faerin Lothar", subname = "Lampenlichter"}
+MultiLanguageNpcData['nl'][242610] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][242611] = {name = "Mehlar Dawnblade", subname = nil}
+MultiLanguageNpcData['nl'][242612] = {name = "Voidbound Obliterator", subname = nil}
+MultiLanguageNpcData['nl'][242613] = {name = "Tahu Sagewind", subname = nil}
+MultiLanguageNpcData['nl'][242614] = {name = "Kapitein Fareeya.", subname = nil}
+MultiLanguageNpcData['nl'][242615] = {name = "Mariella Ward", subname = nil}
 MultiLanguageNpcData['nl'][242616] = {name = "Brew Thief", subname = nil}
+MultiLanguageNpcData['nl'][242617] = {name = "Voidfused Stalker", subname = nil}
+MultiLanguageNpcData['nl'][242618] = {name = "Voidrunner", subname = nil}
+MultiLanguageNpcData['nl'][242619] = {name = "Echo-missief van Xal'atath", subname = nil}
+MultiLanguageNpcData['nl'][242620] = {name = "Echo-missief van Salhadaar", subname = nil}
+MultiLanguageNpcData['nl'][242621] = {name = "Schaduwwacht Electrowraith", subname = nil}
+MultiLanguageNpcData['nl'][242622] = {name = "Leonid Barthalomew the Revered", subname = "De Argent kruistocht"}
 MultiLanguageNpcData['nl'][242623] = {name = "Krosh'ka", subname = "Beroepsuitrusting Specialist"}
 MultiLanguageNpcData['nl'][242626] = {name = "Lydia Tidepeak", subname = "Beroepsuitrusting Specialist"}
+MultiLanguageNpcData['nl'][242628] = {name = "Riftwalker Malloril", subname = "Vluchtmeester"}
 MultiLanguageNpcData['nl'][242630] = {name = "Crazed Nerubian Lord", subname = nil}
 MultiLanguageNpcData['nl'][242631] = {name = "Overbelaste Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][242632] = {name = "Ingrediënt A Stalker", subname = nil}
+MultiLanguageNpcData['nl'][242633] = {name = "Ingrediënt B Stalker", subname = nil}
+MultiLanguageNpcData['nl'][242634] = {name = "Ingrediënt C Stalker", subname = nil}
+MultiLanguageNpcData['nl'][242635] = {name = "Ingrediënt D Stalker", subname = nil}
+MultiLanguageNpcData['nl'][242636] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][242638] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][242639] = {name = "Voidfire Deathcycle Frame", subname = nil}
+MultiLanguageNpcData['nl'][242640] = {name = "Doel naar locatie gooien", subname = nil}
+MultiLanguageNpcData['nl'][242642] = {name = "Afleiding", subname = nil}
+MultiLanguageNpcData['nl'][242643] = {name = "Jij", subname = nil}
+MultiLanguageNpcData['nl'][242644] = {name = "Jaeth", subname = nil}
+MultiLanguageNpcData['nl'][242645] = {name = "Jaeth", subname = nil}
+MultiLanguageNpcData['nl'][242646] = {name = "Jaeth", subname = nil}
 MultiLanguageNpcData['nl'][242647] = {name = "Bekend kampioen", subname = "Alternatief Universum"}
 MultiLanguageNpcData['nl'][242648] = {name = "Nascent Schaduwwacht", subname = nil}
 MultiLanguageNpcData['nl'][242649] = {name = "Nascent Acolyte", subname = nil}
+MultiLanguageNpcData['nl'][242650] = {name = "Ney'leia", subname = nil}
 MultiLanguageNpcData['nl'][242651] = {name = "Brundia Braidhammer", subname = "Speelgoed en Pet Verkoper"}
+MultiLanguageNpcData['nl'][242653] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][242654] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][242656] = {name = "Abyssale beller", subname = nil}
+MultiLanguageNpcData['nl'][242658] = {name = "Callen Everfall", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][242659] = {name = "Alain Emberwhile", subname = "Smid"}
+MultiLanguageNpcData['nl'][242661] = {name = "Orelle Dawndrift", subname = "Algemene goederen"}
+MultiLanguageNpcData['nl'][242663] = {name = "Meester Meledor", subname = nil}
+MultiLanguageNpcData['nl'][242664] = {name = "Ranger Vardis", subname = nil}
+MultiLanguageNpcData['nl'][242665] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][242666] = {name = "Siphoid Overlord", subname = nil}
+MultiLanguageNpcData['nl'][242670] = {name = "Jaeth", subname = nil}
+MultiLanguageNpcData['nl'][242671] = {name = "Jaeth", subname = nil}
+MultiLanguageNpcData['nl'][242672] = {name = "Blistercreep", subname = nil}
 MultiLanguageNpcData['nl'][242674] = {name = "Angious Hawkstrider Hatchling", subname = nil}
 MultiLanguageNpcData['nl'][242675] = {name = "Sneaky Lynx Cub", subname = nil}
 MultiLanguageNpcData['nl'][242676] = {name = "Leial Breiterton", subname = "Speelgoed en Pet Verkoper"}
@@ -4133,25 +4262,66 @@ MultiLanguageNpcData['nl'][242677] = {name = "Ju'tan", subname = "Leial's assist
 MultiLanguageNpcData['nl'][242678] = {name = "Tazkan", subname = nil}
 MultiLanguageNpcData['nl'][242679] = {name = "Vriendelijk Saurolisk Hatchling", subname = nil}
 MultiLanguageNpcData['nl'][242680] = {name = "Hulpzame Rat Pup", subname = nil}
+MultiLanguageNpcData['nl'][242682] = {name = "Trenchbed Scavenger", subname = nil}
+MultiLanguageNpcData['nl'][242683] = {name = "Decaying Sporeguard", subname = nil}
+MultiLanguageNpcData['nl'][242684] = {name = "Ney'leia", subname = nil}
+MultiLanguageNpcData['nl'][242685] = {name = "Carrion Consumptor", subname = nil}
 MultiLanguageNpcData['nl'][242686] = {name = "Baard Bronzebrann", subname = nil}
+MultiLanguageNpcData['nl'][242688] = {name = "Luma", subname = "Dief bij Bark."}
+MultiLanguageNpcData['nl'][242689] = {name = "Kamari", subname = "Rootwarden"}
+MultiLanguageNpcData['nl'][242691] = {name = "Kuri", subname = nil}
+MultiLanguageNpcData['nl'][242693] = {name = "Monte Gazlowe", subname = "Bilgewater Trade-Prince"}
+MultiLanguageNpcData['nl'][242694] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][242695] = {name = "Consumptor Helminth", subname = nil}
+MultiLanguageNpcData['nl'][242696] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][242697] = {name = "Basisvoertuig [PH]", subname = nil}
+MultiLanguageNpcData['nl'][242698] = {name = "Laat je teken achter.", subname = nil}
+MultiLanguageNpcData['nl'][242700] = {name = "Kelia Everglow", subname = "Locus Onderzoeker"}
+MultiLanguageNpcData['nl'][242701] = {name = "Salm van de Vlam", subname = nil}
+MultiLanguageNpcData['nl'][242702] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][242703] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][242704] = {name = "Dundun", subname = "Loa van Overvloed"}
 MultiLanguageNpcData['nl'][242705] = {name = "Schaduwwacht Sentinel Za'drin", subname = nil}
 MultiLanguageNpcData['nl'][242707] = {name = "Schaduwwacht Sentinel Duwal", subname = nil}
+MultiLanguageNpcData['nl'][242709] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][242711] = {name = "Altaar van Overvloed", subname = nil}
 MultiLanguageNpcData['nl'][242712] = {name = "Afschuining van angst", subname = nil}
+MultiLanguageNpcData['nl'][242713] = {name = "Nestmarty", subname = nil}
 MultiLanguageNpcData['nl'][242714] = {name = "Fase Crawler", subname = "Critter"}
+MultiLanguageNpcData['nl'][242715] = {name = "Altaar van Overvloed", subname = nil}
 MultiLanguageNpcData['nl'][242716] = {name = "Swooper Pup", subname = "Critter"}
 MultiLanguageNpcData['nl'][242717] = {name = "Kosmische worm", subname = "Critter"}
 MultiLanguageNpcData['nl'][242718] = {name = "Jonge Void Hunter", subname = "Critter"}
 MultiLanguageNpcData['nl'][242719] = {name = "Jonge Void Chaser", subname = "Critter"}
 MultiLanguageNpcData['nl'][242720] = {name = "Devorer Miteling", subname = "Critter"}
 MultiLanguageNpcData['nl'][242721] = {name = "Sandbank Hopling", subname = "Critter"}
+MultiLanguageNpcData['nl'][242723] = {name = "Apprentice Diell", subname = "Meester Leverancier"}
+MultiLanguageNpcData['nl'][242724] = {name = "Ranger Allorn", subname = "Farstrider Leverancier"}
+MultiLanguageNpcData['nl'][242725] = {name = "Armorer Goldcrest", subname = "Bloed Ridder Leverancier"}
+MultiLanguageNpcData['nl'][242726] = {name = "Neriv", subname = "Rijenverkoper"}
+MultiLanguageNpcData['nl'][242727] = {name = "Void Screwer", subname = "Oculair apparaat van Umbric"}
 MultiLanguageNpcData['nl'][242728] = {name = "Sureki Swarmer", subname = nil}
+MultiLanguageNpcData['nl'][242729] = {name = "Void Screwer", subname = "Oculair apparaat van Umbric"}
 MultiLanguageNpcData['nl'][242730] = {name = "Shadowguard Assassin", subname = nil}
+MultiLanguageNpcData['nl'][242731] = {name = "Volg Dog Q04 Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][242732] = {name = "Kartel Zo Associate", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][242733] = {name = "Betoverde hamer", subname = nil}
+MultiLanguageNpcData['nl'][242734] = {name = "Lurk", subname = nil}
 MultiLanguageNpcData['nl'][242736] = {name = "Sureki Burrower", subname = nil}
 MultiLanguageNpcData['nl'][242737] = {name = "Reliek van de macht", subname = nil}
+MultiLanguageNpcData['nl'][242738] = {name = "Vifuss", subname = nil}
+MultiLanguageNpcData['nl'][242740] = {name = "Prophet Velen", subname = nil}
+MultiLanguageNpcData['nl'][242742] = {name = "Verplaatste Skyshards", subname = nil}
 MultiLanguageNpcData['nl'][242743] = {name = "Faceless masker van wraak", subname = nil}
 MultiLanguageNpcData['nl'][242744] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][242745] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242746] = {name = "Kuri", subname = nil}
+MultiLanguageNpcData['nl'][242748] = {name = "12,0 Intro - Quest \"Hour of Need\" - Credit Accept (MDE)", subname = nil}
+MultiLanguageNpcData['nl'][242749] = {name = "Dreadmaw Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][242750] = {name = "Marrowmouth Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][242752] = {name = "Decaying Cleftdweller", subname = nil}
 MultiLanguageNpcData['nl'][242754] = {name = "Arathi Gevangene", subname = nil}
+MultiLanguageNpcData['nl'][242755] = {name = "Enspored Potatoad", subname = nil}
 MultiLanguageNpcData['nl'][242758] = {name = "Dungeoneer's Training Dummy", subname = "Tanken"}
 MultiLanguageNpcData['nl'][242759] = {name = "Dungeoneer's Training Dummy", subname = "Cleave"}
 MultiLanguageNpcData['nl'][242760] = {name = "Dungeoneer's Training Dummy", subname = "Genezing"}
@@ -4159,20 +4329,49 @@ MultiLanguageNpcData['nl'][242761] = {name = "Dungeoneer's Training Dummy", subn
 MultiLanguageNpcData['nl'][242762] = {name = "Bronzen Whelp", subname = nil}
 MultiLanguageNpcData['nl'][242763] = {name = "Sleepy Whelp", subname = nil}
 MultiLanguageNpcData['nl'][242764] = {name = "Temporal Attendant", subname = nil}
+MultiLanguageNpcData['nl'][242765] = {name = "Gomphusta", subname = "De Ensporer"}
+MultiLanguageNpcData['nl'][242767] = {name = "zzOld[DNT] Kill Credit: Void Surges gevangen", subname = nil}
 MultiLanguageNpcData['nl'][242768] = {name = "Afgedankte landmijn", subname = nil}
+MultiLanguageNpcData['nl'][242773] = {name = "Geagiteerde rootbat", subname = nil}
+MultiLanguageNpcData['nl'][242778] = {name = "Bereide Zapgut", subname = nil}
+MultiLanguageNpcData['nl'][242780] = {name = "Bereide Saltleaf Boar", subname = nil}
 MultiLanguageNpcData['nl'][242781] = {name = "Bakar", subname = nil}
 MultiLanguageNpcData['nl'][242783] = {name = "Ontplofbare explosieven", subname = nil}
 MultiLanguageNpcData['nl'][242784] = {name = "Black Blood Leacher", subname = nil}
+MultiLanguageNpcData['nl'][242785] = {name = "Ontevreden Lashroom", subname = nil}
 MultiLanguageNpcData['nl'][242786] = {name = "Temporale zandveger", subname = nil}
+MultiLanguageNpcData['nl'][242787] = {name = "Mildewed vijandschap", subname = nil}
+MultiLanguageNpcData['nl'][242794] = {name = "Oozing Rootmuck", subname = nil}
+MultiLanguageNpcData['nl'][242795] = {name = "Wey'nan", subname = nil}
+MultiLanguageNpcData['nl'][242801] = {name = "Obj ALL - Konijn doel", subname = nil}
+MultiLanguageNpcData['nl'][242802] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][242803] = {name = "Taelia Fordragon", subname = nil}
+MultiLanguageNpcData['nl'][242804] = {name = "Crusader Dawnheart", subname = nil}
+MultiLanguageNpcData['nl'][242806] = {name = "Ithelis", subname = nil}
+MultiLanguageNpcData['nl'][242807] = {name = "Archivist Colin", subname = nil}
+MultiLanguageNpcData['nl'][242808] = {name = "Sunwalker Atohmo", subname = nil}
+MultiLanguageNpcData['nl'][242809] = {name = "Crusader Flaresong", subname = nil}
+MultiLanguageNpcData['nl'][242810] = {name = "Kruisvaarder Lightspeare", subname = nil}
+MultiLanguageNpcData['nl'][242811] = {name = "Crusader Sombersun", subname = nil}
+MultiLanguageNpcData['nl'][242812] = {name = "Motega Firemane", subname = nil}
+MultiLanguageNpcData['nl'][242813] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242814] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242815] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][242817] = {name = "Crusader Newbery", subname = nil}
+MultiLanguageNpcData['nl'][242818] = {name = "Crusader Whitney", subname = nil}
 MultiLanguageNpcData['nl'][242819] = {name = "Faerin Lothar", subname = nil}
 MultiLanguageNpcData['nl'][242822] = {name = "Marran Trollbane", subname = nil}
 MultiLanguageNpcData['nl'][242825] = {name = "Kolonel Veronica Nials", subname = nil}
 MultiLanguageNpcData['nl'][242826] = {name = "Marran Trollbane", subname = nil}
+MultiLanguageNpcData['nl'][242831] = {name = "Stray Skyshards", subname = nil}
 MultiLanguageNpcData['nl'][242834] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][242835] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][242836] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][242837] = {name = "Sureki Eradicator", subname = nil}
+MultiLanguageNpcData['nl'][242838] = {name = "Belo'ren", subname = "Kind van Al'ar"}
+MultiLanguageNpcData['nl'][242839] = {name = "Belo'ren", subname = "Kind van Al'ar"}
 MultiLanguageNpcData['nl'][242840] = {name = "Sureki Swarmer", subname = nil}
+MultiLanguageNpcData['nl'][242841] = {name = "Kleine blisterverpakking", subname = nil}
 MultiLanguageNpcData['nl'][242842] = {name = "Skibbles", subname = nil}
 MultiLanguageNpcData['nl'][242843] = {name = "Goblin Zapper", subname = nil}
 MultiLanguageNpcData['nl'][242844] = {name = "Uitgeputte ingenieur", subname = "C.C.C Student"}
@@ -4186,35 +4385,98 @@ MultiLanguageNpcData['nl'][242856] = {name = "Spindle", subname = nil}
 MultiLanguageNpcData['nl'][242857] = {name = "Linny Leadfinger", subname = "Freelance Warscribe"}
 MultiLanguageNpcData['nl'][242858] = {name = "Arathi Reserve", subname = nil}
 MultiLanguageNpcData['nl'][242859] = {name = "Sureki Swarming", subname = nil}
+MultiLanguageNpcData['nl'][242861] = {name = "Ru'gar", subname = nil}
 MultiLanguageNpcData['nl'][242864] = {name = "Stromgarde Footman", subname = nil}
+MultiLanguageNpcData['nl'][242865] = {name = "Rottende Wortelt vast", subname = nil}
+MultiLanguageNpcData['nl'][242866] = {name = "Algemeen - lege konijn", subname = nil}
 MultiLanguageNpcData['nl'][242868] = {name = "Stromgarde Footman", subname = nil}
 MultiLanguageNpcData['nl'][242869] = {name = "Power Pylon op lager niveau", subname = nil}
 MultiLanguageNpcData['nl'][242875] = {name = "Zijdewormlichaam (REAAL)", subname = nil}
 MultiLanguageNpcData['nl'][242876] = {name = "Zijderupsenlichaamsvoertuig (REAL)", subname = nil}
+MultiLanguageNpcData['nl'][242879] = {name = "Shambling Portal-Breacher", subname = nil}
+MultiLanguageNpcData['nl'][242880] = {name = "Haatzuchtige inbreker", subname = nil}
+MultiLanguageNpcData['nl'][242881] = {name = "Monte Gazlowe", subname = "Bilgewater Trade-Prince"}
+MultiLanguageNpcData['nl'][242882] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][242884] = {name = "Voidborn Breacher", subname = nil}
+MultiLanguageNpcData['nl'][242888] = {name = "Blistercreep Egg", subname = nil}
+MultiLanguageNpcData['nl'][242889] = {name = "Taelia Fordragon", subname = nil}
+MultiLanguageNpcData['nl'][242890] = {name = "Salandria", subname = nil}
 MultiLanguageNpcData['nl'][242891] = {name = "Kickbomb", subname = nil}
+MultiLanguageNpcData['nl'][242893] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][242894] = {name = "Taelia Fordragon", subname = nil}
+MultiLanguageNpcData['nl'][242895] = {name = "Zoeker Crikkash", subname = nil}
+MultiLanguageNpcData['nl'][242897] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][242898] = {name = "Taelia Fordragon", subname = nil}
 MultiLanguageNpcData['nl'][242899] = {name = "Moratari", subname = nil}
 MultiLanguageNpcData['nl'][242901] = {name = "Kleinoog", subname = nil}
 MultiLanguageNpcData['nl'][242904] = {name = "Houtsprite", subname = nil}
 MultiLanguageNpcData['nl'][242905] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][242906] = {name = "Nadia Brighton", subname = nil}
 MultiLanguageNpcData['nl'][242909] = {name = "Tazavesh Security", subname = nil}
 MultiLanguageNpcData['nl'][242910] = {name = "Time Rift", subname = nil}
 MultiLanguageNpcData['nl'][242912] = {name = "Toekomstige Lindormi", subname = nil}
+MultiLanguageNpcData['nl'][242913] = {name = "Vael'thas Dawnsoar", subname = "Dragonhawk Meester"}
+MultiLanguageNpcData['nl'][242914] = {name = "Lucen Swiftmane", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][242915] = {name = "Void Portal", subname = nil}
 MultiLanguageNpcData['nl'][242916] = {name = "Kolonel Veronica Nials", subname = nil}
+MultiLanguageNpcData['nl'][242917] = {name = "Stronghold Enforcer", subname = nil}
 MultiLanguageNpcData['nl'][242919] = {name = "Moratari", subname = nil}
 MultiLanguageNpcData['nl'][242920] = {name = "K'areshi Sentry", subname = nil}
 MultiLanguageNpcData['nl'][242928] = {name = "Manaforge", subname = nil}
+MultiLanguageNpcData['nl'][242929] = {name = "Slavende Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][242930] = {name = "Riftblade Maella", subname = nil}
+MultiLanguageNpcData['nl'][242934] = {name = "Monte Gazlowe", subname = "Bilgewater Trade-Prince"}
+MultiLanguageNpcData['nl'][242935] = {name = "Smakelijke paddosoep", subname = nil}
 MultiLanguageNpcData['nl'][242936] = {name = "Locus-Walker", subname = nil}
+MultiLanguageNpcData['nl'][242937] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][242938] = {name = "Schaduwspreider", subname = nil}
+MultiLanguageNpcData['nl'][242939] = {name = "Lightbloom Petalwing", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][242940] = {name = "Petalwing", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][242941] = {name = "Lightbloom Petalwing", subname = "T0 (,5/,5)"}
+MultiLanguageNpcData['nl'][242942] = {name = "Lightbloom Petalwing", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][242943] = {name = "Lightbloom Petalwing", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][242944] = {name = "Crazed Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][242945] = {name = "Coasting Petalwing", subname = nil}
 MultiLanguageNpcData['nl'][242946] = {name = "Time Lost Dryad", subname = "Night Elf Sentinels"}
 MultiLanguageNpcData['nl'][242947] = {name = "Stormrook", subname = nil}
+MultiLanguageNpcData['nl'][242949] = {name = "Sylmara Dawnpetal", subname = "Innkeeper"}
+MultiLanguageNpcData['nl'][242950] = {name = "Baby Sporeglider", subname = "T0 (0,3/0,3) SWARMER"}
 MultiLanguageNpcData['nl'][242951] = {name = "Mana Tangle", subname = nil}
+MultiLanguageNpcData['nl'][242952] = {name = "Baby Sporeglider", subname = "T1 (1/1)"}
 MultiLanguageNpcData['nl'][242953] = {name = "Gar-Bomba", subname = nil}
+MultiLanguageNpcData['nl'][242955] = {name = "Voidstalker Patriarch", subname = nil}
+MultiLanguageNpcData['nl'][242959] = {name = "Theren Sunledger", subname = "Algemene goederen en reparaties"}
+MultiLanguageNpcData['nl'][242960] = {name = "Isilwen Starforge", subname = "IJzer- en staalindustrie"}
 MultiLanguageNpcData['nl'][242962] = {name = "Moratari", subname = nil}
 MultiLanguageNpcData['nl'][242963] = {name = "Gewonde soldaat", subname = nil}
+MultiLanguageNpcData['nl'][242964] = {name = "Keen Headhunter", subname = nil}
 MultiLanguageNpcData['nl'][242965] = {name = "Bubsy drie vingers", subname = nil}
+MultiLanguageNpcData['nl'][242967] = {name = "Fairbreeze Enforcer", subname = nil}
 MultiLanguageNpcData['nl'][242969] = {name = "Witherbark Headhunter", subname = nil}
+MultiLanguageNpcData['nl'][242970] = {name = "Twilight Blade", subname = nil}
+MultiLanguageNpcData['nl'][242971] = {name = "Twilight Shadecaster", subname = nil}
+MultiLanguageNpcData['nl'][242972] = {name = "Zware Caster", subname = nil}
+MultiLanguageNpcData['nl'][242973] = {name = "Schaduwen", subname = nil}
+MultiLanguageNpcData['nl'][242976] = {name = "Duisternis Evoker", subname = nil}
+MultiLanguageNpcData['nl'][242977] = {name = "Donker Elementaal", subname = nil}
+MultiLanguageNpcData['nl'][242978] = {name = "Death Caster", subname = nil}
+MultiLanguageNpcData['nl'][242979] = {name = "Donkere beller", subname = nil}
+MultiLanguageNpcData['nl'][242980] = {name = "Twilight Death Dealer", subname = nil}
+MultiLanguageNpcData['nl'][242981] = {name = "Twilight Living Shadow", subname = nil}
+MultiLanguageNpcData['nl'][242982] = {name = "Twilight Bruiser", subname = nil}
+MultiLanguageNpcData['nl'][242991] = {name = "Lythielle Moonlight", subname = "Betoverende voorraden"}
+MultiLanguageNpcData['nl'][242993] = {name = "Rhys Duskfrost", subname = "Betoverende trainer"}
 MultiLanguageNpcData['nl'][242994] = {name = "Gundargaz Caretaker", subname = nil}
+MultiLanguageNpcData['nl'][242995] = {name = "Verloren uitvinder", subname = "Automaton Refiner"}
 MultiLanguageNpcData['nl'][242998] = {name = "Rouwende Warlynx", subname = nil}
+MultiLanguageNpcData['nl'][242999] = {name = "Amulet doorboren", subname = nil}
+MultiLanguageNpcData['nl'][243002] = {name = "Zwaard van Arcane", subname = nil}
+MultiLanguageNpcData['nl'][243003] = {name = "Mand van Spell Reagents", subname = nil}
 MultiLanguageNpcData['nl'][243004] = {name = "Dimensius", subname = nil}
+MultiLanguageNpcData['nl'][243006] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][243028] = {name = "Meittik", subname = nil}
+MultiLanguageNpcData['nl'][243029] = {name = "Kezkitt", subname = nil}
+MultiLanguageNpcData['nl'][243030] = {name = "Lekshi", subname = nil}
 MultiLanguageNpcData['nl'][243031] = {name = "Klokwerkassistent", subname = "Jepetto's metgezel"}
 MultiLanguageNpcData['nl'][243032] = {name = "Jepetto Joybuzz", subname = nil}
 MultiLanguageNpcData['nl'][243037] = {name = "Stelliya", subname = "Gutterside Drill Operator"}
@@ -4224,138 +4486,428 @@ MultiLanguageNpcData['nl'][243043] = {name = "Slain Soldier", subname = nil}
 MultiLanguageNpcData['nl'][243044] = {name = "Ongerafelde energiebreker", subname = nil}
 MultiLanguageNpcData['nl'][243045] = {name = "Bruxie Slyhook", subname = "Lead G.E.T.A. Agent"}
 MultiLanguageNpcData['nl'][243048] = {name = "Vrolijk Crocolisk", subname = nil}
+MultiLanguageNpcData['nl'][243049] = {name = "Fairbreeze Villager", subname = nil}
+MultiLanguageNpcData['nl'][243053] = {name = "Ney'leia", subname = nil}
+MultiLanguageNpcData['nl'][243054] = {name = "Ren'dorei Scout", subname = nil}
 MultiLanguageNpcData['nl'][243058] = {name = "Body vehicle Silkworm (REAL COPY)", subname = nil}
+MultiLanguageNpcData['nl'][243059] = {name = "Penumbrale deelnemer", subname = nil}
+MultiLanguageNpcData['nl'][243063] = {name = "Zuzu", subname = nil}
+MultiLanguageNpcData['nl'][243064] = {name = "Ontsnapt fledgling", subname = nil}
+MultiLanguageNpcData['nl'][243065] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][243066] = {name = "Kill Credit: Knooppunt Verbonden 1-2", subname = nil}
+MultiLanguageNpcData['nl'][243067] = {name = "Kill Credit: Node Verbonden 2-3", subname = nil}
+MultiLanguageNpcData['nl'][243068] = {name = "Kill Credit: Knooppunt Verbonden 3-1", subname = nil}
 MultiLanguageNpcData['nl'][243069] = {name = "Craz Fuselighter", subname = "Departement Explosieven en Belastingontduiking"}
+MultiLanguageNpcData['nl'][243070] = {name = "Schaduw Focus", subname = nil}
+MultiLanguageNpcData['nl'][243071] = {name = "Schaduw Focus", subname = nil}
+MultiLanguageNpcData['nl'][243072] = {name = "Zaza", subname = nil}
+MultiLanguageNpcData['nl'][243075] = {name = "Vanguard Scout", subname = nil}
+MultiLanguageNpcData['nl'][243077] = {name = "Cramson Truefeather", subname = "Reparaties"}
+MultiLanguageNpcData['nl'][243078] = {name = "Leegte druppels", subname = nil}
+MultiLanguageNpcData['nl'][243079] = {name = "Tracker Arieni", subname = "Voederdier"}
+MultiLanguageNpcData['nl'][243080] = {name = "Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][243083] = {name = "Bol van Leegte", subname = nil}
 MultiLanguageNpcData['nl'][243084] = {name = "Hulp", subname = nil}
 MultiLanguageNpcData['nl'][243085] = {name = "Feradryn Swiftclaw", subname = nil}
+MultiLanguageNpcData['nl'][243091] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][243092] = {name = "Cove Seagull", subname = nil}
+MultiLanguageNpcData['nl'][243093] = {name = "Rijgevangene", subname = nil}
+MultiLanguageNpcData['nl'][243095] = {name = "Boom Stalker [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][243097] = {name = "Rotlimb Marauder", subname = nil}
+MultiLanguageNpcData['nl'][243098] = {name = "Abominatieguard", subname = nil}
+MultiLanguageNpcData['nl'][243101] = {name = "Obscurion tormentor", subname = nil}
+MultiLanguageNpcData['nl'][243102] = {name = "Obscurion subjugator", subname = nil}
+MultiLanguageNpcData['nl'][243104] = {name = "Uitgehongerde Voidwalker", subname = nil}
 MultiLanguageNpcData['nl'][243105] = {name = "Anomalous Ectozoon", subname = nil}
+MultiLanguageNpcData['nl'][243106] = {name = "Haranir veronderstelde vorm", subname = nil}
 MultiLanguageNpcData['nl'][243108] = {name = "Leegte scheur", subname = nil}
+MultiLanguageNpcData['nl'][243109] = {name = "Jaeth", subname = nil}
+MultiLanguageNpcData['nl'][243110] = {name = "Haranir veronderstelde vorm", subname = nil}
+MultiLanguageNpcData['nl'][243111] = {name = "Veilingmeester Caidori", subname = nil}
 MultiLanguageNpcData['nl'][243112] = {name = "Buurtwacht", subname = nil}
+MultiLanguageNpcData['nl'][243113] = {name = "Veilingmeester Ithillan", subname = nil}
+MultiLanguageNpcData['nl'][243114] = {name = "Veilingmeester Tandron", subname = nil}
 MultiLanguageNpcData['nl'][243115] = {name = "Eitrigg", subname = nil}
 MultiLanguageNpcData['nl'][243116] = {name = "Overlord Geya'rah", subname = nil}
 MultiLanguageNpcData['nl'][243117] = {name = "Danath Trollbane", subname = nil}
+MultiLanguageNpcData['nl'][243118] = {name = "Hawkstrider Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][243120] = {name = "Vanguard Siege Ballista", subname = nil}
+MultiLanguageNpcData['nl'][243121] = {name = "Hawkstrider", subname = nil}
 MultiLanguageNpcData['nl'][243122] = {name = "Schaduwhandel Invoer", subname = nil}
+MultiLanguageNpcData['nl'][243123] = {name = "Altheris", subname = "Stabiele hand"}
+MultiLanguageNpcData['nl'][243124] = {name = "Giftige dartkikker", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][243125] = {name = "Giftige dartkikker", subname = "T0 Swarmer (2,3)"}
+MultiLanguageNpcData['nl'][243126] = {name = "Caretaker Antheris", subname = nil}
 MultiLanguageNpcData['nl'][243127] = {name = "Schaduwhandel Invoer", subname = nil}
+MultiLanguageNpcData['nl'][243128] = {name = "Novia", subname = "Bankier"}
+MultiLanguageNpcData['nl'][243129] = {name = "Periel", subname = "Bankier"}
+MultiLanguageNpcData['nl'][243130] = {name = "Daenice", subname = "Bankier"}
 MultiLanguageNpcData['nl'][243131] = {name = "Schaduwhandel Invoer", subname = nil}
+MultiLanguageNpcData['nl'][243132] = {name = "Obscurion Stalker", subname = nil}
+MultiLanguageNpcData['nl'][243133] = {name = "Runaway Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][243134] = {name = "Rahein", subname = "Wapensmith & reparaties"}
 MultiLanguageNpcData['nl'][243135] = {name = "Verontwaardigde gevangene", subname = nil}
 MultiLanguageNpcData['nl'][243136] = {name = "Schaduwhandel Invoer", subname = nil}
+MultiLanguageNpcData['nl'][243137] = {name = "Zizi", subname = nil}
+MultiLanguageNpcData['nl'][243140] = {name = "Voidgrasper", subname = nil}
+MultiLanguageNpcData['nl'][243141] = {name = "Vathen de Rebel", subname = nil}
+MultiLanguageNpcData['nl'][243142] = {name = "Scytheryp de Slicer", subname = nil}
+MultiLanguageNpcData['nl'][243143] = {name = "Onnodige Voidspawn", subname = nil}
+MultiLanguageNpcData['nl'][243145] = {name = "meedogenloze Ultradon", subname = nil}
 MultiLanguageNpcData['nl'][243146] = {name = "Alessia Brightschild", subname = nil}
+MultiLanguageNpcData['nl'][243147] = {name = "Aerith Primrose", subname = "Bloemenverkoper"}
+MultiLanguageNpcData['nl'][243148] = {name = "Koraud", subname = "Body Guard"}
+MultiLanguageNpcData['nl'][243149] = {name = "Paladin van het Licht", subname = nil}
 MultiLanguageNpcData['nl'][243150] = {name = "Manaforge Deur", subname = nil}
 MultiLanguageNpcData['nl'][243153] = {name = "Schaduwwacht Bulwark", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][243154] = {name = "Fairbreeze Sentry", subname = nil}
+MultiLanguageNpcData['nl'][243156] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][243157] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][243160] = {name = "Zalle", subname = "Reagentia"}
+MultiLanguageNpcData['nl'][243161] = {name = "Seraphina Bloodheart", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][243162] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][243163] = {name = "Sentinel", subname = "Seraphina's huisdier"}
 MultiLanguageNpcData['nl'][243164] = {name = "Dusthopper", subname = nil}
+MultiLanguageNpcData['nl'][243165] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][243166] = {name = "Normale tankdummy", subname = "Tanken"}
+MultiLanguageNpcData['nl'][243167] = {name = "Dungeoneer's Training Dummy", subname = "Tanken"}
+MultiLanguageNpcData['nl'][243168] = {name = "Dungeoneer's Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][243169] = {name = "Specting Sporecaller", subname = nil}
+MultiLanguageNpcData['nl'][243170] = {name = "Specting Rotseeker", subname = nil}
+MultiLanguageNpcData['nl'][243171] = {name = "Gloombelly Pad", subname = nil}
+MultiLanguageNpcData['nl'][243172] = {name = "Specterend Mycomancer", subname = nil}
+MultiLanguageNpcData['nl'][243173] = {name = "Specterende Moldstalker", subname = nil}
 MultiLanguageNpcData['nl'][243174] = {name = "Takrosh Thornblade", subname = nil}
 MultiLanguageNpcData['nl'][243176] = {name = "Sifonmiet", subname = nil}
 MultiLanguageNpcData['nl'][243177] = {name = "Brave Swooppup", subname = nil}
+MultiLanguageNpcData['nl'][243178] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][243179] = {name = "Motta", subname = nil}
+MultiLanguageNpcData['nl'][243180] = {name = "Ziny", subname = nil}
+MultiLanguageNpcData['nl'][243181] = {name = "Tuktuk", subname = nil}
 MultiLanguageNpcData['nl'][243182] = {name = "Dimensius", subname = nil}
+MultiLanguageNpcData['nl'][243183] = {name = "Gedomineerde Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][243196] = {name = "Ciphus", subname = "Decimus's Oculus"}
 MultiLanguageNpcData['nl'][243197] = {name = "Enkelvoud venster FX", subname = nil}
 MultiLanguageNpcData['nl'][243198] = {name = "Ingrediënte wagen", subname = nil}
 MultiLanguageNpcData['nl'][243199] = {name = "Kal'shin", subname = nil}
+MultiLanguageNpcData['nl'][243205] = {name = "Versterkte Golem", subname = "Raider's Training Dummy"}
+MultiLanguageNpcData['nl'][243206] = {name = "Zwaargewicht Golem", subname = "Raider's Tanking Dummy"}
+MultiLanguageNpcData['nl'][243207] = {name = "Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][243208] = {name = "Cleave Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][243211] = {name = "PvP Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][243212] = {name = "PvP Training Dummy", subname = "Genezing"}
+MultiLanguageNpcData['nl'][243213] = {name = "Cola", subname = nil}
+MultiLanguageNpcData['nl'][243214] = {name = "Training Dummy", subname = "Genezing"}
+MultiLanguageNpcData['nl'][243215] = {name = "Nisa Cindersteel", subname = nil}
+MultiLanguageNpcData['nl'][243216] = {name = "Kyros Warstone", subname = nil}
 MultiLanguageNpcData['nl'][243217] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][243218] = {name = "Vindicator boros", subname = nil}
+MultiLanguageNpcData['nl'][243219] = {name = "Meridelle Lightspark", subname = nil}
+MultiLanguageNpcData['nl'][243220] = {name = "Irissa Bloodstar", subname = "Conquest Quartermaster"}
+MultiLanguageNpcData['nl'][243221] = {name = "Kapitein Dawnrunner", subname = "Kwartiermeester eren"}
+MultiLanguageNpcData['nl'][243222] = {name = "Karion Wall Stalker", subname = nil}
+MultiLanguageNpcData['nl'][243223] = {name = "Voidmarked Reserve", subname = nil}
+MultiLanguageNpcData['nl'][243224] = {name = "Knight-Lord Bloodvalor", subname = "War Mode QuartermasterName"}
+MultiLanguageNpcData['nl'][243225] = {name = "Mirvedon", subname = "Recepten voor concurrenten"}
+MultiLanguageNpcData['nl'][243226] = {name = "Boletus", subname = "Fight Promoter"}
+MultiLanguageNpcData['nl'][243227] = {name = "Tahu Sagewind", subname = nil}
+MultiLanguageNpcData['nl'][243228] = {name = "Broeder Sammuel", subname = nil}
+MultiLanguageNpcData['nl'][243229] = {name = "Eldara Dawnrunner", subname = "Catalyst Steward"}
+MultiLanguageNpcData['nl'][243230] = {name = "Voidswarm Reserve", subname = nil}
 MultiLanguageNpcData['nl'][243231] = {name = "zzDough [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][243232] = {name = "Vreselijk Pit Combatant", subname = "Schimmelkracht"}
 MultiLanguageNpcData['nl'][243234] = {name = "Dode Nerubian", subname = nil}
+MultiLanguageNpcData['nl'][243235] = {name = "Voidstorm Bombardier", subname = nil}
 MultiLanguageNpcData['nl'][243236] = {name = "Lorewalker Cho", subname = nil}
 MultiLanguageNpcData['nl'][243237] = {name = "Zout", subname = nil}
+MultiLanguageNpcData['nl'][243238] = {name = "Nuuto", subname = "De Sporeseer"}
+MultiLanguageNpcData['nl'][243239] = {name = "Flittering Gnasher", subname = nil}
+MultiLanguageNpcData['nl'][243240] = {name = "Lichtgesmeed Paladin", subname = nil}
 MultiLanguageNpcData['nl'][243241] = {name = "Vluchtige Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][243242] = {name = "Warpweaver Diveera", subname = "Transmogrifier"}
+MultiLanguageNpcData['nl'][243243] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][243245] = {name = "Hulking Ultradon", subname = nil}
 MultiLanguageNpcData['nl'][243246] = {name = "Festival Hot Air Ballon", subname = nil}
+MultiLanguageNpcData['nl'][243247] = {name = "Mevrouw Goya", subname = "Leider van de Zwarte Markt"}
+MultiLanguageNpcData['nl'][243248] = {name = "Meneer Chu.", subname = "Madam Goya's Guardian"}
+MultiLanguageNpcData['nl'][243249] = {name = "Ms. Xiulan", subname = "Mevrouw Goya's assistent"}
 MultiLanguageNpcData['nl'][243253] = {name = "Layne Pontelle", subname = "Vlam Radiance Mailor"}
 MultiLanguageNpcData['nl'][243256] = {name = "Arcane Collector", subname = nil}
 MultiLanguageNpcData['nl'][243258] = {name = "Schaduwhandel Invoer", subname = nil}
 MultiLanguageNpcData['nl'][243259] = {name = "Schaduwhandel Invoer", subname = nil}
 MultiLanguageNpcData['nl'][243262] = {name = "DNT Zapper Bunny", subname = nil}
 MultiLanguageNpcData['nl'][243263] = {name = "Blauwe Barry", subname = nil}
+MultiLanguageNpcData['nl'][243264] = {name = "Seething Shredclaw", subname = nil}
 MultiLanguageNpcData['nl'][243265] = {name = "Demon Fire", subname = nil}
 MultiLanguageNpcData['nl'][243266] = {name = "Kal'shin", subname = "De Juggernaught"}
 MultiLanguageNpcData['nl'][243267] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][243270] = {name = "Hulpzame Workshop Bot", subname = nil}
+MultiLanguageNpcData['nl'][243274] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][243275] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][243276] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][243277] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][243278] = {name = "Onzichtbare Stalker", subname = nil}
+MultiLanguageNpcData['nl'][243279] = {name = "Mar'nah", subname = "Ambachtelijke bestellingen"}
+MultiLanguageNpcData['nl'][243280] = {name = "Theremis", subname = "Enchanted Crests"}
+MultiLanguageNpcData['nl'][243281] = {name = "Hulking Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][243282] = {name = "Mahra Treebender", subname = "Beroepsuitrusting Specialist"}
+MultiLanguageNpcData['nl'][243283] = {name = "Kapitein Flaresworn.", subname = "Requirements Officer"}
 MultiLanguageNpcData['nl'][243284] = {name = "Ridge Swooppup", subname = nil}
 MultiLanguageNpcData['nl'][243285] = {name = "Entropische splinter", subname = nil}
+MultiLanguageNpcData['nl'][243286] = {name = "Lyrendal", subname = "Artisan's Consortium Quartermaster"}
 MultiLanguageNpcData['nl'][243287] = {name = "Kosmische Inchverwisselaar", subname = nil}
 MultiLanguageNpcData['nl'][243288] = {name = "Nascent Hunter", subname = nil}
+MultiLanguageNpcData['nl'][243290] = {name = "Sarvi", subname = nil}
 MultiLanguageNpcData['nl'][243291] = {name = "Xy'dax", subname = "Shadowtrade Importeur"}
 MultiLanguageNpcData['nl'][243292] = {name = "Shimmer Hoplet", subname = nil}
+MultiLanguageNpcData['nl'][243293] = {name = "Bear Cub", subname = "T0 (,5/,5)"}
 MultiLanguageNpcData['nl'][243294] = {name = "Toxic Inchshifter", subname = nil}
 MultiLanguageNpcData['nl'][243301] = {name = "Kartel Thug", subname = "Geïmporteerde spier"}
+MultiLanguageNpcData['nl'][243302] = {name = "Kill Credit: benadering Darkglen", subname = nil}
 MultiLanguageNpcData['nl'][243303] = {name = "Lil Leacher", subname = nil}
+MultiLanguageNpcData['nl'][243305] = {name = "Oude Visionstone", subname = nil}
+MultiLanguageNpcData['nl'][243306] = {name = "Oude Visionstone", subname = nil}
+MultiLanguageNpcData['nl'][243307] = {name = "Oude Visionstone", subname = nil}
 MultiLanguageNpcData['nl'][243308] = {name = "Brewgarden - Koken - Pretzels [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][243309] = {name = "Crag Miteling", subname = nil}
 MultiLanguageNpcData['nl'][243310] = {name = "Swooppup Drifter", subname = nil}
 MultiLanguageNpcData['nl'][243312] = {name = "Caustic Siphonmite", subname = nil}
+MultiLanguageNpcData['nl'][243313] = {name = "Kylia Solguard", subname = "Sunrun Salvage"}
+MultiLanguageNpcData['nl'][243314] = {name = "Vyean Lightstar", subname = "Uitvoer van Duskflight"}
+MultiLanguageNpcData['nl'][243315] = {name = "Elenda Morrowflare", subname = "Getijdevracht"}
+MultiLanguageNpcData['nl'][243317] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][243318] = {name = "Leoron Summersong", subname = "Sunrun Salvage"}
+MultiLanguageNpcData['nl'][243320] = {name = "Ineilian Crimsonpost", subname = "Uitvoer van Duskflight"}
+MultiLanguageNpcData['nl'][243321] = {name = "Drair Somberfall", subname = "Getijdevracht"}
+MultiLanguageNpcData['nl'][243322] = {name = "Lumberyard Lookout", subname = nil}
+MultiLanguageNpcData['nl'][243323] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][243324] = {name = "Sparkfoot Hoplet", subname = nil}
+MultiLanguageNpcData['nl'][243325] = {name = "Amani Artisan", subname = nil}
 MultiLanguageNpcData['nl'][243327] = {name = "Minute horror", subname = nil}
+MultiLanguageNpcData['nl'][243328] = {name = "Vluchtige barrel", subname = nil}
 MultiLanguageNpcData['nl'][243333] = {name = "Dread Mite", subname = nil}
 MultiLanguageNpcData['nl'][243334] = {name = "Scavenging Hoplet", subname = nil}
 MultiLanguageNpcData['nl'][243335] = {name = "Shard of Despair", subname = nil}
 MultiLanguageNpcData['nl'][243336] = {name = "Haatzuchtige Inchshifter", subname = nil}
 MultiLanguageNpcData['nl'][243338] = {name = "Invasieve Palewurm", subname = nil}
 MultiLanguageNpcData['nl'][243339] = {name = "Afvalstoffen Swooppup", subname = nil}
+MultiLanguageNpcData['nl'][243340] = {name = "Bargus", subname = nil}
 MultiLanguageNpcData['nl'][243341] = {name = "Neophyte Hunter", subname = nil}
 MultiLanguageNpcData['nl'][243342] = {name = "Endsiphoner", subname = nil}
 MultiLanguageNpcData['nl'][243344] = {name = "Onzorgvuldige Watcher", subname = nil}
+MultiLanguageNpcData['nl'][243345] = {name = "Amin", subname = "Juwelierstrainer"}
+MultiLanguageNpcData['nl'][243346] = {name = "Gelanthis", subname = "Leveringen voor juwelen"}
+MultiLanguageNpcData['nl'][243347] = {name = "Kalinda", subname = "Juwelierstrainer"}
+MultiLanguageNpcData['nl'][243349] = {name = "Dolothos", subname = "Betoverende trainer"}
+MultiLanguageNpcData['nl'][243350] = {name = "Lyna", subname = "Betoverende voorraden"}
+MultiLanguageNpcData['nl'][243352] = {name = "Galana", subname = "Trainer op maat"}
+MultiLanguageNpcData['nl'][243353] = {name = "Deynna", subname = "Op maat gesneden leveringen"}
+MultiLanguageNpcData['nl'][243354] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][243355] = {name = "Botanist Nathera", subname = "Herbalisme Trainer"}
+MultiLanguageNpcData['nl'][243356] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][243357] = {name = "Camberon", subname = "Alchemietrainer"}
 MultiLanguageNpcData['nl'][243358] = {name = "Bound Creeper", subname = nil}
+MultiLanguageNpcData['nl'][243359] = {name = "Melaris", subname = "Alchemie"}
+MultiLanguageNpcData['nl'][243361] = {name = "Koerier in een hinderlaag", subname = nil}
 MultiLanguageNpcData['nl'][243363] = {name = "Stowaway Scurrier", subname = nil}
 MultiLanguageNpcData['nl'][243364] = {name = "Spectrechewer", subname = nil}
 MultiLanguageNpcData['nl'][243365] = {name = "Schaduwbeschermer Voidtamer", subname = nil}
 MultiLanguageNpcData['nl'][243366] = {name = "Gerimpelde zandwurm", subname = nil}
 MultiLanguageNpcData['nl'][243367] = {name = "Siltwing Swooppup", subname = nil}
+MultiLanguageNpcData['nl'][243368] = {name = "Void Obelisk", subname = nil}
+MultiLanguageNpcData['nl'][243370] = {name = "Grafietmetaal", subname = nil}
 MultiLanguageNpcData['nl'][243371] = {name = "Sufaadi Pactspeaker", subname = nil}
 MultiLanguageNpcData['nl'][243372] = {name = "Sufaadi Headhunter", subname = nil}
 MultiLanguageNpcData['nl'][243373] = {name = "Sufaadi Enforcer", subname = nil}
 MultiLanguageNpcData['nl'][243375] = {name = "Onzichtbare konijn", subname = nil}
+MultiLanguageNpcData['nl'][243376] = {name = "Ontvoerd Silvermoon Defender", subname = nil}
+MultiLanguageNpcData['nl'][243377] = {name = "Ontvoerd licht vanguard", subname = nil}
+MultiLanguageNpcData['nl'][243378] = {name = "Gaunt Harrower", subname = nil}
+MultiLanguageNpcData['nl'][243382] = {name = "Grand Lector Enaara", subname = nil}
+MultiLanguageNpcData['nl'][243384] = {name = "Vluchtige barrel", subname = nil}
+MultiLanguageNpcData['nl'][243396] = {name = "Ghostblade Survivalist", subname = nil}
+MultiLanguageNpcData['nl'][243397] = {name = "Fladderende Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][243398] = {name = "Bloeiende Treant", subname = nil}
+MultiLanguageNpcData['nl'][243399] = {name = "Pangolin", subname = "SPAWN geschilderd"}
+MultiLanguageNpcData['nl'][243400] = {name = "Pangolin", subname = "SPAWN geschilderd"}
+MultiLanguageNpcData['nl'][243402] = {name = "Void Portal", subname = nil}
 MultiLanguageNpcData['nl'][243403] = {name = "Hongerige wees", subname = nil}
+MultiLanguageNpcData['nl'][243406] = {name = "Fiona", subname = nil}
+MultiLanguageNpcData['nl'][243407] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][243411] = {name = "Void-Yoked Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][243432] = {name = "Aponi Brightmane", subname = "Sunwalker Chieftain"}
+MultiLanguageNpcData['nl'][243441] = {name = "Lady Darkglen", subname = nil}
+MultiLanguageNpcData['nl'][243459] = {name = "Fractuur", subname = nil}
+MultiLanguageNpcData['nl'][243491] = {name = "Ketel van Echoes", subname = nil}
 MultiLanguageNpcData['nl'][243498] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][243500] = {name = "Talmar", subname = "Leerwerktrainer"}
+MultiLanguageNpcData['nl'][243514] = {name = "Aln'hara's Bloom", subname = nil}
+MultiLanguageNpcData['nl'][243527] = {name = "Tyn", subname = "Skinning Trainer"}
+MultiLanguageNpcData['nl'][243531] = {name = "Zaralda", subname = "Voedingsmiddelen voor lederbewerking"}
+MultiLanguageNpcData['nl'][243532] = {name = "Grazende zwijn", subname = nil}
+MultiLanguageNpcData['nl'][243535] = {name = "Buzzer loggen", subname = nil}
+MultiLanguageNpcData['nl'][243540] = {name = "De Echoloze Vlam", subname = nil}
+MultiLanguageNpcData['nl'][243542] = {name = "Russula's Outreach", subname = nil}
+MultiLanguageNpcData['nl'][243544] = {name = "Vastworteling of the World", subname = nil}
 MultiLanguageNpcData['nl'][243552] = {name = "Faseafbeelding", subname = nil}
+MultiLanguageNpcData['nl'][243553] = {name = "Zantasia", subname = "Inscriptietrainer"}
+MultiLanguageNpcData['nl'][243554] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][243555] = {name = "Lelorian", subname = "Leveringen inscriptie"}
+MultiLanguageNpcData['nl'][243586] = {name = "Kill Credit: Arator flipt naar licht", subname = nil}
+MultiLanguageNpcData['nl'][243631] = {name = "Geagiteerd zwijn", subname = nil}
+MultiLanguageNpcData['nl'][243635] = {name = "Nieuwsgierige schildpad", subname = nil}
 MultiLanguageNpcData['nl'][243636] = {name = "Voidveil Manta", subname = nil}
 MultiLanguageNpcData['nl'][243644] = {name = "Hulling Voidcrawler", subname = nil}
 MultiLanguageNpcData['nl'][243646] = {name = "Slabhide", subname = nil}
 MultiLanguageNpcData['nl'][243653] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][243654] = {name = "Stormrook", subname = nil}
+MultiLanguageNpcData['nl'][243656] = {name = "Oom Keenbean.", subname = "Keenbean Kafa Co."}
+MultiLanguageNpcData['nl'][243658] = {name = "Void-Yoked Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][243659] = {name = "Broeder Lintpocket", subname = "Burlap Trail Organizer"}
+MultiLanguageNpcData['nl'][243660] = {name = "Kleine cleankit", subname = nil}
+MultiLanguageNpcData['nl'][243661] = {name = "Broeder Brokendice", subname = nil}
+MultiLanguageNpcData['nl'][243662] = {name = "Broeder Furtrim", subname = nil}
+MultiLanguageNpcData['nl'][243663] = {name = "Neef Bentnail", subname = "Junior Mountain Guide"}
+MultiLanguageNpcData['nl'][243664] = {name = "Oom Cloverleaf", subname = nil}
+MultiLanguageNpcData['nl'][243665] = {name = "Lucky Bluestring", subname = nil}
+MultiLanguageNpcData['nl'][243666] = {name = "Yak", subname = nil}
+MultiLanguageNpcData['nl'][243667] = {name = "Grummle Packer", subname = nil}
+MultiLanguageNpcData['nl'][243668] = {name = "Grummle Yakker", subname = nil}
+MultiLanguageNpcData['nl'][243669] = {name = "Brother Trailscenter", subname = "Burlap Trail Organizer"}
+MultiLanguageNpcData['nl'][243670] = {name = "Broeder Konijnenvoet", subname = nil}
+MultiLanguageNpcData['nl'][243671] = {name = "Broeder Yakshoe", subname = nil}
+MultiLanguageNpcData['nl'][243672] = {name = "Broeder Oiljak", subname = "Burlap Trail Organizer"}
+MultiLanguageNpcData['nl'][243673] = {name = "Neef Copperfinder", subname = "Grummlecakes & Luckydos"}
+MultiLanguageNpcData['nl'][243674] = {name = "Neef Tealeaf", subname = "Grummlegrogs"}
+MultiLanguageNpcData['nl'][243675] = {name = "Nicht Mountainmusk", subname = nil}
+MultiLanguageNpcData['nl'][243676] = {name = "Neef Gootfur", subname = "Keenbean Kafa Co."}
+MultiLanguageNpcData['nl'][243677] = {name = "Oom Eastwind", subname = nil}
+MultiLanguageNpcData['nl'][243678] = {name = "Neef Burrberry", subname = "Keenbean Kafa Co."}
+MultiLanguageNpcData['nl'][243679] = {name = "Reuzenarend", subname = nil}
+MultiLanguageNpcData['nl'][243681] = {name = "Hongerige verbruiker", subname = nil}
+MultiLanguageNpcData['nl'][243682] = {name = "Kota Kon", subname = nil}
+MultiLanguageNpcData['nl'][243683] = {name = "Vanguard Medic", subname = nil}
+MultiLanguageNpcData['nl'][243686] = {name = "Halduron Brightwing", subname = nil}
 MultiLanguageNpcData['nl'][243687] = {name = "Gestolen technologie", subname = nil}
+MultiLanguageNpcData['nl'][243688] = {name = "Lothraxion", subname = nil}
 MultiLanguageNpcData['nl'][243690] = {name = "Cosmetisch doel [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][243691] = {name = "Ren'dorei Hunter", subname = nil}
+MultiLanguageNpcData['nl'][243692] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][243693] = {name = "Ontspannende Aarden", subname = nil}
+MultiLanguageNpcData['nl'][243694] = {name = "Voidshaper schuren", subname = nil}
+MultiLanguageNpcData['nl'][243695] = {name = "Ontvoerd Verdediger", subname = nil}
+MultiLanguageNpcData['nl'][243696] = {name = "Ontvoerd Paladin", subname = nil}
+MultiLanguageNpcData['nl'][243697] = {name = "Ontvoerd Verdediger", subname = nil}
+MultiLanguageNpcData['nl'][243700] = {name = "Yak", subname = nil}
+MultiLanguageNpcData['nl'][243701] = {name = "Buurt Kind", subname = nil}
 MultiLanguageNpcData['nl'][243703] = {name = "Ongeketende geest", subname = nil}
 MultiLanguageNpcData['nl'][243704] = {name = "Void Spirit", subname = nil}
 MultiLanguageNpcData['nl'][243705] = {name = "Arcane Spirit", subname = nil}
+MultiLanguageNpcData['nl'][243706] = {name = "Vermoeide Lynx", subname = nil}
+MultiLanguageNpcData['nl'][243707] = {name = "Terminas", subname = "Obscurion Imperator"}
+MultiLanguageNpcData['nl'][243708] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][243709] = {name = "Bubble", subname = nil}
 MultiLanguageNpcData['nl'][243715] = {name = "Blauwe Barry", subname = nil}
 MultiLanguageNpcData['nl'][243716] = {name = "Skitterer", subname = nil}
 MultiLanguageNpcData['nl'][243721] = {name = "hop", subname = nil}
+MultiLanguageNpcData['nl'][243723] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][243730] = {name = "Kill Credit: Metal Clickie", subname = nil}
+MultiLanguageNpcData['nl'][243733] = {name = "Dead Vanguard", subname = nil}
 MultiLanguageNpcData['nl'][243734] = {name = "Ontsnapt importeren", subname = nil}
 MultiLanguageNpcData['nl'][243735] = {name = "Ontsnapt importeren", subname = nil}
+MultiLanguageNpcData['nl'][243736] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][243738] = {name = "Feesten Karion", subname = nil}
+MultiLanguageNpcData['nl'][243739] = {name = "Gedreven fledgling", subname = nil}
 MultiLanguageNpcData['nl'][243742] = {name = "Mouse Stalker", subname = nil}
 MultiLanguageNpcData['nl'][243743] = {name = "Ba'kajanai", subname = "Handelaar Extrordinaire"}
+MultiLanguageNpcData['nl'][243744] = {name = "Blistercreep", subname = nil}
 MultiLanguageNpcData['nl'][243747] = {name = "Xy'low", subname = nil}
 MultiLanguageNpcData['nl'][243752] = {name = "Ba'key", subname = nil}
+MultiLanguageNpcData['nl'][243758] = {name = "Sleepy Resident", subname = nil}
+MultiLanguageNpcData['nl'][243759] = {name = "Aksem", subname = "Hogepriester van de wieg"}
+MultiLanguageNpcData['nl'][243761] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][243762] = {name = "Shul'ka Seila", subname = nil}
+MultiLanguageNpcData['nl'][243763] = {name = "Shul'ka Seila", subname = nil}
 MultiLanguageNpcData['nl'][243764] = {name = "Verzamelaar Galzi", subname = nil}
+MultiLanguageNpcData['nl'][243765] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][243766] = {name = "Kilivore Screamer", subname = nil}
+MultiLanguageNpcData['nl'][243767] = {name = "Blossom: Creeper", subname = nil}
+MultiLanguageNpcData['nl'][243768] = {name = "Blossoming Sap Weaver", subname = nil}
+MultiLanguageNpcData['nl'][243770] = {name = "Blossom Bound Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][243771] = {name = "Battling Mycomancer", subname = nil}
+MultiLanguageNpcData['nl'][243772] = {name = "Battling Moldstalker", subname = nil}
+MultiLanguageNpcData['nl'][243773] = {name = "Battling Rotseeker", subname = nil}
+MultiLanguageNpcData['nl'][243774] = {name = "Battling Sporecaller", subname = nil}
+MultiLanguageNpcData['nl'][243775] = {name = "Blossom-Bound Thiever", subname = nil}
+MultiLanguageNpcData['nl'][243776] = {name = "Ingester Glorbus", subname = nil}
+MultiLanguageNpcData['nl'][243778] = {name = "Torbrul", subname = nil}
+MultiLanguageNpcData['nl'][243779] = {name = "Kragthar", subname = nil}
+MultiLanguageNpcData['nl'][243780] = {name = "Opportunistische Sporeglider", subname = nil}
 MultiLanguageNpcData['nl'][243782] = {name = "Waygate", subname = nil}
+MultiLanguageNpcData['nl'][243785] = {name = "Haranir Rootweaver", subname = nil}
+MultiLanguageNpcData['nl'][243786] = {name = "Haranir Guardian", subname = nil}
+MultiLanguageNpcData['nl'][243789] = {name = "Kill Credit: WCD", subname = nil}
 MultiLanguageNpcData['nl'][243791] = {name = "Straal", subname = nil}
 MultiLanguageNpcData['nl'][243793] = {name = "Xy'Sous", subname = nil}
+MultiLanguageNpcData['nl'][243794] = {name = "Shul'ka Seila", subname = nil}
+MultiLanguageNpcData['nl'][243795] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][243796] = {name = "Hulkling Baleguard", subname = nil}
+MultiLanguageNpcData['nl'][243797] = {name = "Voidshaper schuren", subname = nil}
+MultiLanguageNpcData['nl'][243798] = {name = "Scathing Balecaster", subname = nil}
+MultiLanguageNpcData['nl'][243799] = {name = "Ritueel aanbod", subname = nil}
+MultiLanguageNpcData['nl'][243800] = {name = "Raveneuze Voidwalker", subname = nil}
 MultiLanguageNpcData['nl'][243801] = {name = "Zo'phar", subname = "Exotische boeken"}
+MultiLanguageNpcData['nl'][243802] = {name = "Agitatied Voidscyte", subname = nil}
 MultiLanguageNpcData['nl'][243803] = {name = "Sieve Mouse", subname = nil}
 MultiLanguageNpcData['nl'][243804] = {name = "Cosmetisch doel [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][243805] = {name = "Morium", subname = "Ontsterven van Sentinel"}
 MultiLanguageNpcData['nl'][243806] = {name = "Donker hart", subname = nil}
 MultiLanguageNpcData['nl'][243807] = {name = "Arcane Essence", subname = nil}
 MultiLanguageNpcData['nl'][243808] = {name = "Geestessence", subname = nil}
 MultiLanguageNpcData['nl'][243809] = {name = "Leegte Essentie", subname = nil}
+MultiLanguageNpcData['nl'][243810] = {name = "Demiar", subname = "Ontsterven van Sentinel"}
+MultiLanguageNpcData['nl'][243811] = {name = "Vorelus", subname = "Ontsterven van Sentinel"}
 MultiLanguageNpcData['nl'][243812] = {name = "Brew Barrel", subname = nil}
+MultiLanguageNpcData['nl'][243813] = {name = "Feral Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][243814] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][243816] = {name = "Rambling Treant", subname = nil}
 MultiLanguageNpcData['nl'][243817] = {name = "Boscultivator", subname = nil}
+MultiLanguageNpcData['nl'][243818] = {name = "Silvermoon construct", subname = nil}
+MultiLanguageNpcData['nl'][243819] = {name = "Laadbalk", subname = nil}
+MultiLanguageNpcData['nl'][243820] = {name = "Caretaker L'anai", subname = nil}
+MultiLanguageNpcData['nl'][243821] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][243822] = {name = "Amani Berserker", subname = nil}
+MultiLanguageNpcData['nl'][243823] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
+MultiLanguageNpcData['nl'][243824] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][243825] = {name = "Wraakzuchtige Voidspeaker", subname = nil}
+MultiLanguageNpcData['nl'][243827] = {name = "Void Droplet", subname = nil}
 MultiLanguageNpcData['nl'][243829] = {name = "Storytime Rug", subname = nil}
 MultiLanguageNpcData['nl'][243830] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][243831] = {name = "Violet Swooppup", subname = nil}
+MultiLanguageNpcData['nl'][243832] = {name = "Koei Hawkstrider", subname = nil}
 MultiLanguageNpcData['nl'][243833] = {name = "Jonge Shadowchaser", subname = nil}
+MultiLanguageNpcData['nl'][243835] = {name = "Savage Shredclaw", subname = nil}
 MultiLanguageNpcData['nl'][243836] = {name = "Geest", subname = nil}
+MultiLanguageNpcData['nl'][243837] = {name = "Verloren Hawkstrider Fledgling", subname = nil}
 MultiLanguageNpcData['nl'][243841] = {name = "Trainee Swooppup", subname = nil}
 MultiLanguageNpcData['nl'][243843] = {name = "Nieuwsgierige Hoplet", subname = nil}
 MultiLanguageNpcData['nl'][243844] = {name = "Chuffed Purrkin", subname = nil}
+MultiLanguageNpcData['nl'][243846] = {name = "Kill Credit: Verloren baby Hawkstrider Verzonden Home", subname = nil}
+MultiLanguageNpcData['nl'][243847] = {name = "Kwartiermeester Lymel", subname = nil}
 MultiLanguageNpcData['nl'][243848] = {name = "Afwezigheid van sluiting", subname = nil}
 MultiLanguageNpcData['nl'][243849] = {name = "Sifoncreep", subname = nil}
 MultiLanguageNpcData['nl'][243850] = {name = "Bleke waarneming", subname = nil}
 MultiLanguageNpcData['nl'][243851] = {name = "Valiant Inchshifter", subname = nil}
 MultiLanguageNpcData['nl'][243852] = {name = "Listless Swooppup", subname = nil}
 MultiLanguageNpcData['nl'][243853] = {name = "Moratari", subname = nil}
+MultiLanguageNpcData['nl'][243854] = {name = "Void Fire [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][243856] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][243857] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][243858] = {name = "Onderzoeker Ren'dorei", subname = nil}
 MultiLanguageNpcData['nl'][243859] = {name = "Donkere enkelvoud", subname = nil}
+MultiLanguageNpcData['nl'][243860] = {name = "Vexaroth", subname = nil}
+MultiLanguageNpcData['nl'][243863] = {name = "Laadbalk", subname = nil}
+MultiLanguageNpcData['nl'][243864] = {name = "Voidfang", subname = nil}
 MultiLanguageNpcData['nl'][243865] = {name = "Diminutieve Voidwalker", subname = nil}
 MultiLanguageNpcData['nl'][243866] = {name = "De gevangenis.", subname = nil}
 MultiLanguageNpcData['nl'][243867] = {name = "Frenzied Blightjaw", subname = nil}
@@ -4372,54 +4924,199 @@ MultiLanguageNpcData['nl'][243878] = {name = "Kolom Basis Visuele Stalker E", su
 MultiLanguageNpcData['nl'][243879] = {name = "Kolom Basis Visuele Stalker F", subname = nil}
 MultiLanguageNpcData['nl'][243880] = {name = "Kodo (Gray)", subname = nil}
 MultiLanguageNpcData['nl'][243881] = {name = "Rijden met Kodo (Olive)", subname = nil}
+MultiLanguageNpcData['nl'][243882] = {name = "Kill Credit: Sharpmaw onderzocht", subname = nil}
+MultiLanguageNpcData['nl'][243883] = {name = "Vorewing", subname = nil}
+MultiLanguageNpcData['nl'][243884] = {name = "Zur'ashar Kassameh", subname = nil}
+MultiLanguageNpcData['nl'][243886] = {name = "Nadia Brighton", subname = nil}
+MultiLanguageNpcData['nl'][243887] = {name = "Obscurion Broodlord", subname = nil}
+MultiLanguageNpcData['nl'][243888] = {name = "Siphoiddrone", subname = nil}
+MultiLanguageNpcData['nl'][243889] = {name = "Blood Knight Champion", subname = nil}
+MultiLanguageNpcData['nl'][243890] = {name = "Sporelord Rattu", subname = nil}
+MultiLanguageNpcData['nl'][243892] = {name = "Obscurion subjugator", subname = nil}
+MultiLanguageNpcData['nl'][243894] = {name = "Obliron", subname = nil}
+MultiLanguageNpcData['nl'][243895] = {name = "Vanguard Healer", subname = nil}
+MultiLanguageNpcData['nl'][243896] = {name = "Nadia Brighton", subname = nil}
+MultiLanguageNpcData['nl'][243897] = {name = "Voidstalker", subname = nil}
+MultiLanguageNpcData['nl'][243898] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][243899] = {name = "Vanguard Paladin", subname = nil}
+MultiLanguageNpcData['nl'][243900] = {name = "Vanguard Paladin", subname = nil}
+MultiLanguageNpcData['nl'][243902] = {name = "Murderous Lightbloom Hydra", subname = nil}
+MultiLanguageNpcData['nl'][243903] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][243905] = {name = "Danath Trollbane", subname = nil}
+MultiLanguageNpcData['nl'][243906] = {name = "Harde wind Stalker", subname = nil}
+MultiLanguageNpcData['nl'][243907] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][243913] = {name = "Nyxovar", subname = nil}
 MultiLanguageNpcData['nl'][243915] = {name = "Griftah", subname = "Verbazingwekkende amuletten"}
 MultiLanguageNpcData['nl'][243916] = {name = "Sylvanas Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][243918] = {name = "Kasiea's Ward Focus", subname = nil}
+MultiLanguageNpcData['nl'][243919] = {name = "Nullatros", subname = nil}
 MultiLanguageNpcData['nl'][243920] = {name = "Naakroan Crowd", subname = nil}
 MultiLanguageNpcData['nl'][243921] = {name = "Magische barrière", subname = nil}
 MultiLanguageNpcData['nl'][243922] = {name = "Schrijf-Weaver", subname = nil}
 MultiLanguageNpcData['nl'][243926] = {name = "Chef Xy'Zin", subname = nil}
+MultiLanguageNpcData['nl'][243929] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][243930] = {name = "Keem", subname = nil}
 MultiLanguageNpcData['nl'][243932] = {name = "Wandaanval Visuele Stalker", subname = nil}
+MultiLanguageNpcData['nl'][243933] = {name = "Cinder Zardine", subname = nil}
+MultiLanguageNpcData['nl'][243934] = {name = "Mossbeak Sparklet", subname = nil}
+MultiLanguageNpcData['nl'][243935] = {name = "Smokeflitter", subname = nil}
+MultiLanguageNpcData['nl'][243937] = {name = "Kellor Sunshimmer", subname = nil}
+MultiLanguageNpcData['nl'][243938] = {name = "Kellor Sunshimmer", subname = nil}
+MultiLanguageNpcData['nl'][243939] = {name = "Kellor Sunshimmer", subname = nil}
+MultiLanguageNpcData['nl'][243940] = {name = "Training Dummy", subname = nil}
+MultiLanguageNpcData['nl'][243941] = {name = "Stemsnap", subname = nil}
 MultiLanguageNpcData['nl'][243942] = {name = "Poort", subname = nil}
 MultiLanguageNpcData['nl'][243945] = {name = "Poort", subname = nil}
 MultiLanguageNpcData['nl'][243948] = {name = "Moratari", subname = nil}
 MultiLanguageNpcData['nl'][243955] = {name = "Raging Leegte", subname = nil}
+MultiLanguageNpcData['nl'][243958] = {name = "Darion Swiftdawn", subname = nil}
+MultiLanguageNpcData['nl'][243959] = {name = "Lynx Totem", subname = nil}
+MultiLanguageNpcData['nl'][243960] = {name = "Gewonde huisdier", subname = nil}
+MultiLanguageNpcData['nl'][243961] = {name = "Vorkai Archer", subname = nil}
+MultiLanguageNpcData['nl'][243962] = {name = "Genoemd Leegte Elf 2", subname = nil}
+MultiLanguageNpcData['nl'][243963] = {name = "Riftblade Kelain", subname = nil}
+MultiLanguageNpcData['nl'][243965] = {name = "Poederdop", subname = nil}
+MultiLanguageNpcData['nl'][243966] = {name = "Kelpscuttler", subname = nil}
+MultiLanguageNpcData['nl'][243967] = {name = "Pinehopper", subname = nil}
+MultiLanguageNpcData['nl'][243968] = {name = "Firethorn wesp", subname = nil}
+MultiLanguageNpcData['nl'][243969] = {name = "Overcroft Technicus", subname = nil}
+MultiLanguageNpcData['nl'][243970] = {name = "Silvermoon Ranger", subname = nil}
+MultiLanguageNpcData['nl'][243972] = {name = "Mistwolf Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][243973] = {name = "Tranquillien Citizen", subname = nil}
+MultiLanguageNpcData['nl'][243974] = {name = "Lost Cub", subname = nil}
 MultiLanguageNpcData['nl'][243975] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][243976] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][243977] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][243978] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][243979] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][243980] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][243981] = {name = "Vernietigde Vanguard Engine", subname = nil}
+MultiLanguageNpcData['nl'][243983] = {name = "Sycofantisch Tarasek", subname = nil}
+MultiLanguageNpcData['nl'][243984] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][243985] = {name = "Longtooth Tuskarr", subname = nil}
+MultiLanguageNpcData['nl'][243986] = {name = "Eagle Totem", subname = nil}
+MultiLanguageNpcData['nl'][243987] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][243988] = {name = "Feral Saberon", subname = nil}
+MultiLanguageNpcData['nl'][243989] = {name = "Faerin Lothar", subname = nil}
+MultiLanguageNpcData['nl'][243992] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][243993] = {name = "Kill Credit: Verzamelboek", subname = nil}
+MultiLanguageNpcData['nl'][243994] = {name = "Melida Sunward", subname = nil}
+MultiLanguageNpcData['nl'][243996] = {name = "Verloren Sethrak", subname = nil}
+MultiLanguageNpcData['nl'][243997] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][243998] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][243999] = {name = "Vanguard Turret", subname = nil}
+MultiLanguageNpcData['nl'][244000] = {name = "Hongerige Voidtrapper", subname = nil}
+MultiLanguageNpcData['nl'][244001] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244002] = {name = "Generieke konijn", subname = nil}
 MultiLanguageNpcData['nl'][244003] = {name = "Finn Bristlemane", subname = nil}
+MultiLanguageNpcData['nl'][244004] = {name = "Schip Stalker", subname = nil}
+MultiLanguageNpcData['nl'][244026] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244027] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
 MultiLanguageNpcData['nl'][244028] = {name = "Basis [PH]", subname = nil}
+MultiLanguageNpcData['nl'][244029] = {name = "Bloed getraind Lynx", subname = nil}
+MultiLanguageNpcData['nl'][244031] = {name = "Amani Battlerager", subname = nil}
+MultiLanguageNpcData['nl'][244032] = {name = "Faerin Lothar", subname = nil}
+MultiLanguageNpcData['nl'][244033] = {name = "Haranir Defender", subname = nil}
+MultiLanguageNpcData['nl'][244034] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][244035] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][244036] = {name = "Bone Pile", subname = nil}
+MultiLanguageNpcData['nl'][244037] = {name = "Faerin Lothar", subname = nil}
+MultiLanguageNpcData['nl'][244038] = {name = "Lynxhunter binnenvallen", subname = nil}
+MultiLanguageNpcData['nl'][244039] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][244040] = {name = "Amani Bearserker", subname = nil}
+MultiLanguageNpcData['nl'][244041] = {name = "Vleesstapel", subname = nil}
+MultiLanguageNpcData['nl'][244042] = {name = "Mr. Fluff", subname = nil}
+MultiLanguageNpcData['nl'][244043] = {name = "Blackfathom Destroyer", subname = nil}
+MultiLanguageNpcData['nl'][244044] = {name = "Blackfathom sirene", subname = nil}
+MultiLanguageNpcData['nl'][244046] = {name = "Encroaching Scalemaster", subname = nil}
+MultiLanguageNpcData['nl'][244047] = {name = "Void-Runed Disruptor", subname = nil}
+MultiLanguageNpcData['nl'][244048] = {name = "Getraind Snapdragon", subname = nil}
+MultiLanguageNpcData['nl'][244049] = {name = "Wey'nan", subname = nil}
 MultiLanguageNpcData['nl'][244050] = {name = "Console", subname = nil}
+MultiLanguageNpcData['nl'][244051] = {name = "Verwonde Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][244052] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][244053] = {name = "Voidmarked Intruder", subname = nil}
+MultiLanguageNpcData['nl'][244054] = {name = "Aleeta Dawnstone", subname = nil}
+MultiLanguageNpcData['nl'][244055] = {name = "Controller", subname = nil}
 MultiLanguageNpcData['nl'][244056] = {name = "Thorntail Hunter", subname = nil}
+MultiLanguageNpcData['nl'][244057] = {name = "Kill Credit: Onderzoek planten", subname = nil}
 MultiLanguageNpcData['nl'][244059] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244060] = {name = "Verplaatst Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][244061] = {name = "Paddestoelenpalen", subname = nil}
 MultiLanguageNpcData['nl'][244063] = {name = "Bridget Forgeflame", subname = nil}
+MultiLanguageNpcData['nl'][244070] = {name = "Schaduw Stalker", subname = nil}
+MultiLanguageNpcData['nl'][244071] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][244072] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][244073] = {name = "Koninklijke Garde", subname = nil}
+MultiLanguageNpcData['nl'][244074] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][244076] = {name = "Nightborne Child", subname = nil}
+MultiLanguageNpcData['nl'][244079] = {name = "Twilight Voidcaller", subname = nil}
+MultiLanguageNpcData['nl'][244080] = {name = "Nighthold Citizen", subname = nil}
+MultiLanguageNpcData['nl'][244081] = {name = "Nightborne Arcanist", subname = nil}
+MultiLanguageNpcData['nl'][244082] = {name = "Nightborne Shieldweaver", subname = nil}
+MultiLanguageNpcData['nl'][244084] = {name = "Maiev Shadowsong", subname = nil}
+MultiLanguageNpcData['nl'][244087] = {name = "Kaldorei Priesteress", subname = "Priesteres van de Maan"}
+MultiLanguageNpcData['nl'][244088] = {name = "Imperatus", subname = nil}
 MultiLanguageNpcData['nl'][244090] = {name = "Void Bubble", subname = nil}
+MultiLanguageNpcData['nl'][244091] = {name = "Creeper branden", subname = nil}
+MultiLanguageNpcData['nl'][244092] = {name = "Blaa", subname = nil}
+MultiLanguageNpcData['nl'][244093] = {name = "Sunwell Defender", subname = nil}
+MultiLanguageNpcData['nl'][244094] = {name = "Beschadigde squallfin", subname = nil}
 MultiLanguageNpcData['nl'][244095] = {name = "Aspirant mislukt", subname = nil}
+MultiLanguageNpcData['nl'][244096] = {name = "Void Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][244097] = {name = "Giant Pangolin", subname = nil}
+MultiLanguageNpcData['nl'][244098] = {name = "Decimus", subname = nil}
 MultiLanguageNpcData['nl'][244099] = {name = "Prowling Voidstalker", subname = nil}
+MultiLanguageNpcData['nl'][244100] = {name = "Sentinel van Winter", subname = nil}
 MultiLanguageNpcData['nl'][244101] = {name = "Schaduwbeschermer Phasecutter", subname = nil}
+MultiLanguageNpcData['nl'][244108] = {name = "Shen'dralar Sorcerer", subname = nil}
 MultiLanguageNpcData['nl'][244109] = {name = "Kal'shin", subname = nil}
+MultiLanguageNpcData['nl'][244110] = {name = "Void Ravener", subname = nil}
 MultiLanguageNpcData['nl'][244111] = {name = "Shadowguard Void Adept", subname = nil}
+MultiLanguageNpcData['nl'][244112] = {name = "Priesteres van de Maan", subname = nil}
 MultiLanguageNpcData['nl'][244113] = {name = "Schaduwbeschermer Soulbreaker", subname = nil}
 MultiLanguageNpcData['nl'][244114] = {name = "Void Bubble", subname = nil}
 MultiLanguageNpcData['nl'][244115] = {name = "Schaduwwacht Null Bastion", subname = nil}
+MultiLanguageNpcData['nl'][244116] = {name = "Commandant Jarod Shadowsong", subname = nil}
 MultiLanguageNpcData['nl'][244117] = {name = "Waxmonger Squick", subname = nil}
+MultiLanguageNpcData['nl'][244118] = {name = "Marin Bladewing", subname = nil}
+MultiLanguageNpcData['nl'][244119] = {name = "Twilight Shadowblade", subname = nil}
+MultiLanguageNpcData['nl'][244120] = {name = "Nightborne Shieldweaver", subname = nil}
+MultiLanguageNpcData['nl'][244121] = {name = "Night Elf Archdruid", subname = nil}
+MultiLanguageNpcData['nl'][244124] = {name = "Loa Speaker Brek", subname = "Devout van Jan'alai"}
+MultiLanguageNpcData['nl'][244125] = {name = "Nether Moth", subname = nil}
+MultiLanguageNpcData['nl'][244126] = {name = "Eonka", subname = nil}
+MultiLanguageNpcData['nl'][244128] = {name = "Obscurion subjugator", subname = nil}
 MultiLanguageNpcData['nl'][244137] = {name = "Schaduwwacht Arcanotech", subname = nil}
 MultiLanguageNpcData['nl'][244138] = {name = "Shadeye Observer", subname = nil}
 MultiLanguageNpcData['nl'][244139] = {name = "Mana-Bound Ethergate", subname = nil}
 MultiLanguageNpcData['nl'][244140] = {name = "Shadowguard Steelsoul", subname = nil}
+MultiLanguageNpcData['nl'][244141] = {name = "Hawkling voor goederen", subname = nil}
+MultiLanguageNpcData['nl'][244142] = {name = "Commandant Viskaj", subname = "Blackfathom Matriarch"}
 MultiLanguageNpcData['nl'][244143] = {name = "Xy'guts", subname = "Geïmporteerde spier"}
+MultiLanguageNpcData['nl'][244144] = {name = "Orc Brute", subname = nil}
 MultiLanguageNpcData['nl'][244148] = {name = "Bronze Brannbeard", subname = "Time-Lost Collector"}
 MultiLanguageNpcData['nl'][244149] = {name = "Ethereal Security Pylon", subname = nil}
+MultiLanguageNpcData['nl'][244150] = {name = "Fomor", subname = nil}
 MultiLanguageNpcData['nl'][244152] = {name = "Brewgarden - Koken voertuig - Brew [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244153] = {name = "Nethermade Protector", subname = "De laatste verfijning"}
 MultiLanguageNpcData['nl'][244162] = {name = "Hamer", subname = nil}
+MultiLanguageNpcData['nl'][244163] = {name = "Chua", subname = nil}
 MultiLanguageNpcData['nl'][244164] = {name = "Hooi", subname = nil}
 MultiLanguageNpcData['nl'][244165] = {name = "Graan", subname = nil}
 MultiLanguageNpcData['nl'][244166] = {name = "Wasbeer", subname = nil}
+MultiLanguageNpcData['nl'][244167] = {name = "Voidshaper", subname = nil}
 MultiLanguageNpcData['nl'][244169] = {name = "Arcanomatrixatomizer", subname = nil}
 MultiLanguageNpcData['nl'][244170] = {name = "De Koninklijke Voidwing", subname = nil}
+MultiLanguageNpcData['nl'][244171] = {name = "Darkspawn", subname = nil}
+MultiLanguageNpcData['nl'][244173] = {name = "Waterstrider", subname = nil}
+MultiLanguageNpcData['nl'][244174] = {name = "Kleine Rotsslak", subname = nil}
+MultiLanguageNpcData['nl'][244175] = {name = "Honger", subname = nil}
+MultiLanguageNpcData['nl'][244176] = {name = "Voidcoil", subname = nil}
+MultiLanguageNpcData['nl'][244178] = {name = "Shadegnasher", subname = nil}
+MultiLanguageNpcData['nl'][244179] = {name = "Blackstig", subname = nil}
+MultiLanguageNpcData['nl'][244180] = {name = "Bog Beast", subname = nil}
+MultiLanguageNpcData['nl'][244181] = {name = "Lightwood Ballista", subname = nil}
 MultiLanguageNpcData['nl'][244182] = {name = "Faceless Shadowcaller", subname = nil}
 MultiLanguageNpcData['nl'][244183] = {name = "Toevoegen aan Burrow", subname = nil}
 MultiLanguageNpcData['nl'][244184] = {name = "Faceless Willbreaker", subname = nil}
@@ -4428,79 +5125,274 @@ MultiLanguageNpcData['nl'][244186] = {name = "K'thir Dominator", subname = nil}
 MultiLanguageNpcData['nl'][244187] = {name = "K'thir Mindcarver", subname = nil}
 MultiLanguageNpcData['nl'][244215] = {name = "Vliegmachine", subname = nil}
 MultiLanguageNpcData['nl'][244220] = {name = "Mo'tow", subname = nil}
+MultiLanguageNpcData['nl'][244226] = {name = "Kill Credit: Aankomst op Trail 01 End", subname = nil}
+MultiLanguageNpcData['nl'][244231] = {name = "Eversong Defender", subname = nil}
+MultiLanguageNpcData['nl'][244236] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][244239] = {name = "Bange Hauler", subname = nil}
+MultiLanguageNpcData['nl'][244242] = {name = "En'liahn", subname = nil}
 MultiLanguageNpcData['nl'][244243] = {name = "GRAAN [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244260] = {name = "Chitigoth", subname = nil}
+MultiLanguageNpcData['nl'][244261] = {name = "Eversong Defender", subname = nil}
 MultiLanguageNpcData['nl'][244262] = {name = "Kirin Tor Guardian", subname = nil}
+MultiLanguageNpcData['nl'][244264] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][244272] = {name = "Sundereth de beller", subname = nil}
+MultiLanguageNpcData['nl'][244296] = {name = "Muckeater Fly", subname = nil}
+MultiLanguageNpcData['nl'][244297] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244298] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][244299] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][244300] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][244301] = {name = "Flittere mot", subname = nil}
 MultiLanguageNpcData['nl'][244302] = {name = "Bindende Javelin", subname = nil}
+MultiLanguageNpcData['nl'][244303] = {name = "Kind van Akil'zon", subname = nil}
 MultiLanguageNpcData['nl'][244304] = {name = "Newstead Farmer", subname = nil}
+MultiLanguageNpcData['nl'][244305] = {name = "Kill Credit: Alleria Arator Blijf een tijdje", subname = nil}
 MultiLanguageNpcData['nl'][244308] = {name = "Overlord Geya'rah", subname = nil}
+MultiLanguageNpcData['nl'][244309] = {name = "Brutok", subname = nil}
+MultiLanguageNpcData['nl'][244312] = {name = "Slavende Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][244313] = {name = "Raveneuze Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][244314] = {name = "Obscurion subjugator", subname = nil}
+MultiLanguageNpcData['nl'][244315] = {name = "Obscurion Broodlord", subname = nil}
+MultiLanguageNpcData['nl'][244316] = {name = "Obscurion tormentor", subname = nil}
+MultiLanguageNpcData['nl'][244319] = {name = "De Leegte", subname = nil}
 MultiLanguageNpcData['nl'][244320] = {name = "Voidrider Challnax", subname = nil}
+MultiLanguageNpcData['nl'][244325] = {name = "Toxic Potatotoad", subname = nil}
+MultiLanguageNpcData['nl'][244326] = {name = "Toxic Potatotoadling", subname = nil}
 MultiLanguageNpcData['nl'][244327] = {name = "Brewgarden - Koken voertuig - Brew - Fornuis [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244328] = {name = "Geassimileerde Berseker", subname = nil}
+MultiLanguageNpcData['nl'][244331] = {name = "Sifoïd", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244332] = {name = "DomanaarBruiser", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244333] = {name = "DomanaarMelee", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244334] = {name = "DomanaarCaster", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244335] = {name = "DomanaarBeestmeester", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244336] = {name = "Voidcythe", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244337] = {name = "Ultradon Primus", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244338] = {name = "Wetland Terror", subname = nil}
+MultiLanguageNpcData['nl'][244339] = {name = "Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][244340] = {name = "Lethal Lashling", subname = nil}
 MultiLanguageNpcData['nl'][244341] = {name = "Kalecgo's", subname = nil}
+MultiLanguageNpcData['nl'][244344] = {name = "Dodelijke Lasher", subname = nil}
+MultiLanguageNpcData['nl'][244349] = {name = "Potatotoad Brute", subname = nil}
+MultiLanguageNpcData['nl'][244363] = {name = "Giftige vuurvlieg", subname = nil}
+MultiLanguageNpcData['nl'][244371] = {name = "Ahl'ua Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][244376] = {name = "Ahl'ua Bull", subname = nil}
+MultiLanguageNpcData['nl'][244380] = {name = "Eversong Rootway", subname = nil}
 MultiLanguageNpcData['nl'][244381] = {name = "Woede Ogre", subname = nil}
 MultiLanguageNpcData['nl'][244382] = {name = "Voidripper", subname = nil}
+MultiLanguageNpcData['nl'][244383] = {name = "Lightbloom Monsterity", subname = nil}
 MultiLanguageNpcData['nl'][244384] = {name = "Kapitein Nil'hitan.", subname = nil}
 MultiLanguageNpcData['nl'][244385] = {name = "Na'val", subname = nil}
+MultiLanguageNpcData['nl'][244386] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][244387] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][244388] = {name = "Commandant Venel Lightblood", subname = nil}
 MultiLanguageNpcData['nl'][244389] = {name = "Kalecgo's", subname = nil}
 MultiLanguageNpcData['nl'][244390] = {name = "Kalnor de IJzerbom", subname = nil}
 MultiLanguageNpcData['nl'][244391] = {name = "Weavebinder Anontia", subname = nil}
 MultiLanguageNpcData['nl'][244393] = {name = "Portalmaster Halsan", subname = nil}
+MultiLanguageNpcData['nl'][244394] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][244409] = {name = "Blood Hunter Spirit", subname = nil}
 MultiLanguageNpcData['nl'][244410] = {name = "Pactsworn Sandreaver", subname = nil}
 MultiLanguageNpcData['nl'][244411] = {name = "Pactsworn Arcanist", subname = nil}
 MultiLanguageNpcData['nl'][244413] = {name = "Pactsworn Fraycaller", subname = nil}
 MultiLanguageNpcData['nl'][244414] = {name = "Niet geconsolideerd", subname = nil}
 MultiLanguageNpcData['nl'][244415] = {name = "Pactsworn Dustblade", subname = nil}
 MultiLanguageNpcData['nl'][244416] = {name = "Pactsworn Sandreaver", subname = nil}
+MultiLanguageNpcData['nl'][244417] = {name = "Grovecrawler Hatchling", subname = nil}
 MultiLanguageNpcData['nl'][244418] = {name = "Pactsworn Wildcaller", subname = nil}
+MultiLanguageNpcData['nl'][244419] = {name = "Amarakk", subname = nil}
+MultiLanguageNpcData['nl'][244421] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244422] = {name = "Zul'jarra", subname = nil}
 MultiLanguageNpcData['nl'][244423] = {name = "Wild Duneflyer", subname = nil}
+MultiLanguageNpcData['nl'][244424] = {name = "Cragpine", subname = nil}
 MultiLanguageNpcData['nl'][244426] = {name = "Feral Warpstalker", subname = nil}
+MultiLanguageNpcData['nl'][244427] = {name = "Kill Credit: Bloemen onderzocht D", subname = nil}
+MultiLanguageNpcData['nl'][244428] = {name = "Kill Credit: Bloemen onderzocht B", subname = nil}
+MultiLanguageNpcData['nl'][244429] = {name = "Kill Credit: Bloemen onderzocht C", subname = nil}
+MultiLanguageNpcData['nl'][244430] = {name = "Kill Credit: Bloemen onderzocht A", subname = nil}
+MultiLanguageNpcData['nl'][244432] = {name = "Hal'nok the Trampler", subname = nil}
+MultiLanguageNpcData['nl'][244433] = {name = "Kill Credit: Scout Area Trigger", subname = nil}
+MultiLanguageNpcData['nl'][244434] = {name = "Cultistische hinderlaag", subname = nil}
+MultiLanguageNpcData['nl'][244437] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244438] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244440] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][244441] = {name = "Aln'haran Tear", subname = nil}
 MultiLanguageNpcData['nl'][244442] = {name = "Huurder", subname = nil}
+MultiLanguageNpcData['nl'][244443] = {name = "Belath Dawnblade", subname = "Illidari"}
 MultiLanguageNpcData['nl'][244444] = {name = "Great Devorer", subname = nil}
+MultiLanguageNpcData['nl'][244445] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][244446] = {name = "Belath Dawnblade", subname = "Illidari"}
 MultiLanguageNpcData['nl'][244448] = {name = "Invasieve fasecrawler", subname = nil}
 MultiLanguageNpcData['nl'][244453] = {name = "D'rude", subname = nil}
+MultiLanguageNpcData['nl'][244454] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][244455] = {name = "Amarakk", subname = nil}
+MultiLanguageNpcData['nl'][244456] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][244457] = {name = "Deputy Denizen", subname = nil}
+MultiLanguageNpcData['nl'][244458] = {name = "Apprentice Mage", subname = nil}
+MultiLanguageNpcData['nl'][244459] = {name = "Hooded Noble", subname = nil}
+MultiLanguageNpcData['nl'][244463] = {name = "Morta'ka de Sundered Echo", subname = nil}
+MultiLanguageNpcData['nl'][244465] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][244466] = {name = "Drained Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][244467] = {name = "Spiritpaw Tender", subname = nil}
+MultiLanguageNpcData['nl'][244468] = {name = "Spiritpaw-verzamelaar", subname = nil}
+MultiLanguageNpcData['nl'][244469] = {name = "Denorin", subname = "Dierensmokkelaar"}
+MultiLanguageNpcData['nl'][244470] = {name = "Thiel", subname = "Shady Dealer"}
+MultiLanguageNpcData['nl'][244471] = {name = "Miss Len'dali", subname = "Soothsayers assistent"}
+MultiLanguageNpcData['nl'][244472] = {name = "Vira Bloodsong", subname = "Den Proprietor"}
+MultiLanguageNpcData['nl'][244473] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][244474] = {name = "Tarelin", subname = "Dokmaster"}
+MultiLanguageNpcData['nl'][244475] = {name = "Silvermoon Dockworker", subname = nil}
+MultiLanguageNpcData['nl'][244476] = {name = "Chua", subname = nil}
+MultiLanguageNpcData['nl'][244478] = {name = "Kill Credit 16A - TLS-gesprek voltooid [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244479] = {name = "Loa Speaker Kinduru", subname = "Devout van Akil'zon"}
+MultiLanguageNpcData['nl'][244483] = {name = "Penumbral Custedian", subname = nil}
+MultiLanguageNpcData['nl'][244484] = {name = "Getrainde shredclaw", subname = nil}
 MultiLanguageNpcData['nl'][244485] = {name = "Distributeur Ba'nacl", subname = "Visserijtrainer en -benodigdheden"}
+MultiLanguageNpcData['nl'][244486] = {name = "VoidwalkerTank", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244487] = {name = "VoidwalkerBruiser", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244488] = {name = "VoidwalkerCaster", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][244490] = {name = "Kifaan", subname = "Het Consortium"}
+MultiLanguageNpcData['nl'][244491] = {name = "Boom", subname = nil}
+MultiLanguageNpcData['nl'][244493] = {name = "Avara", subname = "Illidari Sentry"}
+MultiLanguageNpcData['nl'][244494] = {name = "Vastworteling-krab", subname = nil}
 MultiLanguageNpcData['nl'][244496] = {name = "Kalecgo's", subname = nil}
 MultiLanguageNpcData['nl'][244497] = {name = "Kapitein Garrick.", subname = nil}
 MultiLanguageNpcData['nl'][244498] = {name = "Faceless One", subname = nil}
+MultiLanguageNpcData['nl'][244499] = {name = "Kifaan", subname = "Het Consortium"}
+MultiLanguageNpcData['nl'][244500] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][244501] = {name = "Haai", subname = nil}
+MultiLanguageNpcData['nl'][244502] = {name = "Nye'rangi", subname = "Oudere"}
+MultiLanguageNpcData['nl'][244503] = {name = "Frillfish", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][244504] = {name = "Tideskipper", subname = nil}
+MultiLanguageNpcData['nl'][244505] = {name = "Zeeslak", subname = nil}
+MultiLanguageNpcData['nl'][244506] = {name = "Ter'kova", subname = "Oudere"}
+MultiLanguageNpcData['nl'][244507] = {name = "Gnarla", subname = "Oudere"}
+MultiLanguageNpcData['nl'][244508] = {name = "Hermit Krab", subname = nil}
+MultiLanguageNpcData['nl'][244509] = {name = "Bunny Caster - Void Comet", subname = nil}
+MultiLanguageNpcData['nl'][244510] = {name = "Ran'hune", subname = "Oudere"}
+MultiLanguageNpcData['nl'][244515] = {name = "Gefrituurde Ankervis", subname = nil}
+MultiLanguageNpcData['nl'][244516] = {name = "Kifaan", subname = "Het Consortium"}
+MultiLanguageNpcData['nl'][244518] = {name = "Sunborn Tideskipper", subname = nil}
+MultiLanguageNpcData['nl'][244521] = {name = "Kul'amara the Fierce", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][244522] = {name = "Veraan", subname = "De schaduwwacht"}
+MultiLanguageNpcData['nl'][244528] = {name = "Lichtbloesem", subname = nil}
 MultiLanguageNpcData['nl'][244531] = {name = "Phantom image", subname = nil}
 MultiLanguageNpcData['nl'][244532] = {name = "Raveuze rat", subname = nil}
+MultiLanguageNpcData['nl'][244533] = {name = "Lucent Hookbeak", subname = nil}
 MultiLanguageNpcData['nl'][244534] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][244535] = {name = "Padvinderskapitein Daelin", subname = nil}
+MultiLanguageNpcData['nl'][244536] = {name = "Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][244537] = {name = "Galendor Whitewing", subname = "Sylvarian Master"}
+MultiLanguageNpcData['nl'][244538] = {name = "Archmage Velor Cloudlight", subname = nil}
+MultiLanguageNpcData['nl'][244539] = {name = "Kapitein Elleane Wavecrest", subname = nil}
+MultiLanguageNpcData['nl'][244540] = {name = "Kapitein Elleane Wavecrest", subname = nil}
+MultiLanguageNpcData['nl'][244541] = {name = "Padvinderskapitein Daelin", subname = nil}
+MultiLanguageNpcData['nl'][244542] = {name = "Archmage Velor Cloudlight", subname = nil}
 MultiLanguageNpcData['nl'][244544] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['nl'][244545] = {name = "Brewfest Reveler", subname = nil}
+MultiLanguageNpcData['nl'][244546] = {name = "Riftwalker Sideras", subname = nil}
 MultiLanguageNpcData['nl'][244547] = {name = "Gryphon", subname = nil}
 MultiLanguageNpcData['nl'][244548] = {name = "Wolf", subname = nil}
+MultiLanguageNpcData['nl'][244550] = {name = "Scouting Map", subname = nil}
+MultiLanguageNpcData['nl'][244551] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244552] = {name = "Ezzorak", subname = nil}
 MultiLanguageNpcData['nl'][244555] = {name = "Buurtbewoner", subname = nil}
+MultiLanguageNpcData['nl'][244556] = {name = "Amani Sharpfeather", subname = nil}
+MultiLanguageNpcData['nl'][244557] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244558] = {name = "Juras de Nederlander", subname = nil}
 MultiLanguageNpcData['nl'][244559] = {name = "Jubilant Snowman", subname = nil}
 MultiLanguageNpcData['nl'][244560] = {name = "Arcane-raket", subname = nil}
 MultiLanguageNpcData['nl'][244561] = {name = "Mischievous Present", subname = nil}
+MultiLanguageNpcData['nl'][244562] = {name = "Tak'lejo", subname = "Shadowpine-stam"}
+MultiLanguageNpcData['nl'][244563] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][244565] = {name = "Gevangen Witherbark", subname = nil}
 MultiLanguageNpcData['nl'][244566] = {name = "Osprey", subname = nil}
 MultiLanguageNpcData['nl'][244568] = {name = "Raven", subname = nil}
 MultiLanguageNpcData['nl'][244569] = {name = "Vlinder", subname = nil}
 MultiLanguageNpcData['nl'][244570] = {name = "Paarden", subname = nil}
 MultiLanguageNpcData['nl'][244571] = {name = "Beer", subname = nil}
+MultiLanguageNpcData['nl'][244574] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
 MultiLanguageNpcData['nl'][244575] = {name = "Otter Pup", subname = nil}
+MultiLanguageNpcData['nl'][244576] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244578] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][244579] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][244580] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][244581] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244582] = {name = "Eerste Arcanist Thalyssra", subname = nil}
+MultiLanguageNpcData['nl'][244583] = {name = "Shandris Feathermoon", subname = "Hoge Generaal van de Kaldorei"}
+MultiLanguageNpcData['nl'][244584] = {name = "Rotte paddo", subname = nil}
+MultiLanguageNpcData['nl'][244585] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
+MultiLanguageNpcData['nl'][244586] = {name = "Archmage Aethas Sundéver", subname = nil}
+MultiLanguageNpcData['nl'][244587] = {name = "Beschutte Witherbark", subname = nil}
+MultiLanguageNpcData['nl'][244588] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244589] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244591] = {name = "Vun'zarah", subname = "Leider van de Witherbark"}
+MultiLanguageNpcData['nl'][244592] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244593] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244594] = {name = "Scourge Banner", subname = nil}
+MultiLanguageNpcData['nl'][244595] = {name = "Scourge War Machine", subname = nil}
+MultiLanguageNpcData['nl'][244596] = {name = "Scourge War Engineer", subname = nil}
+MultiLanguageNpcData['nl'][244597] = {name = "Soldaat van de bevroren afvalstoffen", subname = nil}
+MultiLanguageNpcData['nl'][244598] = {name = "Risen Creeper", subname = nil}
+MultiLanguageNpcData['nl'][244599] = {name = "Dreadbone Skeleton", subname = nil}
+MultiLanguageNpcData['nl'][244600] = {name = "Scourge War Engineer", subname = nil}
+MultiLanguageNpcData['nl'][244601] = {name = "Sceletal Archmage", subname = nil}
+MultiLanguageNpcData['nl'][244602] = {name = "Scourge Converter", subname = nil}
+MultiLanguageNpcData['nl'][244603] = {name = "Skeletal Reaver", subname = nil}
+MultiLanguageNpcData['nl'][244604] = {name = "Gestikt Warsong Horror", subname = nil}
+MultiLanguageNpcData['nl'][244605] = {name = "Spire Gargoyle", subname = nil}
+MultiLanguageNpcData['nl'][244606] = {name = "Schaduwwacht Technicus", subname = nil}
+MultiLanguageNpcData['nl'][244607] = {name = "Shadowguard Technomancer", subname = nil}
+MultiLanguageNpcData['nl'][244608] = {name = "Shadowguard Engineer", subname = nil}
+MultiLanguageNpcData['nl'][244609] = {name = "Schaduwbeschermer Phaseblade", subname = nil}
+MultiLanguageNpcData['nl'][244610] = {name = "Schaduwbeschermer-infuser", subname = nil}
+MultiLanguageNpcData['nl'][244611] = {name = "Buitenaardse vluchteling", subname = nil}
 MultiLanguageNpcData['nl'][244613] = {name = "Gerstsoep", subname = nil}
 MultiLanguageNpcData['nl'][244614] = {name = "Area Trigger Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244615] = {name = "Arcane Elemental", subname = nil}
+MultiLanguageNpcData['nl'][244617] = {name = "Shredclaw Packhunter", subname = nil}
+MultiLanguageNpcData['nl'][244618] = {name = "Jacht op Netherwasp", subname = nil}
 MultiLanguageNpcData['nl'][244619] = {name = "Pretzel", subname = nil}
 MultiLanguageNpcData['nl'][244620] = {name = "Area Trigger Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244621] = {name = "Schaduwwacht Automaton", subname = nil}
 MultiLanguageNpcData['nl'][244623] = {name = "Kill Credit: Brewgarden Voltooid", subname = nil}
+MultiLanguageNpcData['nl'][244624] = {name = "Ultradon Tyrant", subname = nil}
+MultiLanguageNpcData['nl'][244625] = {name = "Wanhoopkijker", subname = nil}
+MultiLanguageNpcData['nl'][244626] = {name = "Snaerius", subname = "Hunter Overal ter wereld"}
+MultiLanguageNpcData['nl'][244628] = {name = "Bush wordt tegengehouden", subname = nil}
+MultiLanguageNpcData['nl'][244629] = {name = "Bush wordt tegengehouden", subname = nil}
+MultiLanguageNpcData['nl'][244630] = {name = "Buitenaardse vluchteling", subname = nil}
 MultiLanguageNpcData['nl'][244633] = {name = "Void Bubble", subname = nil}
+MultiLanguageNpcData['nl'][244634] = {name = "Overcroft Engineer", subname = nil}
+MultiLanguageNpcData['nl'][244635] = {name = "Overcroft Adept", subname = nil}
+MultiLanguageNpcData['nl'][244636] = {name = "Vyana Vespersong", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][244637] = {name = "Buitenaardse vluchteling", subname = nil}
+MultiLanguageNpcData['nl'][244638] = {name = "Vragensteller Xen'daan", subname = nil}
 MultiLanguageNpcData['nl'][244639] = {name = "Doodsbang Broker", subname = nil}
 MultiLanguageNpcData['nl'][244640] = {name = "Brew Barrel", subname = nil}
 MultiLanguageNpcData['nl'][244641] = {name = "Abominable Aberration", subname = nil}
 MultiLanguageNpcData['nl'][244642] = {name = "Thrall", subname = nil}
 MultiLanguageNpcData['nl'][244643] = {name = "Lady Jaina Proudmoore", subname = nil}
+MultiLanguageNpcData['nl'][244644] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244647] = {name = "Shandris Feathermoon", subname = "Hoge Generaal van de Kaldorei"}
 MultiLanguageNpcData['nl'][244649] = {name = "Terug Orb Cosmetic Stalker", subname = nil}
+MultiLanguageNpcData['nl'][244650] = {name = "Rotting Vilefeaster", subname = nil}
+MultiLanguageNpcData['nl'][244651] = {name = "Vloek achtervolgen", subname = nil}
+MultiLanguageNpcData['nl'][244653] = {name = "Voidborn Reaver", subname = nil}
 MultiLanguageNpcData['nl'][244655] = {name = "Lady Jaina Proudmoore", subname = nil}
 MultiLanguageNpcData['nl'][244656] = {name = "Thrall", subname = nil}
 MultiLanguageNpcData['nl'][244657] = {name = "Thrall", subname = nil}
 MultiLanguageNpcData['nl'][244658] = {name = "Lady Jaina Proudmoore", subname = nil}
+MultiLanguageNpcData['nl'][244659] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244660] = {name = "Stormarion Onderzoeker", subname = nil}
+MultiLanguageNpcData['nl'][244661] = {name = "Soulbinder D'zaar", subname = nil}
 MultiLanguageNpcData['nl'][244662] = {name = "Kill Credit: Zak gestort [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244663] = {name = "Ethereal Shock Pylon", subname = nil}
 MultiLanguageNpcData['nl'][244666] = {name = "Thrall", subname = nil}
 MultiLanguageNpcData['nl'][244667] = {name = "Lady Jaina Proudmoore", subname = nil}
 MultiLanguageNpcData['nl'][244669] = {name = "Scavenging Hyena", subname = nil}
 MultiLanguageNpcData['nl'][244670] = {name = "Gnoll Bowblaster", subname = nil}
 MultiLanguageNpcData['nl'][244671] = {name = "Gnoll Ripper", subname = nil}
 MultiLanguageNpcData['nl'][244672] = {name = "Gnoll Bruiser", subname = nil}
+MultiLanguageNpcData['nl'][244673] = {name = "Void-Crazed Verrader", subname = "De schaduwwacht"}
 MultiLanguageNpcData['nl'][244674] = {name = "Ogre Destroyer", subname = nil}
 MultiLanguageNpcData['nl'][244675] = {name = "Runk", subname = nil}
 MultiLanguageNpcData['nl'][244676] = {name = "Kobold Pillager", subname = nil}
@@ -4513,34 +5405,87 @@ MultiLanguageNpcData['nl'][244687] = {name = "Wagon", subname = nil}
 MultiLanguageNpcData['nl'][244688] = {name = "Paarden", subname = nil}
 MultiLanguageNpcData['nl'][244690] = {name = "Stromgarde Footman", subname = nil}
 MultiLanguageNpcData['nl'][244691] = {name = "Gnoll-oplader", subname = nil}
+MultiLanguageNpcData['nl'][244692] = {name = "Zwartoog", subname = nil}
 MultiLanguageNpcData['nl'][244695] = {name = "Ettin Crusher", subname = nil}
+MultiLanguageNpcData['nl'][244696] = {name = "Raging Squall", subname = nil}
 MultiLanguageNpcData['nl'][244697] = {name = "Blokker [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244698] = {name = "Archmage Aethas Sundéver", subname = nil}
+MultiLanguageNpcData['nl'][244699] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
 MultiLanguageNpcData['nl'][244700] = {name = "Umbral Gate", subname = nil}
+MultiLanguageNpcData['nl'][244701] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][244702] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][244703] = {name = "Kill Credit: Bestelling [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244704] = {name = "Kill Credit: Voedsel geleverd [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244705] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['nl'][244706] = {name = "Pretzel", subname = nil}
 MultiLanguageNpcData['nl'][244707] = {name = "Void Bubble", subname = nil}
+MultiLanguageNpcData['nl'][244708] = {name = "Voidminder", subname = nil}
 MultiLanguageNpcData['nl'][244709] = {name = "Ro'grok", subname = nil}
 MultiLanguageNpcData['nl'][244710] = {name = "Gepantserde Cleaver", subname = nil}
 MultiLanguageNpcData['nl'][244711] = {name = "Gepantserde Cleaver", subname = nil}
+MultiLanguageNpcData['nl'][244712] = {name = "Horde Domanaar Escort", subname = nil}
+MultiLanguageNpcData['nl'][244713] = {name = "Alliance Domanaar Escort", subname = nil}
 MultiLanguageNpcData['nl'][244714] = {name = "Lady Jaina Proudmoore", subname = nil}
 MultiLanguageNpcData['nl'][244715] = {name = "Thrall", subname = nil}
+MultiLanguageNpcData['nl'][244728] = {name = "Sky's Hope", subname = nil}
 MultiLanguageNpcData['nl'][244729] = {name = "Boer Bruvk", subname = nil}
+MultiLanguageNpcData['nl'][244730] = {name = "Enkelvoudsanker", subname = nil}
+MultiLanguageNpcData['nl'][244731] = {name = "Zonsondergangsplug", subname = nil}
+MultiLanguageNpcData['nl'][244732] = {name = "Twilight Voidchurner", subname = nil}
+MultiLanguageNpcData['nl'][244735] = {name = "Mothstalker Cub", subname = nil}
+MultiLanguageNpcData['nl'][244736] = {name = "Burrowchaser", subname = nil}
+MultiLanguageNpcData['nl'][244737] = {name = "Mistfoot Scurrier", subname = nil}
+MultiLanguageNpcData['nl'][244738] = {name = "De leegte", subname = nil}
+MultiLanguageNpcData['nl'][244740] = {name = "Schaduw binnenvallen", subname = nil}
+MultiLanguageNpcData['nl'][244741] = {name = "Grand Artificer Romul", subname = nil}
+MultiLanguageNpcData['nl'][244742] = {name = "Riftblade Maella", subname = nil}
+MultiLanguageNpcData['nl'][244744] = {name = "Twilight Lightburner", subname = nil}
+MultiLanguageNpcData['nl'][244745] = {name = "Lady Darkglen", subname = nil}
+MultiLanguageNpcData['nl'][244746] = {name = "Leona Darkstrider", subname = nil}
+MultiLanguageNpcData['nl'][244747] = {name = "Voidmaster Darkmere", subname = nil}
+MultiLanguageNpcData['nl'][244749] = {name = "Xy'dax", subname = "Schaduwhandel Invoer"}
+MultiLanguageNpcData['nl'][244751] = {name = "Voidrift Researcher", subname = nil}
 MultiLanguageNpcData['nl'][244752] = {name = "Nexus-Princess Ky'veza", subname = nil}
 MultiLanguageNpcData['nl'][244753] = {name = "Nexus-Princess Ky'veza", subname = nil}
+MultiLanguageNpcData['nl'][244754] = {name = "Algemeen - lege konijn", subname = nil}
 MultiLanguageNpcData['nl'][244755] = {name = "Nexus-Princess Ky'veza", subname = nil}
 MultiLanguageNpcData['nl'][244756] = {name = "Buurtarbeider", subname = nil}
+MultiLanguageNpcData['nl'][244757] = {name = "Versloeg Mistfoot", subname = nil}
+MultiLanguageNpcData['nl'][244758] = {name = "Versloeg Lynxstalker", subname = nil}
+MultiLanguageNpcData['nl'][244759] = {name = "Gebroken Shivercore", subname = nil}
+MultiLanguageNpcData['nl'][244761] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][244762] = {name = "Lu'ashal", subname = nil}
+MultiLanguageNpcData['nl'][244763] = {name = "Blush Pinebeak", subname = nil}
+MultiLanguageNpcData['nl'][244765] = {name = "Blush Pinebeak", subname = nil}
+MultiLanguageNpcData['nl'][244767] = {name = "Lightwood Ballista", subname = nil}
+MultiLanguageNpcData['nl'][244768] = {name = "Onwillige oproeping", subname = nil}
+MultiLanguageNpcData['nl'][244769] = {name = "Vooruitzichten van de master", subname = "Gevangen Buitenwerelder"}
+MultiLanguageNpcData['nl'][244770] = {name = "Donkere ontvoerder", subname = nil}
 MultiLanguageNpcData['nl'][244771] = {name = "Rune of Polymorph", subname = nil}
+MultiLanguageNpcData['nl'][244772] = {name = "Gedegradeerde Contender", subname = nil}
+MultiLanguageNpcData['nl'][244774] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244775] = {name = "Luitenant Valria", subname = nil}
+MultiLanguageNpcData['nl'][244776] = {name = "Terracimus", subname = nil}
 MultiLanguageNpcData['nl'][244777] = {name = "Keggor the Fermented", subname = nil}
+MultiLanguageNpcData['nl'][244778] = {name = "Silvermoon Ranger", subname = nil}
 MultiLanguageNpcData['nl'][244779] = {name = "Lost Legion Demonfly", subname = nil}
 MultiLanguageNpcData['nl'][244780] = {name = "Lost Legion Felbat", subname = nil}
 MultiLanguageNpcData['nl'][244781] = {name = "Lost Legion Darkglare", subname = nil}
 MultiLanguageNpcData['nl'][244782] = {name = "Oog van hebzucht", subname = nil}
 MultiLanguageNpcData['nl'][244785] = {name = "Gepantserde Cleaver", subname = nil}
 MultiLanguageNpcData['nl'][244786] = {name = "Gnoll-oplader", subname = nil}
+MultiLanguageNpcData['nl'][244787] = {name = "Broken Wigilant", subname = nil}
+MultiLanguageNpcData['nl'][244788] = {name = "Oudere kunstenaar Batos", subname = nil}
 MultiLanguageNpcData['nl'][244789] = {name = "Kokenpot", subname = nil}
+MultiLanguageNpcData['nl'][244791] = {name = "Blackfeet, the Cunning", subname = nil}
 MultiLanguageNpcData['nl'][244792] = {name = "Lindormi", subname = "Mythische sleutelstenen"}
+MultiLanguageNpcData['nl'][244793] = {name = "Lichte barricade", subname = nil}
+MultiLanguageNpcData['nl'][244794] = {name = "Feline Freighter", subname = nil}
+MultiLanguageNpcData['nl'][244796] = {name = "Elfhond", subname = nil}
+MultiLanguageNpcData['nl'][244797] = {name = "Havenhaas", subname = nil}
+MultiLanguageNpcData['nl'][244798] = {name = "Hawkstrider Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][244799] = {name = "Canal Crustacean", subname = nil}
+MultiLanguageNpcData['nl'][244800] = {name = "Shadowtrade Mercenary", subname = nil}
 MultiLanguageNpcData['nl'][244806] = {name = "Buurtwacht", subname = nil}
 MultiLanguageNpcData['nl'][244811] = {name = "Kill Credit: Pretzel ingrediënten verkregen [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244812] = {name = "Kill Credit: Pretzel tabel gebruikt [DNT]", subname = nil}
@@ -4557,76 +5502,262 @@ MultiLanguageNpcData['nl'][244824] = {name = "Kill Credit: Brew Table gebruiken 
 MultiLanguageNpcData['nl'][244825] = {name = "Kill Credit: Verwarm de Oven [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244826] = {name = "Kill Credit: Toevoegen aan Hop [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244827] = {name = "Kill Credit: Breng Keg [DNT] aan", subname = nil}
+MultiLanguageNpcData['nl'][244828] = {name = "Lightfrenzy Portalway", subname = nil}
+MultiLanguageNpcData['nl'][244829] = {name = "Defensiepositie", subname = nil}
 MultiLanguageNpcData['nl'][244832] = {name = "Run of Explosive Force", subname = nil}
+MultiLanguageNpcData['nl'][244834] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244835] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244836] = {name = "Overcroft Inquisiteur", subname = nil}
+MultiLanguageNpcData['nl'][244837] = {name = "Atal'Aman Bear Rider", subname = nil}
+MultiLanguageNpcData['nl'][244838] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244839] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244840] = {name = "Kwartiermeester Lymel", subname = nil}
+MultiLanguageNpcData['nl'][244841] = {name = "Zoute Cragscuttler", subname = nil}
+MultiLanguageNpcData['nl'][244842] = {name = "Shadecoat Cub", subname = nil}
+MultiLanguageNpcData['nl'][244843] = {name = "Dwalende nestling", subname = nil}
+MultiLanguageNpcData['nl'][244844] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244845] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244846] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244847] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][244848] = {name = "Voorzichtig Paa'he", subname = nil}
+MultiLanguageNpcData['nl'][244849] = {name = "Zwartoog", subname = nil}
 MultiLanguageNpcData['nl'][244850] = {name = "Buurtarbeider", subname = nil}
+MultiLanguageNpcData['nl'][244851] = {name = "Tranquillien Newcomer", subname = nil}
+MultiLanguageNpcData['nl'][244854] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244856] = {name = "Invis konijn voor spelling gericht op [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244857] = {name = "Kind van Hir'eek", subname = nil}
+MultiLanguageNpcData['nl'][244858] = {name = "Spawn of Shadra", subname = nil}
+MultiLanguageNpcData['nl'][244859] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244860] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][244862] = {name = "Otter", subname = nil}
 MultiLanguageNpcData['nl'][244863] = {name = "Buurtwacht", subname = nil}
 MultiLanguageNpcData['nl'][244864] = {name = "Koe", subname = nil}
 MultiLanguageNpcData['nl'][244865] = {name = "Soepspecialist", subname = nil}
+MultiLanguageNpcData['nl'][244867] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][244869] = {name = "Blizzard's Wrath", subname = nil}
+MultiLanguageNpcData['nl'][244870] = {name = "Lyssara Duskmourne", subname = nil}
+MultiLanguageNpcData['nl'][244871] = {name = "Onzichtbare konijn (Grapple Hook)", subname = nil}
+MultiLanguageNpcData['nl'][244872] = {name = "Onzichtbare konijn (Grapple Hook Point)", subname = nil}
+MultiLanguageNpcData['nl'][244873] = {name = "Getemd Amani Crocolisk", subname = nil}
+MultiLanguageNpcData['nl'][244874] = {name = "Amani Crocolisk", subname = nil}
+MultiLanguageNpcData['nl'][244875] = {name = "Entropy Wielder", subname = nil}
+MultiLanguageNpcData['nl'][244876] = {name = "Green Bear Rune [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244877] = {name = "Paarse Lynx Rune [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244878] = {name = "White Eagle Rune [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244879] = {name = "Red Dragonhawk Rune [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244880] = {name = "Void Conduit", subname = nil}
+MultiLanguageNpcData['nl'][244881] = {name = "Void Conduit", subname = nil}
+MultiLanguageNpcData['nl'][244882] = {name = "Void Conduit", subname = nil}
+MultiLanguageNpcData['nl'][244883] = {name = "Void Conduit", subname = nil}
+MultiLanguageNpcData['nl'][244884] = {name = "Atal'Aman Beast Tamer", subname = nil}
+MultiLanguageNpcData['nl'][244886] = {name = "Amani Lynx", subname = nil}
+MultiLanguageNpcData['nl'][244887] = {name = "Ikuzz the Light Hunter", subname = nil}
+MultiLanguageNpcData['nl'][244888] = {name = "Het verbranden van Amani Behorings [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][244889] = {name = "Loa Speaker Nanea", subname = "Devout of Nalorakk"}
+MultiLanguageNpcData['nl'][244890] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244891] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244892] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244893] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244894] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244895] = {name = "Nalorakk", subname = "Loa of War"}
+MultiLanguageNpcData['nl'][244896] = {name = "En'liahn's Innerlijke Gids", subname = nil}
+MultiLanguageNpcData['nl'][244897] = {name = "Tempelschildpad", subname = nil}
+MultiLanguageNpcData['nl'][244898] = {name = "Amani Frog", subname = nil}
+MultiLanguageNpcData['nl'][244899] = {name = "Fractuur", subname = nil}
+MultiLanguageNpcData['nl'][244900] = {name = "Onzichtbare konijn (Grapple Hook Point 2)", subname = nil}
+MultiLanguageNpcData['nl'][244901] = {name = "Onzichtbare konijn (Grapple Hook 2)", subname = nil}
+MultiLanguageNpcData['nl'][244903] = {name = "zwakke stip", subname = nil}
 MultiLanguageNpcData['nl'][244904] = {name = "Donkere minion", subname = nil}
 MultiLanguageNpcData['nl'][244905] = {name = "Dryad", subname = nil}
+MultiLanguageNpcData['nl'][244906] = {name = "Loa Speaker Tobui", subname = "Devout van Halazzi"}
+MultiLanguageNpcData['nl'][244907] = {name = "Opgeroepen Darkling", subname = nil}
+MultiLanguageNpcData['nl'][244908] = {name = "Arena Controller", subname = nil}
 MultiLanguageNpcData['nl'][244909] = {name = "Rune of Stasis", subname = nil}
+MultiLanguageNpcData['nl'][244910] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][244911] = {name = "Niet geconsolideerd.", subname = nil}
+MultiLanguageNpcData['nl'][244912] = {name = "Darkhearth Kein", subname = "Innkeeper"}
 MultiLanguageNpcData['nl'][244914] = {name = "Niet-geconsolideerd", subname = nil}
+MultiLanguageNpcData['nl'][244915] = {name = "Hugo", subname = nil}
+MultiLanguageNpcData['nl'][244916] = {name = "Wilhelmina", subname = nil}
+MultiLanguageNpcData['nl'][244917] = {name = "Amani Craftsman", subname = nil}
+MultiLanguageNpcData['nl'][244918] = {name = "Supply Strider", subname = nil}
 MultiLanguageNpcData['nl'][244919] = {name = "Toeristen", subname = nil}
 MultiLanguageNpcData['nl'][244920] = {name = "Danath Trollbane", subname = nil}
+MultiLanguageNpcData['nl'][244921] = {name = "Hongerige Eaglet", subname = nil}
 MultiLanguageNpcData['nl'][244922] = {name = "Schaduwbeschermer Phaseblade", subname = nil}
 MultiLanguageNpcData['nl'][244923] = {name = "Boer Bruvk", subname = nil}
+MultiLanguageNpcData['nl'][244924] = {name = "Invasieve prismonia", subname = nil}
+MultiLanguageNpcData['nl'][244925] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244926] = {name = "Waakzame adelaar", subname = nil}
 MultiLanguageNpcData['nl'][244927] = {name = "Doodsbang Broker", subname = nil}
 MultiLanguageNpcData['nl'][244928] = {name = "Telekinetische Onslaught Stalker", subname = nil}
+MultiLanguageNpcData['nl'][244929] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][244930] = {name = "Bloodthorn Wortelt vast", subname = nil}
+MultiLanguageNpcData['nl'][244931] = {name = "Verbaasde omstander", subname = nil}
 MultiLanguageNpcData['nl'][244932] = {name = "Vilnea", subname = "Algemene leveringen"}
+MultiLanguageNpcData['nl'][244933] = {name = "Verbaasde omstander", subname = nil}
 MultiLanguageNpcData['nl'][244934] = {name = "Wagon", subname = nil}
+MultiLanguageNpcData['nl'][244935] = {name = "Noxian", subname = nil}
+MultiLanguageNpcData['nl'][244936] = {name = "Averus", subname = nil}
+MultiLanguageNpcData['nl'][244937] = {name = "Tenebre", subname = nil}
 MultiLanguageNpcData['nl'][244938] = {name = "Buurtarbeider", subname = nil}
+MultiLanguageNpcData['nl'][244939] = {name = "Vortensiun", subname = nil}
 MultiLanguageNpcData['nl'][244940] = {name = "Geprezen pompoen", subname = nil}
+MultiLanguageNpcData['nl'][244941] = {name = "Berry Bush", subname = nil}
+MultiLanguageNpcData['nl'][244942] = {name = "Enkelvoudsanker", subname = nil}
+MultiLanguageNpcData['nl'][244943] = {name = "Pieps", subname = "Verloren Hawkstrider Fledgling"}
 MultiLanguageNpcData['nl'][244944] = {name = "Alpaca", subname = nil}
+MultiLanguageNpcData['nl'][244945] = {name = "Rampant Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][244946] = {name = "Trigore", subname = nil}
+MultiLanguageNpcData['nl'][244947] = {name = "Encroaching Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][244948] = {name = "Decimus", subname = nil}
 MultiLanguageNpcData['nl'][244950] = {name = "Dode vis", subname = nil}
 MultiLanguageNpcData['nl'][244951] = {name = "Zeemeeuw", subname = nil}
 MultiLanguageNpcData['nl'][244953] = {name = "Rune of Disintegratie", subname = nil}
+MultiLanguageNpcData['nl'][244955] = {name = "Highlord Darion Mograine", subname = "Ruiter van de Ebon Blade"}
 MultiLanguageNpcData['nl'][244956] = {name = "Geprezen pompoen", subname = nil}
+MultiLanguageNpcData['nl'][244957] = {name = "Koning Thoras Trollbane", subname = "Ruiter van de Ebon Blade"}
+MultiLanguageNpcData['nl'][244958] = {name = "Hoge Inquisitor Whitemane", subname = "Ruiter van de Ebon Blade"}
+MultiLanguageNpcData['nl'][244959] = {name = "Nazgrim", subname = "Ruiter van de Ebon Blade"}
+MultiLanguageNpcData['nl'][244960] = {name = "Thassariaans", subname = nil}
+MultiLanguageNpcData['nl'][244961] = {name = "Koltira Deathweaver", subname = nil}
+MultiLanguageNpcData['nl'][244962] = {name = "Remming Siphoid", subname = nil}
+MultiLanguageNpcData['nl'][244963] = {name = "Sulking Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][244964] = {name = "Waalse Harrower", subname = nil}
+MultiLanguageNpcData['nl'][244965] = {name = "Sack of Gnarldin Heads", subname = nil}
 MultiLanguageNpcData['nl'][244966] = {name = "Vaultwarden Falnora", subname = nil}
+MultiLanguageNpcData['nl'][244967] = {name = "Kruipende blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][244968] = {name = "Nether Broodling", subname = nil}
 MultiLanguageNpcData['nl'][244969] = {name = "Telekinetische Onslaught Stalker", subname = nil}
 MultiLanguageNpcData['nl'][244970] = {name = "Telekinetische Onslaught Stalker", subname = nil}
 MultiLanguageNpcData['nl'][244971] = {name = "Telekinetische Onslaught Stalker", subname = nil}
 MultiLanguageNpcData['nl'][244973] = {name = "Rat", subname = nil}
 MultiLanguageNpcData['nl'][244974] = {name = "Telekinetische Onslaught Stalker", subname = nil}
+MultiLanguageNpcData['nl'][244976] = {name = "Grand Artificer Romul", subname = nil}
+MultiLanguageNpcData['nl'][244977] = {name = "Voidmaster Darkmere", subname = nil}
+MultiLanguageNpcData['nl'][244978] = {name = "Xy'dax", subname = "Shadowtrade Importeur"}
+MultiLanguageNpcData['nl'][244979] = {name = "Riftblade Maella", subname = nil}
+MultiLanguageNpcData['nl'][244980] = {name = "Bekend gezicht", subname = nil}
+MultiLanguageNpcData['nl'][244981] = {name = "Bekende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][244982] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][244983] = {name = "Remming Siphoid", subname = nil}
+MultiLanguageNpcData['nl'][244985] = {name = "Al'yenn", subname = "Speciale drankjes"}
+MultiLanguageNpcData['nl'][244986] = {name = "Voidclot", subname = nil}
+MultiLanguageNpcData['nl'][244987] = {name = "Wraakzuchtige Shade", subname = nil}
+MultiLanguageNpcData['nl'][244988] = {name = "Xheng", subname = nil}
+MultiLanguageNpcData['nl'][244990] = {name = "Shadestep Kilivore", subname = nil}
+MultiLanguageNpcData['nl'][244991] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][244992] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][244994] = {name = "Sainna", subname = "Handelsmiddelen"}
 MultiLanguageNpcData['nl'][244996] = {name = "Xeronië", subname = nil}
+MultiLanguageNpcData['nl'][245001] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][245004] = {name = "Heer Antenorian", subname = nil}
+MultiLanguageNpcData['nl'][245007] = {name = "Obscurion Obliterator", subname = nil}
 MultiLanguageNpcData['nl'][245008] = {name = "Niet geconsolideerd voor fasebladen", subname = nil}
+MultiLanguageNpcData['nl'][245009] = {name = "Rutaani-vluchteling", subname = nil}
+MultiLanguageNpcData['nl'][245010] = {name = "Marmar", subname = "De Huntress"}
+MultiLanguageNpcData['nl'][245011] = {name = "Kat?", subname = nil}
+MultiLanguageNpcData['nl'][245012] = {name = "Blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][245013] = {name = "Ronove", subname = nil}
+MultiLanguageNpcData['nl'][245014] = {name = "Vreemde kat", subname = nil}
+MultiLanguageNpcData['nl'][245015] = {name = "Twilight Skirmisher", subname = "T1 (1/1)"}
 MultiLanguageNpcData['nl'][245016] = {name = "T.W.I.N.K.", subname = "Eliminator ervaren"}
 MultiLanguageNpcData['nl'][245018] = {name = "7DU_TombofSargeras_GhostVFX_Barrier", subname = nil}
+MultiLanguageNpcData['nl'][245019] = {name = "Gibby", subname = nil}
 MultiLanguageNpcData['nl'][245021] = {name = "Bereid vlees", subname = nil}
+MultiLanguageNpcData['nl'][245022] = {name = "Decaying Sporeguard", subname = nil}
+MultiLanguageNpcData['nl'][245023] = {name = "Fallen Amani Warrior", subname = nil}
 MultiLanguageNpcData['nl'][245026] = {name = "Win'sa", subname = "Food Leverancier"}
 MultiLanguageNpcData['nl'][245027] = {name = "Gnoll aanvaller", subname = nil}
 MultiLanguageNpcData['nl'][245028] = {name = "Horde Grunt", subname = nil}
+MultiLanguageNpcData['nl'][245029] = {name = "Moerasworm, opgekomen", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][245030] = {name = "Boggorm", subname = "T2 (2/1,2)"}
 MultiLanguageNpcData['nl'][245031] = {name = "Sound Stalker - 11.2.7 Amb - Behuizing - Item Sound Stalker - Uil Periodiek", subname = nil}
 MultiLanguageNpcData['nl'][245032] = {name = "Sound Stalker - 11.2.7 Amb - Huisvesting - Item Sound Stalker - Cicada Loop", subname = nil}
 MultiLanguageNpcData['nl'][245033] = {name = "Torment Stalker wordt onderbroken", subname = nil}
 MultiLanguageNpcData['nl'][245034] = {name = "Eenden", subname = nil}
 MultiLanguageNpcData['nl'][245035] = {name = "Eenden", subname = nil}
 MultiLanguageNpcData['nl'][245036] = {name = "Sound Stalker - 11.2.7 Amb - Behuizing - Area Trigger Sound Stalker", subname = nil}
+MultiLanguageNpcData['nl'][245037] = {name = "Nederland", subname = nil}
 MultiLanguageNpcData['nl'][245038] = {name = "Skimmer", subname = nil}
 MultiLanguageNpcData['nl'][245039] = {name = "Crystaline Defense Matrix", subname = nil}
+MultiLanguageNpcData['nl'][245041] = {name = "Nederland", subname = nil}
 MultiLanguageNpcData['nl'][245042] = {name = "Dragonfly", subname = nil}
+MultiLanguageNpcData['nl'][245044] = {name = "Nightbrood", subname = nil}
 MultiLanguageNpcData['nl'][245045] = {name = "Raven", subname = nil}
+MultiLanguageNpcData['nl'][245046] = {name = "Instructeur Aurelion", subname = nil}
+MultiLanguageNpcData['nl'][245051] = {name = "konijntje", subname = nil}
 MultiLanguageNpcData['nl'][245052] = {name = "Horde Grunt", subname = nil}
 MultiLanguageNpcData['nl'][245053] = {name = "Gesifoneerd Drake", subname = nil}
+MultiLanguageNpcData['nl'][245054] = {name = "Loanite Pebble", subname = nil}
+MultiLanguageNpcData['nl'][245056] = {name = "Voidborn Pillager", subname = nil}
+MultiLanguageNpcData['nl'][245059] = {name = "Loanite Chip", subname = nil}
+MultiLanguageNpcData['nl'][245060] = {name = "Decimus", subname = nil}
 MultiLanguageNpcData['nl'][245067] = {name = "Xeronië", subname = nil}
+MultiLanguageNpcData['nl'][245068] = {name = "Achtergrond", subname = nil}
 MultiLanguageNpcData['nl'][245069] = {name = "Gnoll aanvaller", subname = nil}
+MultiLanguageNpcData['nl'][245071] = {name = "Poort", subname = nil}
 MultiLanguageNpcData['nl'][245072] = {name = "Sound Stalker - 11.2.7 Amb - Huisvesting - Item Sound Stalker - Tavern Crowd Loop", subname = nil}
 MultiLanguageNpcData['nl'][245073] = {name = "Sound Stalker - 11.2.7 Amb - Huisvesting - Item Sound Stalker - Crickets Loop", subname = nil}
 MultiLanguageNpcData['nl'][245074] = {name = "Sound Stalker - 11.2.7 Amb - Huisvesting - Item Sound Stalker - Tavern Chant Periodiek", subname = nil}
 MultiLanguageNpcData['nl'][245075] = {name = "Sound Stalker - 11.2.7 Amb - Huisvesting - Item Sound Stalker - Elwynn Night", subname = nil}
+MultiLanguageNpcData['nl'][245076] = {name = "Het Bleke Oog", subname = nil}
 MultiLanguageNpcData['nl'][245083] = {name = "Energie", subname = nil}
+MultiLanguageNpcData['nl'][245084] = {name = "Empowered Voidwalker", subname = nil}
 MultiLanguageNpcData['nl'][245085] = {name = "Sound Stalker - 11.2.7 Amb - Behuizing - Item Sound Stalker - Leegte sfeer", subname = nil}
 MultiLanguageNpcData['nl'][245086] = {name = "Kotterende rat", subname = nil}
 MultiLanguageNpcData['nl'][245087] = {name = "Raven", subname = nil}
+MultiLanguageNpcData['nl'][245088] = {name = "Portaaltaxi", subname = nil}
+MultiLanguageNpcData['nl'][245089] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][245090] = {name = "Hagar", subname = "Oudere"}
 MultiLanguageNpcData['nl'][245092] = {name = "Creeper branden", subname = nil}
+MultiLanguageNpcData['nl'][245096] = {name = "Hagar", subname = "Oudere"}
+MultiLanguageNpcData['nl'][245097] = {name = "Hagar", subname = "Oudere"}
 MultiLanguageNpcData['nl'][245098] = {name = "Etherische commandant", subname = nil}
+MultiLanguageNpcData['nl'][245099] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][245100] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][245101] = {name = "Shulna", subname = nil}
+MultiLanguageNpcData['nl'][245102] = {name = "Dalnir", subname = "Vastworteling-tender"}
+MultiLanguageNpcData['nl'][245103] = {name = "Chonon", subname = nil}
+MultiLanguageNpcData['nl'][245104] = {name = "Alton Parsons", subname = nil}
+MultiLanguageNpcData['nl'][245105] = {name = "Or'jan", subname = nil}
+MultiLanguageNpcData['nl'][245106] = {name = "Zhakir", subname = nil}
+MultiLanguageNpcData['nl'][245107] = {name = "Fuunid", subname = nil}
+MultiLanguageNpcData['nl'][245108] = {name = "Gezant Habissi", subname = "Vertegenwoordiger van Harandar"}
 MultiLanguageNpcData['nl'][245109] = {name = "Splinter van het lot", subname = nil}
+MultiLanguageNpcData['nl'][245110] = {name = "Gekloofd draaien", subname = nil}
+MultiLanguageNpcData['nl'][245111] = {name = "CH02Q07b Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245112] = {name = "Rutaani Shepherd", subname = nil}
+MultiLanguageNpcData['nl'][245113] = {name = "Rift Simulacrum", subname = nil}
+MultiLanguageNpcData['nl'][245114] = {name = "Vicious Sapper", subname = nil}
+MultiLanguageNpcData['nl'][245115] = {name = "Petalwing", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][245116] = {name = "Tranquil Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][245117] = {name = "Pesky Sludger", subname = nil}
+MultiLanguageNpcData['nl'][245118] = {name = "Invasieve Drifter", subname = nil}
+MultiLanguageNpcData['nl'][245119] = {name = "Kever", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][245120] = {name = "Chloorceros", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][245121] = {name = "Luminbulb", subname = nil}
 MultiLanguageNpcData['nl'][245122] = {name = "Pretzel Dough Widget Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245123] = {name = "Bunny richten", subname = nil}
+MultiLanguageNpcData['nl'][245124] = {name = "Atal'Aman Axe Thrower", subname = nil}
+MultiLanguageNpcData['nl'][245125] = {name = "Turalyon", subname = nil}
 MultiLanguageNpcData['nl'][245130] = {name = "Gebroken energiecannister", subname = nil}
 MultiLanguageNpcData['nl'][245132] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][245133] = {name = "Eversong Pass Watcher", subname = nil}
 MultiLanguageNpcData['nl'][245134] = {name = "Lokaal", subname = nil}
+MultiLanguageNpcData['nl'][245135] = {name = "Torrential Totem", subname = nil}
+MultiLanguageNpcData['nl'][245136] = {name = "Bunny richten", subname = nil}
 MultiLanguageNpcData['nl'][245137] = {name = "Shard Visuals Target Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245139] = {name = "Stormbound Mystic", subname = nil}
+MultiLanguageNpcData['nl'][245143] = {name = "Ruthless Totemcaller", subname = nil}
+MultiLanguageNpcData['nl'][245144] = {name = "Apprentice Theranil", subname = nil}
+MultiLanguageNpcData['nl'][245145] = {name = "Bonded Beasttamer", subname = nil}
+MultiLanguageNpcData['nl'][245146] = {name = "Grizzled Warbringer", subname = nil}
+MultiLanguageNpcData['nl'][245147] = {name = "Amani'Zar Scout", subname = nil}
+MultiLanguageNpcData['nl'][245148] = {name = "Grizzled Warbringer", subname = nil}
 MultiLanguageNpcData['nl'][245150] = {name = "Graangeraspt", subname = nil}
+MultiLanguageNpcData['nl'][245151] = {name = "Oudere Hagar", subname = nil}
+MultiLanguageNpcData['nl'][245154] = {name = "Amani'Zar Scout", subname = nil}
 MultiLanguageNpcData['nl'][245155] = {name = "Xal'atath", subname = "De voorbode"}
 MultiLanguageNpcData['nl'][245156] = {name = "Soul-Scribe", subname = nil}
 MultiLanguageNpcData['nl'][245157] = {name = "Narathe", subname = nil}
@@ -4636,35 +5767,116 @@ MultiLanguageNpcData['nl'][245160] = {name = "Qaishaa", subname = nil}
 MultiLanguageNpcData['nl'][245161] = {name = "Om'talad", subname = nil}
 MultiLanguageNpcData['nl'][245162] = {name = "Jayan", subname = nil}
 MultiLanguageNpcData['nl'][245164] = {name = "Mevrouw Goya", subname = "Leider van de Zwarte Markt"}
+MultiLanguageNpcData['nl'][245165] = {name = "Daphne Evenfall", subname = nil}
+MultiLanguageNpcData['nl'][245166] = {name = "Ney'leia", subname = nil}
+MultiLanguageNpcData['nl'][245168] = {name = "Shul'ka Ward", subname = nil}
+MultiLanguageNpcData['nl'][245169] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][245170] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][245172] = {name = "Vooruitzichten mislukt", subname = nil}
 MultiLanguageNpcData['nl'][245173] = {name = "Infused Tangle", subname = nil}
+MultiLanguageNpcData['nl'][245174] = {name = "Feranine", subname = "Exotische goederen"}
+MultiLanguageNpcData['nl'][245175] = {name = "Darlia", subname = "Vergiftigingen"}
+MultiLanguageNpcData['nl'][245176] = {name = "Soothsayer Sargle", subname = nil}
+MultiLanguageNpcData['nl'][245177] = {name = "Gemaskerde edelsteen", subname = nil}
 MultiLanguageNpcData['nl'][245178] = {name = "Waypoint A", subname = nil}
+MultiLanguageNpcData['nl'][245179] = {name = "Vinemaster Suntouched", subname = "Wijn en gedistilleerde dranken leverancier"}
+MultiLanguageNpcData['nl'][245180] = {name = "Sleyin", subname = "Wapenhandelaar"}
+MultiLanguageNpcData['nl'][245181] = {name = "Vanaris", subname = "Gem Leverancier"}
+MultiLanguageNpcData['nl'][245182] = {name = "Eruundi", subname = "Favoriet van Masters"}
+MultiLanguageNpcData['nl'][245183] = {name = "Cravitz Lorent", subname = "Shady Art Dealer"}
 MultiLanguageNpcData['nl'][245184] = {name = "Sound Stalker - Generieke onzichtbare Stalker", subname = nil}
+MultiLanguageNpcData['nl'][245185] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][245186] = {name = "Sunwalker Dezco", subname = nil}
+MultiLanguageNpcData['nl'][245188] = {name = "Rennen Automaat", subname = nil}
+MultiLanguageNpcData['nl'][245189] = {name = "Ritueel van Severing", subname = nil}
+MultiLanguageNpcData['nl'][245190] = {name = "Loyaal Saberfang", subname = nil}
 MultiLanguageNpcData['nl'][245191] = {name = "Dagran Thaurissan II", subname = nil}
+MultiLanguageNpcData['nl'][245192] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245193] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245194] = {name = "Kyltus Bloodburn", subname = nil}
 MultiLanguageNpcData['nl'][245195] = {name = "Brouwspecialist", subname = nil}
+MultiLanguageNpcData['nl'][245196] = {name = "Verwonde Amani", subname = nil}
+MultiLanguageNpcData['nl'][245200] = {name = "Jesthenis Sunstriker", subname = "Blood Knight Trainer"}
+MultiLanguageNpcData['nl'][245201] = {name = "Magistraat Jaronis", subname = "Magister Trainer"}
+MultiLanguageNpcData['nl'][245202] = {name = "Ranger Hannovia", subname = "Farstrider Trainer"}
+MultiLanguageNpcData['nl'][245206] = {name = "Coalesced Spirit", subname = nil}
+MultiLanguageNpcData['nl'][245209] = {name = "Vervallen Essentie", subname = nil}
 MultiLanguageNpcData['nl'][245210] = {name = "Kill Credit: Titan Disc Created [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][245211] = {name = "Kill Credit: Overloadd Node[DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245212] = {name = "Aln Oozeling", subname = nil}
+MultiLanguageNpcData['nl'][245213] = {name = "Riftschaduw", subname = nil}
+MultiLanguageNpcData['nl'][245216] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][245218] = {name = "Lightwood Ballista", subname = nil}
+MultiLanguageNpcData['nl'][245219] = {name = "Dode Amani Feller", subname = nil}
+MultiLanguageNpcData['nl'][245220] = {name = "Scaler", subname = nil}
+MultiLanguageNpcData['nl'][245221] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][245222] = {name = "Pargoth", subname = "Slechte Heer"}
+MultiLanguageNpcData['nl'][245224] = {name = "Gedegradeerde Contender", subname = nil}
+MultiLanguageNpcData['nl'][245226] = {name = "Voidborn Linebreaker", subname = nil}
+MultiLanguageNpcData['nl'][245227] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245228] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245229] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245230] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245231] = {name = "Bloomrotten Corpse", subname = nil}
+MultiLanguageNpcData['nl'][245232] = {name = "Arcane Automaton", subname = nil}
+MultiLanguageNpcData['nl'][245233] = {name = "Bloomrotten Corpse", subname = nil}
+MultiLanguageNpcData['nl'][245235] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][245236] = {name = "12,0 Z3 - Lokale 16 - Proeven van de Shul'ka - Q05 - Rift Manifestation Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245237] = {name = "Har'maran Citizen", subname = nil}
+MultiLanguageNpcData['nl'][245238] = {name = "Har'maran Citizen", subname = nil}
+MultiLanguageNpcData['nl'][245239] = {name = "Kies pad Q01 Kill-tegoed", subname = nil}
+MultiLanguageNpcData['nl'][245240] = {name = "Tul'amar, Thrice-Exiled", subname = nil}
+MultiLanguageNpcData['nl'][245241] = {name = "Winkelwagen", subname = nil}
 MultiLanguageNpcData['nl'][245242] = {name = "Waypoint B", subname = nil}
+MultiLanguageNpcData['nl'][245243] = {name = "Arcane Automaton", subname = "Gebroken"}
 MultiLanguageNpcData['nl'][245245] = {name = "G.M.O.D.", subname = nil}
+MultiLanguageNpcData['nl'][245246] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245247] = {name = "Orweyna", subname = nil}
 MultiLanguageNpcData['nl'][245248] = {name = "Breka Grimaxe", subname = nil}
 MultiLanguageNpcData['nl'][245249] = {name = "Mana Feeder", subname = nil}
 MultiLanguageNpcData['nl'][245250] = {name = "Fase Orb", subname = nil}
+MultiLanguageNpcData['nl'][245251] = {name = "En'liahn", subname = nil}
+MultiLanguageNpcData['nl'][245252] = {name = "Den Werker", subname = nil}
 MultiLanguageNpcData['nl'][245253] = {name = "Kosmisch leegtestof", subname = nil}
 MultiLanguageNpcData['nl'][245255] = {name = "Artoshion", subname = "Slechte Heer"}
+MultiLanguageNpcData['nl'][245256] = {name = "Arcane Charge Q02 Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][245257] = {name = "Gewonde Peon", subname = nil}
 MultiLanguageNpcData['nl'][245258] = {name = "Wild Horse", subname = nil}
 MultiLanguageNpcData['nl'][245259] = {name = "Wilde schapen", subname = nil}
 MultiLanguageNpcData['nl'][245260] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][245261] = {name = "Infernal Pitlord", subname = nil}
+MultiLanguageNpcData['nl'][245262] = {name = "Bevrijd vooruitzicht", subname = nil}
+MultiLanguageNpcData['nl'][245264] = {name = "Opgeladen Golem Q02 Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][245265] = {name = "Void Shardling", subname = nil}
+MultiLanguageNpcData['nl'][245266] = {name = "Zul'jan", subname = nil}
+MultiLanguageNpcData['nl'][245267] = {name = "Kystia Manaheart", subname = nil}
+MultiLanguageNpcData['nl'][245269] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][245270] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245271] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245272] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245273] = {name = "Zul'jarra", subname = nil}
 MultiLanguageNpcData['nl'][245274] = {name = "Velaryn's Ziel", subname = nil}
+MultiLanguageNpcData['nl'][245275] = {name = "Amani Civil", subname = nil}
 MultiLanguageNpcData['nl'][245276] = {name = "Vrije afstandskoe", subname = nil}
 MultiLanguageNpcData['nl'][245277] = {name = "Schaduwwacht Arcanist", subname = nil}
+MultiLanguageNpcData['nl'][245278] = {name = "Laadbalk", subname = nil}
+MultiLanguageNpcData['nl'][245279] = {name = "Siege Turret", subname = nil}
 MultiLanguageNpcData['nl'][245282] = {name = "Warpweaver Lo'rant", subname = "Transmogrifier"}
+MultiLanguageNpcData['nl'][245283] = {name = "Wanhoop Ender", subname = nil}
 MultiLanguageNpcData['nl'][245284] = {name = "Warpweaver Ja'dun", subname = "Transmogrifier"}
+MultiLanguageNpcData['nl'][245285] = {name = "Instructeur Thalendir", subname = "Hoofdonderwijzer"}
 MultiLanguageNpcData['nl'][245286] = {name = "Ilyssa's Ziel", subname = nil}
 MultiLanguageNpcData['nl'][245287] = {name = "Adarus' Ziel", subname = nil}
+MultiLanguageNpcData['nl'][245290] = {name = "Har'athir Dweller", subname = nil}
 MultiLanguageNpcData['nl'][245291] = {name = "Vaultwarden Gandrus", subname = nil}
 MultiLanguageNpcData['nl'][245292] = {name = "Ka'barin", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][245293] = {name = "Amani Scout", subname = nil}
+MultiLanguageNpcData['nl'][245294] = {name = "Amani Guard", subname = nil}
+MultiLanguageNpcData['nl'][245295] = {name = "Amani Shaman", subname = nil}
+MultiLanguageNpcData['nl'][245296] = {name = "Silvermoon Dockworker", subname = nil}
+MultiLanguageNpcData['nl'][245297] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][245299] = {name = "Silvermoon Dockworker", subname = nil}
+MultiLanguageNpcData['nl'][245300] = {name = "Laadbalk", subname = nil}
 MultiLanguageNpcData['nl'][245301] = {name = "Marktbewaarder", subname = nil}
 MultiLanguageNpcData['nl'][245302] = {name = "Tazavesh Enforcer", subname = "Kartel Zo"}
 MultiLanguageNpcData['nl'][245303] = {name = "Gesloten waarnemer", subname = nil}
@@ -4678,33 +5890,57 @@ MultiLanguageNpcData['nl'][245311] = {name = "Warlord Breka Grimaxe", subname = 
 MultiLanguageNpcData['nl'][245312] = {name = "Wrathion", subname = nil}
 MultiLanguageNpcData['nl'][245313] = {name = "Warlord Breka Grimaxe", subname = nil}
 MultiLanguageNpcData['nl'][245314] = {name = "Wrathion", subname = nil}
+MultiLanguageNpcData['nl'][245317] = {name = "konijntje", subname = nil}
 MultiLanguageNpcData['nl'][245318] = {name = "Duneling", subname = nil}
 MultiLanguageNpcData['nl'][245320] = {name = "Wrathion", subname = nil}
 MultiLanguageNpcData['nl'][245322] = {name = "Thrall", subname = nil}
+MultiLanguageNpcData['nl'][245324] = {name = "Voidspawn ontsterven", subname = nil}
+MultiLanguageNpcData['nl'][245325] = {name = "Cynosure of Twilight", subname = nil}
+MultiLanguageNpcData['nl'][245326] = {name = "Panikeerde Lynx", subname = "<Temp Model>"}
 MultiLanguageNpcData['nl'][245327] = {name = "Wrathion", subname = nil}
 MultiLanguageNpcData['nl'][245328] = {name = "Thrall", subname = nil}
 MultiLanguageNpcData['nl'][245331] = {name = "Faseduiker", subname = nil}
+MultiLanguageNpcData['nl'][245334] = {name = "Gedomineerde pion", subname = nil}
 MultiLanguageNpcData['nl'][245335] = {name = "Kosmische horror", subname = nil}
+MultiLanguageNpcData['nl'][245336] = {name = "Stralende spellsower", subname = nil}
 MultiLanguageNpcData['nl'][245338] = {name = "Faseduiker", subname = nil}
+MultiLanguageNpcData['nl'][245339] = {name = "Onderborstel Stalker", subname = nil}
+MultiLanguageNpcData['nl'][245341] = {name = "Commandant Koruth Mountainfist", subname = nil}
 MultiLanguageNpcData['nl'][245344] = {name = "Zo'turu", subname = "Renown Quartermaster"}
+MultiLanguageNpcData['nl'][245345] = {name = "Lightgorged Lasher", subname = nil}
+MultiLanguageNpcData['nl'][245346] = {name = "Virid Grovekeeper", subname = nil}
 MultiLanguageNpcData['nl'][245347] = {name = "Faseduiker Sa'raay", subname = nil}
 MultiLanguageNpcData['nl'][245348] = {name = "Ba'choso", subname = "Nieuwsgierige curator"}
 MultiLanguageNpcData['nl'][245349] = {name = "Zo'ropo", subname = "Eccentric Engineer"}
+MultiLanguageNpcData['nl'][245351] = {name = "Slain Cultist", subname = nil}
+MultiLanguageNpcData['nl'][245352] = {name = "Manifestatie van Zul'jin", subname = nil}
 MultiLanguageNpcData['nl'][245353] = {name = "Faseduiker Gazim", subname = nil}
 MultiLanguageNpcData['nl'][245354] = {name = "Void Duneflyer", subname = nil}
+MultiLanguageNpcData['nl'][245355] = {name = "Void-asteroïde", subname = nil}
+MultiLanguageNpcData['nl'][245356] = {name = "Sayra Starreacher", subname = "Vluchtmeester"}
 MultiLanguageNpcData['nl'][245357] = {name = "Zo'ya", subname = nil}
 MultiLanguageNpcData['nl'][245358] = {name = "Schaduwwacht Lancer", subname = nil}
+MultiLanguageNpcData['nl'][245359] = {name = "Lodestar van het Grote Duister", subname = nil}
 MultiLanguageNpcData['nl'][245360] = {name = "Sleeper Creeper", subname = nil}
 MultiLanguageNpcData['nl'][245361] = {name = "Schaduwbeschermer-infuser", subname = nil}
 MultiLanguageNpcData['nl'][245362] = {name = "Uitverkoren kampioen", subname = nil}
+MultiLanguageNpcData['nl'][245364] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245365] = {name = "Manifestatie van Zul'jan", subname = nil}
+MultiLanguageNpcData['nl'][245366] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245367] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245369] = {name = "Kill Credit: Speler gestelde vraag", subname = nil}
 MultiLanguageNpcData['nl'][245370] = {name = "Pile of Leid Dust", subname = nil}
 MultiLanguageNpcData['nl'][245371] = {name = "Kapitein Garrick.", subname = nil}
+MultiLanguageNpcData['nl'][245372] = {name = "Gebruik Arcane Translocator Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][245374] = {name = "Etherische Brannmorpher", subname = "Big Brann Fan"}
 MultiLanguageNpcData['nl'][245378] = {name = "Baranar", subname = "Hellhunter"}
 MultiLanguageNpcData['nl'][245379] = {name = "Skullder", subname = "Hellhunter"}
 MultiLanguageNpcData['nl'][245380] = {name = "Ginther", subname = "Hellhunter"}
+MultiLanguageNpcData['nl'][245386] = {name = "Generieke konijn", subname = nil}
 MultiLanguageNpcData['nl'][245387] = {name = "C.T.", subname = "Systemenscanner"}
 MultiLanguageNpcData['nl'][245390] = {name = "Botanist Om'lin", subname = nil}
+MultiLanguageNpcData['nl'][245391] = {name = "Generieke konijn", subname = nil}
+MultiLanguageNpcData['nl'][245392] = {name = "Generieke konijn", subname = nil}
 MultiLanguageNpcData['nl'][245393] = {name = "Technicus Om'latif", subname = nil}
 MultiLanguageNpcData['nl'][245394] = {name = "Kapitein Garrick.", subname = nil}
 MultiLanguageNpcData['nl'][245397] = {name = "Lady Jaina Proudmoore", subname = nil}
@@ -4712,126 +5948,529 @@ MultiLanguageNpcData['nl'][245398] = {name = "Geoloog Om'nayar", subname = nil}
 MultiLanguageNpcData['nl'][245399] = {name = "Lady Jaina Proudmoore", subname = nil}
 MultiLanguageNpcData['nl'][245401] = {name = "Jaina Proudmoore", subname = nil}
 MultiLanguageNpcData['nl'][245402] = {name = "K'arroc teruggeven", subname = nil}
+MultiLanguageNpcData['nl'][245403] = {name = "Magister in nood", subname = nil}
 MultiLanguageNpcData['nl'][245405] = {name = "Silmar", subname = "Innkeeper"}
 MultiLanguageNpcData['nl'][245406] = {name = "Sufran", subname = "Reparaties"}
 MultiLanguageNpcData['nl'][245407] = {name = "Om'sharik", subname = "Handelsmiddelen"}
 MultiLanguageNpcData['nl'][245408] = {name = "Om'aad", subname = "Handelsmiddelen"}
+MultiLanguageNpcData['nl'][245409] = {name = "Amani'Zar Scout", subname = nil}
+MultiLanguageNpcData['nl'][245410] = {name = "Lasher", subname = nil}
 MultiLanguageNpcData['nl'][245411] = {name = "Ravaging Scavenger", subname = nil}
 MultiLanguageNpcData['nl'][245412] = {name = "Voracious Gorger", subname = nil}
 MultiLanguageNpcData['nl'][245413] = {name = "Kartel Xy Patron", subname = nil}
 MultiLanguageNpcData['nl'][245414] = {name = "Invasing Mite", subname = nil}
 MultiLanguageNpcData['nl'][245416] = {name = "Shuja Grimaxe", subname = nil}
+MultiLanguageNpcData['nl'][245417] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245418] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][245419] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][245420] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][245421] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][245422] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][245425] = {name = "Kartel Xy Agent", subname = nil}
 MultiLanguageNpcData['nl'][245427] = {name = "Plains Rockfang", subname = nil}
 MultiLanguageNpcData['nl'][245429] = {name = "Umbra Panthera", subname = nil}
 MultiLanguageNpcData['nl'][245431] = {name = "Doel naar locatie gooien", subname = nil}
+MultiLanguageNpcData['nl'][245433] = {name = "DNT Scout Beach Quest Bunny", subname = nil}
 MultiLanguageNpcData['nl'][245436] = {name = "Affix - Placard", subname = nil}
 MultiLanguageNpcData['nl'][245440] = {name = "Ta'jol", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][245442] = {name = "Ritualist Zongha", subname = nil}
 MultiLanguageNpcData['nl'][245445] = {name = "Martin Fury", subname = nil}
+MultiLanguageNpcData['nl'][245448] = {name = "Eversong Arch Magister", subname = nil}
+MultiLanguageNpcData['nl'][245449] = {name = "Eversong Ranger kapitein", subname = nil}
+MultiLanguageNpcData['nl'][245453] = {name = "Farstrider Dracoknight", subname = nil}
+MultiLanguageNpcData['nl'][245455] = {name = "Geïsoleerde Shadecaster", subname = nil}
 MultiLanguageNpcData['nl'][245457] = {name = "Xy'nja", subname = nil}
+MultiLanguageNpcData['nl'][245458] = {name = "Hoofd Telemancer Oculeth", subname = nil}
+MultiLanguageNpcData['nl'][245459] = {name = "Nightborne Protector", subname = nil}
+MultiLanguageNpcData['nl'][245460] = {name = "Bladige Grovecrawler", subname = nil}
+MultiLanguageNpcData['nl'][245461] = {name = "Schaduwwacht Voidweaver", subname = nil}
+MultiLanguageNpcData['nl'][245462] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245463] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245465] = {name = "Silvermoon construct", subname = nil}
 MultiLanguageNpcData['nl'][245466] = {name = "Hitching Post [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245467] = {name = "Shadowguard Adept", subname = nil}
+MultiLanguageNpcData['nl'][245468] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245469] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][245470] = {name = "Gewonde bloedridder", subname = nil}
+MultiLanguageNpcData['nl'][245471] = {name = "Aardappel", subname = nil}
+MultiLanguageNpcData['nl'][245472] = {name = "VoidOoze", subname = "Critter"}
+MultiLanguageNpcData['nl'][245473] = {name = "Thorny Saptor", subname = nil}
+MultiLanguageNpcData['nl'][245484] = {name = "Lightfeather Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][245485] = {name = "Kleine vluchtelingen", subname = nil}
+MultiLanguageNpcData['nl'][245486] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245487] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][245510] = {name = "Barrelbandiet", subname = nil}
+MultiLanguageNpcData['nl'][245511] = {name = "Sai'alyo", subname = nil}
+MultiLanguageNpcData['nl'][245512] = {name = "Loa Speaker Brek", subname = "Devout van Jan'alai"}
+MultiLanguageNpcData['nl'][245513] = {name = "Overgroeide Hydra", subname = nil}
+MultiLanguageNpcData['nl'][245514] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245515] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245516] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245517] = {name = "Dawnstar Sentinel", subname = "Quest targets (temp)"}
+MultiLanguageNpcData['nl'][245518] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][245519] = {name = "Priester Grimmin", subname = nil}
 MultiLanguageNpcData['nl'][245523] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][245524] = {name = "Xal'atath", subname = nil}
 MultiLanguageNpcData['nl'][245525] = {name = "Locus-Walker", subname = nil}
+MultiLanguageNpcData['nl'][245526] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][245527] = {name = "Spineshieldkever", subname = nil}
+MultiLanguageNpcData['nl'][245528] = {name = "Caedmos", subname = nil}
+MultiLanguageNpcData['nl'][245530] = {name = "Priesteres Islara", subname = nil}
+MultiLanguageNpcData['nl'][245531] = {name = "Oude Visionstone", subname = nil}
 MultiLanguageNpcData['nl'][245532] = {name = "Riftwalker Soran", subname = nil}
 MultiLanguageNpcData['nl'][245533] = {name = "Riftwalker Dellyn", subname = nil}
 MultiLanguageNpcData['nl'][245536] = {name = "Leona Darkstrider", subname = nil}
+MultiLanguageNpcData['nl'][245537] = {name = "Ysida Harmon", subname = nil}
+MultiLanguageNpcData['nl'][245538] = {name = "Sol", subname = nil}
+MultiLanguageNpcData['nl'][245539] = {name = "Mariella Ward", subname = nil}
 MultiLanguageNpcData['nl'][245543] = {name = "Voorouder", subname = nil}
+MultiLanguageNpcData['nl'][245546] = {name = "Quel'Danas Student", subname = nil}
+MultiLanguageNpcData['nl'][245547] = {name = "Gedomineerde pion", subname = nil}
 MultiLanguageNpcData['nl'][245549] = {name = "Fractale afbeelding", subname = nil}
 MultiLanguageNpcData['nl'][245550] = {name = "Fractale afbeelding", subname = nil}
 MultiLanguageNpcData['nl'][245551] = {name = "Hond", subname = nil}
 MultiLanguageNpcData['nl'][245552] = {name = "Schapen", subname = nil}
+MultiLanguageNpcData['nl'][245555] = {name = "Zwermende Schaduw", subname = nil}
+MultiLanguageNpcData['nl'][245556] = {name = "Kolossale horror", subname = nil}
+MultiLanguageNpcData['nl'][245557] = {name = "Rift Chimera", subname = nil}
+MultiLanguageNpcData['nl'][245558] = {name = "Overlevende bemanning", subname = nil}
 MultiLanguageNpcData['nl'][245559] = {name = "Run of Explosive Force", subname = nil}
+MultiLanguageNpcData['nl'][245560] = {name = "Overlevende bemanning", subname = nil}
 MultiLanguageNpcData['nl'][245561] = {name = "Rune of Polymorph", subname = nil}
 MultiLanguageNpcData['nl'][245563] = {name = "Rune of Stasis", subname = nil}
 MultiLanguageNpcData['nl'][245564] = {name = "Rune of Disintegratie", subname = nil}
 MultiLanguageNpcData['nl'][245565] = {name = "Schapenhond", subname = nil}
+MultiLanguageNpcData['nl'][245567] = {name = "Starvation Effigy", subname = nil}
+MultiLanguageNpcData['nl'][245568] = {name = "Overlevende bemanning", subname = nil}
+MultiLanguageNpcData['nl'][245569] = {name = "Chimaerus", subname = "De Undreamt God"}
+MultiLanguageNpcData['nl'][245571] = {name = "Sador", subname = nil}
+MultiLanguageNpcData['nl'][245574] = {name = "Ward of the Shul'ka", subname = nil}
+MultiLanguageNpcData['nl'][245575] = {name = "Haunting Essentie", subname = nil}
+MultiLanguageNpcData['nl'][245578] = {name = "Eagletender Mikoba", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][245580] = {name = "Chloorceros", subname = nil}
+MultiLanguageNpcData['nl'][245582] = {name = "Enchanted Glaive Thrower", subname = nil}
+MultiLanguageNpcData['nl'][245583] = {name = "Loa Speaker Kinduru", subname = "Devout van Akil'zon"}
+MultiLanguageNpcData['nl'][245585] = {name = "Militant Rectoress", subname = nil}
+MultiLanguageNpcData['nl'][245586] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
+MultiLanguageNpcData['nl'][245587] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][245588] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][245589] = {name = "Lilaju", subname = "Revantusk-stam"}
 MultiLanguageNpcData['nl'][245590] = {name = "Energie Barrel", subname = nil}
+MultiLanguageNpcData['nl'][245591] = {name = "Verduisterde indringer", subname = nil}
+MultiLanguageNpcData['nl'][245592] = {name = "Verplaatste vluchteling", subname = "Revantusk-stam"}
 MultiLanguageNpcData['nl'][245593] = {name = "Bank", subname = nil}
 MultiLanguageNpcData['nl'][245594] = {name = "Henry Garrick", subname = nil}
+MultiLanguageNpcData['nl'][245596] = {name = "Kill Credit: Aankomst bij Grove", subname = nil}
+MultiLanguageNpcData['nl'][245597] = {name = "Penumbra", subname = "Umbric's Companion"}
+MultiLanguageNpcData['nl'][245598] = {name = "Voidspawn", subname = nil}
+MultiLanguageNpcData['nl'][245599] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][245601] = {name = "Enforcer Jak'tull", subname = nil}
+MultiLanguageNpcData['nl'][245604] = {name = "Voidborn Channeler", subname = nil}
+MultiLanguageNpcData['nl'][245605] = {name = "Kapitein Fareeya.", subname = "De Crescent Glaive"}
+MultiLanguageNpcData['nl'][245607] = {name = "Callum Ashvow", subname = nil}
+MultiLanguageNpcData['nl'][245608] = {name = "Entropische Invader", subname = nil}
+MultiLanguageNpcData['nl'][245609] = {name = "Brandur Ironhammer", subname = nil}
+MultiLanguageNpcData['nl'][245610] = {name = "Noellen", subname = nil}
+MultiLanguageNpcData['nl'][245611] = {name = "Klauw van de Leegte", subname = nil}
+MultiLanguageNpcData['nl'][245612] = {name = "Lightwood Ballista", subname = nil}
+MultiLanguageNpcData['nl'][245614] = {name = "Arcane Elemental", subname = nil}
+MultiLanguageNpcData['nl'][245615] = {name = "Kleine rode knop", subname = nil}
 MultiLanguageNpcData['nl'][245617] = {name = "De botmelter", subname = nil}
 MultiLanguageNpcData['nl'][245618] = {name = "Goblin Zapper", subname = nil}
+MultiLanguageNpcData['nl'][245619] = {name = "Waakzame Nestguard", subname = nil}
+MultiLanguageNpcData['nl'][245620] = {name = "Torundo de Grizzled", subname = "Oorlogsadviseur"}
+MultiLanguageNpcData['nl'][245621] = {name = "Hara'ti Warrior", subname = nil}
 MultiLanguageNpcData['nl'][245622] = {name = "Rally Portal", subname = nil}
 MultiLanguageNpcData['nl'][245623] = {name = "Vallen", subname = nil}
 MultiLanguageNpcData['nl'][245624] = {name = "Wraakzuchtige eed", subname = nil}
+MultiLanguageNpcData['nl'][245625] = {name = "Amarakks Steed", subname = nil}
+MultiLanguageNpcData['nl'][245632] = {name = "Akil'zon", subname = "Loa of Victory"}
+MultiLanguageNpcData['nl'][245636] = {name = "Kelvin", subname = nil}
+MultiLanguageNpcData['nl'][245637] = {name = "Su'meera", subname = nil}
+MultiLanguageNpcData['nl'][245638] = {name = "Zalmpool", subname = nil}
+MultiLanguageNpcData['nl'][245639] = {name = "Su'meera", subname = nil}
+MultiLanguageNpcData['nl'][245640] = {name = "Shadowguard Voidwing", subname = nil}
 MultiLanguageNpcData['nl'][245641] = {name = "Herder", subname = nil}
+MultiLanguageNpcData['nl'][245646] = {name = "Zul'jan", subname = nil}
+MultiLanguageNpcData['nl'][245649] = {name = "Chromafoilkever", subname = nil}
+MultiLanguageNpcData['nl'][245650] = {name = "Gevangen Shadecaster", subname = nil}
+MultiLanguageNpcData['nl'][245652] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][245653] = {name = "Area Trigger Bunny", subname = nil}
 MultiLanguageNpcData['nl'][245654] = {name = "Poort afsluiten", subname = nil}
+MultiLanguageNpcData['nl'][245656] = {name = "TB Ogre Grunt", subname = "T1+ (1,5/1)"}
+MultiLanguageNpcData['nl'][245657] = {name = "TB Ogre Grunt", subname = "T1+ (1,5/1)"}
+MultiLanguageNpcData['nl'][245658] = {name = "TB Ogre Grunt", subname = "T1+ (1,5/1)"}
+MultiLanguageNpcData['nl'][245659] = {name = "Lattice Crawler", subname = nil}
 MultiLanguageNpcData['nl'][245660] = {name = "Engorged Feeder", subname = nil}
+MultiLanguageNpcData['nl'][245662] = {name = "Voidwing", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][245664] = {name = "Lilaju", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][245665] = {name = "Aln Oozes", subname = nil}
 MultiLanguageNpcData['nl'][245667] = {name = "Kapitein Garrick.", subname = nil}
+MultiLanguageNpcData['nl'][245669] = {name = "Jehnira", subname = nil}
+MultiLanguageNpcData['nl'][245670] = {name = "Tolbani", subname = nil}
+MultiLanguageNpcData['nl'][245675] = {name = "Speer van Torntusk", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][245676] = {name = "Mrruk the Musclefin", subname = nil}
 MultiLanguageNpcData['nl'][245677] = {name = "Lokale handelaar", subname = nil}
+MultiLanguageNpcData['nl'][245679] = {name = "Kosmische Tether", subname = nil}
+MultiLanguageNpcData['nl'][245682] = {name = "Alshoorn Essentie", subname = nil}
+MultiLanguageNpcData['nl'][245684] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][245685] = {name = "Siege Turret", subname = nil}
 MultiLanguageNpcData['nl'][245686] = {name = "Lady Jaina Proudmoore", subname = nil}
+MultiLanguageNpcData['nl'][245687] = {name = "Frillfish", subname = nil}
+MultiLanguageNpcData['nl'][245688] = {name = "Gloomclaw", subname = "Gerenommeerde Lynx"}
+MultiLanguageNpcData['nl'][245689] = {name = "Volg Kyltus Q03 Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][245690] = {name = "Lumenfin", subname = "Gerenommeerde Sporeglider"}
+MultiLanguageNpcData['nl'][245691] = {name = "The Decaying Diamondback", subname = nil}
+MultiLanguageNpcData['nl'][245692] = {name = "Ash'an the Empowered", subname = "Vilebranch Butcher"}
+MultiLanguageNpcData['nl'][245693] = {name = "T3 Proxy [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245694] = {name = "Ketel van Echoes", subname = nil}
+MultiLanguageNpcData['nl'][245695] = {name = "Gevangen Shadecaster", subname = nil}
+MultiLanguageNpcData['nl'][245698] = {name = "Zalmpool", subname = nil}
+MultiLanguageNpcData['nl'][245699] = {name = "Zilverschaal", subname = "Gerenommeerde schildpad"}
+MultiLanguageNpcData['nl'][245701] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][245702] = {name = "Shadow Warder", subname = nil}
+MultiLanguageNpcData['nl'][245703] = {name = "On'hiea", subname = nil}
+MultiLanguageNpcData['nl'][245704] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][245705] = {name = "Voidwarden", subname = nil}
+MultiLanguageNpcData['nl'][245706] = {name = "Shadowguard Fatesealer", subname = nil}
+MultiLanguageNpcData['nl'][245707] = {name = "Schaduwbeschermer Spoiler", subname = nil}
+MultiLanguageNpcData['nl'][245708] = {name = "Mot", subname = nil}
+MultiLanguageNpcData['nl'][245709] = {name = "Bogfin Tidechanter", subname = nil}
+MultiLanguageNpcData['nl'][245710] = {name = "Murloc Fistfin", subname = nil}
+MultiLanguageNpcData['nl'][245711] = {name = "Murloc Reefstalker", subname = nil}
+MultiLanguageNpcData['nl'][245712] = {name = "Murloc Dredgecaller", subname = nil}
+MultiLanguageNpcData['nl'][245713] = {name = "Murloc Scaleguard", subname = nil}
+MultiLanguageNpcData['nl'][245714] = {name = "Murloc Behemoth", subname = nil}
+MultiLanguageNpcData['nl'][245715] = {name = "Faedro", subname = "Binnenkort zal een ander wezen worden"}
+MultiLanguageNpcData['nl'][245716] = {name = "Sierappelen", subname = nil}
+MultiLanguageNpcData['nl'][245718] = {name = "Mar'kag", subname = nil}
+MultiLanguageNpcData['nl'][245719] = {name = "Nagosh the Scarred", subname = nil}
+MultiLanguageNpcData['nl'][245720] = {name = "Loa Speaker Kinduru", subname = "Devout van Akil'zon"}
+MultiLanguageNpcData['nl'][245721] = {name = "Schaduwbeschermer Fluxmage", subname = nil}
 MultiLanguageNpcData['nl'][245722] = {name = "Etherische Scallywag", subname = nil}
+MultiLanguageNpcData['nl'][245724] = {name = "Sai'alyo", subname = nil}
+MultiLanguageNpcData['nl'][245725] = {name = "Sai'alyo", subname = nil}
+MultiLanguageNpcData['nl'][245726] = {name = "Sai'alyo", subname = nil}
+MultiLanguageNpcData['nl'][245727] = {name = "Mogelijkheid van Zul", subname = nil}
+MultiLanguageNpcData['nl'][245728] = {name = "Su'meera", subname = nil}
+MultiLanguageNpcData['nl'][245729] = {name = "Doel schieten", subname = nil}
 MultiLanguageNpcData['nl'][245730] = {name = "Entroop remnant", subname = nil}
+MultiLanguageNpcData['nl'][245733] = {name = "Pel'na Torntusk", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][245734] = {name = "Spiritdancer Saje", subname = "Shadowpine-stam"}
+MultiLanguageNpcData['nl'][245735] = {name = "Omschrijving", subname = nil}
+MultiLanguageNpcData['nl'][245736] = {name = "Anji'ra", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][245737] = {name = "Woede Thornguard", subname = nil}
+MultiLanguageNpcData['nl'][245738] = {name = "Wrathful Sap Weaver", subname = nil}
+MultiLanguageNpcData['nl'][245739] = {name = "Verontwaardigd Grovewarden", subname = nil}
+MultiLanguageNpcData['nl'][245740] = {name = "Dame Aurinous", subname = nil}
+MultiLanguageNpcData['nl'][245741] = {name = "Meester Chef Moutier", subname = "Cooking Trainer & Supplies"}
+MultiLanguageNpcData['nl'][245742] = {name = "Pathstalker Lontral", subname = nil}
+MultiLanguageNpcData['nl'][245743] = {name = "Summoner Fanorad", subname = nil}
+MultiLanguageNpcData['nl'][245744] = {name = "Neekat", subname = "The Noxious"}
+MultiLanguageNpcData['nl'][245745] = {name = "Valdekar Solaar", subname = nil}
+MultiLanguageNpcData['nl'][245746] = {name = "Abyssal Reaver", subname = nil}
+MultiLanguageNpcData['nl'][245747] = {name = "Spore-overded Firefly", subname = nil}
+MultiLanguageNpcData['nl'][245748] = {name = "Kaliel Solaar", subname = nil}
+MultiLanguageNpcData['nl'][245749] = {name = "Drifter ophalen", subname = nil}
+MultiLanguageNpcData['nl'][245750] = {name = "Berry Bush", subname = nil}
+MultiLanguageNpcData['nl'][245752] = {name = "Keen-Eyed Screencher", subname = nil}
 MultiLanguageNpcData['nl'][245754] = {name = "Raszageth", subname = "The Storm-Eater"}
+MultiLanguageNpcData['nl'][245755] = {name = "Geanimeerde verf", subname = nil}
+MultiLanguageNpcData['nl'][245756] = {name = "Zwaartekracht anomalie", subname = nil}
+MultiLanguageNpcData['nl'][245758] = {name = "Ketel van Echoes", subname = nil}
+MultiLanguageNpcData['nl'][245760] = {name = "Adviseur Valwyn", subname = nil}
+MultiLanguageNpcData['nl'][245761] = {name = "Oude Mavren", subname = nil}
+MultiLanguageNpcData['nl'][245762] = {name = "Rathis Tomber", subname = "Handelsmiddelen"}
 MultiLanguageNpcData['nl'][245763] = {name = "Rolling Snowball", subname = nil}
+MultiLanguageNpcData['nl'][245764] = {name = "Arcanist Vandril", subname = nil}
+MultiLanguageNpcData['nl'][245765] = {name = "Smid Frances", subname = "IJzer- en staalindustrie"}
+MultiLanguageNpcData['nl'][245766] = {name = "Terellia", subname = "Handelsmiddelen"}
+MultiLanguageNpcData['nl'][245767] = {name = "Magistrix Aminel", subname = nil}
+MultiLanguageNpcData['nl'][245768] = {name = "Magister Darenis", subname = nil}
+MultiLanguageNpcData['nl'][245769] = {name = "Eralan", subname = "Vergiftigingen"}
+MultiLanguageNpcData['nl'][245770] = {name = "Paniar", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][245771] = {name = "Apotheker Renzithen", subname = nil}
 MultiLanguageNpcData['nl'][245772] = {name = "Khadgar", subname = nil}
 MultiLanguageNpcData['nl'][245773] = {name = "Kalecgo's", subname = nil}
 MultiLanguageNpcData['nl'][245774] = {name = "Genezer", subname = "Expedition Escort"}
+MultiLanguageNpcData['nl'][245775] = {name = "Ventus Prideshade", subname = "Contender"}
 MultiLanguageNpcData['nl'][245776] = {name = "Waypoint C", subname = nil}
+MultiLanguageNpcData['nl'][245777] = {name = "Geanimeerde verf", subname = nil}
+MultiLanguageNpcData['nl'][245778] = {name = "Gekalfd Wagonlin", subname = nil}
 MultiLanguageNpcData['nl'][245779] = {name = "VFX Bunny", subname = nil}
 MultiLanguageNpcData['nl'][245780] = {name = "Void Rift", subname = nil}
 MultiLanguageNpcData['nl'][245782] = {name = "Voidcrawler", subname = nil}
 MultiLanguageNpcData['nl'][245783] = {name = "Void Creeper", subname = nil}
+MultiLanguageNpcData['nl'][245784] = {name = "Beschutte Witherbark", subname = nil}
+MultiLanguageNpcData['nl'][245785] = {name = "Rathis Tomber", subname = nil}
+MultiLanguageNpcData['nl'][245786] = {name = "Smid Frances", subname = nil}
+MultiLanguageNpcData['nl'][245787] = {name = "Eralan", subname = nil}
+MultiLanguageNpcData['nl'][245788] = {name = "Meester Chef Moutier", subname = nil}
+MultiLanguageNpcData['nl'][245789] = {name = "Paniar", subname = nil}
+MultiLanguageNpcData['nl'][245790] = {name = "Skymaster Sunwing", subname = nil}
+MultiLanguageNpcData['nl'][245791] = {name = "Oude Mavren", subname = nil}
+MultiLanguageNpcData['nl'][245792] = {name = "Apotheker Renzithen", subname = nil}
+MultiLanguageNpcData['nl'][245793] = {name = "Summoner Fanorad", subname = nil}
+MultiLanguageNpcData['nl'][245794] = {name = "Pathstalker Lontral", subname = nil}
+MultiLanguageNpcData['nl'][245795] = {name = "Dame Aurinous", subname = nil}
+MultiLanguageNpcData['nl'][245800] = {name = "Leverancier Vredigar", subname = nil}
+MultiLanguageNpcData['nl'][245801] = {name = "Magistrix Aminel", subname = "Twilight's Blade Loyalist"}
+MultiLanguageNpcData['nl'][245802] = {name = "Magister Darenis", subname = "Twilight's Blade Loyalist"}
+MultiLanguageNpcData['nl'][245803] = {name = "Arcanist Vandril", subname = "Twilight's Blade Loyalist"}
+MultiLanguageNpcData['nl'][245804] = {name = "Adviseur Valwyn", subname = "Twilight's Blade Loyalist"}
+MultiLanguageNpcData['nl'][245805] = {name = "Terellia", subname = "Twilight's Blade Loyalist"}
+MultiLanguageNpcData['nl'][245806] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][245807] = {name = "Kolen van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][245808] = {name = "Verdediger van Aln", subname = nil}
+MultiLanguageNpcData['nl'][245812] = {name = "Ketel van Echoes", subname = nil}
+MultiLanguageNpcData['nl'][245813] = {name = "Veraan", subname = "De schaduwwacht"}
+MultiLanguageNpcData['nl'][245814] = {name = "Verf splotch", subname = nil}
+MultiLanguageNpcData['nl'][245816] = {name = "Voidclaw Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245817] = {name = "Void-Veiled Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245818] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245819] = {name = "Void-Sparked Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245820] = {name = "Voidflesh Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245821] = {name = "Voedselaanbod", subname = nil}
 MultiLanguageNpcData['nl'][245822] = {name = "Enter Delve", subname = nil}
 MultiLanguageNpcData['nl'][245823] = {name = "Chromie", subname = nil}
+MultiLanguageNpcData['nl'][245824] = {name = "Jachttabel", subname = nil}
+MultiLanguageNpcData['nl'][245825] = {name = "LT biedt Stalker aan", subname = nil}
 MultiLanguageNpcData['nl'][245826] = {name = "Nexus-King Salhadaar", subname = nil}
+MultiLanguageNpcData['nl'][245828] = {name = "Hara'ti kruidenthee", subname = nil}
+MultiLanguageNpcData['nl'][245836] = {name = "Sessile.", subname = nil}
 MultiLanguageNpcData['nl'][245841] = {name = "Etherische poort", subname = nil}
+MultiLanguageNpcData['nl'][245844] = {name = "Buitenaardse vluchteling", subname = nil}
 MultiLanguageNpcData['nl'][245845] = {name = "Etherische poort", subname = nil}
+MultiLanguageNpcData['nl'][245846] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245847] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245848] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245851] = {name = "Sessile.", subname = nil}
 MultiLanguageNpcData['nl'][245852] = {name = "Om'en", subname = "Kartel Om Magistraat"}
+MultiLanguageNpcData['nl'][245853] = {name = "Ranger kapitein Lilatha", subname = nil}
+MultiLanguageNpcData['nl'][245855] = {name = "Spirit of Hunger", subname = nil}
+MultiLanguageNpcData['nl'][245859] = {name = "Licht-geïnfuseerde bezem", subname = nil}
 MultiLanguageNpcData['nl'][245862] = {name = "KC: Luister naar Faerin [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245866] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245867] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245868] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245869] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245870] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][245873] = {name = "On'hiea", subname = nil}
 MultiLanguageNpcData['nl'][245876] = {name = "Gekaapte Waygate", subname = nil}
+MultiLanguageNpcData['nl'][245877] = {name = "Callum Ashvow", subname = nil}
+MultiLanguageNpcData['nl'][245878] = {name = "Knight Anais", subname = nil}
+MultiLanguageNpcData['nl'][245879] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][245880] = {name = "Dalnir", subname = "Vastworteling-tender"}
+MultiLanguageNpcData['nl'][245881] = {name = "Orweyna", subname = nil}
 MultiLanguageNpcData['nl'][245882] = {name = "De Koninklijke Voidwing", subname = nil}
 MultiLanguageNpcData['nl'][245884] = {name = "Naia", subname = nil}
 MultiLanguageNpcData['nl'][245885] = {name = "Spymaster Casnegosa", subname = nil}
+MultiLanguageNpcData['nl'][245886] = {name = "Kill Credit: Praat met Orweyna [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][245892] = {name = "Murloc Dredgecaller", subname = nil}
+MultiLanguageNpcData['nl'][245893] = {name = "Murloc Fistfin", subname = nil}
+MultiLanguageNpcData['nl'][245894] = {name = "Murloc Behemoth", subname = nil}
+MultiLanguageNpcData['nl'][245895] = {name = "Nether Ray", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][245896] = {name = "Terrace Moth", subname = nil}
+MultiLanguageNpcData['nl'][245897] = {name = "Nether Ray", subname = nil}
+MultiLanguageNpcData['nl'][245899] = {name = "Onderwortel Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][245900] = {name = "Reuzenvleermuis", subname = nil}
+MultiLanguageNpcData['nl'][245901] = {name = "Murloc Reefstalker", subname = nil}
+MultiLanguageNpcData['nl'][245903] = {name = "Verwonde Amani Grunt", subname = nil}
 MultiLanguageNpcData['nl'][245904] = {name = "Demonische ziel", subname = nil}
+MultiLanguageNpcData['nl'][245905] = {name = "Kill Credit: Vernietig Banner", subname = nil}
 MultiLanguageNpcData['nl'][245906] = {name = "Nog een portaal", subname = nil}
 MultiLanguageNpcData['nl'][245907] = {name = "Fallen Shaman", subname = nil}
+MultiLanguageNpcData['nl'][245908] = {name = "Kill Credit: Groot boek vernietigen", subname = nil}
+MultiLanguageNpcData['nl'][245909] = {name = "Kill Credit: Vernietig wapen Rack", subname = nil}
+MultiLanguageNpcData['nl'][245910] = {name = "Kill Credit: Destroy Crate", subname = nil}
+MultiLanguageNpcData['nl'][245912] = {name = "Lightwarden Ruia", subname = nil}
 MultiLanguageNpcData['nl'][245914] = {name = "Bank", subname = nil}
 MultiLanguageNpcData['nl'][245915] = {name = "Om'en", subname = "Kartel Om Magistraat"}
+MultiLanguageNpcData['nl'][245916] = {name = "Etherische vooruitzichten", subname = "Gevangen K'areshi"}
+MultiLanguageNpcData['nl'][245924] = {name = "Voidspawn", subname = nil}
+MultiLanguageNpcData['nl'][245925] = {name = "Schurende sifus", subname = nil}
+MultiLanguageNpcData['nl'][245927] = {name = "Bound Shadowtorch", subname = nil}
+MultiLanguageNpcData['nl'][245928] = {name = "Voidcaller Obliviator", subname = nil}
+MultiLanguageNpcData['nl'][245929] = {name = "Voidwalker render", subname = nil}
+MultiLanguageNpcData['nl'][245930] = {name = "Kleine vluchtelingen", subname = nil}
+MultiLanguageNpcData['nl'][245931] = {name = "Wrathbound Voidwraith", subname = nil}
+MultiLanguageNpcData['nl'][245932] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245933] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245934] = {name = "Voidlord Shadowschild", subname = nil}
+MultiLanguageNpcData['nl'][245935] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245936] = {name = "Domanaar Enforcer", subname = nil}
+MultiLanguageNpcData['nl'][245937] = {name = "Gecontroleerde slachtklauw", subname = nil}
 MultiLanguageNpcData['nl'][245938] = {name = "Flickergate", subname = nil}
+MultiLanguageNpcData['nl'][245939] = {name = "Twilight Darkcaller", subname = nil}
+MultiLanguageNpcData['nl'][245940] = {name = "Voidstruck Executioner", subname = nil}
+MultiLanguageNpcData['nl'][245941] = {name = "Twilight Initieren", subname = nil}
+MultiLanguageNpcData['nl'][245942] = {name = "Liya Waterbloom", subname = nil}
+MultiLanguageNpcData['nl'][245943] = {name = "Paladin assisteren", subname = nil}
+MultiLanguageNpcData['nl'][245944] = {name = "Bloodknight assisteren", subname = nil}
+MultiLanguageNpcData['nl'][245945] = {name = "Griezelschaduws", subname = nil}
+MultiLanguageNpcData['nl'][245946] = {name = "Sunbath Kikker", subname = nil}
 MultiLanguageNpcData['nl'][245948] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
 MultiLanguageNpcData['nl'][245949] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
+MultiLanguageNpcData['nl'][245950] = {name = "Watchful Harrower", subname = nil}
+MultiLanguageNpcData['nl'][245951] = {name = "Buitenstaander", subname = "PH"}
+MultiLanguageNpcData['nl'][245952] = {name = "Voidcaller Manipulator", subname = nil}
+MultiLanguageNpcData['nl'][245953] = {name = "Watchful Harrower", subname = nil}
+MultiLanguageNpcData['nl'][245955] = {name = "Rift Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][245956] = {name = "Rift Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][245957] = {name = "Underrift Kever", subname = nil}
+MultiLanguageNpcData['nl'][245958] = {name = "Onderwortel Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][245960] = {name = "Heer Antenorian", subname = nil}
+MultiLanguageNpcData['nl'][245961] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][245962] = {name = "Leeg Stalk", subname = nil}
+MultiLanguageNpcData['nl'][245963] = {name = "Blistercreep", subname = nil}
 MultiLanguageNpcData['nl'][245964] = {name = "Ingrediënte wagen", subname = nil}
 MultiLanguageNpcData['nl'][245965] = {name = "Brew Barrel", subname = nil}
 MultiLanguageNpcData['nl'][245966] = {name = "Kokenpot", subname = nil}
 MultiLanguageNpcData['nl'][245967] = {name = "Gorgrum Kegfist", subname = nil}
+MultiLanguageNpcData['nl'][245968] = {name = "Glowpod Croaker", subname = nil}
 MultiLanguageNpcData['nl'][245970] = {name = "Etherische commandant", subname = nil}
 MultiLanguageNpcData['nl'][245972] = {name = "Kill Credit: Brewgarden Voltooid - Horde", subname = nil}
+MultiLanguageNpcData['nl'][245974] = {name = "Kleine vluchtelingen", subname = nil}
+MultiLanguageNpcData['nl'][245975] = {name = "Mrlokk", subname = nil}
+MultiLanguageNpcData['nl'][245976] = {name = "Deminos Darktrance", subname = nil}
+MultiLanguageNpcData['nl'][245979] = {name = "Pel'na Torntusk", subname = "Revantusk-stam"}
 MultiLanguageNpcData['nl'][245980] = {name = "Faseafbeelding", subname = nil}
+MultiLanguageNpcData['nl'][245981] = {name = "Solentino", subname = nil}
+MultiLanguageNpcData['nl'][245982] = {name = "Confessor Revik", subname = nil}
+MultiLanguageNpcData['nl'][245986] = {name = "Su'meera", subname = nil}
+MultiLanguageNpcData['nl'][245987] = {name = "Ridder Riandron", subname = nil}
+MultiLanguageNpcData['nl'][245989] = {name = "Adelaar Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][245990] = {name = "Adelaar Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][245991] = {name = "Adelaar Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][245992] = {name = "Adelaar Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][245993] = {name = "Empowered Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][245994] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][245995] = {name = "Void Conduit", subname = nil}
+MultiLanguageNpcData['nl'][245996] = {name = "Hugh Mann", subname = nil}
 MultiLanguageNpcData['nl'][245997] = {name = "Malek'ta", subname = "De Jaws of Oblivion"}
 MultiLanguageNpcData['nl'][245998] = {name = "Heka'tamos", subname = "Elementaire Disjunctie"}
 MultiLanguageNpcData['nl'][246001] = {name = "Bekentenis", subname = nil}
 MultiLanguageNpcData['nl'][246002] = {name = "Scarlet Cleric", subname = nil}
+MultiLanguageNpcData['nl'][246004] = {name = "Ketel van Sin'dorei Flasks", subname = nil}
+MultiLanguageNpcData['nl'][246007] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][246010] = {name = "Adelaar Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246012] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][246014] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][246021] = {name = "Gehl Harrowtongue", subname = "Meester van Acolytes"}
+MultiLanguageNpcData['nl'][246022] = {name = "Gehl Harrowtongue", subname = "Meester van Acolytes"}
+MultiLanguageNpcData['nl'][246023] = {name = "Gehl Harrowtongue", subname = "Meester van Acolytes"}
+MultiLanguageNpcData['nl'][246024] = {name = "Twilight verzameld", subname = nil}
+MultiLanguageNpcData['nl'][246025] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][246026] = {name = "Unicus", subname = "Exclusieve Ensembles"}
 MultiLanguageNpcData['nl'][246028] = {name = "Sacerdormu", subname = nil}
+MultiLanguageNpcData['nl'][246029] = {name = "Nerveus Tranquillien Citizen", subname = nil}
 MultiLanguageNpcData['nl'][246030] = {name = "Freddie Threads", subname = "Discount Cloak Dealer"}
+MultiLanguageNpcData['nl'][246033] = {name = "Callum Ashvow", subname = nil}
+MultiLanguageNpcData['nl'][246034] = {name = "Imperia", subname = nil}
+MultiLanguageNpcData['nl'][246035] = {name = "Knight Anais", subname = nil}
+MultiLanguageNpcData['nl'][246036] = {name = "Callum's Pauldron", subname = nil}
 MultiLanguageNpcData['nl'][246037] = {name = "Zeezegende heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246038] = {name = "Lichte Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][246039] = {name = "Knight Anais", subname = nil}
+MultiLanguageNpcData['nl'][246040] = {name = "Callum Ashvow", subname = nil}
 MultiLanguageNpcData['nl'][246041] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
 MultiLanguageNpcData['nl'][246042] = {name = "Brewer's Ballon", subname = nil}
+MultiLanguageNpcData['nl'][246043] = {name = "Kill Credit: Trace of Light [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246044] = {name = "K'thir Transformeren", subname = nil}
+MultiLanguageNpcData['nl'][246045] = {name = "Knight Anais", subname = nil}
+MultiLanguageNpcData['nl'][246046] = {name = "Callum Ashvow", subname = nil}
 MultiLanguageNpcData['nl'][246047] = {name = "Corsair Pillager", subname = nil}
+MultiLanguageNpcData['nl'][246048] = {name = "Grote V-indicator Sorvo's", subname = nil}
 MultiLanguageNpcData['nl'][246049] = {name = "Velddampter", subname = nil}
+MultiLanguageNpcData['nl'][246051] = {name = "Legering Voidcrawler", subname = nil}
 MultiLanguageNpcData['nl'][246054] = {name = "Waygate", subname = nil}
+MultiLanguageNpcData['nl'][246055] = {name = "Wraith desoleren", subname = nil}
+MultiLanguageNpcData['nl'][246056] = {name = "Gloaming Voidcaller", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][246057] = {name = "Slechte Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][246059] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][246060] = {name = "Stormray Remora", subname = nil}
+MultiLanguageNpcData['nl'][246063] = {name = "Gaunt Voidspawn", subname = nil}
+MultiLanguageNpcData['nl'][246064] = {name = "Baleful Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][246066] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][246067] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][246068] = {name = "Hash'ey Shrine", subname = nil}
+MultiLanguageNpcData['nl'][246069] = {name = "Lynx Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246070] = {name = "Lynx Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246071] = {name = "Lynx Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246072] = {name = "Lynx Hash'ey Heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][246073] = {name = "Voracious Wraith", subname = nil}
+MultiLanguageNpcData['nl'][246074] = {name = "Voidtouched Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][246075] = {name = "Larval Crustacean", subname = nil}
+MultiLanguageNpcData['nl'][246076] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][246077] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][246078] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][246079] = {name = "Muilkorf Domanaar", subname = "Imperia's Plaything (2/1.2)"}
+MultiLanguageNpcData['nl'][246080] = {name = "Gloaming Voidcaller", subname = "Imperia's Plaything (2/1.2)"}
 MultiLanguageNpcData['nl'][246083] = {name = "Waygate", subname = nil}
 MultiLanguageNpcData['nl'][246090] = {name = "Juveniele Stofrug", subname = nil}
+MultiLanguageNpcData['nl'][246091] = {name = "Chromafoilkever", subname = nil}
+MultiLanguageNpcData['nl'][246092] = {name = "Twilight's Blade Spy", subname = nil}
+MultiLanguageNpcData['nl'][246094] = {name = "Cascades Grouper", subname = nil}
+MultiLanguageNpcData['nl'][246096] = {name = "Gevangen verrader", subname = nil}
+MultiLanguageNpcData['nl'][246100] = {name = "Overseer Mognak", subname = nil}
+MultiLanguageNpcData['nl'][246101] = {name = "Cascades Grouper", subname = nil}
+MultiLanguageNpcData['nl'][246103] = {name = "Cascades Shimmerbug", subname = nil}
 MultiLanguageNpcData['nl'][246104] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
+MultiLanguageNpcData['nl'][246105] = {name = "Ketel van Sin'dorei Flasks", subname = nil}
+MultiLanguageNpcData['nl'][246106] = {name = "Majestic Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][246111] = {name = "Voidborn Swarmer", subname = nil}
+MultiLanguageNpcData['nl'][246112] = {name = "Voidlight Potion Cauldron", subname = nil}
+MultiLanguageNpcData['nl'][246113] = {name = "Kill Credit: Deatholme verlaten", subname = nil}
+MultiLanguageNpcData['nl'][246115] = {name = "Twilight's Blade Spy", subname = nil}
+MultiLanguageNpcData['nl'][246116] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246117] = {name = "Voidlight Potion Cauldron", subname = nil}
 MultiLanguageNpcData['nl'][246118] = {name = "GRAAN [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246119] = {name = "roekeloze sjamaan", subname = nil}
 MultiLanguageNpcData['nl'][246120] = {name = "Brouwspecialist", subname = nil}
+MultiLanguageNpcData['nl'][246121] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][246122] = {name = "Worm Wrangler", subname = nil}
 MultiLanguageNpcData['nl'][246123] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['nl'][246124] = {name = "Pretzel", subname = nil}
 MultiLanguageNpcData['nl'][246125] = {name = "Soepspecialist", subname = nil}
 MultiLanguageNpcData['nl'][246127] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['nl'][246128] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['nl'][246129] = {name = "Brewfest Reveler", subname = nil}
+MultiLanguageNpcData['nl'][246130] = {name = "Faerin Lothar", subname = nil}
+MultiLanguageNpcData['nl'][246132] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][246135] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][246139] = {name = "Projectie van Mor'duun", subname = "Hoge Inquisiteur van de Twilight's Blade"}
+MultiLanguageNpcData['nl'][246140] = {name = "Twilight's Blade Acolyte", subname = nil}
 MultiLanguageNpcData['nl'][246141] = {name = "Portal Loc Bunny", subname = nil}
+MultiLanguageNpcData['nl'][246144] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][246145] = {name = "Commandant Gravok.", subname = nil}
+MultiLanguageNpcData['nl'][246146] = {name = "Dunwald-slachtoffer", subname = nil}
+MultiLanguageNpcData['nl'][246147] = {name = "Roaming Shadow", subname = nil}
 MultiLanguageNpcData['nl'][246148] = {name = "Mazarhai", subname = nil}
+MultiLanguageNpcData['nl'][246150] = {name = "Noellen", subname = nil}
+MultiLanguageNpcData['nl'][246151] = {name = "Grote V-indicator Sorvo's", subname = nil}
+MultiLanguageNpcData['nl'][246154] = {name = "Verdachte burger", subname = nil}
+MultiLanguageNpcData['nl'][246155] = {name = "Verdachte burger", subname = nil}
+MultiLanguageNpcData['nl'][246156] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][246157] = {name = "Verdachte burger", subname = nil}
+MultiLanguageNpcData['nl'][246158] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][246159] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][246160] = {name = "Meandering Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][246161] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][246162] = {name = "Sporeglider foerageren", subname = nil}
 MultiLanguageNpcData['nl'][246163] = {name = "Heka'tamos", subname = "Elementaire Disjunctie"}
+MultiLanguageNpcData['nl'][246164] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][246165] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][246166] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][246168] = {name = "Ravenous Saptor", subname = nil}
+MultiLanguageNpcData['nl'][246169] = {name = "Loa Speaker Tobui", subname = "Devout van Halazzi"}
 MultiLanguageNpcData['nl'][246170] = {name = "Bliksemzegende transformatie", subname = nil}
 MultiLanguageNpcData['nl'][246171] = {name = "Lightning-Blessed Spire", subname = nil}
 MultiLanguageNpcData['nl'][246174] = {name = "Schaduwkloon", subname = nil}
+MultiLanguageNpcData['nl'][246177] = {name = "InvisBunny", subname = nil}
+MultiLanguageNpcData['nl'][246179] = {name = "Empowered Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][246180] = {name = "Singulariteit Nexus", subname = nil}
+MultiLanguageNpcData['nl'][246181] = {name = "Singulariteit Nexus", subname = nil}
+MultiLanguageNpcData['nl'][246182] = {name = "Void Shard", subname = nil}
 MultiLanguageNpcData['nl'][246183] = {name = "Graangeraspt", subname = nil}
 MultiLanguageNpcData['nl'][246184] = {name = "Kill Credit: Pretzel ingrediënten verkregen [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246185] = {name = "Kill Credit: Pretzel tabel gebruikt [DNT]", subname = nil}
@@ -4856,133 +6495,884 @@ MultiLanguageNpcData['nl'][246203] = {name = "Kill Credit: Zak gestort [DNT]", s
 MultiLanguageNpcData['nl'][246204] = {name = "Area Trigger Bunny [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246205] = {name = "Area Trigger Bunny [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246206] = {name = "Pretzel Dough Widget Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246208] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][246210] = {name = "Tuktuk", subname = nil}
+MultiLanguageNpcData['nl'][246211] = {name = "Ziny", subname = nil}
 MultiLanguageNpcData['nl'][246212] = {name = "Keggor the Fermented", subname = nil}
 MultiLanguageNpcData['nl'][246213] = {name = "Pretzel", subname = nil}
 MultiLanguageNpcData['nl'][246214] = {name = "Gerstsoep", subname = nil}
 MultiLanguageNpcData['nl'][246215] = {name = "Kill Credit: Bestelling [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246216] = {name = "Kill Credit: Voedsel geleverd [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246218] = {name = "Rancid Rootseeker", subname = nil}
 MultiLanguageNpcData['nl'][246220] = {name = "Demon Portal test", subname = nil}
+MultiLanguageNpcData['nl'][246221] = {name = "Rageclaw Reserve", subname = nil}
+MultiLanguageNpcData['nl'][246222] = {name = "Voidborn Reserve", subname = nil}
+MultiLanguageNpcData['nl'][246223] = {name = "Enshroomed Sap Weaver", subname = nil}
+MultiLanguageNpcData['nl'][246227] = {name = "Quel'Danas Sentinel", subname = nil}
 MultiLanguageNpcData['nl'][246228] = {name = "Colossal Stormfiend", subname = nil}
 MultiLanguageNpcData['nl'][246229] = {name = "Stormzoeker Acolyte", subname = nil}
 MultiLanguageNpcData['nl'][246230] = {name = "Oathsworn Vanguard", subname = nil}
+MultiLanguageNpcData['nl'][246231] = {name = "Astalor Bloodsworn", subname = nil}
+MultiLanguageNpcData['nl'][246232] = {name = "Quel'Danas Sentinel", subname = nil}
 MultiLanguageNpcData['nl'][246233] = {name = "Kippen", subname = nil}
 MultiLanguageNpcData['nl'][246234] = {name = "Waygate", subname = nil}
 MultiLanguageNpcData['nl'][246238] = {name = "Koe", subname = nil}
+MultiLanguageNpcData['nl'][246239] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246240] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246244] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246245] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246247] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246250] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246251] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246253] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246254] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246255] = {name = "Quel'Danas Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246257] = {name = "Singulariteit Nexus", subname = nil}
+MultiLanguageNpcData['nl'][246260] = {name = "Singulariteit Nexus", subname = nil}
+MultiLanguageNpcData['nl'][246266] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][246270] = {name = "Generic Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246271] = {name = "Prophet Velen", subname = nil}
+MultiLanguageNpcData['nl'][246272] = {name = "Void Zealot Devinda", subname = nil}
 MultiLanguageNpcData['nl'][246273] = {name = "Drake rijden", subname = nil}
+MultiLanguageNpcData['nl'][246274] = {name = "Generic Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246275] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][246276] = {name = "Orc Skeleton", subname = nil}
+MultiLanguageNpcData['nl'][246277] = {name = "Verwelkte plant", subname = nil}
+MultiLanguageNpcData['nl'][246280] = {name = "Twilight Saboteur", subname = nil}
+MultiLanguageNpcData['nl'][246281] = {name = "Dawnstar Scholar", subname = nil}
+MultiLanguageNpcData['nl'][246282] = {name = "Twilight Voidcaster", subname = nil}
 MultiLanguageNpcData['nl'][246283] = {name = "Kill Credit: Dimensius Lair [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246284] = {name = "Gear van buitenstaanders", subname = nil}
 MultiLanguageNpcData['nl'][246285] = {name = "Bazaar Overseer", subname = nil}
+MultiLanguageNpcData['nl'][246286] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246290] = {name = "Twilight Neophyte", subname = nil}
+MultiLanguageNpcData['nl'][246294] = {name = "Crusader Kern", subname = nil}
 MultiLanguageNpcData['nl'][246296] = {name = "Portaal naar Raszageth", subname = nil}
+MultiLanguageNpcData['nl'][246298] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246299] = {name = "Generic Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246302] = {name = "Twilight Wrecker", subname = nil}
 MultiLanguageNpcData['nl'][246304] = {name = "Stormformed Sentinel", subname = nil}
 MultiLanguageNpcData['nl'][246306] = {name = "Valarjar Mystic", subname = nil}
 MultiLanguageNpcData['nl'][246307] = {name = "Valarjar Kampioen", subname = nil}
 MultiLanguageNpcData['nl'][246308] = {name = "Valarjar Thundercaller", subname = nil}
+MultiLanguageNpcData['nl'][246311] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][246312] = {name = "Violet Vinesnapper", subname = nil}
+MultiLanguageNpcData['nl'][246315] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][246316] = {name = "Iris Barkstofper", subname = nil}
+MultiLanguageNpcData['nl'][246317] = {name = "12.0 Intro - Quest \"Severing the Leid\" - Pylon Destroyed", subname = nil}
+MultiLanguageNpcData['nl'][246320] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][246321] = {name = "Ivy Barbtail", subname = nil}
+MultiLanguageNpcData['nl'][246323] = {name = "Dundun", subname = "Loa van Overvloed"}
 MultiLanguageNpcData['nl'][246325] = {name = "Adarus Duskblade", subname = "Illidari"}
 MultiLanguageNpcData['nl'][246326] = {name = "Archmage Khadgar", subname = nil}
 MultiLanguageNpcData['nl'][246327] = {name = "Kalecgo's", subname = nil}
 MultiLanguageNpcData['nl'][246328] = {name = "Alliance Buurtarbeiders", subname = nil}
+MultiLanguageNpcData['nl'][246330] = {name = "Ornery Hawkling", subname = nil}
 MultiLanguageNpcData['nl'][246331] = {name = "Schaduwwacht Dreadnaught", subname = nil}
+MultiLanguageNpcData['nl'][246332] = {name = "Directeur onkruid", subname = nil}
+MultiLanguageNpcData['nl'][246333] = {name = "Void-Tainted Foam", subname = nil}
 MultiLanguageNpcData['nl'][246334] = {name = "Flikkerend Ethereal Portal", subname = nil}
 MultiLanguageNpcData['nl'][246335] = {name = "Flikkerend Ethereal Portal", subname = nil}
 MultiLanguageNpcData['nl'][246336] = {name = "Buurtarbeider", subname = nil}
 MultiLanguageNpcData['nl'][246337] = {name = "Al'dalil", subname = nil}
+MultiLanguageNpcData['nl'][246338] = {name = "Amani Soldier, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][246340] = {name = "Amani Soldier, Scout", subname = "T2 (2/1,2)"}
 MultiLanguageNpcData['nl'][246341] = {name = "Diabole runderen", subname = nil}
 MultiLanguageNpcData['nl'][246342] = {name = "Rally Portal", subname = nil}
+MultiLanguageNpcData['nl'][246343] = {name = "Asira Dawnslayer", subname = nil}
+MultiLanguageNpcData['nl'][246346] = {name = "Alliance Soldaat", subname = nil}
+MultiLanguageNpcData['nl'][246347] = {name = "Kill Credit: Verzamel Zwaard", subname = nil}
+MultiLanguageNpcData['nl'][246348] = {name = "Schaduwpawn", subname = nil}
+MultiLanguageNpcData['nl'][246350] = {name = "Cult Adept", subname = nil}
+MultiLanguageNpcData['nl'][246351] = {name = "Schaduwsteen Elementaal", subname = nil}
+MultiLanguageNpcData['nl'][246352] = {name = "Bladesworn Cultist", subname = nil}
+MultiLanguageNpcData['nl'][246353] = {name = "Galtra Bloodclave", subname = nil}
+MultiLanguageNpcData['nl'][246354] = {name = "Twilight Ogre Mage", subname = nil}
+MultiLanguageNpcData['nl'][246355] = {name = "Kill Credit: Verzamel Schild", subname = nil}
+MultiLanguageNpcData['nl'][246356] = {name = "Kill Credit: Proxy", subname = nil}
+MultiLanguageNpcData['nl'][246357] = {name = "Shadowburn Vortex", subname = nil}
+MultiLanguageNpcData['nl'][246358] = {name = "Kill Credit: Verzamel Schild 2", subname = nil}
+MultiLanguageNpcData['nl'][246359] = {name = "Ogre Browbeater", subname = nil}
+MultiLanguageNpcData['nl'][246360] = {name = "Buitenstaander", subname = nil}
+MultiLanguageNpcData['nl'][246361] = {name = "Umbral Skullcrusher", subname = nil}
+MultiLanguageNpcData['nl'][246362] = {name = "Farstrider aanbeveling Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246363] = {name = "Blood Knight aanbeveling Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246364] = {name = "Magister aanbeveling Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246365] = {name = "Encroaching Lynx", subname = nil}
 MultiLanguageNpcData['nl'][246366] = {name = "De oogstmachine", subname = nil}
+MultiLanguageNpcData['nl'][246367] = {name = "Spirit Bear", subname = nil}
+MultiLanguageNpcData['nl'][246368] = {name = "Kill Credit: Verzamel Schild 3", subname = nil}
+MultiLanguageNpcData['nl'][246369] = {name = "Kill Credit: Verzamel Zwaard 2", subname = nil}
+MultiLanguageNpcData['nl'][246370] = {name = "Kill Credit: Verzamel Mace 1", subname = nil}
+MultiLanguageNpcData['nl'][246371] = {name = "Spirit Moonkin", subname = nil}
+MultiLanguageNpcData['nl'][246372] = {name = "Alton Parsons", subname = nil}
+MultiLanguageNpcData['nl'][246373] = {name = "Galtra Bloodclave", subname = nil}
 MultiLanguageNpcData['nl'][246374] = {name = "Schaduwwacht soldaat", subname = nil}
 MultiLanguageNpcData['nl'][246375] = {name = "Schaduwwacht Acolyte", subname = nil}
+MultiLanguageNpcData['nl'][246376] = {name = "Gossip Enthousiaste", subname = nil}
+MultiLanguageNpcData['nl'][246380] = {name = "Void Fire (Large) [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][246385] = {name = "Buurtbewoner", subname = nil}
 MultiLanguageNpcData['nl'][246388] = {name = "Kat", subname = nil}
+MultiLanguageNpcData['nl'][246390] = {name = "Floaret Grovecrawler", subname = nil}
+MultiLanguageNpcData['nl'][246391] = {name = "Floaret Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][246392] = {name = "Floaret Saptor", subname = nil}
+MultiLanguageNpcData['nl'][246395] = {name = "Kill Credit: Herbalism Cave - Event Begin", subname = nil}
+MultiLanguageNpcData['nl'][246396] = {name = "Kill Credit: Herbalism Cave - Evenement voltooid", subname = nil}
+MultiLanguageNpcData['nl'][246397] = {name = "Kill Credit: Herbalism Cave - Event Credit", subname = nil}
+MultiLanguageNpcData['nl'][246399] = {name = "Silvermoon construct", subname = nil}
 MultiLanguageNpcData['nl'][246400] = {name = "Waygate", subname = nil}
+MultiLanguageNpcData['nl'][246401] = {name = "Lichte Vanguard", subname = "Voorhoede van het Licht"}
 MultiLanguageNpcData['nl'][246402] = {name = "Schaduwbeschermer-infiltrant", subname = nil}
 MultiLanguageNpcData['nl'][246403] = {name = "Stormwolk", subname = nil}
+MultiLanguageNpcData['nl'][246404] = {name = "Nalorakk", subname = "Loa of War"}
 MultiLanguageNpcData['nl'][246405] = {name = "HERHALING", subname = nil}
+MultiLanguageNpcData['nl'][246406] = {name = "Jenoh", subname = nil}
+MultiLanguageNpcData['nl'][246407] = {name = "Chilling Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][246409] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][246410] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][246411] = {name = "Taz", subname = "Jenoh's Mount"}
+MultiLanguageNpcData['nl'][246412] = {name = "Faerin Lothar", subname = nil}
+MultiLanguageNpcData['nl'][246413] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][246414] = {name = "Ondervraging", subname = nil}
+MultiLanguageNpcData['nl'][246415] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][246416] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][246417] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][246418] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][246421] = {name = "Magic Fisher Bunny", subname = nil}
+MultiLanguageNpcData['nl'][246424] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][246425] = {name = "Oorlogskapelaan Senn", subname = nil}
 MultiLanguageNpcData['nl'][246426] = {name = "Schuif van kracht", subname = nil}
+MultiLanguageNpcData['nl'][246429] = {name = "Onzichtbare konijntje (handtekening doel)", subname = nil}
+MultiLanguageNpcData['nl'][246432] = {name = "Renegade Magister", subname = nil}
+MultiLanguageNpcData['nl'][246433] = {name = "Kellara the Cunning", subname = nil}
+MultiLanguageNpcData['nl'][246434] = {name = "Magister Sunbreaker", subname = nil}
+MultiLanguageNpcData['nl'][246435] = {name = "Tuwavo Ravenwing", subname = nil}
+MultiLanguageNpcData['nl'][246436] = {name = "Geheugen van Warlord Akutu", subname = nil}
+MultiLanguageNpcData['nl'][246437] = {name = "Geheugen van Loa Speaker Sij'ta", subname = nil}
+MultiLanguageNpcData['nl'][246438] = {name = "Magister Sunbreaker", subname = nil}
+MultiLanguageNpcData['nl'][246439] = {name = "Magister Sunbreaker", subname = nil}
+MultiLanguageNpcData['nl'][246442] = {name = "Thievers Nest", subname = nil}
+MultiLanguageNpcData['nl'][246443] = {name = "Thievers Nest", subname = nil}
+MultiLanguageNpcData['nl'][246448] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][246449] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][246450] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][246451] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][246452] = {name = "Masa Tashi", subname = nil}
+MultiLanguageNpcData['nl'][246453] = {name = "Tina Fun", subname = nil}
+MultiLanguageNpcData['nl'][246454] = {name = "Geïnoculeerde schimmelstalker", subname = nil}
+MultiLanguageNpcData['nl'][246455] = {name = "Feral Rotling", subname = nil}
+MultiLanguageNpcData['nl'][246456] = {name = "Vergeten nummer", subname = nil}
+MultiLanguageNpcData['nl'][246459] = {name = "Fortamus", subname = nil}
+MultiLanguageNpcData['nl'][246460] = {name = "Straal van Putrescence", subname = nil}
+MultiLanguageNpcData['nl'][246462] = {name = "Aartsbisschop Benedictus", subname = nil}
+MultiLanguageNpcData['nl'][246463] = {name = "Ballista", subname = nil}
+MultiLanguageNpcData['nl'][246464] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][246465] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246467] = {name = "Aardappel", subname = nil}
+MultiLanguageNpcData['nl'][246470] = {name = "Dartis Leanhope", subname = nil}
+MultiLanguageNpcData['nl'][246471] = {name = "Ix the Bloodfallen", subname = nil}
+MultiLanguageNpcData['nl'][246473] = {name = "Rampant Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][246474] = {name = "Gezichtsopvatting", subname = nil}
+MultiLanguageNpcData['nl'][246475] = {name = "Zilver Hand Defender", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][246476] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246477] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246478] = {name = "Commandant Ix'vaarha", subname = nil}
+MultiLanguageNpcData['nl'][246480] = {name = "Encroaching Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][246481] = {name = "Floaret Bud", subname = nil}
+MultiLanguageNpcData['nl'][246482] = {name = "Floaret Blossom", subname = nil}
+MultiLanguageNpcData['nl'][246483] = {name = "Geweld Warframe", subname = nil}
+MultiLanguageNpcData['nl'][246485] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][246486] = {name = "Shandris Feathermoon", subname = nil}
+MultiLanguageNpcData['nl'][246487] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
+MultiLanguageNpcData['nl'][246489] = {name = "Kill Credit: maart op Quel'Danas", subname = nil}
+MultiLanguageNpcData['nl'][246490] = {name = "Vision of True Calling", subname = nil}
+MultiLanguageNpcData['nl'][246491] = {name = "Magistrix Emberlash", subname = nil}
+MultiLanguageNpcData['nl'][246492] = {name = "Senior Tinker Ozwold", subname = nil}
+MultiLanguageNpcData['nl'][246493] = {name = "L-N-0R de Recycler", subname = nil}
+MultiLanguageNpcData['nl'][246494] = {name = "Mordril Shadowfell", subname = nil}
+MultiLanguageNpcData['nl'][246495] = {name = "Deliah Gloomsong", subname = nil}
+MultiLanguageNpcData['nl'][246496] = {name = "Phaseblade Talasha", subname = nil}
+MultiLanguageNpcData['nl'][246498] = {name = "Nexus-rand Hadim", subname = nil}
+MultiLanguageNpcData['nl'][246499] = {name = "Jo'zolo the Breaker", subname = nil}
+MultiLanguageNpcData['nl'][246500] = {name = "Zadu, Vuist van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][246501] = {name = "De Talon van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][246502] = {name = "De Vleugel van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][246503] = {name = "Ranger Swiftglade", subname = nil}
+MultiLanguageNpcData['nl'][246504] = {name = "Blazewing", subname = nil}
+MultiLanguageNpcData['nl'][246505] = {name = "Petyoll de Razorleaf", subname = nil}
+MultiLanguageNpcData['nl'][246506] = {name = "Lamyne van de Undercroft", subname = nil}
+MultiLanguageNpcData['nl'][246507] = {name = "Hoge Vindicator Vureem", subname = nil}
+MultiLanguageNpcData['nl'][246508] = {name = "Crusader Luxia Maxwell", subname = nil}
+MultiLanguageNpcData['nl'][246509] = {name = "Praetor Singularis", subname = nil}
+MultiLanguageNpcData['nl'][246510] = {name = "Consulnevel", subname = nil}
+MultiLanguageNpcData['nl'][246511] = {name = "Executeur Kaenius", subname = nil}
+MultiLanguageNpcData['nl'][246512] = {name = "Imperator Enigmalia", subname = nil}
+MultiLanguageNpcData['nl'][246513] = {name = "Trigore", subname = nil}
+MultiLanguageNpcData['nl'][246514] = {name = "Knight-Errant Bloodshatter", subname = nil}
+MultiLanguageNpcData['nl'][246515] = {name = "Vylenna de Overste", subname = nil}
+MultiLanguageNpcData['nl'][246516] = {name = "Verloren Theldrin", subname = nil}
+MultiLanguageNpcData['nl'][246517] = {name = "Neydra de honger", subname = nil}
+MultiLanguageNpcData['nl'][246518] = {name = "Thornspeaker Edgath", subname = nil}
+MultiLanguageNpcData['nl'][246519] = {name = "Thorn Witch Liset", subname = nil}
+MultiLanguageNpcData['nl'][246520] = {name = "Grothoz, de brandende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][246521] = {name = "Dengzag, the Darkened Blaze", subname = nil}
+MultiLanguageNpcData['nl'][246522] = {name = "Vision of True Calling - Evenement", subname = nil}
+MultiLanguageNpcData['nl'][246523] = {name = "Lichte groei", subname = nil}
+MultiLanguageNpcData['nl'][246525] = {name = "Warlord Akutu", subname = nil}
 MultiLanguageNpcData['nl'][246527] = {name = "Om'milla", subname = "Eco-dome Al'dani Assistent"}
+MultiLanguageNpcData['nl'][246528] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][246529] = {name = "Lor'themar Bunny", subname = nil}
+MultiLanguageNpcData['nl'][246530] = {name = "Orweyna Bunny", subname = nil}
+MultiLanguageNpcData['nl'][246531] = {name = "Shandris Bunny", subname = nil}
+MultiLanguageNpcData['nl'][246532] = {name = "Warlord Akutu", subname = nil}
+MultiLanguageNpcData['nl'][246533] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
 MultiLanguageNpcData['nl'][246534] = {name = "Geheime onderzoeker", subname = nil}
+MultiLanguageNpcData['nl'][246535] = {name = "Sunbath Snoofer", subname = nil}
 MultiLanguageNpcData['nl'][246536] = {name = "Projectie van Ve'nari", subname = nil}
+MultiLanguageNpcData['nl'][246537] = {name = "Loa voorzitter Sij'ta", subname = nil}
+MultiLanguageNpcData['nl'][246538] = {name = "Kapitein-expositie", subname = nil}
+MultiLanguageNpcData['nl'][246541] = {name = "Oudere Tae Swiftfoot", subname = nil}
+MultiLanguageNpcData['nl'][246542] = {name = "Meester Pyong-Xu", subname = nil}
+MultiLanguageNpcData['nl'][246543] = {name = "Godess Leiding - Konijn", subname = nil}
+MultiLanguageNpcData['nl'][246545] = {name = "Translocator Kill-krediet gebruiken", subname = nil}
+MultiLanguageNpcData['nl'][246546] = {name = "Vergeten Melody", subname = nil}
+MultiLanguageNpcData['nl'][246547] = {name = "Talvar de Luminous", subname = nil}
+MultiLanguageNpcData['nl'][246548] = {name = "Matumo Brighthoof", subname = nil}
+MultiLanguageNpcData['nl'][246549] = {name = "Ez'Haadosh the Liminality", subname = nil}
 MultiLanguageNpcData['nl'][246550] = {name = "Lost Legion Imp", subname = nil}
 MultiLanguageNpcData['nl'][246551] = {name = "Verloren Legion Felguard", subname = nil}
 MultiLanguageNpcData['nl'][246552] = {name = "Verloren Legion Wrathguard", subname = nil}
 MultiLanguageNpcData['nl'][246553] = {name = "Lost Legion Doomguard", subname = nil}
+MultiLanguageNpcData['nl'][246554] = {name = "VoidwalkerBruiser", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][246555] = {name = "Verwonde soldaat", subname = nil}
+MultiLanguageNpcData['nl'][246557] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][246558] = {name = "Saligrum de waarnemer", subname = nil}
+MultiLanguageNpcData['nl'][246559] = {name = "Sharfadi, Bulwark of the Night", subname = nil}
+MultiLanguageNpcData['nl'][246560] = {name = "Skymistress Gloaming", subname = "Dragonhawk Meester"}
+MultiLanguageNpcData['nl'][246561] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][246562] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][246563] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][246564] = {name = "Anathos", subname = "Dragonhawk Meester"}
+MultiLanguageNpcData['nl'][246565] = {name = "Gustavan, Herald of the End", subname = nil}
+MultiLanguageNpcData['nl'][246566] = {name = "Mirrorvise", subname = nil}
+MultiLanguageNpcData['nl'][246567] = {name = "Motgrub", subname = nil}
 MultiLanguageNpcData['nl'][246568] = {name = "Turalyon", subname = nil}
 MultiLanguageNpcData['nl'][246570] = {name = "Moira Thaurissan", subname = nil}
 MultiLanguageNpcData['nl'][246571] = {name = "Thrall", subname = nil}
+MultiLanguageNpcData['nl'][246572] = {name = "Redeye de Skullchewer", subname = nil}
+MultiLanguageNpcData['nl'][246573] = {name = "Songs of the Sun", subname = nil}
+MultiLanguageNpcData['nl'][246574] = {name = "Sundrub", subname = nil}
 MultiLanguageNpcData['nl'][246575] = {name = "Velen", subname = nil}
 MultiLanguageNpcData['nl'][246576] = {name = "Jaina Proudmoore", subname = nil}
+MultiLanguageNpcData['nl'][246577] = {name = "Nedrand the Eyegorger", subname = nil}
+MultiLanguageNpcData['nl'][246578] = {name = "Voidclaw Hexathor", subname = nil}
 MultiLanguageNpcData['nl'][246579] = {name = "Geesten Genezer", subname = nil}
+MultiLanguageNpcData['nl'][246580] = {name = "Invasieve Lynx", subname = nil}
+MultiLanguageNpcData['nl'][246581] = {name = "Poort naar de zuidelijke poort", subname = nil}
+MultiLanguageNpcData['nl'][246582] = {name = "Legacy Stone schilderij Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246583] = {name = "Achtergrond", subname = nil}
+MultiLanguageNpcData['nl'][246584] = {name = "Kyltus Bloodburn", subname = nil}
 MultiLanguageNpcData['nl'][246585] = {name = "Wrathion", subname = nil}
 MultiLanguageNpcData['nl'][246586] = {name = "Sabelliaans", subname = nil}
 MultiLanguageNpcData['nl'][246587] = {name = "Tyrande Whisperwind", subname = nil}
+MultiLanguageNpcData['nl'][246588] = {name = "Invasieve Lynx", subname = nil}
+MultiLanguageNpcData['nl'][246590] = {name = "Kyltus Bloodburn", subname = nil}
+MultiLanguageNpcData['nl'][246591] = {name = "Glacial Tomb", subname = nil}
+MultiLanguageNpcData['nl'][246592] = {name = "Mysterieuze correspondent", subname = nil}
+MultiLanguageNpcData['nl'][246593] = {name = "Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][246594] = {name = "Achtergrond", subname = nil}
+MultiLanguageNpcData['nl'][246595] = {name = "Metamorfose", subname = nil}
+MultiLanguageNpcData['nl'][246596] = {name = "Portals - Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246597] = {name = "Iridescent Jewelwing", subname = nil}
+MultiLanguageNpcData['nl'][246598] = {name = "Galtra Bloodclave", subname = nil}
+MultiLanguageNpcData['nl'][246599] = {name = "Alton Parsons", subname = nil}
 MultiLanguageNpcData['nl'][246601] = {name = "Onderzoeker Essarae", subname = nil}
+MultiLanguageNpcData['nl'][246603] = {name = "Hagar's besluit - Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246604] = {name = "Magister Sunbreaker", subname = nil}
+MultiLanguageNpcData['nl'][246605] = {name = "Jagende remnant", subname = nil}
+MultiLanguageNpcData['nl'][246606] = {name = "Evenement voor portalen - Credit", subname = nil}
+MultiLanguageNpcData['nl'][246607] = {name = "Greenspeaker Cyenna", subname = nil}
 MultiLanguageNpcData['nl'][246608] = {name = "Fase-verloren Creeper", subname = nil}
 MultiLanguageNpcData['nl'][246612] = {name = "Stromgarde Exile", subname = nil}
 MultiLanguageNpcData['nl'][246613] = {name = "Doomrider Helgrim", subname = nil}
+MultiLanguageNpcData['nl'][246614] = {name = "Schaduw knipperen", subname = nil}
+MultiLanguageNpcData['nl'][246615] = {name = "Encroaching Darkness", subname = nil}
+MultiLanguageNpcData['nl'][246616] = {name = "Twilight's Shade", subname = nil}
+MultiLanguageNpcData['nl'][246617] = {name = "Ogre Voidweaver", subname = nil}
+MultiLanguageNpcData['nl'][246618] = {name = "Ogre Cagemaster", subname = nil}
+MultiLanguageNpcData['nl'][246619] = {name = "Twilight Warrior", subname = nil}
+MultiLanguageNpcData['nl'][246620] = {name = "Twilight Occultist", subname = nil}
+MultiLanguageNpcData['nl'][246621] = {name = "Gladius Slaurna", subname = nil}
+MultiLanguageNpcData['nl'][246622] = {name = "Trigore Denguard", subname = "Brood van Predaxas"}
+MultiLanguageNpcData['nl'][246623] = {name = "Aspore the Cascading", subname = "Erfgenaam van Predaxas"}
+MultiLanguageNpcData['nl'][246624] = {name = "Tranquillien Sentry", subname = nil}
+MultiLanguageNpcData['nl'][246625] = {name = "Tranquillien Citizen", subname = nil}
+MultiLanguageNpcData['nl'][246626] = {name = "Eversong Defender", subname = nil}
+MultiLanguageNpcData['nl'][246627] = {name = "Ulfrik Stoutarm", subname = nil}
+MultiLanguageNpcData['nl'][246628] = {name = "Marco the Malodorous", subname = nil}
+MultiLanguageNpcData['nl'][246629] = {name = "Bladweaver", subname = nil}
+MultiLanguageNpcData['nl'][246630] = {name = "Thornblade", subname = nil}
+MultiLanguageNpcData['nl'][246633] = {name = "Gehuwd Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][246634] = {name = "Licht gekraakt ondergroei", subname = nil}
+MultiLanguageNpcData['nl'][246635] = {name = "Radierende chloromancer", subname = nil}
+MultiLanguageNpcData['nl'][246636] = {name = "Sapschild Defender", subname = nil}
+MultiLanguageNpcData['nl'][246637] = {name = "Thornmaw Briarblaze", subname = nil}
+MultiLanguageNpcData['nl'][246638] = {name = "Stumpspreader", subname = nil}
+MultiLanguageNpcData['nl'][246640] = {name = "Netherhunter Infestor", subname = nil}
+MultiLanguageNpcData['nl'][246641] = {name = "Nederlandhunter Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][246642] = {name = "Invasieve nakomeling", subname = nil}
+MultiLanguageNpcData['nl'][246643] = {name = "Amani-arend", subname = nil}
+MultiLanguageNpcData['nl'][246644] = {name = "Amani-arend", subname = nil}
+MultiLanguageNpcData['nl'][246645] = {name = "Getemd Petalwing", subname = nil}
 MultiLanguageNpcData['nl'][246646] = {name = "Smeed Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][246647] = {name = "Jeniba Sharpwrench", subname = nil}
+MultiLanguageNpcData['nl'][246648] = {name = "Klexi de Stabulous", subname = nil}
+MultiLanguageNpcData['nl'][246649] = {name = "Kapitein-expositie", subname = nil}
+MultiLanguageNpcData['nl'][246650] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][246651] = {name = "Droomprojectie", subname = nil}
+MultiLanguageNpcData['nl'][246652] = {name = "Vanguard Barricade", subname = nil}
 MultiLanguageNpcData['nl'][246653] = {name = "Wagon", subname = nil}
+MultiLanguageNpcData['nl'][246654] = {name = "Crusader Kern", subname = nil}
+MultiLanguageNpcData['nl'][246657] = {name = "Lord Grayson Schaduwbreker", subname = nil}
+MultiLanguageNpcData['nl'][246658] = {name = "Grand Lector Enaara", subname = nil}
+MultiLanguageNpcData['nl'][246659] = {name = "Fiona", subname = nil}
+MultiLanguageNpcData['nl'][246665] = {name = "Geconcentreerde Leegte", subname = nil}
+MultiLanguageNpcData['nl'][246666] = {name = "Renten Plaguebringer", subname = nil}
+MultiLanguageNpcData['nl'][246667] = {name = "Nethos the Blighted", subname = nil}
+MultiLanguageNpcData['nl'][246669] = {name = "Prophet Velen", subname = nil}
+MultiLanguageNpcData['nl'][246670] = {name = "Delas Moonfang", subname = "Priesteres van de Maan"}
 MultiLanguageNpcData['nl'][246671] = {name = "Enter Delve", subname = nil}
+MultiLanguageNpcData['nl'][246672] = {name = "Aponi Brightmane", subname = "Sunwalker Chieftain"}
+MultiLanguageNpcData['nl'][246674] = {name = "Grovecrawler Lightleaf", subname = nil}
+MultiLanguageNpcData['nl'][246675] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][246677] = {name = "Frostsinger Hayalvi", subname = nil}
+MultiLanguageNpcData['nl'][246678] = {name = "Nimisia Azuresong", subname = nil}
+MultiLanguageNpcData['nl'][246679] = {name = "Persistente vlinder", subname = nil}
+MultiLanguageNpcData['nl'][246680] = {name = "Lumenia", subname = nil}
+MultiLanguageNpcData['nl'][246681] = {name = "Tranquillen Guard", subname = nil}
+MultiLanguageNpcData['nl'][246682] = {name = "Lothraxion", subname = "Hoge Commandant"}
 MultiLanguageNpcData['nl'][246685] = {name = "Timewarped Obelisk", subname = nil}
+MultiLanguageNpcData['nl'][246687] = {name = "Schaduw Essentie", subname = nil}
 MultiLanguageNpcData['nl'][246691] = {name = "Poort van schaduwwacht", subname = nil}
 MultiLanguageNpcData['nl'][246693] = {name = "Poort van schaduwwacht", subname = nil}
 MultiLanguageNpcData['nl'][246698] = {name = "Mana Pipe", subname = nil}
+MultiLanguageNpcData['nl'][246705] = {name = "Dalnir", subname = "Vastworteling-tender"}
 MultiLanguageNpcData['nl'][246706] = {name = "Fel Trickster", subname = nil}
+MultiLanguageNpcData['nl'][246707] = {name = "Riverscale", subname = nil}
+MultiLanguageNpcData['nl'][246710] = {name = "Allergeen onkruid", subname = nil}
 MultiLanguageNpcData['nl'][246711] = {name = "Doomguard Challenger", subname = nil}
+MultiLanguageNpcData['nl'][246712] = {name = "Feasting Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][246713] = {name = "Harmonious Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][246714] = {name = "Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][246715] = {name = "Agressieve Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][246717] = {name = "Heer Antenorian", subname = nil}
+MultiLanguageNpcData['nl'][246718] = {name = "Ritueel aanbod", subname = nil}
+MultiLanguageNpcData['nl'][246719] = {name = "Ritueel aanbod", subname = nil}
 MultiLanguageNpcData['nl'][246721] = {name = "Janey Forrest", subname = "Hull'n'Home Outlet Merchant"}
+MultiLanguageNpcData['nl'][246722] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][246723] = {name = "Haranir Male Kid", subname = nil}
+MultiLanguageNpcData['nl'][246724] = {name = "Haranir vrouwelijke jongen", subname = nil}
+MultiLanguageNpcData['nl'][246725] = {name = "Haranir Male Kid", subname = nil}
+MultiLanguageNpcData['nl'][246726] = {name = "Haranir vrouwelijke jongen", subname = nil}
+MultiLanguageNpcData['nl'][246727] = {name = "Ravenia", subname = "Verschrikkelijke Beest Meester"}
+MultiLanguageNpcData['nl'][246728] = {name = "Leegte Ember", subname = "Kind van Belo'ren"}
+MultiLanguageNpcData['nl'][246729] = {name = "Lichte ember", subname = "Kind van Belo'ren"}
 MultiLanguageNpcData['nl'][246733] = {name = "Duivelsvliegen", subname = nil}
 MultiLanguageNpcData['nl'][246735] = {name = "Gebroken ziel", subname = nil}
+MultiLanguageNpcData['nl'][246742] = {name = "Beal Bloodstone", subname = "Handelsmiddelen"}
+MultiLanguageNpcData['nl'][246744] = {name = "Doelgroep Stalker", subname = nil}
+MultiLanguageNpcData['nl'][246746] = {name = "Bubbels", subname = nil}
+MultiLanguageNpcData['nl'][246749] = {name = "Bisschop Broxast", subname = nil}
+MultiLanguageNpcData['nl'][246750] = {name = "Grigori de Onberouwvolle", subname = nil}
+MultiLanguageNpcData['nl'][246758] = {name = "Savia \"Anguish\" Anguossa", subname = nil}
+MultiLanguageNpcData['nl'][246759] = {name = "Nethercaster Vandryn", subname = nil}
+MultiLanguageNpcData['nl'][246764] = {name = "Licht ei", subname = nil}
+MultiLanguageNpcData['nl'][246765] = {name = "Leeg ei", subname = nil}
+MultiLanguageNpcData['nl'][246766] = {name = "Ei van Belo'ren", subname = nil}
+MultiLanguageNpcData['nl'][246768] = {name = "Brandoproeper Nephius", subname = nil}
+MultiLanguageNpcData['nl'][246769] = {name = "Snazz Sparkstack", subname = nil}
+MultiLanguageNpcData['nl'][246770] = {name = "Baylor Sunstow", subname = nil}
+MultiLanguageNpcData['nl'][246772] = {name = "Tranquillien Citizen", subname = nil}
+MultiLanguageNpcData['nl'][246773] = {name = "Dode soldaat", subname = nil}
+MultiLanguageNpcData['nl'][246775] = {name = "Plaatshouder Miniboss", subname = nil}
+MultiLanguageNpcData['nl'][246777] = {name = "Ghikal", subname = nil}
+MultiLanguageNpcData['nl'][246778] = {name = "Decanimated Sporeguard", subname = nil}
+MultiLanguageNpcData['nl'][246779] = {name = "Lord Grayson Schaduwbreker", subname = nil}
+MultiLanguageNpcData['nl'][246780] = {name = "Decanimated Blightbringer", subname = nil}
+MultiLanguageNpcData['nl'][246782] = {name = "Decanimated Rotseeker", subname = nil}
+MultiLanguageNpcData['nl'][246783] = {name = "Gedecaniseerd draaien", subname = nil}
+MultiLanguageNpcData['nl'][246784] = {name = "Bloedstorm, de verschrikkelijke", subname = nil}
+MultiLanguageNpcData['nl'][246785] = {name = "Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][246786] = {name = "Onzichtbare konijn (ShootTarget)", subname = nil}
+MultiLanguageNpcData['nl'][246787] = {name = "Gedecanimeerde stalker", subname = nil}
+MultiLanguageNpcData['nl'][246788] = {name = "Sentry Trainee", subname = nil}
+MultiLanguageNpcData['nl'][246789] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][246791] = {name = "Fidoficus", subname = nil}
+MultiLanguageNpcData['nl'][246796] = {name = "Priesteres van de Maan", subname = nil}
+MultiLanguageNpcData['nl'][246804] = {name = "Decrepit Skeleton", subname = nil}
+MultiLanguageNpcData['nl'][246806] = {name = "Arcanist Taemin", subname = nil}
+MultiLanguageNpcData['nl'][246807] = {name = "Gedecaniseerde snapjaw", subname = nil}
+MultiLanguageNpcData['nl'][246808] = {name = "Decanimated Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][246809] = {name = "Colarra the Cadaverous", subname = nil}
+MultiLanguageNpcData['nl'][246810] = {name = "Vervloekt masker", subname = nil}
+MultiLanguageNpcData['nl'][246811] = {name = "Lady Korvisha", subname = nil}
+MultiLanguageNpcData['nl'][246812] = {name = "Teruggekeerde krijger", subname = nil}
+MultiLanguageNpcData['nl'][246813] = {name = "Hanesel", subname = "Model"}
+MultiLanguageNpcData['nl'][246814] = {name = "Andretta \"melee\" Nalee", subname = nil}
+MultiLanguageNpcData['nl'][246815] = {name = "Leerling Korpssecaller", subname = nil}
+MultiLanguageNpcData['nl'][246816] = {name = "Nekora de goedbewapende", subname = nil}
+MultiLanguageNpcData['nl'][246817] = {name = "Derilon", subname = "Hanesel Entourage"}
+MultiLanguageNpcData['nl'][246818] = {name = "Zuster Shandra", subname = nil}
+MultiLanguageNpcData['nl'][246819] = {name = "Diviner Taz'to", subname = nil}
+MultiLanguageNpcData['nl'][246820] = {name = "Dawyn de Rabid", subname = nil}
+MultiLanguageNpcData['nl'][246821] = {name = "Ku'tiri de Klauw", subname = nil}
 MultiLanguageNpcData['nl'][246822] = {name = "Slateback Roamer", subname = nil}
+MultiLanguageNpcData['nl'][246823] = {name = "Bravin de Onopvallende", subname = nil}
+MultiLanguageNpcData['nl'][246824] = {name = "Haz'waz de giftige", subname = nil}
+MultiLanguageNpcData['nl'][246825] = {name = "Lurking Shadowstalker", subname = nil}
+MultiLanguageNpcData['nl'][246826] = {name = "Lessia Giantstrike", subname = nil}
+MultiLanguageNpcData['nl'][246827] = {name = "Rin'zaka de Galefist", subname = nil}
+MultiLanguageNpcData['nl'][246828] = {name = "Portaal actief - Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246829] = {name = "Pyrthel de Ghastly", subname = nil}
+MultiLanguageNpcData['nl'][246830] = {name = "Talah Blightspewer", subname = nil}
+MultiLanguageNpcData['nl'][246831] = {name = "Necrohex Soulbinder", subname = nil}
+MultiLanguageNpcData['nl'][246832] = {name = "Mastus Snowspray", subname = nil}
+MultiLanguageNpcData['nl'][246833] = {name = "Caz'lek de Sleetbringer", subname = nil}
+MultiLanguageNpcData['nl'][246834] = {name = "Leering Skulltaker", subname = nil}
+MultiLanguageNpcData['nl'][246835] = {name = "Nella Slagheart", subname = nil}
+MultiLanguageNpcData['nl'][246836] = {name = "Jemba de Radiant", subname = nil}
+MultiLanguageNpcData['nl'][246837] = {name = "Setara Blazestrike", subname = nil}
+MultiLanguageNpcData['nl'][246838] = {name = "Earthspeaker Ochomu", subname = nil}
+MultiLanguageNpcData['nl'][246839] = {name = "Hexbound Necrowraith", subname = nil}
+MultiLanguageNpcData['nl'][246840] = {name = "Beul Lynthelma", subname = nil}
+MultiLanguageNpcData['nl'][246841] = {name = "Vleeswarped Abomination", subname = nil}
+MultiLanguageNpcData['nl'][246844] = {name = "Niet-geconsolideerd", subname = nil}
+MultiLanguageNpcData['nl'][246846] = {name = "Allied Race - Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][246847] = {name = "Voidfiend Corpse", subname = nil}
+MultiLanguageNpcData['nl'][246849] = {name = "Blooming Corpse", subname = nil}
+MultiLanguageNpcData['nl'][246850] = {name = "Hulk Husk", subname = nil}
+MultiLanguageNpcData['nl'][246853] = {name = "Shambling Guard-husk", subname = nil}
+MultiLanguageNpcData['nl'][246856] = {name = "Furious Huskling", subname = nil}
+MultiLanguageNpcData['nl'][246857] = {name = "Shambling Rot-Husk", subname = nil}
+MultiLanguageNpcData['nl'][246859] = {name = "Ranger Asterae", subname = "Farstrider Veterinair"}
+MultiLanguageNpcData['nl'][246860] = {name = "Ranger Valsarin", subname = "Farstrider Cook"}
+MultiLanguageNpcData['nl'][246861] = {name = "Flauw nummer", subname = nil}
+MultiLanguageNpcData['nl'][246862] = {name = "Limping Spore-Husk", subname = nil}
+MultiLanguageNpcData['nl'][246863] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
 MultiLanguageNpcData['nl'][246865] = {name = "Shadowburst Lance", subname = nil}
+MultiLanguageNpcData['nl'][246866] = {name = "Kapitein Dawnrunner", subname = nil}
+MultiLanguageNpcData['nl'][246867] = {name = "T'paartos", subname = nil}
 MultiLanguageNpcData['nl'][246868] = {name = "Droomweaver", subname = nil}
+MultiLanguageNpcData['nl'][246869] = {name = "Caedmos", subname = nil}
+MultiLanguageNpcData['nl'][246870] = {name = "Deursloten", subname = nil}
+MultiLanguageNpcData['nl'][246871] = {name = "Lichtgevende Thornmaw", subname = nil}
 MultiLanguageNpcData['nl'][246872] = {name = "Infernal Dreadlord", subname = nil}
+MultiLanguageNpcData['nl'][246873] = {name = "Opgeroepen Blazewing", subname = nil}
 MultiLanguageNpcData['nl'][246874] = {name = "Instroom directeur", subname = nil}
+MultiLanguageNpcData['nl'][246876] = {name = "Void Rock", subname = nil}
+MultiLanguageNpcData['nl'][246877] = {name = "Tenak", subname = nil}
+MultiLanguageNpcData['nl'][246878] = {name = "Nan'kejo", subname = nil}
+MultiLanguageNpcData['nl'][246879] = {name = "Akovu", subname = nil}
+MultiLanguageNpcData['nl'][246880] = {name = "Kul'kul", subname = nil}
+MultiLanguageNpcData['nl'][246881] = {name = "Jan'teko", subname = nil}
+MultiLanguageNpcData['nl'][246882] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][246883] = {name = "Riley Iceclaw", subname = nil}
+MultiLanguageNpcData['nl'][246884] = {name = "Lente de Bitter", subname = nil}
+MultiLanguageNpcData['nl'][246885] = {name = "Galdon the Glacial", subname = nil}
+MultiLanguageNpcData['nl'][246886] = {name = "Qyrix de Hatchet", subname = nil}
 MultiLanguageNpcData['nl'][246887] = {name = "Laadduivel", subname = nil}
+MultiLanguageNpcData['nl'][246889] = {name = "Thievers Nest", subname = nil}
+MultiLanguageNpcData['nl'][246891] = {name = "Lijn Stalker", subname = nil}
+MultiLanguageNpcData['nl'][246892] = {name = "Agericus Decanimatus", subname = nil}
+MultiLanguageNpcData['nl'][246894] = {name = "Fruit Mycelium", subname = nil}
+MultiLanguageNpcData['nl'][246895] = {name = "Runway Supply Strider", subname = nil}
 MultiLanguageNpcData['nl'][246897] = {name = "Krazeduivel", subname = nil}
+MultiLanguageNpcData['nl'][246898] = {name = "Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][246901] = {name = "Taga Stoneaxe", subname = nil}
+MultiLanguageNpcData['nl'][246902] = {name = "Onsterfelijke Ina", subname = nil}
+MultiLanguageNpcData['nl'][246903] = {name = "Caladon Leechblade", subname = nil}
+MultiLanguageNpcData['nl'][246904] = {name = "Loqh'wa de wraakzuchtige", subname = nil}
+MultiLanguageNpcData['nl'][246905] = {name = "Bearstalker Vorian", subname = nil}
+MultiLanguageNpcData['nl'][246906] = {name = "Marksman Rakatu", subname = nil}
+MultiLanguageNpcData['nl'][246907] = {name = "Faedra de sluipschutter", subname = nil}
+MultiLanguageNpcData['nl'][246908] = {name = "Elantia Arcarrow", subname = nil}
 MultiLanguageNpcData['nl'][246909] = {name = "Waygate", subname = nil}
+MultiLanguageNpcData['nl'][246910] = {name = "Raize Shadespeare", subname = nil}
+MultiLanguageNpcData['nl'][246911] = {name = "Sylareon Silverblade", subname = nil}
+MultiLanguageNpcData['nl'][246912] = {name = "Nylaria de Haunted", subname = nil}
+MultiLanguageNpcData['nl'][246913] = {name = "Celaryn de Frenzied", subname = nil}
+MultiLanguageNpcData['nl'][246915] = {name = "Pathius Dawnglow", subname = "Arcane Guru"}
+MultiLanguageNpcData['nl'][246916] = {name = "Eminent Ultradon", subname = nil}
 MultiLanguageNpcData['nl'][246919] = {name = "Arcane flow", subname = nil}
+MultiLanguageNpcData['nl'][246921] = {name = "Sleepy Strider", subname = nil}
+MultiLanguageNpcData['nl'][246924] = {name = "Konijn", subname = nil}
+MultiLanguageNpcData['nl'][246925] = {name = "Magistrix Emberlash", subname = nil}
+MultiLanguageNpcData['nl'][246926] = {name = "Magistrix Emberlash", subname = nil}
+MultiLanguageNpcData['nl'][246927] = {name = "Senior Tinker Ozwold", subname = nil}
+MultiLanguageNpcData['nl'][246928] = {name = "Senior Tinker Ozwold", subname = nil}
+MultiLanguageNpcData['nl'][246929] = {name = "L-N-0R de Recycler", subname = nil}
+MultiLanguageNpcData['nl'][246930] = {name = "L-N-0R de Recycler", subname = nil}
+MultiLanguageNpcData['nl'][246932] = {name = "Mordril Shadowfell", subname = nil}
+MultiLanguageNpcData['nl'][246933] = {name = "Mordril Shadowfell", subname = nil}
+MultiLanguageNpcData['nl'][246934] = {name = "Deliah Gloomsong", subname = nil}
+MultiLanguageNpcData['nl'][246935] = {name = "Deliah Gloomsong", subname = nil}
+MultiLanguageNpcData['nl'][246936] = {name = "Phaseblade Talasha", subname = nil}
+MultiLanguageNpcData['nl'][246937] = {name = "Phaseblade Talasha", subname = nil}
+MultiLanguageNpcData['nl'][246938] = {name = "Nexus-rand Hadim", subname = nil}
+MultiLanguageNpcData['nl'][246939] = {name = "Nexus-rand Hadim", subname = nil}
+MultiLanguageNpcData['nl'][246940] = {name = "Jo'zolo the Breaker", subname = nil}
+MultiLanguageNpcData['nl'][246941] = {name = "Jo'zolo the Breaker", subname = nil}
+MultiLanguageNpcData['nl'][246942] = {name = "Zadu, Vuist van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][246943] = {name = "Zadu, Vuist van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][246944] = {name = "De Talon van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][246945] = {name = "De Talon van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][246946] = {name = "De Vleugel van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][246947] = {name = "De Vleugel van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][246948] = {name = "Ranger Swiftglade", subname = nil}
+MultiLanguageNpcData['nl'][246949] = {name = "Ranger Swiftglade", subname = nil}
+MultiLanguageNpcData['nl'][246950] = {name = "Blazewing", subname = nil}
+MultiLanguageNpcData['nl'][246951] = {name = "Blazewing", subname = nil}
+MultiLanguageNpcData['nl'][246952] = {name = "Petyoll de Razorleaf", subname = nil}
+MultiLanguageNpcData['nl'][246953] = {name = "Petyoll de Razorleaf", subname = nil}
+MultiLanguageNpcData['nl'][246954] = {name = "Lamyne van de Undercroft", subname = nil}
+MultiLanguageNpcData['nl'][246955] = {name = "Lamyne van de Undercroft", subname = nil}
+MultiLanguageNpcData['nl'][246956] = {name = "Hoge Vindicator Vureem", subname = nil}
+MultiLanguageNpcData['nl'][246957] = {name = "Hoge Vindicator Vureem", subname = nil}
+MultiLanguageNpcData['nl'][246958] = {name = "Crusader Luxia Maxwell", subname = nil}
+MultiLanguageNpcData['nl'][246959] = {name = "Crusader Luxia Maxwell", subname = nil}
+MultiLanguageNpcData['nl'][246960] = {name = "Praetor Singularis", subname = nil}
+MultiLanguageNpcData['nl'][246961] = {name = "Praetor Singularis", subname = nil}
+MultiLanguageNpcData['nl'][246962] = {name = "Archmage Velor Cloudlight", subname = nil}
+MultiLanguageNpcData['nl'][246963] = {name = "Consulnevel", subname = nil}
+MultiLanguageNpcData['nl'][246964] = {name = "Consulnevel", subname = nil}
+MultiLanguageNpcData['nl'][246965] = {name = "Executeur Kaenius", subname = nil}
+MultiLanguageNpcData['nl'][246966] = {name = "Executeur Kaenius", subname = nil}
+MultiLanguageNpcData['nl'][246967] = {name = "Padvinderskapitein Daelin", subname = nil}
+MultiLanguageNpcData['nl'][246968] = {name = "Imperator Enigmalia", subname = nil}
+MultiLanguageNpcData['nl'][246969] = {name = "Imperator Enigmalia", subname = nil}
+MultiLanguageNpcData['nl'][246970] = {name = "Kapitein Elleane Wavecrest", subname = nil}
+MultiLanguageNpcData['nl'][246972] = {name = "Knight-Errant Bloodshatter", subname = nil}
+MultiLanguageNpcData['nl'][246973] = {name = "Knight-Errant Bloodshatter", subname = nil}
+MultiLanguageNpcData['nl'][246974] = {name = "Vylenna de Overste", subname = nil}
+MultiLanguageNpcData['nl'][246975] = {name = "Vylenna de Overste", subname = nil}
+MultiLanguageNpcData['nl'][246976] = {name = "Verloren Theldrin", subname = nil}
+MultiLanguageNpcData['nl'][246977] = {name = "Verloren Theldrin", subname = nil}
+MultiLanguageNpcData['nl'][246978] = {name = "Neydra de honger", subname = nil}
+MultiLanguageNpcData['nl'][246979] = {name = "Neydra de honger", subname = nil}
+MultiLanguageNpcData['nl'][246980] = {name = "Thornspeaker Edgath", subname = nil}
+MultiLanguageNpcData['nl'][246981] = {name = "Thornspeaker Edgath", subname = nil}
+MultiLanguageNpcData['nl'][246982] = {name = "Thorn Witch Liset", subname = nil}
+MultiLanguageNpcData['nl'][246984] = {name = "Thorn Witch Liset", subname = nil}
+MultiLanguageNpcData['nl'][246985] = {name = "Grothoz, de brandende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][246986] = {name = "Grothoz, de brandende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][246987] = {name = "Dengzag, the Darkened Blaze", subname = nil}
+MultiLanguageNpcData['nl'][246988] = {name = "Dengzag, the Darkened Blaze", subname = nil}
 MultiLanguageNpcData['nl'][246994] = {name = "Perslucht", subname = nil}
+MultiLanguageNpcData['nl'][246996] = {name = "Het bloed van Fallen Brood", subname = nil}
 MultiLanguageNpcData['nl'][246997] = {name = "Lightspawn branden", subname = nil}
 MultiLanguageNpcData['nl'][246998] = {name = "Arcane Leypoint", subname = nil}
+MultiLanguageNpcData['nl'][246999] = {name = "Loa Speaker Tobui", subname = "Devout van Halazzi"}
+MultiLanguageNpcData['nl'][247007] = {name = "Kalgorg", subname = "Lucia Nightbreaker's Minion"}
+MultiLanguageNpcData['nl'][247011] = {name = "Gehoornde kikker", subname = nil}
 MultiLanguageNpcData['nl'][247012] = {name = "Waystone", subname = nil}
+MultiLanguageNpcData['nl'][247014] = {name = "Nija Torntusk", subname = "Revantusk-stam"}
 MultiLanguageNpcData['nl'][247018] = {name = "Inquisiteur in het hellevuur", subname = nil}
+MultiLanguageNpcData['nl'][247019] = {name = "Sky'reen", subname = nil}
+MultiLanguageNpcData['nl'][247021] = {name = "Discordant Resonance Stone", subname = nil}
+MultiLanguageNpcData['nl'][247022] = {name = "Taluha Sunbringer", subname = nil}
+MultiLanguageNpcData['nl'][247023] = {name = "Justicar Arcalus", subname = nil}
+MultiLanguageNpcData['nl'][247024] = {name = "Kyara Bladeturner", subname = nil}
+MultiLanguageNpcData['nl'][247025] = {name = "Crusader Tanastas", subname = nil}
+MultiLanguageNpcData['nl'][247026] = {name = "Ballista", subname = nil}
+MultiLanguageNpcData['nl'][247027] = {name = "Barricade", subname = nil}
 MultiLanguageNpcData['nl'][247028] = {name = "Helse vlieger", subname = nil}
+MultiLanguageNpcData['nl'][247029] = {name = "Nefarious Elemental", subname = nil}
 MultiLanguageNpcData['nl'][247030] = {name = "Schaduwwacht scout", subname = nil}
 MultiLanguageNpcData['nl'][247031] = {name = "Infernal Jailer", subname = nil}
+MultiLanguageNpcData['nl'][247034] = {name = "Void-Veiled Vanguard", subname = nil}
 MultiLanguageNpcData['nl'][247035] = {name = "Niet-geconsolideerde entiteit", subname = nil}
+MultiLanguageNpcData['nl'][247036] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247037] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247041] = {name = "Mausoloa Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247042] = {name = "Smeulende val", subname = nil}
+MultiLanguageNpcData['nl'][247043] = {name = "Mausoloa Spirit", subname = nil}
+MultiLanguageNpcData['nl'][247045] = {name = "Mausoloa ontheiliging", subname = nil}
 MultiLanguageNpcData['nl'][247046] = {name = "Kartel Zo Fase Bewaker", subname = nil}
+MultiLanguageNpcData['nl'][247048] = {name = "Mausoloa Node", subname = nil}
+MultiLanguageNpcData['nl'][247050] = {name = "Ongeleasde schemering", subname = nil}
+MultiLanguageNpcData['nl'][247053] = {name = "Geëlektrificeerde val", subname = nil}
+MultiLanguageNpcData['nl'][247069] = {name = "Mausoloa Dust", subname = nil}
+MultiLanguageNpcData['nl'][247070] = {name = "Gloomy Trap", subname = nil}
+MultiLanguageNpcData['nl'][247071] = {name = "Trillende val", subname = nil}
+MultiLanguageNpcData['nl'][247072] = {name = "Vicious Trap", subname = nil}
+MultiLanguageNpcData['nl'][247073] = {name = "Loa-Blessed val", subname = nil}
+MultiLanguageNpcData['nl'][247074] = {name = "Rangers val.", subname = nil}
+MultiLanguageNpcData['nl'][247075] = {name = "Verstrengelde val", subname = nil}
+MultiLanguageNpcData['nl'][247076] = {name = "Gezalfde val", subname = nil}
+MultiLanguageNpcData['nl'][247077] = {name = "Void-Cursed Trap", subname = nil}
+MultiLanguageNpcData['nl'][247078] = {name = "Void-warped val", subname = nil}
+MultiLanguageNpcData['nl'][247079] = {name = "Icy Trap", subname = nil}
+MultiLanguageNpcData['nl'][247080] = {name = "Mana-Ladenval", subname = nil}
+MultiLanguageNpcData['nl'][247081] = {name = "Thorny Trap", subname = nil}
+MultiLanguageNpcData['nl'][247082] = {name = "Twilight Trap", subname = nil}
+MultiLanguageNpcData['nl'][247083] = {name = "Mausoloa Shard", subname = nil}
+MultiLanguageNpcData['nl'][247084] = {name = "Mausoloa Crystal", subname = nil}
+MultiLanguageNpcData['nl'][247085] = {name = "Jesthenis Sunstriker", subname = "Blood Knight Trainer"}
+MultiLanguageNpcData['nl'][247086] = {name = "Versterkt Voidling", subname = nil}
+MultiLanguageNpcData['nl'][247087] = {name = "Mausoloa Essentie", subname = nil}
+MultiLanguageNpcData['nl'][247088] = {name = "Kill Credit: Kuri gevonden", subname = nil}
+MultiLanguageNpcData['nl'][247089] = {name = "Droom Simulacrum", subname = nil}
+MultiLanguageNpcData['nl'][247090] = {name = "Grumpy Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][247094] = {name = "Schaduw Essentie", subname = nil}
+MultiLanguageNpcData['nl'][247095] = {name = "Kill Credit: Herbalism Grot - Bonus Obj C Credit", subname = nil}
+MultiLanguageNpcData['nl'][247096] = {name = "Umbrafang", subname = "Gerenommeerde shredclaw"}
+MultiLanguageNpcData['nl'][247097] = {name = "Warlord Hlaka", subname = nil}
+MultiLanguageNpcData['nl'][247098] = {name = "Runaway Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][247099] = {name = "Hexlord O'tom", subname = nil}
+MultiLanguageNpcData['nl'][247100] = {name = "Shadowhunter Jun'tilo", subname = nil}
+MultiLanguageNpcData['nl'][247101] = {name = "Nederland", subname = "Grand Beast"}
+MultiLanguageNpcData['nl'][247102] = {name = "Verbruik van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][247103] = {name = "Geanimeerde bezem", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247105] = {name = "Versterkt Voidling", subname = nil}
+MultiLanguageNpcData['nl'][247106] = {name = "Verbruik van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][247108] = {name = "Farstrider Trainee", subname = nil}
+MultiLanguageNpcData['nl'][247109] = {name = "Mausaloa Sarcofaag", subname = nil}
+MultiLanguageNpcData['nl'][247110] = {name = "Leegte scheur", subname = nil}
+MultiLanguageNpcData['nl'][247111] = {name = "Opruimen van Biledrinker", subname = nil}
+MultiLanguageNpcData['nl'][247112] = {name = "Blood Knight Trainee", subname = nil}
+MultiLanguageNpcData['nl'][247114] = {name = "Spiritflayer Jin'Ma", subname = nil}
+MultiLanguageNpcData['nl'][247117] = {name = "Ladwick Wobblespring", subname = nil}
+MultiLanguageNpcData['nl'][247118] = {name = "Buckshot Bazza", subname = nil}
+MultiLanguageNpcData['nl'][247119] = {name = "Runway Limbs", subname = nil}
+MultiLanguageNpcData['nl'][247120] = {name = "Huntress Zmora", subname = nil}
+MultiLanguageNpcData['nl'][247121] = {name = "Downwind Dori", subname = nil}
+MultiLanguageNpcData['nl'][247122] = {name = "Rottende Thrall", subname = nil}
+MultiLanguageNpcData['nl'][247124] = {name = "Davin \"Ashes\" Ashton", subname = nil}
+MultiLanguageNpcData['nl'][247125] = {name = "Kirok the Charred", subname = nil}
+MultiLanguageNpcData['nl'][247127] = {name = "Belanna Brightblaze", subname = nil}
+MultiLanguageNpcData['nl'][247129] = {name = "Taruka Flamehand", subname = nil}
+MultiLanguageNpcData['nl'][247131] = {name = "Exarch Thoss", subname = nil}
+MultiLanguageNpcData['nl'][247133] = {name = "Caothun Suntouched", subname = nil}
+MultiLanguageNpcData['nl'][247134] = {name = "Kill Credit: Enchanting Crypt - Event Begin", subname = nil}
+MultiLanguageNpcData['nl'][247135] = {name = "Hoofdzuster Dreya", subname = nil}
+MultiLanguageNpcData['nl'][247137] = {name = "\"Don't Die\" Dyona", subname = nil}
+MultiLanguageNpcData['nl'][247139] = {name = "Falania Nightsoul", subname = nil}
+MultiLanguageNpcData['nl'][247140] = {name = "Inquisitor Draeleth", subname = nil}
+MultiLanguageNpcData['nl'][247141] = {name = "Spinwindle the Unchaste", subname = nil}
+MultiLanguageNpcData['nl'][247142] = {name = "Tinzwigg Sunstopper", subname = nil}
+MultiLanguageNpcData['nl'][247143] = {name = "Priesteres Leysha", subname = nil}
+MultiLanguageNpcData['nl'][247144] = {name = "Massawolk", subname = nil}
+MultiLanguageNpcData['nl'][247145] = {name = "Rangyu de Mender", subname = nil}
+MultiLanguageNpcData['nl'][247146] = {name = "Bandi de Boneknitter", subname = nil}
+MultiLanguageNpcData['nl'][247147] = {name = "Rondi Lavadrinker", subname = nil}
+MultiLanguageNpcData['nl'][247148] = {name = "Giruma Bloodpelt", subname = nil}
+MultiLanguageNpcData['nl'][247149] = {name = "Perek Tidesweeper", subname = nil}
+MultiLanguageNpcData['nl'][247150] = {name = "Magister Trainee", subname = nil}
+MultiLanguageNpcData['nl'][247151] = {name = "Ogros Blazeeer", subname = nil}
+MultiLanguageNpcData['nl'][247152] = {name = "Damogath de Tenebrous", subname = nil}
+MultiLanguageNpcData['nl'][247153] = {name = "Ignan Felfire", subname = nil}
+MultiLanguageNpcData['nl'][247154] = {name = "Meesteres Xyla", subname = nil}
+MultiLanguageNpcData['nl'][247155] = {name = "Malys Feltouch", subname = nil}
+MultiLanguageNpcData['nl'][247156] = {name = "Loa van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247157] = {name = "Leegtestructuur", subname = nil}
+MultiLanguageNpcData['nl'][247159] = {name = "Eadric de Zuivere", subname = nil}
+MultiLanguageNpcData['nl'][247161] = {name = "Yalia Sagewhisper", subname = nil}
 MultiLanguageNpcData['nl'][247162] = {name = "Darkmaw Frenzy", subname = nil}
+MultiLanguageNpcData['nl'][247163] = {name = "Magistrix Emberlash", subname = nil}
+MultiLanguageNpcData['nl'][247164] = {name = "Senior Tinker Ozwold", subname = nil}
+MultiLanguageNpcData['nl'][247165] = {name = "L-N-0R de Recycler", subname = nil}
+MultiLanguageNpcData['nl'][247166] = {name = "Mordril Shadowfell", subname = nil}
+MultiLanguageNpcData['nl'][247167] = {name = "Deliah Gloomsong", subname = nil}
+MultiLanguageNpcData['nl'][247168] = {name = "Phaseblade Talasha", subname = nil}
+MultiLanguageNpcData['nl'][247169] = {name = "Nexus-rand Hadim", subname = nil}
+MultiLanguageNpcData['nl'][247170] = {name = "Jo'zolo the Breaker", subname = nil}
+MultiLanguageNpcData['nl'][247171] = {name = "Zadu, Vuist van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][247172] = {name = "De Talon van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][247173] = {name = "De Vleugel van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][247174] = {name = "Ranger Swiftglade", subname = nil}
+MultiLanguageNpcData['nl'][247175] = {name = "Blazewing", subname = nil}
+MultiLanguageNpcData['nl'][247176] = {name = "Petyoll de Razorleaf", subname = nil}
+MultiLanguageNpcData['nl'][247177] = {name = "Lamyne van de Undercroft", subname = nil}
+MultiLanguageNpcData['nl'][247178] = {name = "Hoge Vindicator Vureem", subname = nil}
+MultiLanguageNpcData['nl'][247179] = {name = "Crusader Luxia Maxwell", subname = nil}
+MultiLanguageNpcData['nl'][247180] = {name = "Praetor Singularis", subname = nil}
+MultiLanguageNpcData['nl'][247181] = {name = "Consulnevel", subname = nil}
+MultiLanguageNpcData['nl'][247182] = {name = "Executeur Kaenius", subname = nil}
+MultiLanguageNpcData['nl'][247183] = {name = "Imperator Enigmalia", subname = nil}
+MultiLanguageNpcData['nl'][247184] = {name = "Knight-Errant Bloodshatter", subname = nil}
+MultiLanguageNpcData['nl'][247185] = {name = "Vylenna de Overste", subname = nil}
+MultiLanguageNpcData['nl'][247186] = {name = "Verloren Theldrin", subname = nil}
+MultiLanguageNpcData['nl'][247187] = {name = "Neydra de honger", subname = nil}
+MultiLanguageNpcData['nl'][247188] = {name = "Thornspeaker Edgath", subname = nil}
+MultiLanguageNpcData['nl'][247189] = {name = "Thorn Witch Liset", subname = nil}
+MultiLanguageNpcData['nl'][247190] = {name = "Grothoz, de brandende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][247191] = {name = "Dengzag, the Darkened Blaze", subname = nil}
+MultiLanguageNpcData['nl'][247192] = {name = "Kapitein-expositie", subname = nil}
+MultiLanguageNpcData['nl'][247193] = {name = "Elana", subname = nil}
 MultiLanguageNpcData['nl'][247196] = {name = "Loom'ithar (Stalker)", subname = nil}
+MultiLanguageNpcData['nl'][247199] = {name = "Ornery Sweeper", subname = nil}
+MultiLanguageNpcData['nl'][247200] = {name = "Verplaatste Skyshards", subname = nil}
+MultiLanguageNpcData['nl'][247201] = {name = "Mixer Jamanga", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][247203] = {name = "Verplaatste Skyshards", subname = nil}
+MultiLanguageNpcData['nl'][247204] = {name = "Verplaatste Skyshards", subname = nil}
+MultiLanguageNpcData['nl'][247208] = {name = "Loa van Overvloed", subname = nil}
 MultiLanguageNpcData['nl'][247210] = {name = "Salamander Eft", subname = nil}
 MultiLanguageNpcData['nl'][247211] = {name = "Salamander Eft", subname = nil}
 MultiLanguageNpcData['nl'][247212] = {name = "Salamander", subname = nil}
+MultiLanguageNpcData['nl'][247213] = {name = "Zonnekroon burger", subname = nil}
 MultiLanguageNpcData['nl'][247214] = {name = "Salamander", subname = nil}
+MultiLanguageNpcData['nl'][247220] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][247230] = {name = "Rajom Swiftspeare", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][247232] = {name = "Headhunter Og'beh", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][247233] = {name = "Spioneren Spiderling", subname = nil}
+MultiLanguageNpcData['nl'][247238] = {name = "Kozar Silverclaw", subname = nil}
+MultiLanguageNpcData['nl'][247239] = {name = "Kazara Bloodtalon", subname = nil}
+MultiLanguageNpcData['nl'][247240] = {name = "Trazen Swiftwing", subname = nil}
+MultiLanguageNpcData['nl'][247241] = {name = "Zindroz Darkscale", subname = nil}
+MultiLanguageNpcData['nl'][247242] = {name = "Nishana Greyscale", subname = nil}
+MultiLanguageNpcData['nl'][247243] = {name = "Siatra Spellwing", subname = nil}
 MultiLanguageNpcData['nl'][247244] = {name = "Arcane Siphon", subname = nil}
+MultiLanguageNpcData['nl'][247245] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][247251] = {name = "Nija Torntusk", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][247252] = {name = "Tuktuk", subname = nil}
+MultiLanguageNpcData['nl'][247253] = {name = "Nija Torntusk", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][247254] = {name = "Mixer Jamanga", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][247257] = {name = "Help Outsider - Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247259] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][247260] = {name = "Tuktuk", subname = "T3 (3,5/1,2)"}
+MultiLanguageNpcData['nl'][247261] = {name = "Ziny", subname = nil}
+MultiLanguageNpcData['nl'][247262] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][247263] = {name = "Aspect van Shadra", subname = "The Venom Queen"}
+MultiLanguageNpcData['nl'][247265] = {name = "Gizmo", subname = nil}
+MultiLanguageNpcData['nl'][247266] = {name = "Rec Kill-tegoed indienen", subname = nil}
+MultiLanguageNpcData['nl'][247267] = {name = "Halazzi", subname = "Loa of the Hunt"}
+MultiLanguageNpcData['nl'][247268] = {name = "Shadra", subname = "The Venom Queen"}
+MultiLanguageNpcData['nl'][247269] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][247270] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][247271] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][247272] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][247273] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][247274] = {name = "Ziny", subname = nil}
+MultiLanguageNpcData['nl'][247276] = {name = "Tuktuk", subname = nil}
 MultiLanguageNpcData['nl'][247280] = {name = "Tripwire", subname = nil}
 MultiLanguageNpcData['nl'][247281] = {name = "Nexus-Prince Azir", subname = nil}
 MultiLanguageNpcData['nl'][247283] = {name = "Soul-Scribe", subname = nil}
 MultiLanguageNpcData['nl'][247284] = {name = "Treasure Pile", subname = nil}
 MultiLanguageNpcData['nl'][247285] = {name = "Vrachtschip", subname = nil}
+MultiLanguageNpcData['nl'][247289] = {name = "Kill Credit: Betoverende Crypt - Evenement voltooid", subname = nil}
+MultiLanguageNpcData['nl'][247290] = {name = "Kill Credit: Mijngrot - Evenement voltooid", subname = nil}
+MultiLanguageNpcData['nl'][247291] = {name = "Boletus", subname = "Fight Promoter"}
+MultiLanguageNpcData['nl'][247292] = {name = "Konijn", subname = nil}
 MultiLanguageNpcData['nl'][247296] = {name = "Skiff", subname = nil}
 MultiLanguageNpcData['nl'][247298] = {name = "Mot", subname = nil}
+MultiLanguageNpcData['nl'][247299] = {name = "Sunwalker Dezco", subname = nil}
+MultiLanguageNpcData['nl'][247300] = {name = "Jagende remnant", subname = nil}
+MultiLanguageNpcData['nl'][247301] = {name = "Echo van Nalorakk", subname = nil}
 MultiLanguageNpcData['nl'][247302] = {name = "Firefly", subname = nil}
+MultiLanguageNpcData['nl'][247303] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][247304] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][247305] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][247306] = {name = "Oorlogskapelaan Senn", subname = nil}
 MultiLanguageNpcData['nl'][247318] = {name = "Skiff Bunny", subname = nil}
+MultiLanguageNpcData['nl'][247319] = {name = "Blistercreep", subname = nil}
 MultiLanguageNpcData['nl'][247320] = {name = "Skiff Bunny", subname = nil}
+MultiLanguageNpcData['nl'][247334] = {name = "Magister Sunbreaker", subname = nil}
+MultiLanguageNpcData['nl'][247335] = {name = "Magistrix Emberlash", subname = nil}
+MultiLanguageNpcData['nl'][247336] = {name = "Senior Tinker Ozwold", subname = nil}
+MultiLanguageNpcData['nl'][247337] = {name = "L-N-0R de Recycler", subname = nil}
+MultiLanguageNpcData['nl'][247338] = {name = "Mordril Shadowfell", subname = nil}
+MultiLanguageNpcData['nl'][247339] = {name = "Deliah Gloomsong", subname = nil}
+MultiLanguageNpcData['nl'][247340] = {name = "Phaseblade Talasha", subname = nil}
+MultiLanguageNpcData['nl'][247341] = {name = "Nexus-rand Hadim", subname = nil}
+MultiLanguageNpcData['nl'][247342] = {name = "Jo'zolo the Breaker", subname = nil}
+MultiLanguageNpcData['nl'][247343] = {name = "Zadu, Vuist van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][247344] = {name = "De Talon van Jan'alai", subname = nil}
+MultiLanguageNpcData['nl'][247345] = {name = "De Vleugel van Akil'zon", subname = nil}
+MultiLanguageNpcData['nl'][247346] = {name = "Ranger Swiftglade", subname = nil}
+MultiLanguageNpcData['nl'][247347] = {name = "Blazewing", subname = nil}
+MultiLanguageNpcData['nl'][247348] = {name = "Petyoll de Razorleaf", subname = nil}
+MultiLanguageNpcData['nl'][247349] = {name = "Lamyne van de Undercroft", subname = nil}
+MultiLanguageNpcData['nl'][247350] = {name = "Hoge Vindicator Vureem", subname = nil}
+MultiLanguageNpcData['nl'][247351] = {name = "Crusader Luxia Maxwell", subname = nil}
+MultiLanguageNpcData['nl'][247352] = {name = "Praetor Singularis", subname = nil}
+MultiLanguageNpcData['nl'][247353] = {name = "Consulnevel", subname = nil}
+MultiLanguageNpcData['nl'][247354] = {name = "Executeur Kaenius", subname = nil}
+MultiLanguageNpcData['nl'][247355] = {name = "Imperator Enigmalia", subname = nil}
+MultiLanguageNpcData['nl'][247356] = {name = "Knight-Errant Bloodshatter", subname = nil}
+MultiLanguageNpcData['nl'][247357] = {name = "Vylenna de Overste", subname = nil}
+MultiLanguageNpcData['nl'][247358] = {name = "Verloren Theldrin", subname = nil}
+MultiLanguageNpcData['nl'][247359] = {name = "Neydra de honger", subname = nil}
+MultiLanguageNpcData['nl'][247360] = {name = "Thornspeaker Edgath", subname = nil}
+MultiLanguageNpcData['nl'][247361] = {name = "Thorn Witch Liset", subname = nil}
+MultiLanguageNpcData['nl'][247362] = {name = "Grothoz, de brandende schaduw", subname = nil}
+MultiLanguageNpcData['nl'][247363] = {name = "Dengzag, the Darkened Blaze", subname = nil}
+MultiLanguageNpcData['nl'][247374] = {name = "Ziadan", subname = nil}
+MultiLanguageNpcData['nl'][247375] = {name = "Vivious", subname = nil}
+MultiLanguageNpcData['nl'][247381] = {name = "Venom Collector", subname = "Vilebranch stam"}
+MultiLanguageNpcData['nl'][247382] = {name = "Venomhexxer Iki", subname = "Vilebranch stam"}
+MultiLanguageNpcData['nl'][247383] = {name = "Luitenant Saranelle.", subname = "Farstrider bibliothecaris"}
+MultiLanguageNpcData['nl'][247384] = {name = "Zadelde Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][247385] = {name = "Spookte Spiderling", subname = nil}
+MultiLanguageNpcData['nl'][247386] = {name = "Daki", subname = "Witherbark-stam"}
 MultiLanguageNpcData['nl'][247387] = {name = "Zekvir", subname = "Hand van de voorbode"}
+MultiLanguageNpcData['nl'][247388] = {name = "Sakaja", subname = "Witherbark-stam"}
+MultiLanguageNpcData['nl'][247389] = {name = "Mulch Muncher", subname = nil}
 MultiLanguageNpcData['nl'][247390] = {name = "De Underpin", subname = "Een vrij grote deal"}
+MultiLanguageNpcData['nl'][247391] = {name = "Thouled Earth", subname = nil}
+MultiLanguageNpcData['nl'][247392] = {name = "Geagiteerd Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247393] = {name = "Gesmolten Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247394] = {name = "Ranger Valsarin", subname = "Farstrider Cook"}
+MultiLanguageNpcData['nl'][247395] = {name = "Ranger Asterae", subname = "Farstrider Veterinair"}
+MultiLanguageNpcData['nl'][247396] = {name = "Kapitein Dawnrunner", subname = nil}
+MultiLanguageNpcData['nl'][247397] = {name = "Blauwdoorn", subname = "Thornmaw Matriarch"}
+MultiLanguageNpcData['nl'][247398] = {name = "Avonia", subname = "Hanesel Entourage"}
+MultiLanguageNpcData['nl'][247400] = {name = "Starla", subname = "Hanesel Entourage"}
+MultiLanguageNpcData['nl'][247401] = {name = "Kazu Tashi", subname = nil}
+MultiLanguageNpcData['nl'][247402] = {name = "Orweyna's Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][247403] = {name = "Specting Sporecaller", subname = nil}
+MultiLanguageNpcData['nl'][247404] = {name = "Specting Rotseeker", subname = nil}
+MultiLanguageNpcData['nl'][247405] = {name = "Specterende Moldstalker", subname = nil}
+MultiLanguageNpcData['nl'][247406] = {name = "Orweyna's Petalwing", subname = nil}
 MultiLanguageNpcData['nl'][247407] = {name = "Schaalcommandant Emberthal", subname = "De Ebon Scales"}
 MultiLanguageNpcData['nl'][247409] = {name = "Zoölogisch specimen handler", subname = nil}
+MultiLanguageNpcData['nl'][247414] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][247415] = {name = "Voidborn Pillager", subname = nil}
 MultiLanguageNpcData['nl'][247417] = {name = "Dalaran Burger", subname = nil}
+MultiLanguageNpcData['nl'][247418] = {name = "Hallowfall Aeroknight", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][247419] = {name = "Furious Spectator", subname = nil}
+MultiLanguageNpcData['nl'][247420] = {name = "Camberons ketel", subname = nil}
+MultiLanguageNpcData['nl'][247424] = {name = "Chana", subname = nil}
+MultiLanguageNpcData['nl'][247425] = {name = "Chana", subname = nil}
+MultiLanguageNpcData['nl'][247426] = {name = "AoE Stalker", subname = nil}
 MultiLanguageNpcData['nl'][247428] = {name = "Fase duiken verlaten", subname = nil}
+MultiLanguageNpcData['nl'][247429] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
 MultiLanguageNpcData['nl'][247430] = {name = "Empowered Broker", subname = nil}
 MultiLanguageNpcData['nl'][247433] = {name = "Xal'atath", subname = nil}
 MultiLanguageNpcData['nl'][247434] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][247435] = {name = "Locus-Walker", subname = nil}
+MultiLanguageNpcData['nl'][247438] = {name = "Succulent Voidcrawler", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247439] = {name = "Gehoornde kikker", subname = nil}
+MultiLanguageNpcData['nl'][247441] = {name = "Cameramodus", subname = nil}
+MultiLanguageNpcData['nl'][247444] = {name = "Geïnfundeerde Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][247445] = {name = "Stormray", subname = nil}
 MultiLanguageNpcData['nl'][247446] = {name = "Bogpiper", subname = nil}
 MultiLanguageNpcData['nl'][247448] = {name = "Schaalcommandant Emberthal", subname = "De Ebon Scales"}
+MultiLanguageNpcData['nl'][247450] = {name = "Archmage Aethas Sundéver", subname = nil}
+MultiLanguageNpcData['nl'][247451] = {name = "Enkelvoudsanker", subname = nil}
+MultiLanguageNpcData['nl'][247452] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
 MultiLanguageNpcData['nl'][247457] = {name = "Tomb-Raider Drywhisker", subname = nil}
 MultiLanguageNpcData['nl'][247458] = {name = "Spiegelmeester Murkna", subname = nil}
+MultiLanguageNpcData['nl'][247459] = {name = "Emrin Sparkpox", subname = "Hordeslaag"}
 MultiLanguageNpcData['nl'][247460] = {name = "Cragpie", subname = nil}
 MultiLanguageNpcData['nl'][247461] = {name = "Onderzeese abominatie", subname = nil}
+MultiLanguageNpcData['nl'][247462] = {name = "Manus Deathwake", subname = "Alliance-slayer"}
 MultiLanguageNpcData['nl'][247464] = {name = "Onderheer Vik'tis", subname = nil}
+MultiLanguageNpcData['nl'][247466] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247467] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247468] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247471] = {name = "Flower Bunny 01", subname = nil}
 MultiLanguageNpcData['nl'][247472] = {name = "Fase-verloren meteling", subname = nil}
+MultiLanguageNpcData['nl'][247474] = {name = "Showboot", subname = nil}
 MultiLanguageNpcData['nl'][247475] = {name = "Nerl'athekk de Skulking", subname = nil}
 MultiLanguageNpcData['nl'][247476] = {name = "Voorzitter Xanventh", subname = nil}
 MultiLanguageNpcData['nl'][247477] = {name = "Overziener Kaskel", subname = nil}
@@ -4997,172 +7387,1084 @@ MultiLanguageNpcData['nl'][247485] = {name = "Onderzoeker Ven'kex", subname = ni
 MultiLanguageNpcData['nl'][247486] = {name = "Waxface", subname = nil}
 MultiLanguageNpcData['nl'][247487] = {name = "Fabrikant Jing", subname = "Handelspost"}
 MultiLanguageNpcData['nl'][247488] = {name = "Etherische challengeruimte", subname = nil}
+MultiLanguageNpcData['nl'][247490] = {name = "Oudere Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][247491] = {name = "Larval Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][247492] = {name = "Void Crystal", subname = nil}
+MultiLanguageNpcData['nl'][247493] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][247494] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][247495] = {name = "Padhulp", subname = nil}
 MultiLanguageNpcData['nl'][247498] = {name = "Spinshroom", subname = nil}
+MultiLanguageNpcData['nl'][247499] = {name = "Smeulend vuur", subname = nil}
+MultiLanguageNpcData['nl'][247500] = {name = "Arcanist Taemin", subname = nil}
 MultiLanguageNpcData['nl'][247501] = {name = "Wyrmrest Temple Drake", subname = nil}
+MultiLanguageNpcData['nl'][247502] = {name = "Duikpak", subname = nil}
+MultiLanguageNpcData['nl'][247503] = {name = "Hathvelion Sungaze", subname = "Ranger kapitein"}
+MultiLanguageNpcData['nl'][247504] = {name = "Dwalende Mauler", subname = nil}
+MultiLanguageNpcData['nl'][247505] = {name = "Dwalende Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247506] = {name = "Geweld Warframe", subname = nil}
+MultiLanguageNpcData['nl'][247507] = {name = "Witherbark Cub", subname = nil}
+MultiLanguageNpcData['nl'][247508] = {name = "Woodleg Gulper", subname = nil}
+MultiLanguageNpcData['nl'][247509] = {name = "Grove Greyfur", subname = nil}
+MultiLanguageNpcData['nl'][247510] = {name = "Unleashed Harrower", subname = nil}
+MultiLanguageNpcData['nl'][247511] = {name = "Geïnfundeerde mijnenmash", subname = nil}
+MultiLanguageNpcData['nl'][247512] = {name = "Maddended Mineraw", subname = nil}
+MultiLanguageNpcData['nl'][247513] = {name = "Loa van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][247514] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][247515] = {name = "Loanite Naad", subname = nil}
+MultiLanguageNpcData['nl'][247516] = {name = "Loanite-knooppunt", subname = nil}
+MultiLanguageNpcData['nl'][247517] = {name = "Loanite Pebble", subname = nil}
+MultiLanguageNpcData['nl'][247518] = {name = "Loanite Stone", subname = nil}
+MultiLanguageNpcData['nl'][247519] = {name = "Loanite Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][247520] = {name = "Runaway Crystal", subname = nil}
+MultiLanguageNpcData['nl'][247521] = {name = "Echo van Nalorakk", subname = nil}
+MultiLanguageNpcData['nl'][247525] = {name = "Kill Credit: Mijngrot - Event Begin", subname = nil}
+MultiLanguageNpcData['nl'][247526] = {name = "Mycomight", subname = nil}
+MultiLanguageNpcData['nl'][247551] = {name = "Daggerspine Myrmidon", subname = nil}
+MultiLanguageNpcData['nl'][247552] = {name = "Prinses Naz'jena", subname = nil}
+MultiLanguageNpcData['nl'][247553] = {name = "Daggerspine Snapdragon", subname = nil}
+MultiLanguageNpcData['nl'][247554] = {name = "Magistrix Eredania", subname = "Betoverende trainer"}
+MultiLanguageNpcData['nl'][247555] = {name = "Opkomende Arcana", subname = nil}
+MultiLanguageNpcData['nl'][247556] = {name = "Arcanist Sheynathren", subname = "Alchemietrainer"}
+MultiLanguageNpcData['nl'][247557] = {name = "Dwalende cub", subname = nil}
+MultiLanguageNpcData['nl'][247558] = {name = "Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247559] = {name = "Den-Gorger Zitoc", subname = nil}
+MultiLanguageNpcData['nl'][247560] = {name = "Sempstress Ambershine", subname = "Trainer op maat"}
 MultiLanguageNpcData['nl'][247562] = {name = "Punt Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247563] = {name = "Wild Hawkstrider", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247564] = {name = "Botanist Tyniarrel", subname = "Herbalisme Trainer"}
+MultiLanguageNpcData['nl'][247565] = {name = "Drained Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247569] = {name = "Gevangen Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247570] = {name = "Muro'jin", subname = nil}
+MultiLanguageNpcData['nl'][247571] = {name = "Fidoficus", subname = nil}
+MultiLanguageNpcData['nl'][247572] = {name = "Nekraxx", subname = nil}
+MultiLanguageNpcData['nl'][247576] = {name = "Boze Treant", subname = nil}
 MultiLanguageNpcData['nl'][247577] = {name = "Shadowguard Darkweaver", subname = nil}
+MultiLanguageNpcData['nl'][247578] = {name = "Instabiele Void Stalker Mythic", subname = nil}
+MultiLanguageNpcData['nl'][247579] = {name = "Null Bomb Stalkers Mythic", subname = nil}
+MultiLanguageNpcData['nl'][247581] = {name = "Roving Springrunner", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247583] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][247584] = {name = "Kobold Vermin", subname = nil}
+MultiLanguageNpcData['nl'][247585] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247587] = {name = "Geroepen wacht", subname = nil}
+MultiLanguageNpcData['nl'][247588] = {name = "Amani-boot", subname = nil}
+MultiLanguageNpcData['nl'][247589] = {name = "Lynx heiligdom", subname = nil}
+MultiLanguageNpcData['nl'][247590] = {name = "Ridge Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][247591] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][247592] = {name = "Partek Redwing", subname = nil}
+MultiLanguageNpcData['nl'][247593] = {name = "Kapitein Dawnrunner", subname = nil}
+MultiLanguageNpcData['nl'][247594] = {name = "Riftwalker Sideras", subname = nil}
+MultiLanguageNpcData['nl'][247595] = {name = "Riftblade Maella", subname = nil}
+MultiLanguageNpcData['nl'][247596] = {name = "Arcanist Taemin", subname = nil}
+MultiLanguageNpcData['nl'][247597] = {name = "Ranger Asterae", subname = "Farstrider Veterinair"}
+MultiLanguageNpcData['nl'][247598] = {name = "Ranger Valsarin", subname = "Farstrider Cook"}
+MultiLanguageNpcData['nl'][247599] = {name = "Kailia Delan", subname = nil}
+MultiLanguageNpcData['nl'][247600] = {name = "Ceno Sunblade", subname = nil}
+MultiLanguageNpcData['nl'][247601] = {name = "Flaura Maryt", subname = nil}
+MultiLanguageNpcData['nl'][247602] = {name = "Spirit of Lake Elrendar", subname = nil}
+MultiLanguageNpcData['nl'][247603] = {name = "Enclave Lurker", subname = nil}
 MultiLanguageNpcData['nl'][247604] = {name = "Johnny Caches", subname = "P.T.R. Ambassadeur van Caches"}
+MultiLanguageNpcData['nl'][247608] = {name = "Bogdamp", subname = "De giftige tweelingen"}
+MultiLanguageNpcData['nl'][247609] = {name = "Moldrus", subname = "De giftige tweelingen"}
+MultiLanguageNpcData['nl'][247610] = {name = "Aanbiddersventilator", subname = nil}
+MultiLanguageNpcData['nl'][247611] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][247614] = {name = "Boletus", subname = "Fight Promoter"}
+MultiLanguageNpcData['nl'][247617] = {name = "Spewing Deathcap", subname = nil}
+MultiLanguageNpcData['nl'][247618] = {name = "Arathel Sunforge", subname = "Smidsing Trainer"}
+MultiLanguageNpcData['nl'][247619] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][247620] = {name = "Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247621] = {name = "Naamplaat", subname = nil}
+MultiLanguageNpcData['nl'][247623] = {name = "Sathein", subname = "Leerwerktrainer"}
 MultiLanguageNpcData['nl'][247624] = {name = "Steelsoul Arcanoward", subname = nil}
+MultiLanguageNpcData['nl'][247625] = {name = "Notatus the Riftscarred", subname = nil}
+MultiLanguageNpcData['nl'][247626] = {name = "Mathreyn", subname = "Skinning Trainer"}
+MultiLanguageNpcData['nl'][247627] = {name = "Aleinia", subname = "Juwelierstrainer"}
+MultiLanguageNpcData['nl'][247628] = {name = "Shol Eloral", subname = nil}
+MultiLanguageNpcData['nl'][247629] = {name = "Eversong Farstrider", subname = nil}
+MultiLanguageNpcData['nl'][247630] = {name = "Waakzame Striker", subname = nil}
+MultiLanguageNpcData['nl'][247633] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][247634] = {name = "Sedona Duskspire", subname = nil}
+MultiLanguageNpcData['nl'][247635] = {name = "Archmage Velor Cloudlight", subname = nil}
+MultiLanguageNpcData['nl'][247636] = {name = "Padvinderskapitein Daelin", subname = nil}
+MultiLanguageNpcData['nl'][247637] = {name = "Kapitein Elleane Wavecrest", subname = nil}
+MultiLanguageNpcData['nl'][247638] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][247639] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][247640] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][247641] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][247642] = {name = "Eleric Belfoy", subname = nil}
+MultiLanguageNpcData['nl'][247643] = {name = "Elosia Loren", subname = nil}
+MultiLanguageNpcData['nl'][247644] = {name = "Talise Darkreaver", subname = nil}
+MultiLanguageNpcData['nl'][247645] = {name = "Solwin Brightstitch", subname = nil}
+MultiLanguageNpcData['nl'][247646] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][247647] = {name = "Gaari", subname = nil}
+MultiLanguageNpcData['nl'][247648] = {name = "Vermoeide verdediger", subname = nil}
+MultiLanguageNpcData['nl'][247649] = {name = "Engorged Silk Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][247650] = {name = "Verstoorde Voidflayer", subname = nil}
+MultiLanguageNpcData['nl'][247651] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][247652] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][247653] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][247654] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][247655] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][247656] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][247657] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][247658] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][247660] = {name = "Wateren van Har'kuai", subname = nil}
+MultiLanguageNpcData['nl'][247661] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][247662] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][247663] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][247664] = {name = "Lady Darkglen", subname = nil}
+MultiLanguageNpcData['nl'][247665] = {name = "Behemoth Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][247666] = {name = "Behemoth Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][247667] = {name = "Kill Credit: Boot vernietigd", subname = nil}
+MultiLanguageNpcData['nl'][247668] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][247669] = {name = "Domanaar Punisher", subname = nil}
+MultiLanguageNpcData['nl'][247670] = {name = "Overcroft Pillager", subname = nil}
+MultiLanguageNpcData['nl'][247671] = {name = "Ethereum Aberrant", subname = nil}
+MultiLanguageNpcData['nl'][247672] = {name = "Gemuteerd Pathogeen", subname = nil}
+MultiLanguageNpcData['nl'][247674] = {name = "Lady Darkglen", subname = nil}
+MultiLanguageNpcData['nl'][247676] = {name = "Ziekket", subname = "Gnarled Lightspawn"}
+MultiLanguageNpcData['nl'][247677] = {name = "Witherbark Soldaat, vechter", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247678] = {name = "Witherbark Soldaat, vechter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247679] = {name = "Witherbark Soldaat, Caster", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247680] = {name = "Witherbark Soldaat, Caster", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247681] = {name = "Witherbark Soldaat, Caster", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247682] = {name = "Witherbark Militia, Fighter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247683] = {name = "Witherbark burger", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247684] = {name = "Witherbark Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247685] = {name = "Witherbark Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247686] = {name = "Witherbark Soldaat, Scout", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247687] = {name = "Witherbark Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247688] = {name = "Witherbark Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247689] = {name = "Witherbark Soldaat, vechter", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247691] = {name = "Revantusk Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247692] = {name = "Revantusk Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247693] = {name = "Revantusk Soldaat, Scout", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247694] = {name = "Revantusk Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247695] = {name = "Revantusk Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247696] = {name = "Revantusk Soldaat, vechter", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247697] = {name = "Revantusk Soldaat, vechter", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247698] = {name = "Revantusk Soldaat, vechter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247699] = {name = "Revantusk Soldaat, Caster", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247700] = {name = "Revantusk Soldaat, Caster", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247701] = {name = "Revantusk Soldaat, Caster", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247702] = {name = "Revantusk Militia, vechter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247703] = {name = "Revantusk burger", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247704] = {name = "Shadowpine Soldaat, vechter", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247705] = {name = "Shadowpine Soldaat, vechter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247706] = {name = "Shadowpine Soldier, Caster", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247707] = {name = "Shadowpine Soldier, Caster", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247708] = {name = "Shadowpine Soldier, Caster", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247709] = {name = "Shadowpine Militia, Fighter", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247710] = {name = "Shadowpine Civil", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247711] = {name = "Shadowpine Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247712] = {name = "Shadowpine Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247713] = {name = "Shadowpine Soldaat, Scout", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247714] = {name = "Shadowpine Soldaat, Scout", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247715] = {name = "Shadowpine Soldaat, Scout", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][247716] = {name = "Shadowpine Soldaat, vechter", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247717] = {name = "Shadowpine, Mounted (Mammoet)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247720] = {name = "Shadowpine, Mounted (Adelaar)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247721] = {name = "Shadowpine, gemonteerd (beer)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247722] = {name = "Revantusk, gemount (Mammoet)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247723] = {name = "Revantusk, gemonteerd (Adelaar)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247724] = {name = "Revantusk, gemonteerd (beer)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247725] = {name = "Witherbark, gemount (Mammoet)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247726] = {name = "Witherbark, gemonteerd (Adelaar)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247727] = {name = "Witherbark, gemonteerd (beer)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][247728] = {name = "Smashing Frenzy Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247733] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][247734] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][247735] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][247736] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][247737] = {name = "Temp", subname = nil}
+MultiLanguageNpcData['nl'][247738] = {name = "Pinda", subname = nil}
+MultiLanguageNpcData['nl'][247739] = {name = "Beeb", subname = nil}
+MultiLanguageNpcData['nl'][247740] = {name = "Grote Graspy", subname = nil}
+MultiLanguageNpcData['nl'][247741] = {name = "Sparky", subname = nil}
+MultiLanguageNpcData['nl'][247742] = {name = "Voet", subname = nil}
+MultiLanguageNpcData['nl'][247743] = {name = "Ham", subname = nil}
+MultiLanguageNpcData['nl'][247744] = {name = "Da Piper", subname = nil}
+MultiLanguageNpcData['nl'][247745] = {name = "Walnoot", subname = nil}
+MultiLanguageNpcData['nl'][247747] = {name = "Nexeus", subname = "Doder Herald"}
+MultiLanguageNpcData['nl'][247748] = {name = "Verdrietbound Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][247749] = {name = "Haatbound Voidwalker", subname = nil}
 MultiLanguageNpcData['nl'][247750] = {name = "Voidveil Manta", subname = nil}
+MultiLanguageNpcData['nl'][247752] = {name = "Farstrider Tracker", subname = nil}
+MultiLanguageNpcData['nl'][247754] = {name = "Al'ek Tree'bek", subname = "Trivia Master"}
+MultiLanguageNpcData['nl'][247755] = {name = "Lightspawn Lasher", subname = nil}
+MultiLanguageNpcData['nl'][247756] = {name = "Lichte barricade", subname = nil}
+MultiLanguageNpcData['nl'][247758] = {name = "Stralende scheur", subname = nil}
+MultiLanguageNpcData['nl'][247759] = {name = "Voidlumber", subname = nil}
+MultiLanguageNpcData['nl'][247760] = {name = "Onzichtbare Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247761] = {name = "Gevonden kinderen Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247762] = {name = "Gevonden Leader A Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247764] = {name = "Found Sidekick A Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247765] = {name = "Gevonden Sidekick B Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247766] = {name = "Gevonden Sidekick C Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][247767] = {name = "Domanaarbrute", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247768] = {name = "Domanaarbrute", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][247769] = {name = "Zeeschildpad", subname = nil}
+MultiLanguageNpcData['nl'][247771] = {name = "Goudzeeschildpad", subname = nil}
+MultiLanguageNpcData['nl'][247772] = {name = "Territoriale bladvleugel", subname = nil}
+MultiLanguageNpcData['nl'][247773] = {name = "Arcane Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][247776] = {name = "Magistrix Alerel", subname = nil}
+MultiLanguageNpcData['nl'][247778] = {name = "Arcane Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][247779] = {name = "Puffervis", subname = nil}
+MultiLanguageNpcData['nl'][247780] = {name = "Zippervis", subname = nil}
+MultiLanguageNpcData['nl'][247781] = {name = "12,0 Delves - DevouringHost01 - V01 - Blood Elf Luitenant (Hufton)", subname = nil}
+MultiLanguageNpcData['nl'][247782] = {name = "Grimoire of Teleportation", subname = "Bibliotheek van Khadgar"}
+MultiLanguageNpcData['nl'][247783] = {name = "Opladen van Chloorceros", subname = nil}
+MultiLanguageNpcData['nl'][247784] = {name = "Vanguard Courier", subname = nil}
+MultiLanguageNpcData['nl'][247785] = {name = "Skittering Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][247787] = {name = "Lichte barricade", subname = nil}
+MultiLanguageNpcData['nl'][247788] = {name = "Underbrush Crawler", subname = nil}
+MultiLanguageNpcData['nl'][247789] = {name = "Potadpole wordt geamputeerd", subname = nil}
+MultiLanguageNpcData['nl'][247790] = {name = "Getande sifoïde", subname = nil}
+MultiLanguageNpcData['nl'][247791] = {name = "Gloresse", subname = "Technische trainer"}
+MultiLanguageNpcData['nl'][247792] = {name = "Renfreid", subname = "Handelsgoederen"}
+MultiLanguageNpcData['nl'][247793] = {name = "Zaagtandhaai", subname = nil}
+MultiLanguageNpcData['nl'][247794] = {name = "Spookte Spiderling", subname = nil}
 MultiLanguageNpcData['nl'][247795] = {name = "Onzichtbare konijn - Basis", subname = nil}
 MultiLanguageNpcData['nl'][247796] = {name = "Onzichtbare konijn - 1", subname = nil}
 MultiLanguageNpcData['nl'][247797] = {name = "Onzichtbare konijn - 2", subname = nil}
 MultiLanguageNpcData['nl'][247798] = {name = "Onzichtbare konijn - 3", subname = nil}
 MultiLanguageNpcData['nl'][247799] = {name = "Onzichtbare konijn - 4", subname = nil}
+MultiLanguageNpcData['nl'][247800] = {name = "Melandra", subname = "Visserijtrainer & Diversen"}
+MultiLanguageNpcData['nl'][247802] = {name = "Ramparts Watcher", subname = nil}
+MultiLanguageNpcData['nl'][247803] = {name = "Saren", subname = "Mijntrainer"}
+MultiLanguageNpcData['nl'][247804] = {name = "Innkeeper Delaniel", subname = "Innkeeper"}
+MultiLanguageNpcData['nl'][247805] = {name = "Invasieve Hatechewer", subname = nil}
+MultiLanguageNpcData['nl'][247806] = {name = "Vicious Hatehunter", subname = nil}
+MultiLanguageNpcData['nl'][247807] = {name = "Prowling Griefshredder", subname = nil}
+MultiLanguageNpcData['nl'][247808] = {name = "Griefcrusher Harrower", subname = nil}
+MultiLanguageNpcData['nl'][247810] = {name = "Mana Silkworker", subname = nil}
+MultiLanguageNpcData['nl'][247811] = {name = "Trelus the Grafter", subname = nil}
+MultiLanguageNpcData['nl'][247812] = {name = "Bobbin van Mana Silk", subname = nil}
+MultiLanguageNpcData['nl'][247813] = {name = "Enodormi", subname = "Dungeon Journeymaster"}
+MultiLanguageNpcData['nl'][247815] = {name = "Karynna", subname = "Journey Battlemaster"}
+MultiLanguageNpcData['nl'][247816] = {name = "Ridge Scavenger", subname = nil}
+MultiLanguageNpcData['nl'][247818] = {name = "Sarleen Belayon", subname = "Arcane Artiest"}
+MultiLanguageNpcData['nl'][247909] = {name = "Ballista", subname = nil}
+MultiLanguageNpcData['nl'][247910] = {name = "Gyrospore", subname = nil}
+MultiLanguageNpcData['nl'][247911] = {name = "Koningin Snugglebottom", subname = "Tina Fun's Pet"}
+MultiLanguageNpcData['nl'][247913] = {name = "Ballista", subname = nil}
 MultiLanguageNpcData['nl'][247917] = {name = "Fractillus", subname = nil}
+MultiLanguageNpcData['nl'][247918] = {name = "Shadowtrade Mercenary", subname = nil}
+MultiLanguageNpcData['nl'][247919] = {name = "Shadowtrade Mercenary", subname = nil}
 MultiLanguageNpcData['nl'][247920] = {name = "Vulkaanuitbarsting", subname = nil}
+MultiLanguageNpcData['nl'][247921] = {name = "Shadowtrade Mercenary", subname = nil}
+MultiLanguageNpcData['nl'][247923] = {name = "Calia Menethil", subname = "The Pallid Lady"}
+MultiLanguageNpcData['nl'][247924] = {name = "Hoge Prelate Rata", subname = nil}
+MultiLanguageNpcData['nl'][247925] = {name = "Aponi Brightmane", subname = "Sunwalker Chieftain"}
+MultiLanguageNpcData['nl'][247926] = {name = "Moira Thaurissan", subname = nil}
 MultiLanguageNpcData['nl'][247927] = {name = "Doom Guard LT Stalker", subname = nil}
+MultiLanguageNpcData['nl'][247928] = {name = "Moeder Goldskimmer", subname = nil}
+MultiLanguageNpcData['nl'][247929] = {name = "Lord Grayson Schaduwbreker", subname = nil}
 MultiLanguageNpcData['nl'][247930] = {name = "Hulp", subname = nil}
+MultiLanguageNpcData['nl'][247932] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][247935] = {name = "Skiff", subname = nil}
+MultiLanguageNpcData['nl'][247936] = {name = "Yu'relen", subname = nil}
 MultiLanguageNpcData['nl'][247937] = {name = "Om'raulf", subname = "Reparaties"}
 MultiLanguageNpcData['nl'][247938] = {name = "Warpweaver Om'zora", subname = "Transmogrifier"}
 MultiLanguageNpcData['nl'][247939] = {name = "Om'vesh", subname = "Vruchten en Potables"}
+MultiLanguageNpcData['nl'][247942] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247944] = {name = "Hatecrusher Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][247945] = {name = "Griefcrusher Ultradon", subname = nil}
 MultiLanguageNpcData['nl'][247946] = {name = "Skyriding Glyph", subname = nil}
+MultiLanguageNpcData['nl'][247948] = {name = "Void Spawn A", subname = nil}
+MultiLanguageNpcData['nl'][247949] = {name = "Directeur van Grief", subname = nil}
+MultiLanguageNpcData['nl'][247950] = {name = "Directeur van Hate", subname = nil}
+MultiLanguageNpcData['nl'][247951] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247952] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247953] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247954] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247955] = {name = "Jonas Everdawn", subname = "Lord Saltheril's Valet"}
+MultiLanguageNpcData['nl'][247960] = {name = "Rampaging Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][247966] = {name = "Daggerspine Infuser", subname = nil}
+MultiLanguageNpcData['nl'][247967] = {name = "Jonas Everdawn", subname = "Lord Saltheril's Valet"}
+MultiLanguageNpcData['nl'][247968] = {name = "Kill Credit: Boeken geretourneerd [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][247969] = {name = "Jeering Spectator", subname = nil}
+MultiLanguageNpcData['nl'][247970] = {name = "Taunt Crowd", subname = nil}
+MultiLanguageNpcData['nl'][247971] = {name = "Nieuwe concurrentie", subname = nil}
+MultiLanguageNpcData['nl'][247973] = {name = "Klaxid", subname = "SWARMER (2,3)"}
+MultiLanguageNpcData['nl'][247974] = {name = "FX - Helpers - Sunwell - 01 - Pool - EZ", subname = nil}
+MultiLanguageNpcData['nl'][247975] = {name = "Nieuwe concurrentie", subname = nil}
+MultiLanguageNpcData['nl'][247976] = {name = "Stroper Rav'ik", subname = "Vilebranch stam"}
+MultiLanguageNpcData['nl'][247978] = {name = "Vyrin Leverancier", subname = nil}
+MultiLanguageNpcData['nl'][247979] = {name = "Ranger-Kapitein Dawnfletch", subname = nil}
+MultiLanguageNpcData['nl'][247980] = {name = "Magistrix Bloodflame", subname = nil}
+MultiLanguageNpcData['nl'][247981] = {name = "Knight-Lord Sunguard", subname = nil}
+MultiLanguageNpcData['nl'][247982] = {name = "Magician Apprentice", subname = nil}
+MultiLanguageNpcData['nl'][247983] = {name = "Sifoïd", subname = "T2 (2/1,2)"}
 MultiLanguageNpcData['nl'][247985] = {name = "Lyssabel Dawnpetal", subname = nil}
 MultiLanguageNpcData['nl'][247987] = {name = "Nether Phantom", subname = nil}
 MultiLanguageNpcData['nl'][247988] = {name = "Shadowguard Nexus-Prince", subname = nil}
 MultiLanguageNpcData['nl'][247989] = {name = "Forgeweaver Araz", subname = nil}
+MultiLanguageNpcData['nl'][247990] = {name = "Knight-Lord Sunguard", subname = nil}
+MultiLanguageNpcData['nl'][247991] = {name = "Ranger-Kapitein Dawnfletch", subname = nil}
+MultiLanguageNpcData['nl'][247992] = {name = "Magistrix Bloodflame", subname = nil}
+MultiLanguageNpcData['nl'][247993] = {name = "Vyrin Leverancier", subname = nil}
+MultiLanguageNpcData['nl'][247994] = {name = "Voidscar Controller", subname = nil}
+MultiLanguageNpcData['nl'][247995] = {name = "Scarred Voidspawn", subname = nil}
+MultiLanguageNpcData['nl'][247997] = {name = "Sa'neya", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][248000] = {name = "Geïnfecteerde Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][248001] = {name = "Geïnfecteerde padvinder Philanas", subname = nil}
 MultiLanguageNpcData['nl'][248002] = {name = "De Schaduwen", subname = nil}
+MultiLanguageNpcData['nl'][248003] = {name = "Mo'kia", subname = nil}
+MultiLanguageNpcData['nl'][248004] = {name = "Voidscar Horror", subname = nil}
+MultiLanguageNpcData['nl'][248005] = {name = "Spiteful Minder", subname = nil}
+MultiLanguageNpcData['nl'][248006] = {name = "Bloedblaadje", subname = nil}
+MultiLanguageNpcData['nl'][248007] = {name = "Spawn afsnijden", subname = nil}
+MultiLanguageNpcData['nl'][248008] = {name = "Har'mara Elder Vastworteling", subname = nil}
 MultiLanguageNpcData['nl'][248009] = {name = "Nedward", subname = "Kapper"}
+MultiLanguageNpcData['nl'][248010] = {name = "Har'mara Mycomancer", subname = nil}
+MultiLanguageNpcData['nl'][248011] = {name = "Har'mara Rotling", subname = nil}
+MultiLanguageNpcData['nl'][248012] = {name = "Gecoaguleerde Leegte", subname = nil}
+MultiLanguageNpcData['nl'][248013] = {name = "Spiteful Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][248014] = {name = "Atroxus", subname = nil}
+MultiLanguageNpcData['nl'][248015] = {name = "Charonus", subname = nil}
+MultiLanguageNpcData['nl'][248016] = {name = "Gerafte shredder", subname = nil}
+MultiLanguageNpcData['nl'][248017] = {name = "Spitescythe", subname = nil}
+MultiLanguageNpcData['nl'][248019] = {name = "Runty Grudgefighter", subname = nil}
+MultiLanguageNpcData['nl'][248020] = {name = "Singulariteit Fragment", subname = nil}
+MultiLanguageNpcData['nl'][248021] = {name = "Raveneuze blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][248022] = {name = "Raven", subname = "T1 (1/1)"}
 MultiLanguageNpcData['nl'][248023] = {name = "Void Creeper", subname = nil}
+MultiLanguageNpcData['nl'][248024] = {name = "Zuigende blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][248025] = {name = "Kilivore Hunter", subname = nil}
+MultiLanguageNpcData['nl'][248027] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][248028] = {name = "Hinderlaagconsumptor", subname = nil}
+MultiLanguageNpcData['nl'][248029] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][248030] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][248031] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][248033] = {name = "Mischievous Gust", subname = nil}
+MultiLanguageNpcData['nl'][248036] = {name = "Nae'thali", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][248038] = {name = "Hinderlaagconsumptor", subname = nil}
+MultiLanguageNpcData['nl'][248039] = {name = "Riftwalker Lorn", subname = nil}
+MultiLanguageNpcData['nl'][248040] = {name = "Onderzoeker Verigien", subname = nil}
+MultiLanguageNpcData['nl'][248046] = {name = "Ballista", subname = nil}
+MultiLanguageNpcData['nl'][248047] = {name = "Ballista", subname = nil}
+MultiLanguageNpcData['nl'][248048] = {name = "Voidling A", subname = nil}
+MultiLanguageNpcData['nl'][248049] = {name = "Voidling B", subname = nil}
+MultiLanguageNpcData['nl'][248050] = {name = "Voidling C", subname = nil}
 MultiLanguageNpcData['nl'][248051] = {name = "Chromie", subname = nil}
+MultiLanguageNpcData['nl'][248053] = {name = "Ghostblade Shadestep", subname = nil}
+MultiLanguageNpcData['nl'][248054] = {name = "Kilivore Hunter", subname = nil}
+MultiLanguageNpcData['nl'][248055] = {name = "Sally Seashell", subname = nil}
 MultiLanguageNpcData['nl'][248056] = {name = "Little Ms. Faser", subname = nil}
 MultiLanguageNpcData['nl'][248057] = {name = "De koning in Zilver", subname = nil}
+MultiLanguageNpcData['nl'][248058] = {name = "Ranger Vedoran", subname = nil}
+MultiLanguageNpcData['nl'][248059] = {name = "Apprentice Varnis", subname = nil}
+MultiLanguageNpcData['nl'][248060] = {name = "Apothecarist Enith", subname = nil}
+MultiLanguageNpcData['nl'][248061] = {name = "Shadra Summoning [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][248062] = {name = "Empurror", subname = nil}
+MultiLanguageNpcData['nl'][248063] = {name = "Fan-favoriet", subname = nil}
+MultiLanguageNpcData['nl'][248064] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248065] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248066] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][248067] = {name = "K'aresh'ire", subname = nil}
+MultiLanguageNpcData['nl'][248068] = {name = "Nullspiral", subname = nil}
+MultiLanguageNpcData['nl'][248069] = {name = "Rowdy Fan", subname = nil}
+MultiLanguageNpcData['nl'][248070] = {name = "Perturbed Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][248072] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][248079] = {name = "Gewijde genezer", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][248080] = {name = "Kill Credit: Praat met Valsarin [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248081] = {name = "Spitegraft Harrower", subname = nil}
+MultiLanguageNpcData['nl'][248082] = {name = "Kurdran Wildhammer", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][248083] = {name = "Zoetwater Frillfish", subname = nil}
 MultiLanguageNpcData['nl'][248084] = {name = "Pactsworn Sandreaver", subname = nil}
+MultiLanguageNpcData['nl'][248085] = {name = "Windy Miscreant", subname = nil}
 MultiLanguageNpcData['nl'][248086] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][248087] = {name = "Oproepcirkel", subname = nil}
+MultiLanguageNpcData['nl'][248088] = {name = "Dode haai", subname = nil}
+MultiLanguageNpcData['nl'][248090] = {name = "Entropy Wielder", subname = nil}
+MultiLanguageNpcData['nl'][248091] = {name = "Anomaly Barrel", subname = nil}
+MultiLanguageNpcData['nl'][248092] = {name = "Anomaly Barrel", subname = nil}
+MultiLanguageNpcData['nl'][248094] = {name = "Pupil van Hate", subname = nil}
+MultiLanguageNpcData['nl'][248095] = {name = "Pupil van verdriet", subname = nil}
+MultiLanguageNpcData['nl'][248096] = {name = "Riftschaduw", subname = nil}
+MultiLanguageNpcData['nl'][248097] = {name = "Vervallen Essentie", subname = nil}
+MultiLanguageNpcData['nl'][248098] = {name = "Aln Oozeling", subname = nil}
+MultiLanguageNpcData['nl'][248099] = {name = "Raketlanceerder", subname = nil}
+MultiLanguageNpcData['nl'][248101] = {name = "Rift-exposed Haranir", subname = nil}
+MultiLanguageNpcData['nl'][248102] = {name = "Zak met zaden", subname = nil}
+MultiLanguageNpcData['nl'][248107] = {name = "Nija Torntusk", subname = "Revantusk-stam"}
 MultiLanguageNpcData['nl'][248109] = {name = "Dimensius de Alverdienende", subname = nil}
+MultiLanguageNpcData['nl'][248111] = {name = "Sporbit", subname = nil}
+MultiLanguageNpcData['nl'][248112] = {name = "Boletus", subname = "Fight Promoter"}
+MultiLanguageNpcData['nl'][248114] = {name = "Null-Theorist Selune", subname = nil}
+MultiLanguageNpcData['nl'][248117] = {name = "Yu'relen", subname = nil}
+MultiLanguageNpcData['nl'][248118] = {name = "Har'mara Villager", subname = nil}
+MultiLanguageNpcData['nl'][248119] = {name = "Donkere Horde Soldaat", subname = nil}
+MultiLanguageNpcData['nl'][248120] = {name = "Ordon Darkwhisper", subname = nil}
+MultiLanguageNpcData['nl'][248121] = {name = "Furgh", subname = "Spiritpaw-stam"}
+MultiLanguageNpcData['nl'][248122] = {name = "Stalker Kaylanna", subname = nil}
+MultiLanguageNpcData['nl'][248123] = {name = "Fleeg", subname = "Spiritpaw-stam"}
+MultiLanguageNpcData['nl'][248124] = {name = "Morg Bladetwister", subname = nil}
+MultiLanguageNpcData['nl'][248125] = {name = "Zombified Guardian", subname = nil}
+MultiLanguageNpcData['nl'][248126] = {name = "Snij Jenni", subname = nil}
+MultiLanguageNpcData['nl'][248127] = {name = "Peckish Beetle", subname = nil}
+MultiLanguageNpcData['nl'][248128] = {name = "Silvermoon Ingenieur", subname = nil}
 MultiLanguageNpcData['nl'][248129] = {name = "Glare of Glazer", subname = nil}
+MultiLanguageNpcData['nl'][248130] = {name = "Soldaat", subname = nil}
 MultiLanguageNpcData['nl'][248134] = {name = "Ky'veza", subname = "Nexus Prinses"}
+MultiLanguageNpcData['nl'][248135] = {name = "Silvermoon Ingenieur", subname = nil}
+MultiLanguageNpcData['nl'][248136] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][248137] = {name = "Rusty \"Razor\" Maddox", subname = nil}
+MultiLanguageNpcData['nl'][248138] = {name = "FX - Helpers - Sunwell - 02 - Beam - Middle - EZ", subname = nil}
+MultiLanguageNpcData['nl'][248143] = {name = "Voidorb", subname = nil}
+MultiLanguageNpcData['nl'][248144] = {name = "Vernietigende muur", subname = nil}
+MultiLanguageNpcData['nl'][248145] = {name = "Instabiele oezeling", subname = nil}
+MultiLanguageNpcData['nl'][248146] = {name = "Abyssale beller", subname = nil}
+MultiLanguageNpcData['nl'][248148] = {name = "Obscurion Obliterator", subname = nil}
+MultiLanguageNpcData['nl'][248149] = {name = "Twilight Hexwright", subname = nil}
+MultiLanguageNpcData['nl'][248150] = {name = "Kill Credit: Skinning - Bonus Doelstelling B", subname = nil}
+MultiLanguageNpcData['nl'][248151] = {name = "Loaknit Gnawer", subname = nil}
+MultiLanguageNpcData['nl'][248152] = {name = "Kill Credit: Mijnbouw - Bonus Doelstelling B", subname = nil}
 MultiLanguageNpcData['nl'][248153] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][248154] = {name = "Kill Credit: Herbalism - Bonus Doelstelling B", subname = nil}
+MultiLanguageNpcData['nl'][248155] = {name = "Kill Credit: Betoverend - Bonus Doelstelling B", subname = nil}
+MultiLanguageNpcData['nl'][248157] = {name = "Onzichtbare konijn", subname = nil}
+MultiLanguageNpcData['nl'][248158] = {name = "Smolderthorn Cadet", subname = nil}
+MultiLanguageNpcData['nl'][248159] = {name = "Firegut Apprentice", subname = nil}
+MultiLanguageNpcData['nl'][248160] = {name = "Donkere Horde Trainee", subname = nil}
+MultiLanguageNpcData['nl'][248161] = {name = "Anomaly Barrel", subname = nil}
+MultiLanguageNpcData['nl'][248162] = {name = "Rock Wall", subname = nil}
 MultiLanguageNpcData['nl'][248163] = {name = "Lotgebonden", subname = nil}
 MultiLanguageNpcData['nl'][248164] = {name = "Nether Phantom", subname = nil}
+MultiLanguageNpcData['nl'][248167] = {name = "Kapitein-expositie", subname = nil}
 MultiLanguageNpcData['nl'][248168] = {name = "Instabiele mote", subname = nil}
 MultiLanguageNpcData['nl'][248169] = {name = "Malaxxar de gefrustreerde", subname = "Raider's Tanking Dummy"}
 MultiLanguageNpcData['nl'][248170] = {name = "Gevangen Vos", subname = nil}
 MultiLanguageNpcData['nl'][248171] = {name = "Nether Phantom", subname = nil}
+MultiLanguageNpcData['nl'][248172] = {name = "Voidrift Researcher", subname = nil}
+MultiLanguageNpcData['nl'][248173] = {name = "Morta'ka", subname = nil}
+MultiLanguageNpcData['nl'][248174] = {name = "Verdachte burger", subname = nil}
+MultiLanguageNpcData['nl'][248177] = {name = "Fire Kidnap RP Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][248186] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248187] = {name = "Kill Credit: Overvloed - Credit Hook - Evenement voltooid", subname = nil}
+MultiLanguageNpcData['nl'][248188] = {name = "Kill Credit: Overvloed - Credit Hook - 25k Score bereikt", subname = nil}
+MultiLanguageNpcData['nl'][248189] = {name = "Kill Credit: Abyss Angler - Credit Hook - Succesvolle Duik voltooid", subname = nil}
 MultiLanguageNpcData['nl'][248190] = {name = "Verhuizing", subname = nil}
 MultiLanguageNpcData['nl'][248193] = {name = "Nether Phantom", subname = nil}
+MultiLanguageNpcData['nl'][248194] = {name = "Ranger Vedoran", subname = nil}
+MultiLanguageNpcData['nl'][248195] = {name = "L'ura", subname = nil}
+MultiLanguageNpcData['nl'][248203] = {name = "Boletus", subname = "Fight Promoter"}
 MultiLanguageNpcData['nl'][248204] = {name = "Glazer", subname = nil}
+MultiLanguageNpcData['nl'][248205] = {name = "Auralight Moth", subname = nil}
 MultiLanguageNpcData['nl'][248215] = {name = "Divorer Mite", subname = nil}
+MultiLanguageNpcData['nl'][248220] = {name = "Fledgling Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][248221] = {name = "Shuya Jinxin", subname = nil}
 MultiLanguageNpcData['nl'][248222] = {name = "Verhuizing", subname = nil}
 MultiLanguageNpcData['nl'][248223] = {name = "Verhuizing", subname = nil}
+MultiLanguageNpcData['nl'][248224] = {name = "\"Lachend\" Narg", subname = nil}
+MultiLanguageNpcData['nl'][248225] = {name = "Jiang Qiangshen", subname = nil}
+MultiLanguageNpcData['nl'][248226] = {name = "Whispering Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][248227] = {name = "Rancidbloom Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][248228] = {name = "Studious voidcaster", subname = nil}
+MultiLanguageNpcData['nl'][248229] = {name = "Twilight's Blade Instructeur", subname = nil}
+MultiLanguageNpcData['nl'][248230] = {name = "Restless Neophyte", subname = nil}
+MultiLanguageNpcData['nl'][248232] = {name = "Voidcoil", subname = nil}
+MultiLanguageNpcData['nl'][248233] = {name = "Veilbranch Spout", subname = nil}
+MultiLanguageNpcData['nl'][248234] = {name = "Verdwenen Veiltak", subname = nil}
+MultiLanguageNpcData['nl'][248235] = {name = "Portaalsteen", subname = nil}
+MultiLanguageNpcData['nl'][248236] = {name = "Schildbloom", subname = nil}
+MultiLanguageNpcData['nl'][248237] = {name = "Verstrengeld vechter", subname = nil}
+MultiLanguageNpcData['nl'][248238] = {name = "Behemoth Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][248239] = {name = "Creeper branden", subname = nil}
+MultiLanguageNpcData['nl'][248243] = {name = "Arcanist Aedmos", subname = nil}
+MultiLanguageNpcData['nl'][248245] = {name = "Feak Blastcaster", subname = nil}
+MultiLanguageNpcData['nl'][248246] = {name = "Arcbinder Altremis", subname = nil}
+MultiLanguageNpcData['nl'][248247] = {name = "\"Zappy\" Zikki", subname = nil}
+MultiLanguageNpcData['nl'][248249] = {name = "Solastus Shadowguard", subname = nil}
+MultiLanguageNpcData['nl'][248250] = {name = "Kurdran Wildhammer", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][248251] = {name = "Theana Trueblade", subname = nil}
+MultiLanguageNpcData['nl'][248253] = {name = "Thalydris de Scyte", subname = nil}
+MultiLanguageNpcData['nl'][248254] = {name = "Perma Void Portal Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248255] = {name = "Serega Thunderdrum", subname = nil}
+MultiLanguageNpcData['nl'][248256] = {name = "Boletus", subname = "Fight Promoter"}
+MultiLanguageNpcData['nl'][248257] = {name = "Fungarische [PH]", subname = nil}
+MultiLanguageNpcData['nl'][248258] = {name = "Ravenia", subname = "Verschrikkelijke Beest Meester"}
+MultiLanguageNpcData['nl'][248260] = {name = "Vervloekte Effigy", subname = nil}
+MultiLanguageNpcData['nl'][248261] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248262] = {name = "Risen Skeleton", subname = nil}
+MultiLanguageNpcData['nl'][248263] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
 MultiLanguageNpcData['nl'][248264] = {name = "Lens", subname = nil}
 MultiLanguageNpcData['nl'][248267] = {name = "Schaduwbeschermer Voidtamer", subname = nil}
+MultiLanguageNpcData['nl'][248272] = {name = "Cainn Grimbeard", subname = nil}
+MultiLanguageNpcData['nl'][248273] = {name = "Diabolist Inksie", subname = nil}
+MultiLanguageNpcData['nl'][248274] = {name = "Dreef Felherd", subname = nil}
+MultiLanguageNpcData['nl'][248275] = {name = "Izgrin de Groene", subname = nil}
+MultiLanguageNpcData['nl'][248279] = {name = "Speir van Elune", subname = nil}
+MultiLanguageNpcData['nl'][248280] = {name = "Starcaller Elendra", subname = nil}
+MultiLanguageNpcData['nl'][248281] = {name = "Atulash van de verduistering", subname = nil}
+MultiLanguageNpcData['nl'][248285] = {name = "Nolana Nightgaze", subname = nil}
+MultiLanguageNpcData['nl'][248286] = {name = "Doodsbang Spectator", subname = nil}
 MultiLanguageNpcData['nl'][248288] = {name = "Gekristalliseerd geheugen", subname = nil}
+MultiLanguageNpcData['nl'][248289] = {name = "Silvermoon Guard", subname = nil}
+MultiLanguageNpcData['nl'][248290] = {name = "Geïmproviseerde Arcane-bom", subname = nil}
+MultiLanguageNpcData['nl'][248291] = {name = "Lucia Nightbreaker", subname = nil}
+MultiLanguageNpcData['nl'][248292] = {name = "Poort", subname = nil}
+MultiLanguageNpcData['nl'][248293] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][248294] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][248295] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][248297] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][248300] = {name = "Silvermoon Evacuee", subname = nil}
 MultiLanguageNpcData['nl'][248303] = {name = "Zah'ran", subname = "Delve Trinkets"}
 MultiLanguageNpcData['nl'][248304] = {name = "Ontvanger Ba'theom", subname = "Exotische pantser"}
+MultiLanguageNpcData['nl'][248307] = {name = "Ranger Valsarin", subname = "Farstrider Cook"}
+MultiLanguageNpcData['nl'][248310] = {name = "Twilight verzameld", subname = nil}
+MultiLanguageNpcData['nl'][248311] = {name = "Twilight verzameld", subname = nil}
+MultiLanguageNpcData['nl'][248312] = {name = "Twilight verzameld", subname = nil}
+MultiLanguageNpcData['nl'][248316] = {name = "Faerin Lothar", subname = "Lampenlichter"}
+MultiLanguageNpcData['nl'][248317] = {name = "Nolaki", subname = "Tyr's Guard"}
+MultiLanguageNpcData['nl'][248318] = {name = "Kapitein Fareeya.", subname = nil}
+MultiLanguageNpcData['nl'][248319] = {name = "Zwermende Schaduw", subname = nil}
+MultiLanguageNpcData['nl'][248320] = {name = "Niet te stoppen Thornmaw", subname = "Spawn of Brightthorn"}
+MultiLanguageNpcData['nl'][248321] = {name = "Mehlar Dawnblade", subname = nil}
+MultiLanguageNpcData['nl'][248322] = {name = "Salandria", subname = nil}
+MultiLanguageNpcData['nl'][248323] = {name = "Taelia Fordragon", subname = nil}
+MultiLanguageNpcData['nl'][248324] = {name = "Tahu Sagewind", subname = nil}
+MultiLanguageNpcData['nl'][248325] = {name = "Mariella Ward", subname = nil}
+MultiLanguageNpcData['nl'][248326] = {name = "Valunei", subname = "Tyr's Guard"}
 MultiLanguageNpcData['nl'][248327] = {name = "Devourer Scavenger", subname = nil}
+MultiLanguageNpcData['nl'][248328] = {name = "Void Researcher Anomander", subname = "Renown Quartermaster"}
+MultiLanguageNpcData['nl'][248329] = {name = "Zwevende kwallen", subname = "T2 (2/1,2)"}
 MultiLanguageNpcData['nl'][248330] = {name = "Nether Rift", subname = nil}
+MultiLanguageNpcData['nl'][248332] = {name = "Singulariteitswacht", subname = nil}
+MultiLanguageNpcData['nl'][248336] = {name = "Opgeblazen Vastworteling Drifter", subname = "T1 (2/1,2)"}
+MultiLanguageNpcData['nl'][248337] = {name = "Enkelvoud Voidweaver", subname = nil}
+MultiLanguageNpcData['nl'][248338] = {name = "Begin spel Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][248339] = {name = "Viscerale horror", subname = nil}
 MultiLanguageNpcData['nl'][248340] = {name = "Nether Rift", subname = nil}
 MultiLanguageNpcData['nl'][248341] = {name = "Dip Stickshift", subname = "Herinneringen-R-Us"}
+MultiLanguageNpcData['nl'][248342] = {name = "Nightborne Telemancer", subname = nil}
+MultiLanguageNpcData['nl'][248343] = {name = "Singulariteitslens", subname = nil}
+MultiLanguageNpcData['nl'][248344] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][248345] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][248346] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][248348] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][248349] = {name = "Groffa de Guzzler", subname = "Spiritpaw Chieftan"}
+MultiLanguageNpcData['nl'][248350] = {name = "Stem van Nalorakk", subname = nil}
 MultiLanguageNpcData['nl'][248351] = {name = "Zip Stickshift", subname = "Herinneringen-R-Us"}
+MultiLanguageNpcData['nl'][248353] = {name = "Wraithspawn", subname = nil}
+MultiLanguageNpcData['nl'][248354] = {name = "Manacietconduit", subname = nil}
+MultiLanguageNpcData['nl'][248363] = {name = "Energie-stroom", subname = nil}
+MultiLanguageNpcData['nl'][248365] = {name = "Echo van Predation", subname = nil}
+MultiLanguageNpcData['nl'][248371] = {name = "Spiritpaw Chosen", subname = nil}
+MultiLanguageNpcData['nl'][248372] = {name = "Spiritpaw Ursa", subname = nil}
+MultiLanguageNpcData['nl'][248373] = {name = "Circuit Seer", subname = nil}
+MultiLanguageNpcData['nl'][248374] = {name = "Village Strongpaw", subname = nil}
+MultiLanguageNpcData['nl'][248375] = {name = "Geagiteerde Wachter", subname = nil}
+MultiLanguageNpcData['nl'][248397] = {name = "Uitgeputte prijsvechter", subname = nil}
+MultiLanguageNpcData['nl'][248398] = {name = "Runty Grappler", subname = nil}
+MultiLanguageNpcData['nl'][248400] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248402] = {name = "Talthis", subname = "Tyr's Guard"}
+MultiLanguageNpcData['nl'][248403] = {name = "Hadwin", subname = "Tyr's Guard"}
 MultiLanguageNpcData['nl'][248404] = {name = "Velaryn Bloodwrath", subname = nil}
+MultiLanguageNpcData['nl'][248405] = {name = "Justicar Julia Celeste", subname = nil}
+MultiLanguageNpcData['nl'][248406] = {name = "Vindicator boros", subname = nil}
+MultiLanguageNpcData['nl'][248408] = {name = "Aelyse", subname = nil}
 MultiLanguageNpcData['nl'][248409] = {name = "Schrootkat", subname = nil}
+MultiLanguageNpcData['nl'][248410] = {name = "Riftschaduw", subname = nil}
+MultiLanguageNpcData['nl'][248411] = {name = "Vervallen Essentie", subname = nil}
+MultiLanguageNpcData['nl'][248412] = {name = "Aln Oozeling", subname = nil}
 MultiLanguageNpcData['nl'][248413] = {name = "Bezoeker van Mechagnome", subname = nil}
+MultiLanguageNpcData['nl'][248414] = {name = "Rift-exposed Haranir", subname = nil}
+MultiLanguageNpcData['nl'][248416] = {name = "Calia Menethil", subname = "The Pallid Lady"}
+MultiLanguageNpcData['nl'][248417] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][248418] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248420] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248422] = {name = "Banner", subname = nil}
+MultiLanguageNpcData['nl'][248423] = {name = "Domanaar Caster", subname = nil}
+MultiLanguageNpcData['nl'][248424] = {name = "Glammering Stonesnail", subname = nil}
+MultiLanguageNpcData['nl'][248425] = {name = "Territoriale sporebat", subname = nil}
+MultiLanguageNpcData['nl'][248426] = {name = "Imminente Voidcrawler", subname = nil}
+MultiLanguageNpcData['nl'][248428] = {name = "Luminescent Cavefly", subname = nil}
+MultiLanguageNpcData['nl'][248429] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][248430] = {name = "Spiritpaw Den Watcher", subname = nil}
+MultiLanguageNpcData['nl'][248431] = {name = "Voidbound Obliterator", subname = nil}
+MultiLanguageNpcData['nl'][248432] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248433] = {name = "Morta'ka", subname = nil}
+MultiLanguageNpcData['nl'][248434] = {name = "Unleashed Voidcrawler", subname = nil}
+MultiLanguageNpcData['nl'][248435] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248436] = {name = "Kill Credit: Kuri benaderd", subname = nil}
+MultiLanguageNpcData['nl'][248437] = {name = "Pestilent Ooze", subname = nil}
+MultiLanguageNpcData['nl'][248438] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248439] = {name = "Bewaker van Halazzi", subname = nil}
+MultiLanguageNpcData['nl'][248441] = {name = "Vervaagde Drake", subname = nil}
+MultiLanguageNpcData['nl'][248443] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248444] = {name = "Haunting Essentie", subname = nil}
+MultiLanguageNpcData['nl'][248445] = {name = "Bunny richten", subname = nil}
+MultiLanguageNpcData['nl'][248446] = {name = "Darkmote", subname = nil}
+MultiLanguageNpcData['nl'][248447] = {name = "Kilivore Drone", subname = nil}
+MultiLanguageNpcData['nl'][248448] = {name = "Territoriale Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][248449] = {name = "Kill Credit: Convo Triggered", subname = nil}
+MultiLanguageNpcData['nl'][248450] = {name = "Kalgorg de Ongeschrapte", subname = nil}
+MultiLanguageNpcData['nl'][248451] = {name = "Echo van het geheugen", subname = nil}
+MultiLanguageNpcData['nl'][248452] = {name = "Kalgorg", subname = "Lucia Nightbreaker's Minion"}
 MultiLanguageNpcData['nl'][248453] = {name = "Adventurer's Echo", subname = nil}
 MultiLanguageNpcData['nl'][248454] = {name = "Zilver Hand Vindicator", subname = nil}
+MultiLanguageNpcData['nl'][248455] = {name = "Lucia Nightbreaker", subname = nil}
+MultiLanguageNpcData['nl'][248457] = {name = "Legendarische geest", subname = nil}
 MultiLanguageNpcData['nl'][248458] = {name = "Schaduwbeschermer Voidripper", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][248459] = {name = "De veelgebroken", subname = nil}
+MultiLanguageNpcData['nl'][248460] = {name = "Juveniele Crawler", subname = nil}
+MultiLanguageNpcData['nl'][248461] = {name = "De veelgebroken", subname = nil}
+MultiLanguageNpcData['nl'][248462] = {name = "De veelgebroken", subname = nil}
+MultiLanguageNpcData['nl'][248468] = {name = "Moldering Fighter", subname = nil}
 MultiLanguageNpcData['nl'][248469] = {name = "Het hoofdkwartier van Delver", subname = nil}
+MultiLanguageNpcData['nl'][248470] = {name = "Stalking Thorntalon", subname = nil}
+MultiLanguageNpcData['nl'][248471] = {name = "Petalscaled Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][248473] = {name = "Skittering Dencrawler", subname = nil}
+MultiLanguageNpcData['nl'][248475] = {name = "Preening Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][248477] = {name = "Phileaux", subname = nil}
+MultiLanguageNpcData['nl'][248478] = {name = "Fungarian Barricade", subname = nil}
+MultiLanguageNpcData['nl'][248480] = {name = "Opgeladen Anguish Crystal", subname = nil}
 MultiLanguageNpcData['nl'][248481] = {name = "Ky'veza's schaduwkloon", subname = nil}
+MultiLanguageNpcData['nl'][248482] = {name = "Kalgorg", subname = "Lucia Nightbreaker's Minion"}
+MultiLanguageNpcData['nl'][248483] = {name = "Crystal Fragment", subname = nil}
+MultiLanguageNpcData['nl'][248487] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][248488] = {name = "Singulariteitslens", subname = nil}
 MultiLanguageNpcData['nl'][248490] = {name = "Delver's Mana-Skimmer", subname = nil}
 MultiLanguageNpcData['nl'][248491] = {name = "Delver's Seasonal Mana-Skimmer", subname = nil}
+MultiLanguageNpcData['nl'][248492] = {name = "Arcane Cannon", subname = nil}
+MultiLanguageNpcData['nl'][248493] = {name = "Lasher", subname = nil}
 MultiLanguageNpcData['nl'][248496] = {name = "Brann Bronzebeard", subname = nil}
+MultiLanguageNpcData['nl'][248497] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][248498] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][248499] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][248500] = {name = "Backwoods Boar", subname = nil}
+MultiLanguageNpcData['nl'][248501] = {name = "Hervormde Leegte", subname = nil}
+MultiLanguageNpcData['nl'][248502] = {name = "Null Sentinel", subname = nil}
+MultiLanguageNpcData['nl'][248503] = {name = "Ogre High Arcanist", subname = nil}
+MultiLanguageNpcData['nl'][248504] = {name = "Mysterieuze Bloom", subname = nil}
+MultiLanguageNpcData['nl'][248505] = {name = "Vastbesloten ritualist", subname = nil}
+MultiLanguageNpcData['nl'][248506] = {name = "Dreadflail", subname = nil}
+MultiLanguageNpcData['nl'][248508] = {name = "Izzia Alor", subname = nil}
+MultiLanguageNpcData['nl'][248509] = {name = "Jerem Nado", subname = nil}
+MultiLanguageNpcData['nl'][248510] = {name = "Stefan Alaroy", subname = nil}
+MultiLanguageNpcData['nl'][248511] = {name = "Annele May", subname = nil}
+MultiLanguageNpcData['nl'][248512] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][248514] = {name = "Willoughby", subname = nil}
+MultiLanguageNpcData['nl'][248516] = {name = "Blistercreep", subname = nil}
 MultiLanguageNpcData['nl'][248518] = {name = "Gepensioneerde Void Storage Agent", subname = nil}
 MultiLanguageNpcData['nl'][248519] = {name = "F.Akename", subname = "\"Void Storage\""}
 MultiLanguageNpcData['nl'][248521] = {name = "Afvallander Bonfire", subname = nil}
 MultiLanguageNpcData['nl'][248522] = {name = "Bezoeker van Mechagnome", subname = nil}
 MultiLanguageNpcData['nl'][248523] = {name = "Bezoeker van Mechagnome", subname = nil}
 MultiLanguageNpcData['nl'][248524] = {name = "Bezoeker van Mechagnome", subname = nil}
-MultiLanguageNpcData['nl'][248525] = {name = "Haart Wyre", subname = "Handelaar"}
+MultiLanguageNpcData['nl'][248525] = {name = "Pascal-K1N6", subname = "Handelaar"}
+MultiLanguageNpcData['nl'][248526] = {name = "Meddy", subname = "Medische Manager"}
+MultiLanguageNpcData['nl'][248530] = {name = "Zoeker van Aln'hara", subname = nil}
+MultiLanguageNpcData['nl'][248531] = {name = "Spotlight", subname = nil}
+MultiLanguageNpcData['nl'][248535] = {name = "Meddy", subname = "Medische Manager"}
 MultiLanguageNpcData['nl'][248536] = {name = "Mechanotank", subname = nil}
+MultiLanguageNpcData['nl'][248537] = {name = "Laat Kill Credit verbergen", subname = nil}
 MultiLanguageNpcData['nl'][248538] = {name = "Delver's Race", subname = nil}
 MultiLanguageNpcData['nl'][248539] = {name = "Gecontracteerde huurovereenkomst", subname = nil}
+MultiLanguageNpcData['nl'][248540] = {name = "Shadowguard Mech", subname = "T2 (2,0,1,2)"}
+MultiLanguageNpcData['nl'][248541] = {name = "Shadowguard Mech", subname = "T3 (5,0,3)"}
 MultiLanguageNpcData['nl'][248542] = {name = "Fasebloeddrank", subname = nil}
 MultiLanguageNpcData['nl'][248543] = {name = "Vrachtschepen", subname = nil}
+MultiLanguageNpcData['nl'][248547] = {name = "Spotlight", subname = nil}
+MultiLanguageNpcData['nl'][248548] = {name = "Spotlight", subname = nil}
+MultiLanguageNpcData['nl'][248549] = {name = "Halfgevormd blad", subname = nil}
+MultiLanguageNpcData['nl'][248551] = {name = "Predatory Voidscyte", subname = nil}
+MultiLanguageNpcData['nl'][248553] = {name = "Kurdran Wildhammer", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][248554] = {name = "Zoeker van Aln'hara", subname = nil}
+MultiLanguageNpcData['nl'][248555] = {name = "Zoeker van Aln'hara", subname = nil}
+MultiLanguageNpcData['nl'][248556] = {name = "Lightbloomed Spore", subname = nil}
 MultiLanguageNpcData['nl'][248557] = {name = "Hornet", subname = nil}
 MultiLanguageNpcData['nl'][248558] = {name = "Carrion", subname = nil}
+MultiLanguageNpcData['nl'][248560] = {name = "12,0 Delves - DevouringHost01 - V03 - Portal Stone: Energie Beam (Hufton)", subname = nil}
 MultiLanguageNpcData['nl'][248562] = {name = "Gevangen Worm", subname = nil}
 MultiLanguageNpcData['nl'][248563] = {name = "Wrathion", subname = "De Zwarte Prins"}
 MultiLanguageNpcData['nl'][248564] = {name = "Gevangen beer", subname = nil}
 MultiLanguageNpcData['nl'][248565] = {name = "Kalecgo's", subname = "Blue Dragon Aspect"}
+MultiLanguageNpcData['nl'][248566] = {name = "konijntje", subname = nil}
+MultiLanguageNpcData['nl'][248567] = {name = "Valeera Sanguinar", subname = nil}
 MultiLanguageNpcData['nl'][248568] = {name = "Arcanomatrixatomizer", subname = nil}
 MultiLanguageNpcData['nl'][248569] = {name = "Arcanomatrixatomizer", subname = nil}
+MultiLanguageNpcData['nl'][248571] = {name = "Wenalo", subname = nil}
+MultiLanguageNpcData['nl'][248572] = {name = "Ilomai", subname = nil}
+MultiLanguageNpcData['nl'][248573] = {name = "Nayeli", subname = nil}
+MultiLanguageNpcData['nl'][248574] = {name = "Shao'mal", subname = nil}
+MultiLanguageNpcData['nl'][248575] = {name = "Zaagtandhaai", subname = nil}
+MultiLanguageNpcData['nl'][248577] = {name = "Rootbound Horror", subname = nil}
+MultiLanguageNpcData['nl'][248578] = {name = "Belath Dawnblade", subname = "Illidari"}
+MultiLanguageNpcData['nl'][248579] = {name = "Ingrediënt A Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248580] = {name = "Ingrediënt B Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248581] = {name = "Ingrediënt C Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248582] = {name = "Doel naar locatie gooien", subname = nil}
+MultiLanguageNpcData['nl'][248583] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][248585] = {name = "Decimus", subname = nil}
 MultiLanguageNpcData['nl'][248589] = {name = "Nullbinder", subname = nil}
+MultiLanguageNpcData['nl'][248590] = {name = "Siphoned Mana Canister", subname = nil}
+MultiLanguageNpcData['nl'][248592] = {name = "Siphoned Mana Batterij", subname = nil}
+MultiLanguageNpcData['nl'][248593] = {name = "Gerig Beedel", subname = nil}
 MultiLanguageNpcData['nl'][248594] = {name = "Sundries Merchant", subname = nil}
+MultiLanguageNpcData['nl'][248595] = {name = "Vordaza", subname = nil}
+MultiLanguageNpcData['nl'][248597] = {name = "Mot'amra", subname = "Loa of Pestilence"}
+MultiLanguageNpcData['nl'][248598] = {name = "Sporeglider Bloomterror", subname = nil}
 MultiLanguageNpcData['nl'][248601] = {name = "Mechagnome Robot Gebroken", subname = nil}
+MultiLanguageNpcData['nl'][248605] = {name = "Rak'tul", subname = "Vaartuig van de Zielen"}
+MultiLanguageNpcData['nl'][248606] = {name = "Verdantblad", subname = nil}
+MultiLanguageNpcData['nl'][248607] = {name = "Mana Siphon", subname = nil}
+MultiLanguageNpcData['nl'][248610] = {name = "Sporeblight Ent", subname = nil}
+MultiLanguageNpcData['nl'][248611] = {name = "Gedraineerd disserter", subname = nil}
+MultiLanguageNpcData['nl'][248612] = {name = "Siphoned Void Elf", subname = nil}
+MultiLanguageNpcData['nl'][248615] = {name = "Ingrediënt D Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248616] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][248617] = {name = "Amani Child (Male)", subname = nil}
+MultiLanguageNpcData['nl'][248618] = {name = "Witherbark Child (Man)", subname = nil}
+MultiLanguageNpcData['nl'][248619] = {name = "Shadowpine Child (Man)", subname = nil}
+MultiLanguageNpcData['nl'][248620] = {name = "Revantusk Child (Male)", subname = nil}
+MultiLanguageNpcData['nl'][248621] = {name = "Amani Child (Vrouw)", subname = nil}
+MultiLanguageNpcData['nl'][248622] = {name = "Witherbark Child (Vrouw)", subname = nil}
 MultiLanguageNpcData['nl'][248623] = {name = "Hozen hangende konijntje [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248624] = {name = "Revantusk Kind (Vrouw)", subname = nil}
+MultiLanguageNpcData['nl'][248625] = {name = "Shadowpine Child (Female)", subname = nil}
 MultiLanguageNpcData['nl'][248626] = {name = "Nancy Darkmage", subname = nil}
+MultiLanguageNpcData['nl'][248628] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][248629] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][248630] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][248631] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][248632] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
+MultiLanguageNpcData['nl'][248633] = {name = "Bear Trap", subname = nil}
+MultiLanguageNpcData['nl'][248634] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][248635] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][248636] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][248637] = {name = "Fungi A", subname = nil}
+MultiLanguageNpcData['nl'][248638] = {name = "Schimmel B", subname = nil}
+MultiLanguageNpcData['nl'][248639] = {name = "Kill Credit: Punch", subname = nil}
+MultiLanguageNpcData['nl'][248640] = {name = "Brightstrider", subname = "Generaal Bellamy's Mount"}
+MultiLanguageNpcData['nl'][248642] = {name = "Riftblade's theepot", subname = nil}
+MultiLanguageNpcData['nl'][248643] = {name = "Kill Credit: Animal Tested[DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248645] = {name = "Kill Credit: Bedreigd", subname = nil}
+MultiLanguageNpcData['nl'][248646] = {name = "Skittish Springrunner", subname = nil}
+MultiLanguageNpcData['nl'][248647] = {name = "Kill Credit: Persuade", subname = nil}
+MultiLanguageNpcData['nl'][248649] = {name = "Schimmelstrider", subname = nil}
+MultiLanguageNpcData['nl'][248650] = {name = "Hallowfall Aeroknight", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][248651] = {name = "Beschermer van het Licht", subname = nil}
+MultiLanguageNpcData['nl'][248652] = {name = "Zilver Hand Defender", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][248653] = {name = "Twilight Footsoldaat", subname = nil}
+MultiLanguageNpcData['nl'][248654] = {name = "Rituele overseer", subname = nil}
+MultiLanguageNpcData['nl'][248656] = {name = "Gevangen Wildhammer Dwerg", subname = nil}
+MultiLanguageNpcData['nl'][248657] = {name = "Pel'na Torntusk", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][248658] = {name = "Chel the Chip.", subname = "Overvloedverlener"}
 MultiLanguageNpcData['nl'][248660] = {name = "Lost Legion Infernal", subname = nil}
 MultiLanguageNpcData['nl'][248661] = {name = "Hel van de Eindtijden", subname = nil}
-MultiLanguageNpcData['nl'][248671] = {name = "Val'sharan vlinder", subname = nil}
+MultiLanguageNpcData['nl'][248664] = {name = "Stefan Alaroy", subname = nil}
+MultiLanguageNpcData['nl'][248665] = {name = "Overcroft-sapper", subname = nil}
+MultiLanguageNpcData['nl'][248666] = {name = "Magma Totem", subname = nil}
+MultiLanguageNpcData['nl'][248667] = {name = "Overcroft Assassin", subname = nil}
+MultiLanguageNpcData['nl'][248668] = {name = "Domanaar Will-Breaker", subname = nil}
+MultiLanguageNpcData['nl'][248669] = {name = "Verwelkte Lasher", subname = nil}
+MultiLanguageNpcData['nl'][248671] = {name = "Val'shara vlinder", subname = nil}
+MultiLanguageNpcData['nl'][248672] = {name = "Barrièregenerator", subname = nil}
 MultiLanguageNpcData['nl'][248673] = {name = "Nachtmerrie vlinder", subname = nil}
+MultiLanguageNpcData['nl'][248674] = {name = "Overcroft automaton", subname = nil}
+MultiLanguageNpcData['nl'][248676] = {name = "Chief-Arcanist Patram", subname = nil}
+MultiLanguageNpcData['nl'][248677] = {name = "Paladin Warhorse", subname = nil}
+MultiLanguageNpcData['nl'][248678] = {name = "Hulking Juggernaut", subname = nil}
 MultiLanguageNpcData['nl'][248679] = {name = "Blob van Mayonaise", subname = nil}
+MultiLanguageNpcData['nl'][248681] = {name = "Vilebranch Beastrider", subname = nil}
+MultiLanguageNpcData['nl'][248682] = {name = "Lysika's", subname = nil}
+MultiLanguageNpcData['nl'][248683] = {name = "Lightbloomed Spore", subname = nil}
+MultiLanguageNpcData['nl'][248684] = {name = "Frenzied Berserker", subname = nil}
+MultiLanguageNpcData['nl'][248685] = {name = "Rituele Hexxer", subname = nil}
+MultiLanguageNpcData['nl'][248686] = {name = "Dread Souleater", subname = nil}
 MultiLanguageNpcData['nl'][248687] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][248688] = {name = "Lost Legion Infernal", subname = nil}
 MultiLanguageNpcData['nl'][248689] = {name = "Hel van de Eindtijden", subname = nil}
+MultiLanguageNpcData['nl'][248690] = {name = "Grim Skirmisher", subname = nil}
 MultiLanguageNpcData['nl'][248691] = {name = "Pylon Stalker (DNT)", subname = nil}
+MultiLanguageNpcData['nl'][248692] = {name = "Gereanimeerde krijger", subname = nil}
+MultiLanguageNpcData['nl'][248693] = {name = "Mire Laborer", subname = nil}
+MultiLanguageNpcData['nl'][248694] = {name = "Domanaar Punisher", subname = nil}
+MultiLanguageNpcData['nl'][248696] = {name = "Overcroft Crusher", subname = nil}
+MultiLanguageNpcData['nl'][248697] = {name = "Arcano Emitter", subname = nil}
+MultiLanguageNpcData['nl'][248699] = {name = "Gedomineerde brawler", subname = nil}
+MultiLanguageNpcData['nl'][248700] = {name = "Abysslick", subname = nil}
+MultiLanguageNpcData['nl'][248702] = {name = "Enthralled Shaman", subname = nil}
 MultiLanguageNpcData['nl'][248704] = {name = "Kleine Bindmachine", subname = nil}
 MultiLanguageNpcData['nl'][248705] = {name = "Beam Stalker (DNT)", subname = nil}
+MultiLanguageNpcData['nl'][248706] = {name = "Vervloekte Voidcaller", subname = nil}
 MultiLanguageNpcData['nl'][248707] = {name = "Kleine niet-geconsolideerde ziel", subname = nil}
+MultiLanguageNpcData['nl'][248708] = {name = "Nexus Adept", subname = nil}
+MultiLanguageNpcData['nl'][248710] = {name = "De Hoardmonger.", subname = "Spiritpaw-stam"}
+MultiLanguageNpcData['nl'][248714] = {name = "Arcanist Taemin", subname = nil}
+MultiLanguageNpcData['nl'][248715] = {name = "Ingehaalde matriarch", subname = nil}
+MultiLanguageNpcData['nl'][248716] = {name = "Instabiele oezeling", subname = nil}
 MultiLanguageNpcData['nl'][248722] = {name = "Bezoeker Val'sharah", subname = nil}
+MultiLanguageNpcData['nl'][248723] = {name = "Onverzadigbare sifoïde", subname = nil}
+MultiLanguageNpcData['nl'][248724] = {name = "Verschrikkelijke sifoïde", subname = nil}
+MultiLanguageNpcData['nl'][248725] = {name = "Touw", subname = nil}
+MultiLanguageNpcData['nl'][248726] = {name = "Filo", subname = "Loa van de jeugd"}
 MultiLanguageNpcData['nl'][248727] = {name = "Locus-Walker", subname = nil}
 MultiLanguageNpcData['nl'][248728] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][248729] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][248730] = {name = "Vilebranch Eagle", subname = "MOUNT"}
+MultiLanguageNpcData['nl'][248731] = {name = "Vilebranch, gemount (Mammoet)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][248732] = {name = "Vilebranch, gemount (beer)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][248733] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248738] = {name = "Vilebranch, Mounted (Adelaar)", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][248740] = {name = "Ruilla de Huntress", subname = nil}
+MultiLanguageNpcData['nl'][248741] = {name = "Rhazul", subname = nil}
 MultiLanguageNpcData['nl'][248742] = {name = "Twisted Mana Sprite", subname = nil}
+MultiLanguageNpcData['nl'][248743] = {name = "W-47CH D0G", subname = nil}
+MultiLanguageNpcData['nl'][248747] = {name = "Rituele overseer", subname = nil}
+MultiLanguageNpcData['nl'][248749] = {name = "Buig Wortelt vast naar Ruilla's Will", subname = nil}
+MultiLanguageNpcData['nl'][248750] = {name = "Valeera Sanguinar", subname = nil}
+MultiLanguageNpcData['nl'][248751] = {name = "Kill Credit: Valeera Gevonden", subname = nil}
+MultiLanguageNpcData['nl'][248752] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][248756] = {name = "Hex Guardian", subname = nil}
+MultiLanguageNpcData['nl'][248758] = {name = "Vergif van bovenaf", subname = nil}
+MultiLanguageNpcData['nl'][248759] = {name = "Malefic Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][248760] = {name = "Verraderlijke Voidspawn", subname = nil}
 MultiLanguageNpcData['nl'][248762] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248766] = {name = "Verbrand Lasher", subname = nil}
+MultiLanguageNpcData['nl'][248767] = {name = "Verstrengeld Chloorceros", subname = nil}
+MultiLanguageNpcData['nl'][248768] = {name = "Vilebranch Souleater", subname = nil}
+MultiLanguageNpcData['nl'][248769] = {name = "Smeermiddel", subname = nil}
+MultiLanguageNpcData['nl'][248771] = {name = "Vile Tormentor", subname = nil}
+MultiLanguageNpcData['nl'][248772] = {name = "Vilefranch Soulflayer", subname = nil}
+MultiLanguageNpcData['nl'][248773] = {name = "Vile Boneguard", subname = nil}
+MultiLanguageNpcData['nl'][248774] = {name = "Vile Boneservant", subname = nil}
+MultiLanguageNpcData['nl'][248775] = {name = "Wild Guardian", subname = nil}
+MultiLanguageNpcData['nl'][248776] = {name = "Zel'jon", subname = "De ongeslagenen"}
+MultiLanguageNpcData['nl'][248777] = {name = "Vile Bonewarden", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][248778] = {name = "Vile Pathcarver", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][248782] = {name = "Vile Boneservant", subname = nil}
+MultiLanguageNpcData['nl'][248783] = {name = "Middernacht Wormhole", subname = nil}
+MultiLanguageNpcData['nl'][248784] = {name = "Gevangene Amani", subname = nil}
+MultiLanguageNpcData['nl'][248785] = {name = "Witherbark Gevangene", subname = nil}
+MultiLanguageNpcData['nl'][248787] = {name = "Tan'zin", subname = nil}
+MultiLanguageNpcData['nl'][248788] = {name = "Bin'zin", subname = nil}
+MultiLanguageNpcData['nl'][248789] = {name = "Hannan", subname = nil}
+MultiLanguageNpcData['nl'][248790] = {name = "Dark Soul Amalgamation", subname = nil}
+MultiLanguageNpcData['nl'][248791] = {name = "Voidseer Orivane", subname = "Architect van niets"}
+MultiLanguageNpcData['nl'][248792] = {name = "Gareth de Luisteraar", subname = "Twilight Spy"}
+MultiLanguageNpcData['nl'][248795] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248796] = {name = "Mes Priesteres Hezzia", subname = nil}
+MultiLanguageNpcData['nl'][248797] = {name = "Twilight Bonebreaker", subname = nil}
+MultiLanguageNpcData['nl'][248798] = {name = "Twilight Voidcaster", subname = nil}
+MultiLanguageNpcData['nl'][248799] = {name = "Schaduwelementaal", subname = nil}
+MultiLanguageNpcData['nl'][248800] = {name = "Twilight Crystal Seer", subname = nil}
+MultiLanguageNpcData['nl'][248801] = {name = "Twilight Agent", subname = nil}
 MultiLanguageNpcData['nl'][248802] = {name = "Fase-generaal Ameer", subname = nil}
+MultiLanguageNpcData['nl'][248803] = {name = "Vile Pathcarver", subname = nil}
 MultiLanguageNpcData['nl'][248805] = {name = "NIET GEBRUIKEN", subname = nil}
+MultiLanguageNpcData['nl'][248806] = {name = "Geweld Warframe", subname = nil}
 MultiLanguageNpcData['nl'][248807] = {name = "Priesteres van Elune", subname = nil}
 MultiLanguageNpcData['nl'][248808] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248810] = {name = "Verraderlijke reflectie", subname = nil}
+MultiLanguageNpcData['nl'][248811] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][248812] = {name = "Havazza", subname = nil}
+MultiLanguageNpcData['nl'][248817] = {name = "Ney'leia", subname = nil}
+MultiLanguageNpcData['nl'][248818] = {name = "Ku'paal", subname = "Rootwarden"}
+MultiLanguageNpcData['nl'][248819] = {name = "Zur'ashar Kassameh", subname = nil}
 MultiLanguageNpcData['nl'][248820] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248823] = {name = "Blackcore", subname = nil}
+MultiLanguageNpcData['nl'][248824] = {name = "Alton Parsons", subname = nil}
+MultiLanguageNpcData['nl'][248825] = {name = "Blackcore", subname = nil}
+MultiLanguageNpcData['nl'][248826] = {name = "Doomsayer", subname = nil}
 MultiLanguageNpcData['nl'][248828] = {name = "Oplopend Waygate", subname = nil}
+MultiLanguageNpcData['nl'][248829] = {name = "Tuinkat", subname = nil}
+MultiLanguageNpcData['nl'][248830] = {name = "Galtra Bloodclave", subname = nil}
 MultiLanguageNpcData['nl'][248831] = {name = "Aflopend Waygate", subname = nil}
+MultiLanguageNpcData['nl'][248832] = {name = "Vlinder", subname = nil}
 MultiLanguageNpcData['nl'][248835] = {name = "Oplopend Waygate", subname = nil}
 MultiLanguageNpcData['nl'][248836] = {name = "Aflopend Waygate", subname = nil}
+MultiLanguageNpcData['nl'][248838] = {name = "Dak'zor", subname = nil}
+MultiLanguageNpcData['nl'][248839] = {name = "Rootway naar Azeroth", subname = nil}
+MultiLanguageNpcData['nl'][248842] = {name = "Hoofd Telemancer Oculeth", subname = nil}
+MultiLanguageNpcData['nl'][248843] = {name = "Arator", subname = "Zoon van Alleria"}
+MultiLanguageNpcData['nl'][248844] = {name = "Archmage Aethas Sundéver", subname = "Kirin Tor"}
+MultiLanguageNpcData['nl'][248845] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
+MultiLanguageNpcData['nl'][248846] = {name = "Eerste Arcanist Thalyssra", subname = nil}
+MultiLanguageNpcData['nl'][248852] = {name = "Vile Orb", subname = nil}
 MultiLanguageNpcData['nl'][248853] = {name = "Oude Beschermer", subname = nil}
 MultiLanguageNpcData['nl'][248854] = {name = "De laatste architect", subname = nil}
 MultiLanguageNpcData['nl'][248855] = {name = "Gepureerd artefact", subname = nil}
+MultiLanguageNpcData['nl'][248856] = {name = "Domanaar Soldaat", subname = nil}
+MultiLanguageNpcData['nl'][248861] = {name = "Umbral Tether", subname = nil}
+MultiLanguageNpcData['nl'][248862] = {name = "Vluchtige Totem", subname = nil}
+MultiLanguageNpcData['nl'][248863] = {name = "Void Portal", subname = nil}
+MultiLanguageNpcData['nl'][248864] = {name = "Predaxas", subname = nil}
+MultiLanguageNpcData['nl'][248865] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][248866] = {name = "Alleria Windrunner", subname = nil}
+MultiLanguageNpcData['nl'][248867] = {name = "Lothraxion", subname = "Hoge Commandant"}
 MultiLanguageNpcData['nl'][248868] = {name = "Vrolijke Zanger", subname = nil}
+MultiLanguageNpcData['nl'][248869] = {name = "Slimme Voidscyte", subname = nil}
+MultiLanguageNpcData['nl'][248870] = {name = "Orin's Shade", subname = nil}
 MultiLanguageNpcData['nl'][248871] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248872] = {name = "Telumnus", subname = "Void Artificer"}
 MultiLanguageNpcData['nl'][248873] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][248874] = {name = "Valeera Sanguinar", subname = nil}
 MultiLanguageNpcData['nl'][248875] = {name = "Veldyak", subname = nil}
+MultiLanguageNpcData['nl'][248877] = {name = "Kill Credit: Val ontwapend", subname = nil}
 MultiLanguageNpcData['nl'][248878] = {name = "Fyrakk", subname = "The Blazing"}
+MultiLanguageNpcData['nl'][248879] = {name = "Rootway", subname = nil}
+MultiLanguageNpcData['nl'][248880] = {name = "Uithongerende Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][248881] = {name = "Scout Nefina", subname = nil}
+MultiLanguageNpcData['nl'][248883] = {name = "Voidstalker", subname = nil}
+MultiLanguageNpcData['nl'][248884] = {name = "Opgeroepen skelet", subname = "T0 (,5/,5)"}
+MultiLanguageNpcData['nl'][248885] = {name = "Opgeroepen skelet", subname = "T0 (,5/,5)"}
+MultiLanguageNpcData['nl'][248886] = {name = "Hagar", subname = "Oudere"}
+MultiLanguageNpcData['nl'][248887] = {name = "Witherbark Gevangene", subname = nil}
+MultiLanguageNpcData['nl'][248888] = {name = "Lightbloom Rutaani Thornguard", subname = "1/1 melee"}
+MultiLanguageNpcData['nl'][248889] = {name = "Lightbloom Rutaani Mistcaller", subname = "1/1 Caster"}
+MultiLanguageNpcData['nl'][248890] = {name = "Dwalende Stalker", subname = nil}
+MultiLanguageNpcData['nl'][248894] = {name = "Scout Nefina", subname = nil}
+MultiLanguageNpcData['nl'][248895] = {name = "Har'mara Sporeguard", subname = nil}
+MultiLanguageNpcData['nl'][248896] = {name = "Opgeroepen oorlogsbeer", subname = nil}
+MultiLanguageNpcData['nl'][248897] = {name = "Etherische Pyre", subname = nil}
+MultiLanguageNpcData['nl'][248898] = {name = "Opgeroepen Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][248899] = {name = "Har'mara Rotling", subname = nil}
+MultiLanguageNpcData['nl'][248900] = {name = "Har'mara Mycomancer", subname = nil}
+MultiLanguageNpcData['nl'][248901] = {name = "Har'mara Grove Protector", subname = nil}
+MultiLanguageNpcData['nl'][248902] = {name = "Har'mara Blossomsinger", subname = nil}
 MultiLanguageNpcData['nl'][248903] = {name = "Skiff", subname = nil}
+MultiLanguageNpcData['nl'][248904] = {name = "Har'mara Elder Vastworteling", subname = nil}
+MultiLanguageNpcData['nl'][248905] = {name = "Har'mara Grovewarden", subname = nil}
+MultiLanguageNpcData['nl'][248906] = {name = "Trigore Shard-Breaker", subname = nil}
+MultiLanguageNpcData['nl'][248907] = {name = "Blackcore", subname = nil}
+MultiLanguageNpcData['nl'][248908] = {name = "Etherische Pyre", subname = nil}
+MultiLanguageNpcData['nl'][248910] = {name = "Har'mara Citizen", subname = nil}
+MultiLanguageNpcData['nl'][248911] = {name = "Har'kuaiaanse pelgrim", subname = nil}
+MultiLanguageNpcData['nl'][248916] = {name = "Nalorakk", subname = "Loa of War"}
 MultiLanguageNpcData['nl'][248917] = {name = "Buurtwacht", subname = nil}
+MultiLanguageNpcData['nl'][248918] = {name = "Reisformulier voor Haranir Druid", subname = nil}
+MultiLanguageNpcData['nl'][248919] = {name = "Haranir Druid Moonkin Form", subname = nil}
+MultiLanguageNpcData['nl'][248920] = {name = "Bedrieglijke Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][248921] = {name = "Ontbrekende padvinder", subname = nil}
+MultiLanguageNpcData['nl'][248922] = {name = "Vantacate Conduit", subname = nil}
 MultiLanguageNpcData['nl'][248923] = {name = "Spare Blindfold van Adarus", subname = nil}
+MultiLanguageNpcData['nl'][248924] = {name = "Vilebranch beginner", subname = nil}
 MultiLanguageNpcData['nl'][248925] = {name = "Eternus", subname = nil}
+MultiLanguageNpcData['nl'][248926] = {name = "Voidstalker", subname = nil}
 MultiLanguageNpcData['nl'][248927] = {name = "Zah'ran", subname = "Delve Trinkets"}
 MultiLanguageNpcData['nl'][248928] = {name = "Zah'ran", subname = "Delve Trinkets"}
 MultiLanguageNpcData['nl'][248929] = {name = "Zah'ran", subname = "Delve Trinkets"}
 MultiLanguageNpcData['nl'][248930] = {name = "Zah'ran", subname = "Delve Trinkets"}
+MultiLanguageNpcData['nl'][248932] = {name = "Schaduw van verlies", subname = nil}
+MultiLanguageNpcData['nl'][248933] = {name = "Schaduw van spijt", subname = nil}
+MultiLanguageNpcData['nl'][248934] = {name = "Schaduw van twijfel", subname = nil}
+MultiLanguageNpcData['nl'][248935] = {name = "Verwoest Corpse", subname = nil}
+MultiLanguageNpcData['nl'][248936] = {name = "Verwoest Corpse", subname = nil}
+MultiLanguageNpcData['nl'][248937] = {name = "Verwoest Corpse", subname = nil}
+MultiLanguageNpcData['nl'][248938] = {name = "Albino Trigore", subname = nil}
+MultiLanguageNpcData['nl'][248939] = {name = "Blistercreep bottomfeeder", subname = nil}
+MultiLanguageNpcData['nl'][248940] = {name = "Bloeddorstige Kilivoor", subname = nil}
+MultiLanguageNpcData['nl'][248942] = {name = "Kill Credit: Contact gevonden", subname = nil}
+MultiLanguageNpcData['nl'][248943] = {name = "Corpsepicker Karion", subname = nil}
+MultiLanguageNpcData['nl'][248944] = {name = "Kill Credit: Ontmoet Valeera in Zul'Aman", subname = nil}
+MultiLanguageNpcData['nl'][248947] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][248948] = {name = "Tome of History", subname = nil}
 MultiLanguageNpcData['nl'][248949] = {name = "Wanderer", subname = nil}
 MultiLanguageNpcData['nl'][248950] = {name = "Genezer", subname = nil}
 MultiLanguageNpcData['nl'][248954] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['nl'][248955] = {name = "Hart van Amirdrassil", subname = nil}
 MultiLanguageNpcData['nl'][248956] = {name = "Tome of History", subname = nil}
+MultiLanguageNpcData['nl'][248957] = {name = "Filebranch Instructeur", subname = nil}
 MultiLanguageNpcData['nl'][248958] = {name = "Gemanifesteerde tijdpaden", subname = nil}
 MultiLanguageNpcData['nl'][248959] = {name = "Geest van de Kaldorei", subname = nil}
 MultiLanguageNpcData['nl'][248963] = {name = "Legioenportaal", subname = nil}
+MultiLanguageNpcData['nl'][248965] = {name = "Blood Elf-kind", subname = nil}
 MultiLanguageNpcData['nl'][248967] = {name = "Vliegmachine", subname = nil}
+MultiLanguageNpcData['nl'][248968] = {name = "Blood Elf-kind", subname = nil}
 MultiLanguageNpcData['nl'][248969] = {name = "Oud van Lore", subname = nil}
-MultiLanguageNpcData['nl'][248974] = {name = "Bezoeker van Valsharah", subname = nil}
+MultiLanguageNpcData['nl'][248974] = {name = "Bezoeker Val'sharah", subname = nil}
+MultiLanguageNpcData['nl'][248976] = {name = "Hongerige huurling", subname = nil}
+MultiLanguageNpcData['nl'][248977] = {name = "Altaar van Overvloed", subname = nil}
 MultiLanguageNpcData['nl'][248978] = {name = "Wornoak", subname = "Houtgrondvoorraden"}
+MultiLanguageNpcData['nl'][248979] = {name = "Verwarmde Heckler", subname = nil}
+MultiLanguageNpcData['nl'][248981] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][248982] = {name = "Valeera Sanguinar", subname = nil}
+MultiLanguageNpcData['nl'][248983] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][248984] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][248985] = {name = "Hongerige huurling", subname = nil}
+MultiLanguageNpcData['nl'][248986] = {name = "Malgar de Uproooter", subname = nil}
+MultiLanguageNpcData['nl'][248987] = {name = "Hongerige huurling", subname = nil}
+MultiLanguageNpcData['nl'][248991] = {name = "Raveneuze Voidwalker", subname = nil}
+MultiLanguageNpcData['nl'][248992] = {name = "Schaduw-Grown bessen", subname = nil}
+MultiLanguageNpcData['nl'][249000] = {name = "Geweld Warframe", subname = nil}
 MultiLanguageNpcData['nl'][249001] = {name = "Gepureerd artefact", subname = nil}
+MultiLanguageNpcData['nl'][249002] = {name = "Opwarmmasker", subname = nil}
+MultiLanguageNpcData['nl'][249005] = {name = "Domanaar Microwell", subname = nil}
+MultiLanguageNpcData['nl'][249006] = {name = "Pernicious Petalwing", subname = nil}
 MultiLanguageNpcData['nl'][249008] = {name = "Eternus", subname = nil}
+MultiLanguageNpcData['nl'][249009] = {name = "Gezwollen mukleech", subname = nil}
+MultiLanguageNpcData['nl'][249012] = {name = "Putrid Boggorm", subname = nil}
+MultiLanguageNpcData['nl'][249014] = {name = "Reuzenwas", subname = nil}
 MultiLanguageNpcData['nl'][249015] = {name = "Oneindig portaal", subname = nil}
 MultiLanguageNpcData['nl'][249016] = {name = "Oneindige Whelp", subname = nil}
 MultiLanguageNpcData['nl'][249018] = {name = "Oneindige Overlord", subname = nil}
 MultiLanguageNpcData['nl'][249019] = {name = "Oneindige Magus", subname = nil}
+MultiLanguageNpcData['nl'][249020] = {name = "Hexbound Eagle", subname = nil}
 MultiLanguageNpcData['nl'][249021] = {name = "Oneindige Doder", subname = nil}
+MultiLanguageNpcData['nl'][249022] = {name = "Bramblemaw Bear", subname = nil}
+MultiLanguageNpcData['nl'][249024] = {name = "Holle Soulrender", subname = nil}
+MultiLanguageNpcData['nl'][249025] = {name = "Bound Defender", subname = nil}
+MultiLanguageNpcData['nl'][249028] = {name = "Twilight's Blade Deserter", subname = nil}
+MultiLanguageNpcData['nl'][249029] = {name = "Opgeladen Anguish Crystal", subname = nil}
+MultiLanguageNpcData['nl'][249030] = {name = "Restless Gnarldin", subname = nil}
 MultiLanguageNpcData['nl'][249032] = {name = "Eternus", subname = nil}
+MultiLanguageNpcData['nl'][249034] = {name = "Riftwalker Sideras", subname = nil}
+MultiLanguageNpcData['nl'][249036] = {name = "Gemarmenteerde schaduw", subname = nil}
+MultiLanguageNpcData['nl'][249037] = {name = "Opofferde Phantom", subname = nil}
+MultiLanguageNpcData['nl'][249039] = {name = "Lurking Stormray", subname = nil}
+MultiLanguageNpcData['nl'][249040] = {name = "Twilight's Blade Cultist", subname = nil}
+MultiLanguageNpcData['nl'][249041] = {name = "Sandee Seabraid", subname = "T&W Trading Post"}
+MultiLanguageNpcData['nl'][249042] = {name = "Zalani", subname = "Zen'shiri Trading Post"}
+MultiLanguageNpcData['nl'][249044] = {name = "Assistent Winsome Fairtrade", subname = "T&W Trading Post"}
+MultiLanguageNpcData['nl'][249045] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][249046] = {name = "Assistent Shadala", subname = "Zen'shiri Trading Post"}
+MultiLanguageNpcData['nl'][249047] = {name = "Algemeen Stalker", subname = nil}
+MultiLanguageNpcData['nl'][249048] = {name = "Sleep de Tainted", subname = "Stem van Twilight"}
+MultiLanguageNpcData['nl'][249049] = {name = "Rosalyn Brightdawn", subname = "Stabiele houder"}
+MultiLanguageNpcData['nl'][249050] = {name = "Warpweaver Zirka", subname = "Transmogrifier"}
+MultiLanguageNpcData['nl'][249055] = {name = "Escaping Ooze", subname = nil}
 MultiLanguageNpcData['nl'][249056] = {name = "K'areshi Stall", subname = nil}
+MultiLanguageNpcData['nl'][249057] = {name = "Valeera Sanguinar", subname = nil}
 MultiLanguageNpcData['nl'][249058] = {name = "Slechte jij.", subname = nil}
+MultiLanguageNpcData['nl'][249059] = {name = "Firefly", subname = nil}
+MultiLanguageNpcData['nl'][249060] = {name = "Potadpole Podling", subname = nil}
+MultiLanguageNpcData['nl'][249062] = {name = "Enchanted Stable Sweeper", subname = nil}
+MultiLanguageNpcData['nl'][249063] = {name = "Leegte creatie", subname = nil}
+MultiLanguageNpcData['nl'][249066] = {name = "Amarakk", subname = nil}
 MultiLanguageNpcData['nl'][249067] = {name = "Bank", subname = nil}
+MultiLanguageNpcData['nl'][249068] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][249069] = {name = "Baby Potadpole Podling", subname = nil}
+MultiLanguageNpcData['nl'][249071] = {name = "Opslag van bomsporen", subname = nil}
+MultiLanguageNpcData['nl'][249075] = {name = "Kill Credit: Tutorial - Q02 - Overvloedig materiaal verzameld, Eerste", subname = nil}
+MultiLanguageNpcData['nl'][249076] = {name = "Kill Credit: Tutorial - Q02 - Basic Node Mined", subname = nil}
+MultiLanguageNpcData['nl'][249077] = {name = "Kill Credit: Tutorial - Q02 - T0 Slain", subname = nil}
+MultiLanguageNpcData['nl'][249078] = {name = "Kill Credit: Tutorial - Q02 - Overvloedig materiaal verzameld", subname = nil}
+MultiLanguageNpcData['nl'][249079] = {name = "Kill Credit: Tutorial - Q02 - Overvloed aan materiaal gestort", subname = nil}
+MultiLanguageNpcData['nl'][249080] = {name = "Kill Credit: Tutorial - Q03 - Meet Leverancier", subname = nil}
+MultiLanguageNpcData['nl'][249081] = {name = "Kill Credit: Tutorial - Q03 - Koop item", subname = nil}
+MultiLanguageNpcData['nl'][249083] = {name = "Leeg beest", subname = nil}
 MultiLanguageNpcData['nl'][249085] = {name = "Kill Credit: Telogrus Rift Break", subname = nil}
+MultiLanguageNpcData['nl'][249086] = {name = "Void Terror", subname = nil}
+MultiLanguageNpcData['nl'][249087] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][249088] = {name = "Decimus", subname = nil}
+MultiLanguageNpcData['nl'][249089] = {name = "Kill Credit: Gemeenschappelijke [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249090] = {name = "Kill Credit: Zeldzame [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249091] = {name = "Kill Credit: Epic [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249092] = {name = "Kill Credit: Legendary[DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249094] = {name = "Bo'ke", subname = nil}
+MultiLanguageNpcData['nl'][249095] = {name = "Bo'ke", subname = nil}
+MultiLanguageNpcData['nl'][249097] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][249098] = {name = "Balaak de Tweevoudige Vervloekte", subname = "Etherische Energie handelaar"}
+MultiLanguageNpcData['nl'][249100] = {name = "Kill Credit: Tutorial - Q02 - Begin Abundance Tutorial", subname = nil}
+MultiLanguageNpcData['nl'][249101] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][249102] = {name = "Karion", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][249103] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][249105] = {name = "Kill Credit: Benadering Baas", subname = nil}
+MultiLanguageNpcData['nl'][249106] = {name = "Witherbark Scout", subname = nil}
+MultiLanguageNpcData['nl'][249107] = {name = "Territoriale bladvleugel", subname = nil}
 MultiLanguageNpcData['nl'][249108] = {name = "Kill Credit: Aankomst in Dornegal Break", subname = nil}
 MultiLanguageNpcData['nl'][249109] = {name = "Kill Credit: Nerubian Incursion Break", subname = nil}
 MultiLanguageNpcData['nl'][249110] = {name = "Kill Credit: Taelloch Break", subname = nil}
@@ -5170,73 +8472,277 @@ MultiLanguageNpcData['nl'][249111] = {name = "Kill Credit: Op zoek naar Foreman 
 MultiLanguageNpcData['nl'][249112] = {name = "Kill Credit: reactie gebroken met hoge speaker", subname = nil}
 MultiLanguageNpcData['nl'][249113] = {name = "Felstalker Broodling", subname = nil}
 MultiLanguageNpcData['nl'][249114] = {name = "Felstalker", subname = nil}
+MultiLanguageNpcData['nl'][249115] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['nl'][249116] = {name = "Felguard Invader", subname = nil}
 MultiLanguageNpcData['nl'][249118] = {name = "Wrathguard", subname = nil}
+MultiLanguageNpcData['nl'][249119] = {name = "Materiaalbol - groot", subname = nil}
 MultiLanguageNpcData['nl'][249120] = {name = "Doomguard", subname = nil}
 MultiLanguageNpcData['nl'][249121] = {name = "Felfire Imp", subname = nil}
 MultiLanguageNpcData['nl'][249122] = {name = "Imp Scout", subname = nil}
 MultiLanguageNpcData['nl'][249123] = {name = "Kill Credit: Meer informatie over Arathi Break", subname = nil}
+MultiLanguageNpcData['nl'][249124] = {name = "Haranir Zul'Sharah", subname = nil}
 MultiLanguageNpcData['nl'][249125] = {name = "Kill Credit: Meer informatie over Nerubian Attack Break", subname = nil}
 MultiLanguageNpcData['nl'][249127] = {name = "Kill Credit: Meer informatie over Azj'kahet politiek", subname = nil}
 MultiLanguageNpcData['nl'][249128] = {name = "Kill Credit: Meer informatie over Azj'kahet mensen", subname = nil}
+MultiLanguageNpcData['nl'][249129] = {name = "Loanite-knooppunt", subname = nil}
+MultiLanguageNpcData['nl'][249130] = {name = "Ren'dorei Ghostblade", subname = nil}
+MultiLanguageNpcData['nl'][249131] = {name = "Kruipende blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][249133] = {name = "Waalse Harrower", subname = nil}
+MultiLanguageNpcData['nl'][249135] = {name = "Sin'dorei Deckhand", subname = nil}
+MultiLanguageNpcData['nl'][249136] = {name = "Maiev Shadowsong", subname = nil}
+MultiLanguageNpcData['nl'][249137] = {name = "Opvallende domkop", subname = nil}
+MultiLanguageNpcData['nl'][249138] = {name = "Doodsbang Spectator", subname = nil}
+MultiLanguageNpcData['nl'][249139] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
 MultiLanguageNpcData['nl'][249140] = {name = "Doomsayer", subname = nil}
+MultiLanguageNpcData['nl'][249144] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][249145] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][249146] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][249147] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][249148] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][249150] = {name = "Eagletender Tha'mon", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][249151] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][249152] = {name = "Potadpole Podling", subname = nil}
+MultiLanguageNpcData['nl'][249153] = {name = "Sulking Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][249154] = {name = "Lichte barricade", subname = nil}
+MultiLanguageNpcData['nl'][249155] = {name = "Lichte barricade", subname = nil}
+MultiLanguageNpcData['nl'][249156] = {name = "Sylverian Dreamer", subname = nil}
+MultiLanguageNpcData['nl'][249157] = {name = "Rituele Urn", subname = nil}
+MultiLanguageNpcData['nl'][249158] = {name = "Te enthousiaste fan", subname = nil}
+MultiLanguageNpcData['nl'][249159] = {name = "Hiren Loresong", subname = "Voormalig kwartiermeester"}
+MultiLanguageNpcData['nl'][249160] = {name = "Lanudal Silverhart", subname = "IJzer- en staalindustrie"}
+MultiLanguageNpcData['nl'][249161] = {name = "Schaduwbeschermer Flickerblade", subname = nil}
+MultiLanguageNpcData['nl'][249162] = {name = "Mist Drifter", subname = nil}
+MultiLanguageNpcData['nl'][249163] = {name = "Valecrawler", subname = nil}
+MultiLanguageNpcData['nl'][249164] = {name = "Vale Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][249165] = {name = "Misty Thorntalon", subname = nil}
+MultiLanguageNpcData['nl'][249166] = {name = "Mist Stalker", subname = nil}
+MultiLanguageNpcData['nl'][249167] = {name = "Misty Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][249168] = {name = "Mistvale Terror", subname = nil}
+MultiLanguageNpcData['nl'][249169] = {name = "Misty Shambler", subname = nil}
+MultiLanguageNpcData['nl'][249170] = {name = "Misty Hellasur", subname = nil}
+MultiLanguageNpcData['nl'][249172] = {name = "Trigore Shard-Breaker", subname = nil}
+MultiLanguageNpcData['nl'][249173] = {name = "Har'alnorian Pelgrim", subname = nil}
+MultiLanguageNpcData['nl'][249174] = {name = "Sin'dorei Fruit leverancier", subname = nil}
+MultiLanguageNpcData['nl'][249175] = {name = "Hallowfall Aeroknight", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][249176] = {name = "Gouden Lantaarnmot", subname = nil}
 MultiLanguageNpcData['nl'][249177] = {name = "Paladin Kampioen", subname = nil}
 MultiLanguageNpcData['nl'][249178] = {name = "Kampioen krijger", subname = nil}
 MultiLanguageNpcData['nl'][249179] = {name = "Void Tear Stalker", subname = nil}
 MultiLanguageNpcData['nl'][249180] = {name = "Misprint", subname = nil}
 MultiLanguageNpcData['nl'][249181] = {name = "Kill Credit: Meer informatie over Evolved Nerubians Break", subname = nil}
 MultiLanguageNpcData['nl'][249182] = {name = "Demon Hunter Kampioen", subname = nil}
+MultiLanguageNpcData['nl'][249183] = {name = "Gered Cub", subname = nil}
 MultiLanguageNpcData['nl'][249184] = {name = "Hunter Kampioen", subname = nil}
 MultiLanguageNpcData['nl'][249185] = {name = "Kill Credit: Leer wat er van Xal'atath en Gallywix's deal Break is geworden", subname = nil}
+MultiLanguageNpcData['nl'][249186] = {name = "Twilight Disruptor", subname = nil}
+MultiLanguageNpcData['nl'][249187] = {name = "Gezant Manat", subname = "Vertegenwoordiger van Harandar"}
+MultiLanguageNpcData['nl'][249188] = {name = "Surviver Mage", subname = nil}
+MultiLanguageNpcData['nl'][249189] = {name = "Hallowfall Aeroknight", subname = "Voorhoede van het Licht"}
+MultiLanguageNpcData['nl'][249190] = {name = "Dredonus", subname = nil}
 MultiLanguageNpcData['nl'][249191] = {name = "Kill Credit: Leer Locauswalker's krachten breken", subname = nil}
 MultiLanguageNpcData['nl'][249192] = {name = "Kill Credit: Leer de vereisten van Ve'nari Break", subname = nil}
 MultiLanguageNpcData['nl'][249193] = {name = "Kill Credit: Tome 4 Break", subname = nil}
+MultiLanguageNpcData['nl'][249194] = {name = "Ren'dorei Scout", subname = nil}
 MultiLanguageNpcData['nl'][249195] = {name = "Kill Credit: Tome 5 Break", subname = nil}
+MultiLanguageNpcData['nl'][249196] = {name = "Materialist Ophinell", subname = "Kwartiermeester"}
+MultiLanguageNpcData['nl'][249197] = {name = "Armorer Kalinovan", subname = "Reparaties en uitrusting"}
+MultiLanguageNpcData['nl'][249198] = {name = "Vigilant Magister", subname = nil}
+MultiLanguageNpcData['nl'][249199] = {name = "Bloedridder Adept", subname = nil}
+MultiLanguageNpcData['nl'][249200] = {name = "Ren'dorei Arcanist", subname = nil}
+MultiLanguageNpcData['nl'][249202] = {name = "Flower Bunny 02", subname = nil}
+MultiLanguageNpcData['nl'][249203] = {name = "Flower Bunny 03", subname = nil}
+MultiLanguageNpcData['nl'][249204] = {name = "Schaduw", subname = nil}
+MultiLanguageNpcData['nl'][249205] = {name = "Flower Bunny 04", subname = nil}
+MultiLanguageNpcData['nl'][249206] = {name = "Flower Bunny 05", subname = nil}
+MultiLanguageNpcData['nl'][249207] = {name = "Flower Bunny 06", subname = nil}
+MultiLanguageNpcData['nl'][249208] = {name = "Flower Bunny 07", subname = nil}
+MultiLanguageNpcData['nl'][249209] = {name = "Flower Bunny 08", subname = nil}
+MultiLanguageNpcData['nl'][249210] = {name = "Flower Bunny 09", subname = nil}
+MultiLanguageNpcData['nl'][249211] = {name = "Zul'jan", subname = nil}
 MultiLanguageNpcData['nl'][249242] = {name = "Sporeggar Bezoeker - Werker", subname = nil}
 MultiLanguageNpcData['nl'][249243] = {name = "Bezoeker van Sporeggar - Bewaker", subname = nil}
 MultiLanguageNpcData['nl'][249244] = {name = "Schimmelreus", subname = nil}
 MultiLanguageNpcData['nl'][249245] = {name = "Training Dummy", subname = nil}
+MultiLanguageNpcData['nl'][249246] = {name = "Kill Credit: Ch 3 - Q01 - Entree Beckon", subname = nil}
 MultiLanguageNpcData['nl'][249249] = {name = "Hammerfall Peon", subname = nil}
+MultiLanguageNpcData['nl'][249250] = {name = "Thrashing Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][249253] = {name = "Kill Credit: Ch 3 - Q01 - Spreek met Kinduru", subname = nil}
 MultiLanguageNpcData['nl'][249254] = {name = "Ogre Destroyer", subname = nil}
 MultiLanguageNpcData['nl'][249255] = {name = "Kobold Pillager", subname = nil}
 MultiLanguageNpcData['nl'][249256] = {name = "Pile of Chronoqueries", subname = nil}
+MultiLanguageNpcData['nl'][249257] = {name = "Oude Visionstone", subname = nil}
 MultiLanguageNpcData['nl'][249259] = {name = "Invis konijntje voor loc targeting [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249260] = {name = "Thrashing Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][249261] = {name = "Shadestep Kilivore", subname = nil}
 MultiLanguageNpcData['nl'][249262] = {name = "Optionele fasegebonden Visor", subname = nil}
 MultiLanguageNpcData['nl'][249263] = {name = "Astral Aspirant's Cape", subname = nil}
 MultiLanguageNpcData['nl'][249264] = {name = "Astral Aspirant's Drape", subname = nil}
+MultiLanguageNpcData['nl'][249265] = {name = "Skittering Grovecrawler", subname = nil}
 MultiLanguageNpcData['nl'][249266] = {name = "Invis konijntje voor loc targeting [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249268] = {name = "Lothraxion", subname = "Hoge Commandant"}
 MultiLanguageNpcData['nl'][249269] = {name = "Worn Catapult", subname = nil}
+MultiLanguageNpcData['nl'][249270] = {name = "Grootmeester Rommath", subname = nil}
+MultiLanguageNpcData['nl'][249271] = {name = "Rommelig nest", subname = nil}
+MultiLanguageNpcData['nl'][249272] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][249273] = {name = "Dusty Lurker Web", subname = nil}
+MultiLanguageNpcData['nl'][249274] = {name = "Gemorste leveringen", subname = nil}
 MultiLanguageNpcData['nl'][249275] = {name = "Nargok Ghostcleaver", subname = nil}
 MultiLanguageNpcData['nl'][249276] = {name = "Astral Aspirant's Cloak", subname = nil}
 MultiLanguageNpcData['nl'][249277] = {name = "Astrale Aspirant's Greatcloak", subname = nil}
 MultiLanguageNpcData['nl'][249278] = {name = "Spook", subname = nil}
+MultiLanguageNpcData['nl'][249279] = {name = "Shul'ka Seila", subname = nil}
+MultiLanguageNpcData['nl'][249280] = {name = "En'liahn", subname = nil}
 MultiLanguageNpcData['nl'][249281] = {name = "Worn Catapult", subname = nil}
 MultiLanguageNpcData['nl'][249282] = {name = "Afsluiten Dark Heart", subname = nil}
+MultiLanguageNpcData['nl'][249284] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][249285] = {name = "Salivating Sapper", subname = nil}
 MultiLanguageNpcData['nl'][249286] = {name = "Afgedankte [PH]", subname = nil}
 MultiLanguageNpcData['nl'][249287] = {name = "Grootvader Winter's Sleigh", subname = nil}
+MultiLanguageNpcData['nl'][249288] = {name = "KC: Beslis [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249289] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][249290] = {name = "Nadia Brighton", subname = nil}
+MultiLanguageNpcData['nl'][249291] = {name = "Frenzied Saptor", subname = nil}
+MultiLanguageNpcData['nl'][249292] = {name = "Frenzied Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][249293] = {name = "Frenzied Grovecrawler", subname = nil}
+MultiLanguageNpcData['nl'][249294] = {name = "Fungarian Sporeguard", subname = nil}
+MultiLanguageNpcData['nl'][249295] = {name = "Rutaani Grovewarden", subname = nil}
+MultiLanguageNpcData['nl'][249296] = {name = "Leveringen van Delver", subname = nil}
 MultiLanguageNpcData['nl'][249300] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249301] = {name = "Forest Forager", subname = nil}
 MultiLanguageNpcData['nl'][249302] = {name = "Sporebat", subname = nil}
 MultiLanguageNpcData['nl'][249303] = {name = "Rshhoo", subname = "Fungal Finds"}
 MultiLanguageNpcData['nl'][249305] = {name = "De laatste architect", subname = nil}
+MultiLanguageNpcData['nl'][249307] = {name = "Tarati", subname = "Rutaani Elder"}
+MultiLanguageNpcData['nl'][249308] = {name = "Thornhat", subname = "Fungarian Elder"}
+MultiLanguageNpcData['nl'][249309] = {name = "Gerst", subname = nil}
+MultiLanguageNpcData['nl'][249310] = {name = "Ember", subname = nil}
+MultiLanguageNpcData['nl'][249311] = {name = "Kazoo", subname = nil}
+MultiLanguageNpcData['nl'][249313] = {name = "Manifestation of Midnight", subname = nil}
 MultiLanguageNpcData['nl'][249317] = {name = "Pageturner Metro's", subname = "Administratieve assistent"}
+MultiLanguageNpcData['nl'][249321] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249322] = {name = "Muckmire", subname = nil}
+MultiLanguageNpcData['nl'][249323] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249325] = {name = "Gelatonius", subname = nil}
+MultiLanguageNpcData['nl'][249326] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249328] = {name = "Hellebora", subname = nil}
+MultiLanguageNpcData['nl'][249329] = {name = "Paddenstoelen", subname = nil}
+MultiLanguageNpcData['nl'][249330] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][249331] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][249332] = {name = "Slewstalk", subname = nil}
+MultiLanguageNpcData['nl'][249333] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][249334] = {name = "Gorebarb", subname = nil}
+MultiLanguageNpcData['nl'][249335] = {name = "Ancient Incense", subname = nil}
 MultiLanguageNpcData['nl'][249336] = {name = "Grounded Delver", subname = nil}
+MultiLanguageNpcData['nl'][249337] = {name = "Talandra Dawnsprite", subname = nil}
+MultiLanguageNpcData['nl'][249339] = {name = "Leerling Ralien", subname = nil}
+MultiLanguageNpcData['nl'][249340] = {name = "Enter Delve", subname = nil}
+MultiLanguageNpcData['nl'][249341] = {name = "Kolossale horror", subname = nil}
 MultiLanguageNpcData['nl'][249342] = {name = "Time-Lost Frog", subname = nil}
+MultiLanguageNpcData['nl'][249343] = {name = "Dionaea", subname = nil}
+MultiLanguageNpcData['nl'][249344] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249345] = {name = "Enge Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][249346] = {name = "Amani-werknemer", subname = nil}
 MultiLanguageNpcData['nl'][249347] = {name = "Fightbot versie 11.2.7", subname = nil}
 MultiLanguageNpcData['nl'][249351] = {name = "Fightbot versie 11.2.7", subname = nil}
+MultiLanguageNpcData['nl'][249354] = {name = "Pango Hauler", subname = nil}
+MultiLanguageNpcData['nl'][249355] = {name = "Eversong Ranger kapitein", subname = nil}
+MultiLanguageNpcData['nl'][249356] = {name = "Amani Pass Watcher", subname = nil}
+MultiLanguageNpcData['nl'][249358] = {name = "Giftige Passhopper", subname = nil}
+MultiLanguageNpcData['nl'][249359] = {name = "Barkfur-beer", subname = nil}
+MultiLanguageNpcData['nl'][249360] = {name = "Barkfur Cub", subname = nil}
+MultiLanguageNpcData['nl'][249361] = {name = "Shul'ka Li'tya", subname = nil}
+MultiLanguageNpcData['nl'][249362] = {name = "Wijndruppel", subname = nil}
 MultiLanguageNpcData['nl'][249364] = {name = "Clanking Delver", subname = nil}
 MultiLanguageNpcData['nl'][249365] = {name = "Ephemeral Delver", subname = nil}
+MultiLanguageNpcData['nl'][249366] = {name = "Geanimeerde Merlot", subname = nil}
+MultiLanguageNpcData['nl'][249367] = {name = "Enter Delve", subname = nil}
+MultiLanguageNpcData['nl'][249368] = {name = "Rutaani Blossinger", subname = nil}
+MultiLanguageNpcData['nl'][249369] = {name = "Voidwalker Phantasm", subname = nil}
+MultiLanguageNpcData['nl'][249370] = {name = "Lampaansteker Kaerter", subname = nil}
+MultiLanguageNpcData['nl'][249371] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249372] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249374] = {name = "Fungarian Mycomancer", subname = nil}
+MultiLanguageNpcData['nl'][249375] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249376] = {name = "Nalorakk", subname = "Loa of War"}
+MultiLanguageNpcData['nl'][249377] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249379] = {name = "Ancient Incense", subname = nil}
+MultiLanguageNpcData['nl'][249383] = {name = "Lampaansteker Leif", subname = nil}
 MultiLanguageNpcData['nl'][249384] = {name = "Feestelijke Choral Leader", subname = nil}
+MultiLanguageNpcData['nl'][249385] = {name = "Vindicator Xayann", subname = nil}
 MultiLanguageNpcData['nl'][249386] = {name = "Starkiller Swing", subname = nil}
+MultiLanguageNpcData['nl'][249387] = {name = "Kagara", subname = nil}
+MultiLanguageNpcData['nl'][249388] = {name = "Zak'kash", subname = nil}
+MultiLanguageNpcData['nl'][249390] = {name = "Rallying Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][249392] = {name = "Nesting Silk Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][249393] = {name = "Vindicator Xayann", subname = nil}
 MultiLanguageNpcData['nl'][249395] = {name = "Locus-Walker", subname = nil}
+MultiLanguageNpcData['nl'][249396] = {name = "Wandel Tome", subname = nil}
+MultiLanguageNpcData['nl'][249397] = {name = "Enclave Skitterer", subname = nil}
+MultiLanguageNpcData['nl'][249398] = {name = "Arcanist Taemin", subname = nil}
+MultiLanguageNpcData['nl'][249400] = {name = "Stinkcap Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][249401] = {name = "Thelsia Oakthorn", subname = nil}
+MultiLanguageNpcData['nl'][249403] = {name = "Awe'ohna", subname = nil}
+MultiLanguageNpcData['nl'][249404] = {name = "Akil'zon", subname = "Loa of Victory"}
+MultiLanguageNpcData['nl'][249405] = {name = "Halazzi", subname = "Loa of the Hunt"}
+MultiLanguageNpcData['nl'][249406] = {name = "Jan'alai", subname = "Loa of Fire"}
+MultiLanguageNpcData['nl'][249407] = {name = "Nalorakk", subname = "Loa of War"}
+MultiLanguageNpcData['nl'][249408] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][249409] = {name = "Vigilant Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][249410] = {name = "Grovecrawler Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][249411] = {name = "Loa Speaker Nanea", subname = "Devout of Nalorakk"}
+MultiLanguageNpcData['nl'][249412] = {name = "Surly Thornmaw", subname = nil}
+MultiLanguageNpcData['nl'][249413] = {name = "Mire Stalker", subname = nil}
 MultiLanguageNpcData['nl'][249416] = {name = "Reshii Wraps Provider", subname = "PTR Clak Leverancier"}
+MultiLanguageNpcData['nl'][249417] = {name = "Opgeblazen blisterverpakking", subname = nil}
+MultiLanguageNpcData['nl'][249418] = {name = "Insatiate Karion", subname = nil}
+MultiLanguageNpcData['nl'][249420] = {name = "Bloeddistel Rootling", subname = nil}
+MultiLanguageNpcData['nl'][249421] = {name = "Venomous Mournbat", subname = nil}
+MultiLanguageNpcData['nl'][249422] = {name = "Generieke konijn", subname = nil}
 MultiLanguageNpcData['nl'][249423] = {name = "Sergeant Colvin.", subname = nil}
-MultiLanguageNpcData['nl'][249435] = {name = "Lokale smid", subname = nil}
+MultiLanguageNpcData['nl'][249424] = {name = "Mire Stalker", subname = nil}
+MultiLanguageNpcData['nl'][249425] = {name = "Verspreid bloemblad", subname = nil}
+MultiLanguageNpcData['nl'][249426] = {name = "Limien Bountcask", subname = "Fine Vintages"}
+MultiLanguageNpcData['nl'][249427] = {name = "Chittering Kilivoor", subname = nil}
+MultiLanguageNpcData['nl'][249428] = {name = "Silvermoon \"Trader\"", subname = nil}
+MultiLanguageNpcData['nl'][249431] = {name = "Bunny Caster - Void Comet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249433] = {name = "Predaxian Trigore", subname = nil}
+MultiLanguageNpcData['nl'][249434] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][249435] = {name = "Terren", subname = "Lokale smid"}
+MultiLanguageNpcData['nl'][249436] = {name = "Vehn Sorrelstride", subname = "Alchemische oddities"}
+MultiLanguageNpcData['nl'][249437] = {name = "Nara Fadebranch", subname = "Gevoederde goederen"}
 MultiLanguageNpcData['nl'][249440] = {name = "Om'taha", subname = nil}
+MultiLanguageNpcData['nl'][249441] = {name = "Shrieking Haunt", subname = nil}
+MultiLanguageNpcData['nl'][249442] = {name = "Het consumeren van Grasp", subname = nil}
+MultiLanguageNpcData['nl'][249443] = {name = "Magister Umbric", subname = nil}
+MultiLanguageNpcData['nl'][249444] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][249446] = {name = "Rallying Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][249447] = {name = "Mysterieuze Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][249448] = {name = "Amalthea Dawnsprite", subname = nil}
+MultiLanguageNpcData['nl'][249450] = {name = "Archmage Aethas Sundéver", subname = nil}
+MultiLanguageNpcData['nl'][249453] = {name = "Farstrider Recruit", subname = "TEMP DRESSING"}
 MultiLanguageNpcData['nl'][249455] = {name = "Cosmetisch overlijdensdoel", subname = nil}
 MultiLanguageNpcData['nl'][249456] = {name = "Cindy Springstock", subname = nil}
+MultiLanguageNpcData['nl'][249457] = {name = "Lantaarn zonder verlichting", subname = nil}
+MultiLanguageNpcData['nl'][249459] = {name = "Riftblade Astre", subname = nil}
+MultiLanguageNpcData['nl'][249460] = {name = "Calia Menethil", subname = "The Pallid Lady"}
+MultiLanguageNpcData['nl'][249461] = {name = "Ontvoerd Drakonid", subname = nil}
+MultiLanguageNpcData['nl'][249462] = {name = "Instructeur Valtheras", subname = nil}
+MultiLanguageNpcData['nl'][249464] = {name = "Visie van de matriarch", subname = nil}
+MultiLanguageNpcData['nl'][249467] = {name = "Tehd Shoemaker", subname = nil}
+MultiLanguageNpcData['nl'][249468] = {name = "Seridis", subname = nil}
 MultiLanguageNpcData['nl'][249469] = {name = "Boekhouder Zo'fyr", subname = nil}
 MultiLanguageNpcData['nl'][249470] = {name = "Leerling Zo'tre", subname = nil}
 MultiLanguageNpcData['nl'][249471] = {name = "Boekhouder Zo'dah", subname = nil}
+MultiLanguageNpcData['nl'][249478] = {name = "Donkere scheur", subname = nil}
+MultiLanguageNpcData['nl'][249479] = {name = "Waterstrider", subname = nil}
+MultiLanguageNpcData['nl'][249480] = {name = "Flittere mot", subname = nil}
+MultiLanguageNpcData['nl'][249481] = {name = "Onderwortel Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][249482] = {name = "Spore-overded Firefly", subname = nil}
+MultiLanguageNpcData['nl'][249483] = {name = "Grovecrawler Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][249492] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][249497] = {name = "Opgeofferde Lynx", subname = nil}
+MultiLanguageNpcData['nl'][249499] = {name = "Talenia Flamesong", subname = nil}
+MultiLanguageNpcData['nl'][249500] = {name = "Spookbloemthee", subname = nil}
 MultiLanguageNpcData['nl'][249501] = {name = "Alleria Windrunner", subname = nil}
 MultiLanguageNpcData['nl'][249502] = {name = "Nexus-Prince Azir", subname = nil}
 MultiLanguageNpcData['nl'][249503] = {name = "Zeemeeuw", subname = nil}
@@ -5244,13 +8750,20 @@ MultiLanguageNpcData['nl'][249504] = {name = "Xal'atath", subname = "De voorbode
 MultiLanguageNpcData['nl'][249505] = {name = "Jayan", subname = nil}
 MultiLanguageNpcData['nl'][249506] = {name = "Locus-Walker", subname = nil}
 MultiLanguageNpcData['nl'][249507] = {name = "Soul-Scribe", subname = nil}
+MultiLanguageNpcData['nl'][249508] = {name = "Tandensaptor", subname = nil}
 MultiLanguageNpcData['nl'][249509] = {name = "Lash'ir", subname = nil}
+MultiLanguageNpcData['nl'][249510] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][249511] = {name = "Amani'Zar Defender", subname = nil}
 MultiLanguageNpcData['nl'][249512] = {name = "Narathe", subname = nil}
 MultiLanguageNpcData['nl'][249513] = {name = "Karesh Fox", subname = "T1 (1/1)"}
 MultiLanguageNpcData['nl'][249514] = {name = "Karesh Fox Kit", subname = nil}
 MultiLanguageNpcData['nl'][249515] = {name = "Geconserveerd K'arroc", subname = nil}
 MultiLanguageNpcData['nl'][249516] = {name = "Slateback Roamer", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][249517] = {name = "Resten van Mor'duun", subname = nil}
 MultiLanguageNpcData['nl'][249519] = {name = "Fase duiken binnengaan", subname = nil}
+MultiLanguageNpcData['nl'][249534] = {name = "Blood Elf Farstrider", subname = nil}
+MultiLanguageNpcData['nl'][249541] = {name = "Farstrider Helia", subname = nil}
+MultiLanguageNpcData['nl'][249542] = {name = "Riftblade Maella", subname = nil}
 MultiLanguageNpcData['nl'][249552] = {name = "Icks", subname = "Staven"}
 MultiLanguageNpcData['nl'][249553] = {name = "Bragund Brightlink", subname = "Mail Armor Merchant"}
 MultiLanguageNpcData['nl'][249554] = {name = "Matilda Brightlink", subname = "Mail Armor Merchant"}
@@ -5260,89 +8773,224 @@ MultiLanguageNpcData['nl'][249557] = {name = "Kerta the Bold", subname = "Mace &
 MultiLanguageNpcData['nl'][249558] = {name = "Gnome Diver", subname = nil}
 MultiLanguageNpcData['nl'][249559] = {name = "Fialla Sweetberry", subname = "Eten en drinken"}
 MultiLanguageNpcData['nl'][249560] = {name = "Lucian Trias", subname = "Brood- en kaasverkoper"}
+MultiLanguageNpcData['nl'][249563] = {name = "Opgeofferd Witherbark", subname = nil}
+MultiLanguageNpcData['nl'][249564] = {name = "Steelsoul Immortal", subname = nil}
 MultiLanguageNpcData['nl'][249565] = {name = "Fase Cutter Opladen", subname = nil}
+MultiLanguageNpcData['nl'][249566] = {name = "Bloedwacht Nelric", subname = nil}
+MultiLanguageNpcData['nl'][249567] = {name = "Ring", subname = nil}
+MultiLanguageNpcData['nl'][249571] = {name = "Gestikte horror", subname = nil}
+MultiLanguageNpcData['nl'][249572] = {name = "Ziekte van de vlieger", subname = nil}
+MultiLanguageNpcData['nl'][249573] = {name = "Dulgor Legstuck", subname = "Explorers League"}
+MultiLanguageNpcData['nl'][249574] = {name = "Heranimeerde Colossus", subname = nil}
+MultiLanguageNpcData['nl'][249575] = {name = "Stormwind City Guard", subname = nil}
+MultiLanguageNpcData['nl'][249581] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][249582] = {name = "Amani Civil", subname = nil}
+MultiLanguageNpcData['nl'][249583] = {name = "Amani Civil", subname = nil}
+MultiLanguageNpcData['nl'][249584] = {name = "Amani Civil", subname = nil}
+MultiLanguageNpcData['nl'][249590] = {name = "Angry Krolusk", subname = nil}
 MultiLanguageNpcData['nl'][249592] = {name = "Titan Console", subname = nil}
+MultiLanguageNpcData['nl'][249593] = {name = "12,0 Delves - TwilightsBlade02 - V01 - Wall Spears: Controller (Hufton)", subname = nil}
 MultiLanguageNpcData['nl'][249594] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][249595] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][249598] = {name = "Controleconsole D-28", subname = nil}
+MultiLanguageNpcData['nl'][249599] = {name = "Hulp", subname = nil}
+MultiLanguageNpcData['nl'][249601] = {name = "Cerul", subname = nil}
+MultiLanguageNpcData['nl'][249603] = {name = "Beschermende schildpad", subname = nil}
 MultiLanguageNpcData['nl'][249604] = {name = "Chon Po Stormstout", subname = nil}
-MultiLanguageNpcData['nl'][249609] = {name = "Bezoeker Kun Lai", subname = nil}
-MultiLanguageNpcData['nl'][249612] = {name = "Yak", subname = nil}
+MultiLanguageNpcData['nl'][249605] = {name = "Cerul", subname = nil}
+MultiLanguageNpcData['nl'][249606] = {name = "Erupting Leegte", subname = nil}
+MultiLanguageNpcData['nl'][249608] = {name = "Razende Raptor", subname = nil}
+MultiLanguageNpcData['nl'][249609] = {name = "Grummle Bezoeker", subname = nil}
+MultiLanguageNpcData['nl'][249610] = {name = "Arcano Barrier", subname = nil}
+MultiLanguageNpcData['nl'][249611] = {name = "Gevangen shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][249612] = {name = "Yak inpakken", subname = nil}
+MultiLanguageNpcData['nl'][249613] = {name = "Opgeladen Anguish Crystal", subname = nil}
+MultiLanguageNpcData['nl'][249614] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
+MultiLanguageNpcData['nl'][249615] = {name = "Lady Liadrin", subname = "Bloed Ridder Matriarch"}
 MultiLanguageNpcData['nl'][249616] = {name = "Spooktank", subname = nil}
+MultiLanguageNpcData['nl'][249617] = {name = "L'ura", subname = nil}
+MultiLanguageNpcData['nl'][249619] = {name = "Twilight Summoner", subname = nil}
+MultiLanguageNpcData['nl'][249620] = {name = "Gevangen Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][249621] = {name = "Sunwell Guard", subname = nil}
+MultiLanguageNpcData['nl'][249622] = {name = "Sunwell Magus", subname = nil}
+MultiLanguageNpcData['nl'][249623] = {name = "Sunwell Warden", subname = nil}
+MultiLanguageNpcData['nl'][249624] = {name = "Nightborne Arcanist", subname = nil}
+MultiLanguageNpcData['nl'][249625] = {name = "Night Elf Archer", subname = nil}
+MultiLanguageNpcData['nl'][249626] = {name = "12,0 Delves - TwilightsBlade02 - V01 - Onzichtbare Konijn (Hufton)", subname = nil}
+MultiLanguageNpcData['nl'][249627] = {name = "Void Elf Riftmancer", subname = nil}
 MultiLanguageNpcData['nl'][249628] = {name = "Ren'dorei Apprentice", subname = nil}
+MultiLanguageNpcData['nl'][249629] = {name = "Gedraineerde shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][249630] = {name = "Gedraineerde Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][249631] = {name = "Opgeroepen Phoenix", subname = nil}
 MultiLanguageNpcData['nl'][249633] = {name = "Wickerman Pinata", subname = nil}
+MultiLanguageNpcData['nl'][249634] = {name = "Arcane fixations", subname = nil}
+MultiLanguageNpcData['nl'][249635] = {name = "Ramping Ent", subname = nil}
+MultiLanguageNpcData['nl'][249636] = {name = "Twilight Aspirant", subname = nil}
+MultiLanguageNpcData['nl'][249637] = {name = "Belo'ren", subname = "Kind van Al'ar"}
+MultiLanguageNpcData['nl'][249638] = {name = "Algemeen: Onzichtbare Konijn (Hufton)", subname = nil}
+MultiLanguageNpcData['nl'][249639] = {name = "Gnasher", subname = nil}
 MultiLanguageNpcData['nl'][249643] = {name = "Kill Credit: Meer informatie over gecombineerd gevecht Break", subname = nil}
 MultiLanguageNpcData['nl'][249644] = {name = "Kill Credit: Meer informatie over Xal'athath's manipulatie", subname = nil}
+MultiLanguageNpcData['nl'][249645] = {name = "Amani Villager", subname = nil}
+MultiLanguageNpcData['nl'][249646] = {name = "Witherbark Villager", subname = nil}
+MultiLanguageNpcData['nl'][249647] = {name = "Shadowpine Nomad", subname = nil}
+MultiLanguageNpcData['nl'][249648] = {name = "Revantusk Villager", subname = nil}
+MultiLanguageNpcData['nl'][249649] = {name = "Amani-kind", subname = nil}
+MultiLanguageNpcData['nl'][249650] = {name = "Revantusk-kind", subname = nil}
+MultiLanguageNpcData['nl'][249651] = {name = "Shadowpine-kind", subname = nil}
+MultiLanguageNpcData['nl'][249652] = {name = "Witherbark-kind", subname = nil}
+MultiLanguageNpcData['nl'][249653] = {name = "Zul'jarra", subname = nil}
+MultiLanguageNpcData['nl'][249654] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][249655] = {name = "Voidmarked Reserve", subname = nil}
 MultiLanguageNpcData['nl'][249656] = {name = "Kill Credit: Meer informatie over Undermine Break", subname = nil}
+MultiLanguageNpcData['nl'][249657] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][249658] = {name = "Ei van Belo'ren", subname = nil}
 MultiLanguageNpcData['nl'][249663] = {name = "Grummle slaapzak", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249664] = {name = "Yeti", subname = nil}
+MultiLanguageNpcData['nl'][249665] = {name = "Arcane-lading", subname = nil}
+MultiLanguageNpcData['nl'][249666] = {name = "Leegtelading", subname = nil}
+MultiLanguageNpcData['nl'][249668] = {name = "Arcano-Void Stabilisator", subname = nil}
 MultiLanguageNpcData['nl'][249671] = {name = "Vliegende bezem", subname = nil}
 MultiLanguageNpcData['nl'][249672] = {name = "Hallow's End Celebrant", subname = nil}
 MultiLanguageNpcData['nl'][249674] = {name = "Keramische kafa mug", subname = "Beschikbaar voor Aankoop bij Leverancier"}
-MultiLanguageNpcData['nl'][249684] = {name = "Broeder Dovetail", subname = "Luckydos voor thuis wonen"}
+MultiLanguageNpcData['nl'][249677] = {name = "Algemeen Foto Kill krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249678] = {name = "Zeldzame Foto Kill krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249679] = {name = "Epische Foto Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249680] = {name = "Legendarische foto Kill krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249681] = {name = "Catalogustapijt", subname = nil}
+MultiLanguageNpcData['nl'][249684] = {name = "Broeder Dovetail", subname = "Handelaar"}
 MultiLanguageNpcData['nl'][249685] = {name = "Dalaran Espresso Machine", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][249688] = {name = "Mired Worms", subname = nil}
+MultiLanguageNpcData['nl'][249689] = {name = "Mire Muckeater", subname = nil}
+MultiLanguageNpcData['nl'][249690] = {name = "Vastworteling-darting Firefly", subname = nil}
+MultiLanguageNpcData['nl'][249691] = {name = "Plodding Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][249692] = {name = "Spare-dusted Moth", subname = nil}
+MultiLanguageNpcData['nl'][249694] = {name = "Lattice Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][249696] = {name = "Cavern Kakkerlak", subname = nil}
 MultiLanguageNpcData['nl'][249697] = {name = "Fractale afbeelding", subname = nil}
+MultiLanguageNpcData['nl'][249703] = {name = "Rutaani Skirmisher", subname = nil}
+MultiLanguageNpcData['nl'][249704] = {name = "Fungarian Brawler", subname = nil}
+MultiLanguageNpcData['nl'][249706] = {name = "Broom Grummner", subname = nil}
+MultiLanguageNpcData['nl'][249707] = {name = "Muiredon Battleforge", subname = nil}
+MultiLanguageNpcData['nl'][249708] = {name = "Tiza Battleforge", subname = nil}
+MultiLanguageNpcData['nl'][249709] = {name = "Nascent Portal", subname = nil}
+MultiLanguageNpcData['nl'][249710] = {name = "Songla", subname = nil}
+MultiLanguageNpcData['nl'][249711] = {name = "Kerntechnicus", subname = nil}
+MultiLanguageNpcData['nl'][249712] = {name = "Zo'gosh", subname = "The Crab Wrangler"}
+MultiLanguageNpcData['nl'][249715] = {name = "Catalogustapijt", subname = nil}
 MultiLanguageNpcData['nl'][249720] = {name = "Vliegende bezem", subname = nil}
 MultiLanguageNpcData['nl'][249721] = {name = "Kill Credit: Ghost [DNT] vangen", subname = nil}
+MultiLanguageNpcData['nl'][249723] = {name = "Kill Credit: Goede buurman punt [1] [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][249724] = {name = "Commandant Kafa Mug", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][249725] = {name = "Leegteonderzoeker", subname = nil}
+MultiLanguageNpcData['nl'][249726] = {name = "Kill Credit: Goede buurpunten [5] [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249727] = {name = "Kill Credit: Goede buurpunten [10] [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249728] = {name = "Kill Credit: Goede buurpunten [20] [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][249729] = {name = "Grummle Tent", subname = "Beschikbaar voor Aankoop bij Leverancier"}
-MultiLanguageNpcData['nl'][249730] = {name = "Dalaran Kafa Press", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][249730] = {name = "Kafa Press", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249731] = {name = "Kafa Creamer", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249732] = {name = "Legerdemain Lounge Sign Board", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][249733] = {name = "Basisvoertuig [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249734] = {name = "Consumptor Helminth", subname = nil}
 MultiLanguageNpcData['nl'][249735] = {name = "Grummle Bedroll", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249736] = {name = "Dalaran Kafa-tabel", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249737] = {name = "Grummle Kafa Raffinaderij", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249738] = {name = "Pandaren Houten winkelwagen", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249739] = {name = "Dalaran Kafa Grinder", subname = "Beschikbaar voor Aankoop bij Leverancier"}
-MultiLanguageNpcData['nl'][249741] = {name = "Shortkaf", subname = nil}
+MultiLanguageNpcData['nl'][249741] = {name = "Neef Shortkaf", subname = "Kafa'kota Berry Trader"}
 MultiLanguageNpcData['nl'][249742] = {name = "Broeder Noodle", subname = nil}
 MultiLanguageNpcData['nl'][249743] = {name = "Bubbles Jr.", subname = nil}
 MultiLanguageNpcData['nl'][249744] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249747] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249748] = {name = "Haven deelnemer", subname = nil}
+MultiLanguageNpcData['nl'][249749] = {name = "Earth Elemental RP Stalker", subname = nil}
+MultiLanguageNpcData['nl'][249750] = {name = "Bloedridder Afgezant", subname = nil}
+MultiLanguageNpcData['nl'][249751] = {name = "Farstrider Afgezant", subname = nil}
+MultiLanguageNpcData['nl'][249752] = {name = "Meester Afgezant", subname = nil}
+MultiLanguageNpcData['nl'][249753] = {name = "Silvermoon \"Trader\"", subname = nil}
 MultiLanguageNpcData['nl'][249754] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249755] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][249756] = {name = "Potatoad Matriarch", subname = nil}
+MultiLanguageNpcData['nl'][249757] = {name = "Arcane fixations", subname = nil}
+MultiLanguageNpcData['nl'][249758] = {name = "Haranir Rootwarden", subname = "TEMP MODEL"}
+MultiLanguageNpcData['nl'][249759] = {name = "Bloedvleugel", subname = nil}
 MultiLanguageNpcData['nl'][249761] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249764] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249765] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249767] = {name = "Jetant Lightstep", subname = "Hoofdinstructeur"}
 MultiLanguageNpcData['nl'][249768] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249769] = {name = "Rothas de Steadfast", subname = "Hoofdinstructeur"}
+MultiLanguageNpcData['nl'][249770] = {name = "Zel'jon", subname = "De ongeslagenen"}
 MultiLanguageNpcData['nl'][249771] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249775] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249776] = {name = "Thorm'belan", subname = nil}
 MultiLanguageNpcData['nl'][249777] = {name = "Manaforge", subname = nil}
 MultiLanguageNpcData['nl'][249778] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249780] = {name = "Elder Doru", subname = "Amani Elder"}
 MultiLanguageNpcData['nl'][249781] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249782] = {name = "Skyscribe Meridia", subname = nil}
+MultiLanguageNpcData['nl'][249783] = {name = "Potadpole Egg", subname = nil}
 MultiLanguageNpcData['nl'][249784] = {name = "Starscribe Lucidsong", subname = nil}
+MultiLanguageNpcData['nl'][249785] = {name = "Awe'ohna", subname = nil}
 MultiLanguageNpcData['nl'][249786] = {name = "Darkmender Deremius Duskwalk", subname = nil}
 MultiLanguageNpcData['nl'][249789] = {name = "Fel Rune van bescherming", subname = nil}
 MultiLanguageNpcData['nl'][249791] = {name = "Web-generaal Ab'enar", subname = nil}
+MultiLanguageNpcData['nl'][249792] = {name = "Summon Vehicle Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249794] = {name = "Emberstrike", subname = nil}
+MultiLanguageNpcData['nl'][249795] = {name = "Emberstrike", subname = nil}
 MultiLanguageNpcData['nl'][249796] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249797] = {name = "Eager Thorntail", subname = nil}
 MultiLanguageNpcData['nl'][249798] = {name = "Ongebruikelijke Thorntail", subname = nil}
 MultiLanguageNpcData['nl'][249799] = {name = "Slateback Roamer", subname = nil}
 MultiLanguageNpcData['nl'][249806] = {name = "Zwevend K'arroc", subname = nil}
+MultiLanguageNpcData['nl'][249807] = {name = "Gebroken Fence", subname = nil}
+MultiLanguageNpcData['nl'][249810] = {name = "Void Waygate", subname = nil}
 MultiLanguageNpcData['nl'][249811] = {name = "Faseconduit", subname = nil}
+MultiLanguageNpcData['nl'][249813] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249814] = {name = "Stinkcap Bud", subname = nil}
+MultiLanguageNpcData['nl'][249821] = {name = "Paars moeras Leech", subname = nil}
 MultiLanguageNpcData['nl'][249829] = {name = "Geargrave", subname = nil}
+MultiLanguageNpcData['nl'][249830] = {name = "Boogschieten Stalker [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249831] = {name = "Snowman", subname = nil}
 MultiLanguageNpcData['nl'][249832] = {name = "Nexus-Princess Ky'veza", subname = nil}
+MultiLanguageNpcData['nl'][249833] = {name = "Shackling Point", subname = nil}
+MultiLanguageNpcData['nl'][249836] = {name = "Shackling Point", subname = nil}
+MultiLanguageNpcData['nl'][249840] = {name = "Lysika's", subname = nil}
 MultiLanguageNpcData['nl'][249841] = {name = "Faseconduit", subname = nil}
 MultiLanguageNpcData['nl'][249842] = {name = "Hallow's End Celebrant", subname = nil}
 MultiLanguageNpcData['nl'][249843] = {name = "Hallow's End Celebrant", subname = nil}
+MultiLanguageNpcData['nl'][249844] = {name = "Chironex", subname = "De drijvende dood"}
+MultiLanguageNpcData['nl'][249846] = {name = "Haranir Hunter", subname = nil}
 MultiLanguageNpcData['nl'][249847] = {name = "Schaduw van de Ruiter", subname = nil}
 MultiLanguageNpcData['nl'][249848] = {name = "Tocho Cloudhide", subname = "Steward"}
+MultiLanguageNpcData['nl'][249849] = {name = "Ha'kalawe", subname = nil}
 MultiLanguageNpcData['nl'][249850] = {name = "Lyssabel Dawnpetal", subname = "Steward"}
+MultiLanguageNpcData['nl'][249852] = {name = "Stofschaar", subname = nil}
+MultiLanguageNpcData['nl'][249857] = {name = "Opgeluchte aal", subname = nil}
 MultiLanguageNpcData['nl'][249858] = {name = "Binnenlandse faserover", subname = nil}
+MultiLanguageNpcData['nl'][249859] = {name = "Void Blight", subname = nil}
+MultiLanguageNpcData['nl'][249861] = {name = "Heron Skygaze", subname = "Eten en drinken"}
+MultiLanguageNpcData['nl'][249862] = {name = "Magister Duskwither", subname = nil}
+MultiLanguageNpcData['nl'][249863] = {name = "Larianna Riverwind", subname = nil}
+MultiLanguageNpcData['nl'][249864] = {name = "Apprentice Loralthalis", subname = nil}
 MultiLanguageNpcData['nl'][249865] = {name = "Isirami Fairwind", subname = "Innkeeper"}
 MultiLanguageNpcData['nl'][249866] = {name = "Marcella Bloom", subname = "Barmeid"}
 MultiLanguageNpcData['nl'][249867] = {name = "Li-An Skymirror", subname = nil}
 MultiLanguageNpcData['nl'][249868] = {name = "Gazrix Gearlock", subname = "Steamwheedle Kartel"}
 MultiLanguageNpcData['nl'][249869] = {name = "Glutonie", subname = "De hebzuchtige barones"}
+MultiLanguageNpcData['nl'][249870] = {name = "Hathvelion Sungaze", subname = "Ranger kapitein"}
 MultiLanguageNpcData['nl'][249871] = {name = "Randall Goudsprocket", subname = nil}
+MultiLanguageNpcData['nl'][249872] = {name = "Apothecarist Enith", subname = nil}
 MultiLanguageNpcData['nl'][249873] = {name = "Teller Hanners", subname = "Bankier"}
 MultiLanguageNpcData['nl'][249874] = {name = "Teller Hoag", subname = "Bankier"}
 MultiLanguageNpcData['nl'][249875] = {name = "Teller Rames", subname = "Bankier"}
 MultiLanguageNpcData['nl'][249876] = {name = "Aimee", subname = "Pie, gebak en cakes"}
 MultiLanguageNpcData['nl'][249877] = {name = "Fabioso de Fabulous", subname = nil}
 MultiLanguageNpcData['nl'][249878] = {name = "Glaciela Rimebang", subname = nil}
+MultiLanguageNpcData['nl'][249879] = {name = "Innkeeper Areyn", subname = "Innkeeper"}
 MultiLanguageNpcData['nl'][249880] = {name = "Grindle Firespark", subname = nil}
 MultiLanguageNpcData['nl'][249881] = {name = "Kizi Koperclip", subname = "Kapper"}
+MultiLanguageNpcData['nl'][249882] = {name = "Zalene Firstlight", subname = "Eten en drinken"}
 MultiLanguageNpcData['nl'][249883] = {name = "Sminx Glasseye", subname = "Sieraden leverancier"}
 MultiLanguageNpcData['nl'][249884] = {name = "Tiffany Cartier", subname = "Leveringen voor juwelen"}
 MultiLanguageNpcData['nl'][249885] = {name = "Timothy Jones", subname = "Juwelierstrainer"}
@@ -5358,9 +9006,11 @@ MultiLanguageNpcData['nl'][249894] = {name = "Marcia Chase", subname = "Visserij
 MultiLanguageNpcData['nl'][249895] = {name = "Naseev", subname = "Krijgerstrainer"}
 MultiLanguageNpcData['nl'][249896] = {name = "Rafael Langrom", subname = "Lederen Armor Merchant"}
 MultiLanguageNpcData['nl'][249897] = {name = "Valerie Langrom", subname = "Lederen Armor Merchant"}
+MultiLanguageNpcData['nl'][249898] = {name = "Shado-Pan Monk", subname = nil}
 MultiLanguageNpcData['nl'][249899] = {name = "Diane Cannings", subname = "Leather Armor Expert"}
 MultiLanguageNpcData['nl'][249900] = {name = "Kondal Huntsworn", subname = "Skinning Trainer"}
 MultiLanguageNpcData['nl'][249901] = {name = "Namha Moonwater", subname = "Leerwerktrainer"}
+MultiLanguageNpcData['nl'][249902] = {name = "Tallcap the Truthspreader", subname = nil}
 MultiLanguageNpcData['nl'][249903] = {name = "Ranid GlowerGoud", subname = "Leerwerk en huidverzorgingsbenodigdheden"}
 MultiLanguageNpcData['nl'][249904] = {name = "Thanid GlowerGoud", subname = "Mail Armor Expert"}
 MultiLanguageNpcData['nl'][249905] = {name = "Didi de sleutel", subname = "Goblin Engineering Trainer"}
@@ -5375,6 +9025,7 @@ MultiLanguageNpcData['nl'][249913] = {name = "Serr'ah", subname = "Battle Pet Ma
 MultiLanguageNpcData['nl'][249914] = {name = "Tassia Whisperglen", subname = "Stabiele meester"}
 MultiLanguageNpcData['nl'][249915] = {name = "Tiffy Trapspring", subname = "Exotische huisdieren en accessoires"}
 MultiLanguageNpcData['nl'][249916] = {name = "Christi Stockton", subname = "Wijnverkoper"}
+MultiLanguageNpcData['nl'][249917] = {name = "Havazza", subname = nil}
 MultiLanguageNpcData['nl'][249918] = {name = "Archmage Tenaj", subname = nil}
 MultiLanguageNpcData['nl'][249919] = {name = "Darthalia Ebonscorch", subname = nil}
 MultiLanguageNpcData['nl'][249920] = {name = "Mei Francis", subname = "Exotische bergen"}
@@ -5392,6 +9043,7 @@ MultiLanguageNpcData['nl'][249931] = {name = "Mona Everspring", subname = nil}
 MultiLanguageNpcData['nl'][249932] = {name = "Whirt the Alwetend", subname = nil}
 MultiLanguageNpcData['nl'][249933] = {name = "Ainderu Summerleaf", subname = "Trainer op maat"}
 MultiLanguageNpcData['nl'][249934] = {name = "Lalla Brightweave", subname = "Op maat gesneden leveringen"}
+MultiLanguageNpcData['nl'][249935] = {name = "Lanlae Noxa", subname = nil}
 MultiLanguageNpcData['nl'][249936] = {name = "Tanithria", subname = "Trainer op maat"}
 MultiLanguageNpcData['nl'][249937] = {name = "Deucus Valdera", subname = "Alchemietrainer"}
 MultiLanguageNpcData['nl'][249939] = {name = "Linzy Blackbolt", subname = "Alchemietrainer"}
@@ -5413,6 +9065,17 @@ MultiLanguageNpcData['nl'][249955] = {name = "Norvin Alderman", subname = "mante
 MultiLanguageNpcData['nl'][249956] = {name = "Paldesse", subname = "Kleding Armor Merchant"}
 MultiLanguageNpcData['nl'][249957] = {name = "Richard Hatstock", subname = "Haberdasher"}
 MultiLanguageNpcData['nl'][249958] = {name = "Salan Sunthread", subname = "Clothier"}
+MultiLanguageNpcData['nl'][249959] = {name = "Arcane Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][249960] = {name = "Doel van de boot branden", subname = nil}
+MultiLanguageNpcData['nl'][249961] = {name = "Vracht 1 Doel", subname = nil}
+MultiLanguageNpcData['nl'][249962] = {name = "Koningin Lashtongue", subname = nil}
+MultiLanguageNpcData['nl'][249963] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249965] = {name = "Vilebranch Stalker", subname = nil}
+MultiLanguageNpcData['nl'][249969] = {name = "Bolt of Glittering Chiffon", subname = nil}
+MultiLanguageNpcData['nl'][249970] = {name = "Kerntoegangsvermogen", subname = nil}
+MultiLanguageNpcData['nl'][249971] = {name = "Jin'zin", subname = nil}
+MultiLanguageNpcData['nl'][249972] = {name = "Bolt of Plush Velour", subname = nil}
+MultiLanguageNpcData['nl'][249973] = {name = "Doos met soeramar sequins", subname = nil}
 MultiLanguageNpcData['nl'][249975] = {name = "Kleine noodwaarschuwingslamp", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249976] = {name = "Bolt-stoel", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249977] = {name = "Mechagon Eyelight Lamp", subname = "Beschikbaar voor Aankoop bij Leverancier"}
@@ -5425,6 +9088,23 @@ MultiLanguageNpcData['nl'][249983] = {name = "Gnomish Tesla Coil", subname = "Be
 MultiLanguageNpcData['nl'][249984] = {name = "Gnomeregan Recyli-Kiln", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249985] = {name = "Geautomatiseerde Gnomeregan Guardian", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][249986] = {name = "Gnomish T.O.O.L.B.O.X.", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][249987] = {name = "Smiffin' Sam", subname = nil}
+MultiLanguageNpcData['nl'][249988] = {name = "Kill Credit: Smiffin' Sam's Hammer Destroyed (ZAF)", subname = nil}
+MultiLanguageNpcData['nl'][249989] = {name = "Kill Credit: vijanden in Town Slain [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][249990] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][249991] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][249992] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][249993] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][249994] = {name = "Riftwalker Dellyn", subname = nil}
+MultiLanguageNpcData['nl'][249995] = {name = "Riftwalker Soran", subname = nil}
+MultiLanguageNpcData['nl'][249996] = {name = "Teely", subname = nil}
+MultiLanguageNpcData['nl'][249997] = {name = "Chlorokyll", subname = nil}
+MultiLanguageNpcData['nl'][249998] = {name = "Voidlight Everdawn", subname = nil}
+MultiLanguageNpcData['nl'][249999] = {name = "Bloedridder Shan", subname = nil}
+MultiLanguageNpcData['nl'][250000] = {name = "Kill Credit: Vernietig Banner", subname = nil}
+MultiLanguageNpcData['nl'][250001] = {name = "Kill Credit: Destroy Crate", subname = nil}
+MultiLanguageNpcData['nl'][250002] = {name = "Kill Credit: Groot boek vernietigen", subname = nil}
+MultiLanguageNpcData['nl'][250003] = {name = "Kill Credit: Vernietig wapen Rack", subname = nil}
 MultiLanguageNpcData['nl'][250004] = {name = "Paarse Zangarmarsh-boom", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250005] = {name = "Groene Zangarmarsh-boom", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250006] = {name = "Blauwe Zangarmarsh-boom", subname = "Beschikbaar voor Aankoop bij Leverancier"}
@@ -5435,43 +9115,309 @@ MultiLanguageNpcData['nl'][250010] = {name = "Grote Sporeggar Spore", subname = 
 MultiLanguageNpcData['nl'][250011] = {name = "Geel sporenlicht", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250012] = {name = "Zangarshroompatch", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250013] = {name = "Zangarshroom pulseren", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250014] = {name = "Jon Blacksmith", subname = nil}
 MultiLanguageNpcData['nl'][250015] = {name = "Sturdy Zangarshelf", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250016] = {name = "Gloeiende Zangarhroom Cup", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250017] = {name = "Gloeiende Zangarshroom Bowl", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250018] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][250019] = {name = "Kleine Zangarshroom Patch", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250020] = {name = "Gloeiende verdovende Zangarmarsh boom", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250021] = {name = "Verdorven Zangarmarsh-boom", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250022] = {name = "Oranje spotlicht", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250024] = {name = "Lichte nibbler", subname = nil}
+MultiLanguageNpcData['nl'][250025] = {name = "Gorged Lightscale", subname = nil}
+MultiLanguageNpcData['nl'][250026] = {name = "Arcane Manathirster", subname = nil}
+MultiLanguageNpcData['nl'][250028] = {name = "Mana Thirster", subname = nil}
+MultiLanguageNpcData['nl'][250029] = {name = "Bloodfeather Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250030] = {name = "Ghostfeather Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250031] = {name = "Crimson Bloodfeather", subname = nil}
+MultiLanguageNpcData['nl'][250032] = {name = "Ghostfeather Alpha", subname = nil}
+MultiLanguageNpcData['nl'][250033] = {name = "Springpaw Lynx", subname = nil}
+MultiLanguageNpcData['nl'][250035] = {name = "Ghostclaw Lynx", subname = nil}
+MultiLanguageNpcData['nl'][250037] = {name = "Springclaw Elder", subname = nil}
+MultiLanguageNpcData['nl'][250038] = {name = "Ghostclaw Elder", subname = nil}
+MultiLanguageNpcData['nl'][250039] = {name = "Jonge Springpaw", subname = nil}
+MultiLanguageNpcData['nl'][250040] = {name = "Juveniele Ghostclaw", subname = nil}
+MultiLanguageNpcData['nl'][250041] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][250042] = {name = "Briljante Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][250043] = {name = "Eversong Mauler", subname = nil}
+MultiLanguageNpcData['nl'][250044] = {name = "Rageclaw Matriarch", subname = nil}
+MultiLanguageNpcData['nl'][250045] = {name = "Duskleg Lurker", subname = nil}
+MultiLanguageNpcData['nl'][250046] = {name = "Duskling Skitterer", subname = nil}
+MultiLanguageNpcData['nl'][250047] = {name = "Ghostwing Bat", subname = nil}
+MultiLanguageNpcData['nl'][250048] = {name = "Ghostwing Screecher", subname = nil}
+MultiLanguageNpcData['nl'][250049] = {name = "Giant Duskwing", subname = nil}
+MultiLanguageNpcData['nl'][250050] = {name = "Levend Springwood", subname = nil}
+MultiLanguageNpcData['nl'][250051] = {name = "Rivier Hopper", subname = nil}
 MultiLanguageNpcData['nl'][250052] = {name = "Sturdy Zangarshelf", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250053] = {name = "Toxic Dartling", subname = nil}
+MultiLanguageNpcData['nl'][250054] = {name = "Softpaw Cub", subname = nil}
+MultiLanguageNpcData['nl'][250055] = {name = "Mountain Rocktalon", subname = nil}
+MultiLanguageNpcData['nl'][250056] = {name = "Rocktalon Scavenger", subname = nil}
+MultiLanguageNpcData['nl'][250057] = {name = "Bladmaaier", subname = nil}
+MultiLanguageNpcData['nl'][250058] = {name = "Roving Springrunner", subname = nil}
+MultiLanguageNpcData['nl'][250059] = {name = "Jon Blacksmith", subname = "The Blazing"}
+MultiLanguageNpcData['nl'][250060] = {name = "Zeejuweel", subname = nil}
+MultiLanguageNpcData['nl'][250061] = {name = "Getijdeschaalkrab", subname = nil}
+MultiLanguageNpcData['nl'][250062] = {name = "Bom smokkelaars doden krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250064] = {name = "Scout Faindel", subname = nil}
+MultiLanguageNpcData['nl'][250065] = {name = "Invis konijn voor spelling gericht op [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250067] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250068] = {name = "Loa Speaker Tobui", subname = "Devout van Halazzi"}
+MultiLanguageNpcData['nl'][250086] = {name = "Stumpy", subname = "Terreur van Harandar"}
+MultiLanguageNpcData['nl'][250087] = {name = "Stalking Harrower", subname = nil}
+MultiLanguageNpcData['nl'][250088] = {name = "Darkmender Deremius Duskwalk", subname = nil}
+MultiLanguageNpcData['nl'][250090] = {name = "Starscribe Lucidsong", subname = nil}
+MultiLanguageNpcData['nl'][250091] = {name = "Juveniele Swiftclaw", subname = nil}
+MultiLanguageNpcData['nl'][250092] = {name = "Amani Lynx", subname = nil}
+MultiLanguageNpcData['nl'][250093] = {name = "Swiftclaw Elder", subname = nil}
+MultiLanguageNpcData['nl'][250094] = {name = "Amani Swiftclaw", subname = nil}
+MultiLanguageNpcData['nl'][250095] = {name = "Skyscribe Meridia", subname = nil}
+MultiLanguageNpcData['nl'][250096] = {name = "Meester Shadesmith Voidtear", subname = "Algemene goederen en reparaties"}
+MultiLanguageNpcData['nl'][250097] = {name = "Bear Cub", subname = nil}
+MultiLanguageNpcData['nl'][250098] = {name = "Veinripper Matriarch", subname = nil}
+MultiLanguageNpcData['nl'][250099] = {name = "Amani Mauler", subname = nil}
+MultiLanguageNpcData['nl'][250100] = {name = "Kapara Pup", subname = nil}
+MultiLanguageNpcData['nl'][250101] = {name = "Kapara", subname = nil}
+MultiLanguageNpcData['nl'][250102] = {name = "Pesterende zwerm", subname = nil}
+MultiLanguageNpcData['nl'][250103] = {name = "Zeekrab", subname = nil}
+MultiLanguageNpcData['nl'][250104] = {name = "Deepcrawlerkrab", subname = nil}
+MultiLanguageNpcData['nl'][250105] = {name = "Nibbler-krab", subname = nil}
+MultiLanguageNpcData['nl'][250107] = {name = "Ulcerated Rotclaw", subname = nil}
+MultiLanguageNpcData['nl'][250108] = {name = "Rotclaw Mauler", subname = nil}
+MultiLanguageNpcData['nl'][250109] = {name = "Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250110] = {name = "Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250111] = {name = "Mistveil Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250112] = {name = "Mistveil Alpha", subname = nil}
+MultiLanguageNpcData['nl'][250113] = {name = "Voltaïsche aal", subname = nil}
+MultiLanguageNpcData['nl'][250114] = {name = "Gegalvaniseerde aal", subname = nil}
+MultiLanguageNpcData['nl'][250115] = {name = "Elektrische aal", subname = nil}
+MultiLanguageNpcData['nl'][250116] = {name = "Mudwallow Boar", subname = nil}
+MultiLanguageNpcData['nl'][250117] = {name = "Tusksplitter-zwijn", subname = nil}
+MultiLanguageNpcData['nl'][250118] = {name = "Riptalon-viscerator", subname = nil}
+MultiLanguageNpcData['nl'][250119] = {name = "Reuzenarend", subname = nil}
+MultiLanguageNpcData['nl'][250120] = {name = "Keen-Eye Riptalon", subname = nil}
+MultiLanguageNpcData['nl'][250121] = {name = "Reuzenarend", subname = nil}
+MultiLanguageNpcData['nl'][250122] = {name = "Negentropiste Voidtear", subname = "Algemene goederen en reparaties"}
+MultiLanguageNpcData['nl'][250123] = {name = "Chitterfang Scurrier", subname = nil}
+MultiLanguageNpcData['nl'][250124] = {name = "Plump Chitterfang", subname = nil}
+MultiLanguageNpcData['nl'][250125] = {name = "Opruimen van Chitterfang", subname = nil}
+MultiLanguageNpcData['nl'][250126] = {name = "Furious Mudcoat", subname = nil}
+MultiLanguageNpcData['nl'][250127] = {name = "Mudcoat Borer", subname = nil}
+MultiLanguageNpcData['nl'][250128] = {name = "Buzzing Mudcoat", subname = nil}
+MultiLanguageNpcData['nl'][250129] = {name = "Riftwalker Soran", subname = nil}
+MultiLanguageNpcData['nl'][250130] = {name = "Leeuwenvis", subname = nil}
+MultiLanguageNpcData['nl'][250131] = {name = "Groepsvissen", subname = nil}
+MultiLanguageNpcData['nl'][250132] = {name = "Groepsvissen", subname = nil}
+MultiLanguageNpcData['nl'][250133] = {name = "Riftwalker Dellyn", subname = nil}
+MultiLanguageNpcData['nl'][250134] = {name = "Mammoth Calf", subname = nil}
+MultiLanguageNpcData['nl'][250135] = {name = "Mammoet", subname = nil}
+MultiLanguageNpcData['nl'][250136] = {name = "Mammoet", subname = nil}
+MultiLanguageNpcData['nl'][250137] = {name = "Territoriaal Pango", subname = nil}
+MultiLanguageNpcData['nl'][250138] = {name = "Pango Behemoth", subname = nil}
+MultiLanguageNpcData['nl'][250139] = {name = "Jonge Pango", subname = nil}
+MultiLanguageNpcData['nl'][250140] = {name = "Pango foerageren", subname = nil}
+MultiLanguageNpcData['nl'][250141] = {name = "Swamp Leaper", subname = nil}
+MultiLanguageNpcData['nl'][250142] = {name = "Giftige hop", subname = nil}
+MultiLanguageNpcData['nl'][250143] = {name = "Bog Hopper", subname = nil}
+MultiLanguageNpcData['nl'][250144] = {name = "Zaagtandhaai", subname = nil}
+MultiLanguageNpcData['nl'][250145] = {name = "Remora-vis", subname = nil}
+MultiLanguageNpcData['nl'][250146] = {name = "Remora-vis", subname = nil}
+MultiLanguageNpcData['nl'][250147] = {name = "Pufferfish", subname = nil}
+MultiLanguageNpcData['nl'][250148] = {name = "Pufferfish", subname = nil}
+MultiLanguageNpcData['nl'][250149] = {name = "Zeemeeuw", subname = nil}
+MultiLanguageNpcData['nl'][250150] = {name = "Terrorspine Amazard", subname = nil}
+MultiLanguageNpcData['nl'][250151] = {name = "Amazard Chomper", subname = nil}
+MultiLanguageNpcData['nl'][250152] = {name = "Dreadmaw Amazard", subname = nil}
+MultiLanguageNpcData['nl'][250153] = {name = "Raveneuze mukleech", subname = nil}
+MultiLanguageNpcData['nl'][250154] = {name = "Mukleech Bloodletter", subname = nil}
+MultiLanguageNpcData['nl'][250155] = {name = "Boggorm, opgekomen", subname = nil}
+MultiLanguageNpcData['nl'][250156] = {name = "Wriggling Boggorm", subname = nil}
+MultiLanguageNpcData['nl'][250157] = {name = "Boggorm Corroder", subname = nil}
+MultiLanguageNpcData['nl'][250158] = {name = "Acrid Boggorm", subname = nil}
+MultiLanguageNpcData['nl'][250160] = {name = "Threshadon Calf", subname = nil}
+MultiLanguageNpcData['nl'][250161] = {name = "Threshadon Apex", subname = nil}
+MultiLanguageNpcData['nl'][250162] = {name = "Threshadon", subname = nil}
+MultiLanguageNpcData['nl'][250163] = {name = "Spikeshell Snapper", subname = nil}
+MultiLanguageNpcData['nl'][250164] = {name = "Gemiddelde Spikeshell", subname = nil}
+MultiLanguageNpcData['nl'][250165] = {name = "Getemperde spikeshell", subname = nil}
+MultiLanguageNpcData['nl'][250166] = {name = "Sporewake Skimmer", subname = nil}
+MultiLanguageNpcData['nl'][250167] = {name = "Skimmer Nymet", subname = nil}
+MultiLanguageNpcData['nl'][250168] = {name = "Latticewing Sporeglider", subname = nil}
+MultiLanguageNpcData['nl'][250169] = {name = "Thornhook Saptor", subname = nil}
+MultiLanguageNpcData['nl'][250170] = {name = "Splintclaw Saptor", subname = nil}
+MultiLanguageNpcData['nl'][250171] = {name = "Tideborne Freighter", subname = nil}
+MultiLanguageNpcData['nl'][250172] = {name = "Tideborne Smokkelaar", subname = nil}
+MultiLanguageNpcData['nl'][250173] = {name = "Tideborne Freight Runner", subname = nil}
+MultiLanguageNpcData['nl'][250174] = {name = "FX - Helpers - Dawnwell - 01 - Pool", subname = nil}
+MultiLanguageNpcData['nl'][250175] = {name = "Thornhook Hunter", subname = nil}
+MultiLanguageNpcData['nl'][250176] = {name = "Splintclaw Ravager", subname = nil}
+MultiLanguageNpcData['nl'][250177] = {name = "Tideborne Deckwalker", subname = nil}
+MultiLanguageNpcData['nl'][250178] = {name = "Barker voor goederenvervoer", subname = nil}
+MultiLanguageNpcData['nl'][250179] = {name = "Kill Credit: Lor'themar Gevonden", subname = nil}
+MultiLanguageNpcData['nl'][250180] = {name = "Serrasa", subname = nil}
+MultiLanguageNpcData['nl'][250181] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
+MultiLanguageNpcData['nl'][250182] = {name = "Sporecloud Drifter", subname = nil}
+MultiLanguageNpcData['nl'][250183] = {name = "Opgeblazen Drifter", subname = nil}
+MultiLanguageNpcData['nl'][250184] = {name = "Doel van de vlammende boot", subname = nil}
+MultiLanguageNpcData['nl'][250185] = {name = "Bulb-eye Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][250186] = {name = "Valeera Sanguinar", subname = nil}
+MultiLanguageNpcData['nl'][250188] = {name = "Mana-monitor", subname = nil}
+MultiLanguageNpcData['nl'][250189] = {name = "Geïrriteerde edelen", subname = nil}
+MultiLanguageNpcData['nl'][250190] = {name = "Geïrriteerde edelen", subname = nil}
+MultiLanguageNpcData['nl'][250193] = {name = "Iridescent Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][250194] = {name = "Lightcursed Lasher", subname = nil}
+MultiLanguageNpcData['nl'][250195] = {name = "Rustig Springrunner", subname = nil}
+MultiLanguageNpcData['nl'][250196] = {name = "Koning Mrl-Mrgl", subname = "\"Loa of Murlocs\""}
+MultiLanguageNpcData['nl'][250197] = {name = "Assistent Grgl-Grgl", subname = "Priesteres van de \"Loa of Murlocs\""}
+MultiLanguageNpcData['nl'][250198] = {name = "Mana Wyrmin", subname = nil}
+MultiLanguageNpcData['nl'][250199] = {name = "Hawkstrider Winglet", subname = nil}
+MultiLanguageNpcData['nl'][250200] = {name = "Playful Dragonhawkling", subname = nil}
+MultiLanguageNpcData['nl'][250201] = {name = "Anodrius", subname = nil}
+MultiLanguageNpcData['nl'][250202] = {name = "Pasgeboren Potadpole", subname = nil}
 MultiLanguageNpcData['nl'][250203] = {name = "Questzertauren", subname = "Wayfinder voor huisvesting"}
+MultiLanguageNpcData['nl'][250204] = {name = "Lightwalker", subname = "\"Loa of the Deep\""}
+MultiLanguageNpcData['nl'][250205] = {name = "Rustig veulen", subname = nil}
+MultiLanguageNpcData['nl'][250206] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][250207] = {name = "Murloc Worshipper", subname = nil}
+MultiLanguageNpcData['nl'][250208] = {name = "Murloc Protector", subname = nil}
+MultiLanguageNpcData['nl'][250209] = {name = "Thaldraszus burger", subname = nil}
+MultiLanguageNpcData['nl'][250211] = {name = "Thaldraszus burger", subname = nil}
+MultiLanguageNpcData['nl'][250212] = {name = "Rustig Springrunner", subname = nil}
 MultiLanguageNpcData['nl'][250215] = {name = "Nether Phantom", subname = nil}
 MultiLanguageNpcData['nl'][250216] = {name = "Nether Phantom", subname = nil}
+MultiLanguageNpcData['nl'][250217] = {name = "Sessile.", subname = nil}
+MultiLanguageNpcData['nl'][250218] = {name = "Sessile.", subname = nil}
 MultiLanguageNpcData['nl'][250220] = {name = "Dungeoneer's Training Dummy", subname = "Cleave"}
 MultiLanguageNpcData['nl'][250221] = {name = "Dungeoneer's Training Dummy", subname = "Tanken"}
 MultiLanguageNpcData['nl'][250222] = {name = "Dungeoneer's Training Dummy", subname = "Genezing"}
 MultiLanguageNpcData['nl'][250223] = {name = "Dungeoneer's Training Dummy", subname = "Schade"}
+MultiLanguageNpcData['nl'][250225] = {name = "Slavende Ghoul", subname = nil}
+MultiLanguageNpcData['nl'][250226] = {name = "Mindrot", subname = nil}
+MultiLanguageNpcData['nl'][250227] = {name = "Tuin Lynx", subname = nil}
+MultiLanguageNpcData['nl'][250228] = {name = "Carefree Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250229] = {name = "Brightwing Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][250230] = {name = "Recruit persoon Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250231] = {name = "Dracaena", subname = nil}
+MultiLanguageNpcData['nl'][250232] = {name = "Bunny Stalker", subname = nil}
+MultiLanguageNpcData['nl'][250233] = {name = "Hulp", subname = nil}
+MultiLanguageNpcData['nl'][250234] = {name = "Bunny Stalker", subname = nil}
+MultiLanguageNpcData['nl'][250235] = {name = "Gesneden Domanaar", subname = nil}
+MultiLanguageNpcData['nl'][250236] = {name = "Prospectief student", subname = nil}
+MultiLanguageNpcData['nl'][250237] = {name = "Deepfin Snatcher", subname = nil}
+MultiLanguageNpcData['nl'][250239] = {name = "Deepfin Invader", subname = nil}
 MultiLanguageNpcData['nl'][250240] = {name = "Nachtmerrie Lantaarn", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250241] = {name = "Hang Nachtmerrie Lantaarn", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250242] = {name = "Darkcaller Lysaille", subname = nil}
 MultiLanguageNpcData['nl'][250243] = {name = "Timewarped Essence of Wyrmtongue", subname = nil}
 MultiLanguageNpcData['nl'][250244] = {name = "Nightpetal Blooms", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250245] = {name = "Ziende voidripper", subname = nil}
+MultiLanguageNpcData['nl'][250246] = {name = "Boomtop", subname = nil}
+MultiLanguageNpcData['nl'][250247] = {name = "Heer Antenorian", subname = nil}
+MultiLanguageNpcData['nl'][250253] = {name = "Docile Mana Wyrm", subname = nil}
 MultiLanguageNpcData['nl'][250254] = {name = "Timewarped Wyrmtongue", subname = nil}
+MultiLanguageNpcData['nl'][250255] = {name = "Angst Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][250256] = {name = "Arcane Construct", subname = nil}
+MultiLanguageNpcData['nl'][250258] = {name = "Silvermoon Bewoner", subname = nil}
+MultiLanguageNpcData['nl'][250261] = {name = "Anduin Wrynn", subname = nil}
+MultiLanguageNpcData['nl'][250263] = {name = "12.0 - DawnWell - FX - Chicken - City Glow - EZ", subname = nil}
+MultiLanguageNpcData['nl'][250264] = {name = "Muckeater Fly", subname = nil}
+MultiLanguageNpcData['nl'][250265] = {name = "Lothraxion", subname = nil}
+MultiLanguageNpcData['nl'][250266] = {name = "Leegte Focus", subname = nil}
 MultiLanguageNpcData['nl'][250271] = {name = "Dwalende pulsar", subname = nil}
+MultiLanguageNpcData['nl'][250272] = {name = "Kapitein Solara.", subname = nil}
+MultiLanguageNpcData['nl'][250273] = {name = "Cascade Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][250274] = {name = "Rutaani-wortelbinder", subname = nil}
+MultiLanguageNpcData['nl'][250275] = {name = "Antenorian's Devoted", subname = nil}
 MultiLanguageNpcData['nl'][250276] = {name = "Mote of Bronze", subname = nil}
+MultiLanguageNpcData['nl'][250277] = {name = "Cascades Firefly", subname = nil}
+MultiLanguageNpcData['nl'][250278] = {name = "Goldenmist Guard", subname = nil}
+MultiLanguageNpcData['nl'][250279] = {name = "Verspreide Leegte", subname = nil}
+MultiLanguageNpcData['nl'][250280] = {name = "Cascades Firefly", subname = nil}
+MultiLanguageNpcData['nl'][250281] = {name = "Shado-Pan Veteranen", subname = nil}
+MultiLanguageNpcData['nl'][250284] = {name = "Silvermoon Bewoner", subname = nil}
 MultiLanguageNpcData['nl'][250285] = {name = "Spin", subname = nil}
+MultiLanguageNpcData['nl'][250286] = {name = "Deepfin Necromancer", subname = nil}
+MultiLanguageNpcData['nl'][250288] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
+MultiLanguageNpcData['nl'][250289] = {name = "Demonische tirant", subname = nil}
+MultiLanguageNpcData['nl'][250291] = {name = "Ranger Krenn'an", subname = nil}
+MultiLanguageNpcData['nl'][250292] = {name = "Assistent Grgl-Grgl", subname = "Priesteres van de \"Loa of Murlocs\""}
+MultiLanguageNpcData['nl'][250293] = {name = "Vluchtige bewaker", subname = nil}
+MultiLanguageNpcData['nl'][250294] = {name = "Rutaani Creeper", subname = nil}
+MultiLanguageNpcData['nl'][250295] = {name = "Blood Elf Spy", subname = nil}
+MultiLanguageNpcData['nl'][250297] = {name = "Kind van Halazzi", subname = nil}
+MultiLanguageNpcData['nl'][250298] = {name = "Numia Golden", subname = "Assistent Apotheker"}
 MultiLanguageNpcData['nl'][250300] = {name = "Lamppost ontspringen", subname = "Beschikbaar voor Aankoop bij Leverancier"}
-MultiLanguageNpcData['nl'][250301] = {name = "Val'Sharah Droomvanger", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250301] = {name = "Val'sharah Droom Catcher", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250302] = {name = "Nachtzwam", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250303] = {name = "Nachtmerriegras", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250304] = {name = "Rood bereiken Ivy", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250305] = {name = "Vallende rode bladeren", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250306] = {name = "Grateful Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][250307] = {name = "Brightwing Conservator", subname = nil}
 MultiLanguageNpcData['nl'][250308] = {name = "Huilende Oranje Grove Bloem", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250309] = {name = "Huilende Blauwe Grove Bloem", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250310] = {name = "Decorated Kaldorei Table", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250311] = {name = "Ghostly Kaldorei-kaars", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250312] = {name = "Ghostly Kaldorei-kaars", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250314] = {name = "12.0 - Darkwell - FX - Kip - Pool", subname = nil}
 MultiLanguageNpcData['nl'][250315] = {name = "Dark Romance Novels", subname = "Beschikbaar voor Aankoop bij Leverancier"}
+MultiLanguageNpcData['nl'][250316] = {name = "FX - Helpers - Darkwell - 02 - Beam - Middle - EZ", subname = nil}
+MultiLanguageNpcData['nl'][250317] = {name = "Oro'ohna", subname = nil}
+MultiLanguageNpcData['nl'][250318] = {name = "Mana Usher", subname = nil}
+MultiLanguageNpcData['nl'][250319] = {name = "Void Barricade", subname = nil}
 MultiLanguageNpcData['nl'][250320] = {name = "Artificier Xy'desh", subname = "Item upgrades"}
+MultiLanguageNpcData['nl'][250321] = {name = "Pterrock", subname = nil}
+MultiLanguageNpcData['nl'][250324] = {name = "Rootcoil Hydra", subname = nil}
+MultiLanguageNpcData['nl'][250325] = {name = "Ziadan", subname = "Domanaar of Hate"}
+MultiLanguageNpcData['nl'][250326] = {name = "Vivious", subname = "Domanaar van verdriet"}
+MultiLanguageNpcData['nl'][250327] = {name = "Onderborstel Grovecrawler", subname = nil}
+MultiLanguageNpcData['nl'][250328] = {name = "Spookwapen", subname = nil}
+MultiLanguageNpcData['nl'][250329] = {name = "Blightcap Lashroom", subname = nil}
+MultiLanguageNpcData['nl'][250330] = {name = "Glammering Darter", subname = nil}
+MultiLanguageNpcData['nl'][250331] = {name = "Chloorceros", subname = nil}
+MultiLanguageNpcData['nl'][250332] = {name = "Bull Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][250333] = {name = "Stream Skipper", subname = nil}
+MultiLanguageNpcData['nl'][250334] = {name = "Gloompetal Lasher", subname = nil}
+MultiLanguageNpcData['nl'][250335] = {name = "Onderwortelkever", subname = nil}
+MultiLanguageNpcData['nl'][250336] = {name = "Creeping Riftooze", subname = nil}
+MultiLanguageNpcData['nl'][250338] = {name = "Mycellian Stalker", subname = nil}
+MultiLanguageNpcData['nl'][250339] = {name = "Moscoilslak", subname = nil}
+MultiLanguageNpcData['nl'][250340] = {name = "Licht vervloekte Saptor", subname = nil}
+MultiLanguageNpcData['nl'][250341] = {name = "Lightcursed Crawler", subname = nil}
+MultiLanguageNpcData['nl'][250342] = {name = "Licht verlicht Vastworteling", subname = nil}
+MultiLanguageNpcData['nl'][250343] = {name = "Lichte Thornmaw", subname = nil}
+MultiLanguageNpcData['nl'][250344] = {name = "Juveniele Grovecrawler", subname = nil}
+MultiLanguageNpcData['nl'][250347] = {name = "Ahl'ua'huhi", subname = nil}
+MultiLanguageNpcData['nl'][250349] = {name = "Beroepsknooppunt", subname = nil}
+MultiLanguageNpcData['nl'][250350] = {name = "Brightwing Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][250351] = {name = "Antenoriaans volgen", subname = nil}
+MultiLanguageNpcData['nl'][250353] = {name = "Verloren huisdier", subname = nil}
+MultiLanguageNpcData['nl'][250357] = {name = "Shadowguard Adept", subname = nil}
+MultiLanguageNpcData['nl'][250358] = {name = "Annulus de Worldshaker", subname = nil}
+MultiLanguageNpcData['nl'][250360] = {name = "Havazza", subname = nil}
+MultiLanguageNpcData['nl'][250361] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250362] = {name = "Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][250363] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][250364] = {name = "Ranger Vedoran", subname = nil}
+MultiLanguageNpcData['nl'][250365] = {name = "Ranger Krenn'an", subname = nil}
+MultiLanguageNpcData['nl'][250366] = {name = "Consumptor branden", subname = nil}
+MultiLanguageNpcData['nl'][250368] = {name = "L'ura", subname = nil}
+MultiLanguageNpcData['nl'][250370] = {name = "Verworpen Duelist", subname = nil}
+MultiLanguageNpcData['nl'][250371] = {name = "Goldenmist Lightkeeper", subname = nil}
+MultiLanguageNpcData['nl'][250372] = {name = "Summoner Ravinia", subname = "Twilight's Blade"}
+MultiLanguageNpcData['nl'][250373] = {name = "Spectrale illusie", subname = nil}
+MultiLanguageNpcData['nl'][250376] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250377] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250381] = {name = "Fractuur", subname = nil}
 MultiLanguageNpcData['nl'][250382] = {name = "Vereesa Windrunner", subname = "Ranger-generaal van het Zilver Covenant"}
+MultiLanguageNpcData['nl'][250383] = {name = "Schaduwwacht onderzoeker", subname = nil}
+MultiLanguageNpcData['nl'][250385] = {name = "Shadethicket Wood Shaper", subname = nil}
+MultiLanguageNpcData['nl'][250386] = {name = "Brightwing Vlinder", subname = nil}
+MultiLanguageNpcData['nl'][250387] = {name = "Numia Golden", subname = "Assistent Apothecarist"}
+MultiLanguageNpcData['nl'][250388] = {name = "Hathvelion Sungaze", subname = "Ranger kapitein"}
+MultiLanguageNpcData['nl'][250389] = {name = "Ranger Krenn'an", subname = nil}
+MultiLanguageNpcData['nl'][250390] = {name = "Ranger Vedoran", subname = nil}
 MultiLanguageNpcData['nl'][250391] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['nl'][250392] = {name = "Buurt Kind", subname = nil}
 MultiLanguageNpcData['nl'][250393] = {name = "Lothraxion (IGC)", subname = "Hoge Commandant"}
@@ -5480,6 +9426,23 @@ MultiLanguageNpcData['nl'][250395] = {name = "Grootmeester Rommath", subname = n
 MultiLanguageNpcData['nl'][250396] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][250397] = {name = "Lor'themar Theron", subname = "Regent Lord of Quel'Thalas"}
 MultiLanguageNpcData['nl'][250398] = {name = "Geplaagde burger", subname = nil}
+MultiLanguageNpcData['nl'][250399] = {name = "Kurdran Wildhammer", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][250400] = {name = "Tehd Shoemaker", subname = nil}
+MultiLanguageNpcData['nl'][250401] = {name = "Marius Felbane", subname = nil}
+MultiLanguageNpcData['nl'][250402] = {name = "Gidwin Goldbraids", subname = nil}
+MultiLanguageNpcData['nl'][250403] = {name = "Tarenar Sunstrike", subname = nil}
+MultiLanguageNpcData['nl'][250404] = {name = "Archmage Timar", subname = nil}
+MultiLanguageNpcData['nl'][250405] = {name = "Thisalee Crow", subname = nil}
+MultiLanguageNpcData['nl'][250406] = {name = "Zen'tabra", subname = nil}
+MultiLanguageNpcData['nl'][250407] = {name = "Taoshi", subname = nil}
+MultiLanguageNpcData['nl'][250408] = {name = "Kelsey Steelspark", subname = "Gnomeregan Covert Ops"}
+MultiLanguageNpcData['nl'][250409] = {name = "Gamon", subname = "Held van Orgrimmar"}
+MultiLanguageNpcData['nl'][250410] = {name = "Gorgan", subname = "Warsong Clan"}
+MultiLanguageNpcData['nl'][250411] = {name = "Nisha", subname = nil}
+MultiLanguageNpcData['nl'][250412] = {name = "Cyrus Crestfall", subname = nil}
+MultiLanguageNpcData['nl'][250413] = {name = "Lord Darius Crowley", subname = nil}
+MultiLanguageNpcData['nl'][250414] = {name = "Eitrigg", subname = "Zonen van Lothar"}
+MultiLanguageNpcData['nl'][250415] = {name = "Danath Trollbane", subname = "Zonen van Lothar"}
 MultiLanguageNpcData['nl'][250417] = {name = "Voidwarden", subname = nil}
 MultiLanguageNpcData['nl'][250418] = {name = "Verboden vork", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250419] = {name = "Draconic Trader's Cart", subname = "Beschikbaar voor Aankoop bij Leverancier"}
@@ -5494,28 +9457,140 @@ MultiLanguageNpcData['nl'][250427] = {name = "Dark Talon Pennant", subname = "Be
 MultiLanguageNpcData['nl'][250428] = {name = "War Creche Teaching Crystal", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250429] = {name = "Artisan's meetschalen", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][250430] = {name = "Bezoeker van Dracthyr", subname = nil}
+MultiLanguageNpcData['nl'][250431] = {name = "Kill Credit: AAL SaW [DNT]", subname = nil}
 MultiLanguageNpcData['nl'][250432] = {name = "Gier", subname = nil}
 MultiLanguageNpcData['nl'][250433] = {name = "Gier", subname = nil}
+MultiLanguageNpcData['nl'][250434] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][250436] = {name = "Loaknit Beast", subname = nil}
+MultiLanguageNpcData['nl'][250437] = {name = "Kill Credit: Tutorial - Q02 - Eerste Altar Deposit", subname = nil}
+MultiLanguageNpcData['nl'][250438] = {name = "Vivious", subname = nil}
+MultiLanguageNpcData['nl'][250439] = {name = "Ziadan", subname = nil}
+MultiLanguageNpcData['nl'][250443] = {name = "Instabiel Phantom", subname = nil}
+MultiLanguageNpcData['nl'][250444] = {name = "Bull Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][250445] = {name = "Wraakzuchtige Echo", subname = nil}
+MultiLanguageNpcData['nl'][250446] = {name = "Verleidelijke Echo", subname = nil}
+MultiLanguageNpcData['nl'][250449] = {name = "Loanite Shard", subname = nil}
 MultiLanguageNpcData['nl'][250450] = {name = "Fixer So'kir", subname = "Makelaar van Heroïsche Goederen"}
+MultiLanguageNpcData['nl'][250451] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][250452] = {name = "Passieve overvloedige strijder", subname = nil}
+MultiLanguageNpcData['nl'][250453] = {name = "Sierappelen", subname = nil}
 MultiLanguageNpcData['nl'][250454] = {name = "Fixer So'tho", subname = "Maker van mythische goederen"}
+MultiLanguageNpcData['nl'][250455] = {name = "Altaar van Overvloed", subname = nil}
+MultiLanguageNpcData['nl'][250456] = {name = "Mand van appels", subname = nil}
+MultiLanguageNpcData['nl'][250457] = {name = "Kill Credit: Tutorial - Q02 - Evenement voltooid", subname = nil}
 MultiLanguageNpcData['nl'][250458] = {name = "Kill Credit - Ritueel 3", subname = nil}
+MultiLanguageNpcData['nl'][250459] = {name = "Loanite Pebble", subname = nil}
+MultiLanguageNpcData['nl'][250460] = {name = "Loanite-knooppunt", subname = nil}
+MultiLanguageNpcData['nl'][250462] = {name = "Loanite Stone", subname = nil}
 MultiLanguageNpcData['nl'][250463] = {name = "Kill Credit - Ritueel 3", subname = nil}
+MultiLanguageNpcData['nl'][250465] = {name = "Altaar van Overvloed", subname = nil}
 MultiLanguageNpcData['nl'][250466] = {name = "Bloodhunter Fel Bat", subname = nil}
 MultiLanguageNpcData['nl'][250467] = {name = "Illidari Dreadstalker", subname = nil}
+MultiLanguageNpcData['nl'][250468] = {name = "De Duistere Aartsengel", subname = nil}
 MultiLanguageNpcData['nl'][250469] = {name = "Highland Elderhorn", subname = nil}
+MultiLanguageNpcData['nl'][250470] = {name = "Kill Credit: TUTORIAL - Fase 1 Voltooid", subname = nil}
+MultiLanguageNpcData['nl'][250471] = {name = "Kill Credit: TUTORIAL - Fase 2 Voltooid", subname = nil}
 MultiLanguageNpcData['nl'][250472] = {name = "Treetop Highmountain Eagle", subname = nil}
 MultiLanguageNpcData['nl'][250473] = {name = "Gloomdark Nachtmerrie", subname = nil}
+MultiLanguageNpcData['nl'][250474] = {name = "Sample verdedigingspositie", subname = nil}
 MultiLanguageNpcData['nl'][250475] = {name = "Gouden Sunrunner", subname = nil}
 MultiLanguageNpcData['nl'][250476] = {name = "Aquamarine Basilisk", subname = nil}
 MultiLanguageNpcData['nl'][250477] = {name = "Bloodhunter Fel Bat", subname = nil}
+MultiLanguageNpcData['nl'][250478] = {name = "The Looming Tempest", subname = nil}
+MultiLanguageNpcData['nl'][250481] = {name = "Prism beschermen", subname = nil}
+MultiLanguageNpcData['nl'][250482] = {name = "Beschermmatrix", subname = nil}
+MultiLanguageNpcData['nl'][250485] = {name = "Chloorceros", subname = nil}
+MultiLanguageNpcData['nl'][250487] = {name = "Locatie kalibreren", subname = nil}
+MultiLanguageNpcData['nl'][250489] = {name = "Voltaic Trigore", subname = nil}
+MultiLanguageNpcData['nl'][250490] = {name = "Wild Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][250491] = {name = "Voracious Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][250492] = {name = "Astalor Bloodsworn", subname = nil}
+MultiLanguageNpcData['nl'][250493] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][250495] = {name = "Barman Bob", subname = "Barkeeper"}
+MultiLanguageNpcData['nl'][250496] = {name = "Ghostclaw Lynx", subname = nil}
 MultiLanguageNpcData['nl'][250497] = {name = "EnThralled Sailor", subname = nil}
 MultiLanguageNpcData['nl'][250498] = {name = "Arcberry Manasaber", subname = nil}
+MultiLanguageNpcData['nl'][250499] = {name = "Raven", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][250501] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][250502] = {name = "Defensiepositie", subname = nil}
+MultiLanguageNpcData['nl'][250503] = {name = "Invasieve Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250504] = {name = "Roving Springrunner", subname = nil}
 MultiLanguageNpcData['nl'][250505] = {name = "Bonesteed of Plague", subname = nil}
+MultiLanguageNpcData['nl'][250506] = {name = "Silvermoon Academisch", subname = nil}
+MultiLanguageNpcData['nl'][250507] = {name = "Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250509] = {name = "Smeulende kever", subname = nil}
 MultiLanguageNpcData['nl'][250510] = {name = "Twilight Cultist", subname = nil}
+MultiLanguageNpcData['nl'][250511] = {name = "Innkeeper Farley", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250512] = {name = "Innkeeper Firebrew", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250513] = {name = "Innkeeper Saelienne", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250514] = {name = "Hands Springsprocket", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250515] = {name = "Verzorger Breel", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250516] = {name = "Gwen Armstead", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250517] = {name = "Silvermoon Bewoner", subname = nil}
+MultiLanguageNpcData['nl'][250518] = {name = "Tang the Fixer", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250519] = {name = "Innkeeper Gryshka", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250520] = {name = "Innkeeper Norman", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250521] = {name = "Herbergier Pala", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250522] = {name = "Sijambi", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250523] = {name = "Innkeeper Haelthol", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250524] = {name = "Tinza Silvermug", subname = "Barkeeper bezoeken"}
+MultiLanguageNpcData['nl'][250525] = {name = "Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][250526] = {name = "Runaway Spellbook", subname = nil}
+MultiLanguageNpcData['nl'][250527] = {name = "Void Crystal", subname = nil}
+MultiLanguageNpcData['nl'][250529] = {name = "Voidcythe", subname = nil}
+MultiLanguageNpcData['nl'][250530] = {name = "Voidcythe", subname = nil}
+MultiLanguageNpcData['nl'][250532] = {name = "Voidcrawler", subname = nil}
+MultiLanguageNpcData['nl'][250533] = {name = "Voidcrawler", subname = nil}
+MultiLanguageNpcData['nl'][250534] = {name = "Treasure Dundun", subname = nil}
+MultiLanguageNpcData['nl'][250535] = {name = "Menacing Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][250536] = {name = "Ultradon", subname = nil}
+MultiLanguageNpcData['nl'][250537] = {name = "Pustulehelm", subname = "Capwarden"}
+MultiLanguageNpcData['nl'][250540] = {name = "Op zoek naar Stormray", subname = nil}
+MultiLanguageNpcData['nl'][250542] = {name = "Op zoek naar Stormray", subname = nil}
+MultiLanguageNpcData['nl'][250543] = {name = "Op zoek naar Stormray", subname = nil}
+MultiLanguageNpcData['nl'][250544] = {name = "Spiteful Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][250545] = {name = "Stalking Shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][250546] = {name = "Venomous Nederlandwaspling", subname = nil}
+MultiLanguageNpcData['nl'][250547] = {name = "Blood Elf burger", subname = nil}
+MultiLanguageNpcData['nl'][250548] = {name = "Venomous Netherwasp", subname = nil}
+MultiLanguageNpcData['nl'][250549] = {name = "Venomous Netherwasp", subname = nil}
+MultiLanguageNpcData['nl'][250550] = {name = "Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][250551] = {name = "Roonek", subname = "Hoofd Grove"}
+MultiLanguageNpcData['nl'][250552] = {name = "Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][250553] = {name = "Klaxid", subname = nil}
+MultiLanguageNpcData['nl'][250554] = {name = "Kilivore", subname = nil}
+MultiLanguageNpcData['nl'][250555] = {name = "Kilivore", subname = nil}
+MultiLanguageNpcData['nl'][250556] = {name = "Karion", subname = nil}
+MultiLanguageNpcData['nl'][250557] = {name = "Karion", subname = nil}
+MultiLanguageNpcData['nl'][250558] = {name = "Ravenous Harrower", subname = nil}
+MultiLanguageNpcData['nl'][250560] = {name = "Scavenging Harrower", subname = nil}
+MultiLanguageNpcData['nl'][250561] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250562] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250563] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250564] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][250565] = {name = "Blistercreep", subname = nil}
+MultiLanguageNpcData['nl'][250566] = {name = "Briljante Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][250567] = {name = "Hawkstrider Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][250568] = {name = "Guise of the Bravest", subname = nil}
+MultiLanguageNpcData['nl'][250569] = {name = "Orweyna's Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][250570] = {name = "Thornhook Hunter", subname = nil}
+MultiLanguageNpcData['nl'][250574] = {name = "Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][250575] = {name = "Beschermmatrix", subname = nil}
 MultiLanguageNpcData['nl'][250576] = {name = "Poort naar Tazavesh", subname = nil}
 MultiLanguageNpcData['nl'][250577] = {name = "Portaal naar Revendreth", subname = nil}
+MultiLanguageNpcData['nl'][250578] = {name = "Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250580] = {name = "Hoge Exarch Turalyon", subname = "Lord Bevelhebber van de Alliance strijdkrachten"}
+MultiLanguageNpcData['nl'][250581] = {name = "Lothraxion", subname = "Hoge Commandant"}
+MultiLanguageNpcData['nl'][250582] = {name = "Opgeblazen Snapdragon", subname = nil}
+MultiLanguageNpcData['nl'][250584] = {name = "Silvermooon Guard", subname = nil}
 MultiLanguageNpcData['nl'][250585] = {name = "Moratari", subname = nil}
 MultiLanguageNpcData['nl'][250586] = {name = "Void Hunter", subname = nil}
+MultiLanguageNpcData['nl'][250587] = {name = "Generaal Amias Bellamy", subname = nil}
+MultiLanguageNpcData['nl'][250588] = {name = "Commandant Venel Lightblood", subname = nil}
+MultiLanguageNpcData['nl'][250589] = {name = "Oorlogskapelaan Senn", subname = nil}
+MultiLanguageNpcData['nl'][250590] = {name = "Commandant Koruth Mountainfist", subname = nil}
+MultiLanguageNpcData['nl'][250591] = {name = "Daggerspine Snapdragon", subname = nil}
+MultiLanguageNpcData['nl'][250592] = {name = "Overvloedige Tether", subname = nil}
 MultiLanguageNpcData['nl'][250593] = {name = "Aysa Cloudsinger", subname = "Meester van Tushui"}
 MultiLanguageNpcData['nl'][250594] = {name = "Chen Stormstout", subname = nil}
 MultiLanguageNpcData['nl'][250595] = {name = "Chon Po Stormstout", subname = nil}
@@ -5537,10 +9612,60 @@ MultiLanguageNpcData['nl'][250610] = {name = "Morgen Breeze Villager", subname =
 MultiLanguageNpcData['nl'][250611] = {name = "Tushui Trainee", subname = nil}
 MultiLanguageNpcData['nl'][250612] = {name = "Village Cub", subname = nil}
 MultiLanguageNpcData['nl'][250613] = {name = "Wu-Song Villager", subname = nil}
+MultiLanguageNpcData['nl'][250615] = {name = "Middernacht kristal", subname = nil}
+MultiLanguageNpcData['nl'][250616] = {name = "Dusk Crystal", subname = nil}
+MultiLanguageNpcData['nl'][250632] = {name = "Shrieking Voidscyte", subname = nil}
+MultiLanguageNpcData['nl'][250633] = {name = "Schorsklauw", subname = nil}
+MultiLanguageNpcData['nl'][250634] = {name = "Karion", subname = nil}
+MultiLanguageNpcData['nl'][250635] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250636] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250637] = {name = "Schorsklauw", subname = nil}
+MultiLanguageNpcData['nl'][250638] = {name = "Trigore", subname = nil}
+MultiLanguageNpcData['nl'][250640] = {name = "Russula", subname = nil}
+MultiLanguageNpcData['nl'][250643] = {name = "Phoenix Bloodfeather", subname = nil}
+MultiLanguageNpcData['nl'][250644] = {name = "Blistercreep", subname = "Critter"}
+MultiLanguageNpcData['nl'][250645] = {name = "Gnasher", subname = nil}
+MultiLanguageNpcData['nl'][250648] = {name = "Vorewing", subname = nil}
+MultiLanguageNpcData['nl'][250655] = {name = "Stormray", subname = nil}
+MultiLanguageNpcData['nl'][250658] = {name = "Toonaangevende Domanaar", subname = nil}
+MultiLanguageNpcData['nl'][250659] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250661] = {name = "Schorsklauw", subname = nil}
 MultiLanguageNpcData['nl'][250662] = {name = "Adventurer's Echo", subname = nil}
+MultiLanguageNpcData['nl'][250663] = {name = "Bisschop Lazaril", subname = nil}
+MultiLanguageNpcData['nl'][250664] = {name = "Blood Knight Champion", subname = nil}
+MultiLanguageNpcData['nl'][250665] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][250666] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250667] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][250668] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][250669] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250670] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][250671] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][250672] = {name = "Pushy Paladin", subname = nil}
+MultiLanguageNpcData['nl'][250673] = {name = "Vorewing", subname = nil}
+MultiLanguageNpcData['nl'][250675] = {name = "Marja Lenglow", subname = nil}
 MultiLanguageNpcData['nl'][250676] = {name = "Xal'atath", subname = "De voorbode"}
+MultiLanguageNpcData['nl'][250677] = {name = "Lanlae Noxa", subname = nil}
+MultiLanguageNpcData['nl'][250678] = {name = "Vorewing", subname = nil}
+MultiLanguageNpcData['nl'][250679] = {name = "Rijke bodem", subname = nil}
+MultiLanguageNpcData['nl'][250681] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250682] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250683] = {name = "Coralfang", subname = nil}
+MultiLanguageNpcData['nl'][250684] = {name = "Schitterend diner", subname = nil}
+MultiLanguageNpcData['nl'][250685] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][250687] = {name = "Zapgut Lunker", subname = nil}
+MultiLanguageNpcData['nl'][250688] = {name = "Tepid Bloater", subname = nil}
+MultiLanguageNpcData['nl'][250690] = {name = "Harrower", subname = nil}
+MultiLanguageNpcData['nl'][250691] = {name = "Harrower", subname = nil}
 MultiLanguageNpcData['nl'][250692] = {name = "Fasebladbandiet", subname = nil}
+MultiLanguageNpcData['nl'][250693] = {name = "Mud Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][250694] = {name = "Akil Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][250699] = {name = "Dragonhawk Mosswing", subname = nil}
+MultiLanguageNpcData['nl'][250704] = {name = "Violet Chick", subname = nil}
+MultiLanguageNpcData['nl'][250710] = {name = "Kill Credit: Gevangenen gered", subname = nil}
+MultiLanguageNpcData['nl'][250716] = {name = "Azure sporebat", subname = nil}
+MultiLanguageNpcData['nl'][250717] = {name = "Gepensioneerde Riftwalker", subname = nil}
 MultiLanguageNpcData['nl'][250718] = {name = "Gastly Ur'zul", subname = nil}
+MultiLanguageNpcData['nl'][250719] = {name = "Cre'van", subname = "Cruel Taskmaster"}
 MultiLanguageNpcData['nl'][250720] = {name = "Fel-scarred Mana Ray", subname = nil}
 MultiLanguageNpcData['nl'][250722] = {name = "Magister Umbric", subname = nil}
 MultiLanguageNpcData['nl'][250723] = {name = "Starscribe Lucidsong", subname = nil}
@@ -5559,6 +9684,7 @@ MultiLanguageNpcData['nl'][250736] = {name = "Tidbit", subname = nil}
 MultiLanguageNpcData['nl'][250737] = {name = "Zoon van Goredome", subname = nil}
 MultiLanguageNpcData['nl'][250739] = {name = "Hongerige Klauw", subname = nil}
 MultiLanguageNpcData['nl'][250740] = {name = "Mossel", subname = nil}
+MultiLanguageNpcData['nl'][250742] = {name = "Succulent Snack", subname = nil}
 MultiLanguageNpcData['nl'][250743] = {name = "Corgnelius", subname = nil}
 MultiLanguageNpcData['nl'][250745] = {name = "Oog van Inquisitie", subname = nil}
 MultiLanguageNpcData['nl'][250746] = {name = "Firebat Pup", subname = nil}
@@ -5568,6 +9694,7 @@ MultiLanguageNpcData['nl'][250749] = {name = "Wyrmy Tunkins", subname = nil}
 MultiLanguageNpcData['nl'][250751] = {name = "Tylarr Gronnden", subname = nil}
 MultiLanguageNpcData['nl'][250752] = {name = "Thistleaf Adventurer", subname = nil}
 MultiLanguageNpcData['nl'][250753] = {name = "Opstandige Imp", subname = nil}
+MultiLanguageNpcData['nl'][250754] = {name = "Lady Liminus", subname = nil}
 MultiLanguageNpcData['nl'][250755] = {name = "Leeftijdloze bronzen Drake", subname = nil}
 MultiLanguageNpcData['nl'][250756] = {name = "Brons Proto-Whelp", subname = nil}
 MultiLanguageNpcData['nl'][250757] = {name = "Geweest Felbat", subname = nil}
@@ -5576,335 +9703,678 @@ MultiLanguageNpcData['nl'][250759] = {name = "Cross Gazer", subname = nil}
 MultiLanguageNpcData['nl'][250760] = {name = "Docile Skyfin", subname = nil}
 MultiLanguageNpcData['nl'][250761] = {name = "Fel-toegewezen Skyfin", subname = nil}
 MultiLanguageNpcData['nl'][250762] = {name = "Grasping Manifestatie", subname = nil}
+MultiLanguageNpcData['nl'][250763] = {name = "Locus Onderzoeker", subname = nil}
+MultiLanguageNpcData['nl'][250764] = {name = "Rift directeur", subname = nil}
 MultiLanguageNpcData['nl'][250765] = {name = "Consortium Arcanist", subname = nil}
 MultiLanguageNpcData['nl'][250766] = {name = "Shadowguard Adept", subname = nil}
 MultiLanguageNpcData['nl'][250767] = {name = "Kartel Om Custedian", subname = nil}
 MultiLanguageNpcData['nl'][250768] = {name = "Kartel Zo Guardian", subname = nil}
 MultiLanguageNpcData['nl'][250769] = {name = "Consortium warrantor", subname = nil}
 MultiLanguageNpcData['nl'][250770] = {name = "Handelaar Ba'no", subname = "Lady Darkglen's Retainer"}
+MultiLanguageNpcData['nl'][250772] = {name = "Consumptor", subname = nil}
+MultiLanguageNpcData['nl'][250773] = {name = "Arcane-lading", subname = nil}
+MultiLanguageNpcData['nl'][250775] = {name = "Dusk Fright", subname = nil}
+MultiLanguageNpcData['nl'][250777] = {name = "Erasure Warden", subname = nil}
+MultiLanguageNpcData['nl'][250778] = {name = "Dark Drifter", subname = nil}
+MultiLanguageNpcData['nl'][250780] = {name = "Waverly", subname = nil}
+MultiLanguageNpcData['nl'][250781] = {name = "Stygian Herald", subname = nil}
+MultiLanguageNpcData['nl'][250782] = {name = "Twilight Hexwright", subname = nil}
+MultiLanguageNpcData['nl'][250784] = {name = "Stalking Harrower", subname = nil}
+MultiLanguageNpcData['nl'][250785] = {name = "Doomguard", subname = nil}
+MultiLanguageNpcData['nl'][250786] = {name = "Darkspawn", subname = nil}
+MultiLanguageNpcData['nl'][250788] = {name = "Mooie zonnebloem", subname = nil}
+MultiLanguageNpcData['nl'][250790] = {name = "Index van Anguïsch", subname = nil}
+MultiLanguageNpcData['nl'][250791] = {name = "Terel Bloodfate", subname = "Runestone Logician"}
+MultiLanguageNpcData['nl'][250794] = {name = "Fluisterstoel", subname = nil}
+MultiLanguageNpcData['nl'][250795] = {name = "Bewaker kapitein Meti.", subname = nil}
+MultiLanguageNpcData['nl'][250796] = {name = "Tenebrous Striker", subname = nil}
+MultiLanguageNpcData['nl'][250797] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][250798] = {name = "Alesil Dawnblood", subname = "Dawnstar Overseer"}
+MultiLanguageNpcData['nl'][250802] = {name = "Voidbreaker Throggar", subname = nil}
+MultiLanguageNpcData['nl'][250803] = {name = "Gladius Morinas", subname = nil}
+MultiLanguageNpcData['nl'][250805] = {name = "Princeps Ravenor", subname = "Ontwijker van de Verlorenen"}
+MultiLanguageNpcData['nl'][250806] = {name = "Verloren Wachter", subname = nil}
+MultiLanguageNpcData['nl'][250807] = {name = "Afhaalpakket Kill krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250808] = {name = "Levering pakket een doden krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250809] = {name = "Levering pakket B Kill krediet [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250810] = {name = "Levering pakket C Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250813] = {name = "Blood Knight Backup", subname = nil}
+MultiLanguageNpcData['nl'][250814] = {name = "Cone Stalker", subname = nil}
+MultiLanguageNpcData['nl'][250815] = {name = "Versterking van de Farstrider", subname = nil}
+MultiLanguageNpcData['nl'][250816] = {name = "Meester-adviseur", subname = nil}
+MultiLanguageNpcData['nl'][250817] = {name = "Encroaching Lightsaptor", subname = nil}
+MultiLanguageNpcData['nl'][250818] = {name = "Vooruitlopend op Prismonia", subname = nil}
+MultiLanguageNpcData['nl'][250820] = {name = "Hordranine", subname = "Handelaar"}
+MultiLanguageNpcData['nl'][250821] = {name = "Overtreding van Shinemaw", subname = nil}
+MultiLanguageNpcData['nl'][250822] = {name = "Indringers Shinesipper", subname = nil}
+MultiLanguageNpcData['nl'][250823] = {name = "Loaknit-knooppunt", subname = nil}
+MultiLanguageNpcData['nl'][250824] = {name = "Lightfrenzered Devorer", subname = nil}
+MultiLanguageNpcData['nl'][250826] = {name = "Banuran", subname = nil}
+MultiLanguageNpcData['nl'][250827] = {name = "Thel Bloodmee", subname = "Sunsail Arbiter"}
+MultiLanguageNpcData['nl'][250828] = {name = "Orweyna's Petalwing", subname = nil}
+MultiLanguageNpcData['nl'][250829] = {name = "Runway Limbs", subname = nil}
+MultiLanguageNpcData['nl'][250830] = {name = "Runway Limbs", subname = nil}
+MultiLanguageNpcData['nl'][250832] = {name = "Miscreant Kapara", subname = nil}
+MultiLanguageNpcData['nl'][250833] = {name = "Miscreant Kapara", subname = nil}
+MultiLanguageNpcData['nl'][250834] = {name = "Runaway Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][250835] = {name = "Runaway Potatoad", subname = nil}
+MultiLanguageNpcData['nl'][250836] = {name = "Runaway Crystal", subname = nil}
+MultiLanguageNpcData['nl'][250837] = {name = "Runaway Crystal", subname = nil}
 MultiLanguageNpcData['nl'][250839] = {name = "Zilver Hand Squire", subname = nil}
+MultiLanguageNpcData['nl'][250841] = {name = "Slechte Zed", subname = nil}
+MultiLanguageNpcData['nl'][250843] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][250844] = {name = "Demonische poort", subname = nil}
+MultiLanguageNpcData['nl'][250845] = {name = "Verstoppertje", subname = nil}
+MultiLanguageNpcData['nl'][250846] = {name = "Zedling", subname = nil}
+MultiLanguageNpcData['nl'][250847] = {name = "Energie", subname = nil}
 MultiLanguageNpcData['nl'][250848] = {name = "Tracker Skyriding Glyph", subname = nil}
+MultiLanguageNpcData['nl'][250850] = {name = "Achtergrond", subname = nil}
+MultiLanguageNpcData['nl'][250851] = {name = "Spinnen", subname = nil}
+MultiLanguageNpcData['nl'][250852] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][250853] = {name = "Eerste Arcanist Thalyssra", subname = nil}
+MultiLanguageNpcData['nl'][250854] = {name = "Knooppunt", subname = nil}
+MultiLanguageNpcData['nl'][250855] = {name = "Zoek Crystal Bunny [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][250858] = {name = "Verstoppertje", subname = nil}
+MultiLanguageNpcData['nl'][250859] = {name = "Verstoppertje", subname = nil}
+MultiLanguageNpcData['nl'][250860] = {name = "Onderhoud van stormvogels", subname = nil}
+MultiLanguageNpcData['nl'][250862] = {name = "Warbound Fungarian", subname = nil}
+MultiLanguageNpcData['nl'][250863] = {name = "Oorlogsbound Rutaani", subname = nil}
+MultiLanguageNpcData['nl'][250864] = {name = "Arcane Construct", subname = nil}
+MultiLanguageNpcData['nl'][250865] = {name = "Verdachte Lever", subname = nil}
+MultiLanguageNpcData['nl'][250866] = {name = "Singularity Conniver", subname = nil}
+MultiLanguageNpcData['nl'][250867] = {name = "Verstoppertje", subname = nil}
+MultiLanguageNpcData['nl'][250869] = {name = "Docile Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][250870] = {name = "Verstoppertje", subname = nil}
+MultiLanguageNpcData['nl'][250871] = {name = "{DNT} Hidey-Hole", subname = nil}
+MultiLanguageNpcData['nl'][250872] = {name = "Void Blight", subname = nil}
+MultiLanguageNpcData['nl'][250875] = {name = "Kill Credit: instructies voor emotie van de baas", subname = nil}
+MultiLanguageNpcData['nl'][250876] = {name = "Terrinor", subname = nil}
+MultiLanguageNpcData['nl'][250877] = {name = "Land hier 3!", subname = nil}
+MultiLanguageNpcData['nl'][250878] = {name = "Light Wyrm", subname = nil}
 MultiLanguageNpcData['nl'][250880] = {name = "Fe-Feng Wiseman", subname = nil}
 MultiLanguageNpcData['nl'][250881] = {name = "Arcane Spirit", subname = nil}
+MultiLanguageNpcData['nl'][250882] = {name = "Amber Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][250883] = {name = "Scouting Trapper", subname = nil}
+MultiLanguageNpcData['nl'][250884] = {name = "Gaari", subname = nil}
+MultiLanguageNpcData['nl'][250885] = {name = "Spookwapen", subname = nil}
 MultiLanguageNpcData['nl'][250887] = {name = "Grafsteen", subname = nil}
+MultiLanguageNpcData['nl'][250888] = {name = "Solwin Brightstitch", subname = nil}
+MultiLanguageNpcData['nl'][250889] = {name = "Lord Viscera", subname = nil}
+MultiLanguageNpcData['nl'][250890] = {name = "Kill Credit - Vernietigen", subname = nil}
+MultiLanguageNpcData['nl'][250891] = {name = "Ezzorak", subname = nil}
+MultiLanguageNpcData['nl'][250892] = {name = "Vaelgor", subname = nil}
 MultiLanguageNpcData['nl'][250894] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][250895] = {name = "Dreadflail", subname = nil}
+MultiLanguageNpcData['nl'][250896] = {name = "Kobold Taskfinder", subname = nil}
+MultiLanguageNpcData['nl'][250897] = {name = "Kobold Skullface", subname = nil}
+MultiLanguageNpcData['nl'][250898] = {name = "Spitfire-oplader", subname = nil}
+MultiLanguageNpcData['nl'][250899] = {name = "Spitfire Fuseender", subname = nil}
+MultiLanguageNpcData['nl'][250900] = {name = "Kobold Mystic", subname = nil}
+MultiLanguageNpcData['nl'][250901] = {name = "Kobold Thwacker", subname = nil}
+MultiLanguageNpcData['nl'][250902] = {name = "Cavernous Shrieeker", subname = nil}
+MultiLanguageNpcData['nl'][250903] = {name = "Nerubian Lord", subname = nil}
+MultiLanguageNpcData['nl'][250904] = {name = "Nerubian Darkcaster", subname = nil}
+MultiLanguageNpcData['nl'][250905] = {name = "Nerubian kapitein", subname = nil}
+MultiLanguageNpcData['nl'][250906] = {name = "Skittering Swarmer", subname = nil}
+MultiLanguageNpcData['nl'][250907] = {name = "Nerubian Threadmancer", subname = nil}
+MultiLanguageNpcData['nl'][250908] = {name = "Nerubian Slasher", subname = nil}
+MultiLanguageNpcData['nl'][250909] = {name = "Chittering Fearmonger", subname = nil}
+MultiLanguageNpcData['nl'][250910] = {name = "Enkelbijter", subname = nil}
+MultiLanguageNpcData['nl'][250911] = {name = "Skittering Menace", subname = nil}
+MultiLanguageNpcData['nl'][250912] = {name = "Donkere Walker", subname = nil}
+MultiLanguageNpcData['nl'][250913] = {name = "Silent Slither", subname = nil}
+MultiLanguageNpcData['nl'][250914] = {name = "Afwijkende amalgamatie", subname = nil}
+MultiLanguageNpcData['nl'][250915] = {name = "Gecoaguleerde massa", subname = nil}
+MultiLanguageNpcData['nl'][250916] = {name = "Nachtmerrie Crawler", subname = nil}
+MultiLanguageNpcData['nl'][250917] = {name = "Getinte Feaster", subname = nil}
+MultiLanguageNpcData['nl'][250918] = {name = "Corruptieparasiet", subname = nil}
+MultiLanguageNpcData['nl'][250919] = {name = "Congealed Clot", subname = nil}
+MultiLanguageNpcData['nl'][250939] = {name = "Mul'tha'ul", subname = "Heer van de diepten"}
+MultiLanguageNpcData['nl'][250940] = {name = "Ongebruikelijke schat", subname = nil}
+MultiLanguageNpcData['nl'][250941] = {name = "Webbed Haranir", subname = nil}
+MultiLanguageNpcData['nl'][250944] = {name = "Olievlek", subname = nil}
+MultiLanguageNpcData['nl'][250948] = {name = "Bloedridder Adept", subname = nil}
+MultiLanguageNpcData['nl'][250949] = {name = "Bloedridder", subname = nil}
+MultiLanguageNpcData['nl'][250950] = {name = "Thalassiaanse academicus", subname = nil}
+MultiLanguageNpcData['nl'][250951] = {name = "Dawnflare, de Radiant", subname = "Universiteitsdieren"}
+MultiLanguageNpcData['nl'][250952] = {name = "Phoenix Bloodfeather", subname = nil}
+MultiLanguageNpcData['nl'][250953] = {name = "Runaway Spellbook", subname = nil}
+MultiLanguageNpcData['nl'][250954] = {name = "Universiteitsnieuwer", subname = nil}
+MultiLanguageNpcData['nl'][250955] = {name = "Trigore", subname = "T3 (5/3)"}
+MultiLanguageNpcData['nl'][250956] = {name = "Algemeen - lege konijn", subname = nil}
 MultiLanguageNpcData['nl'][250957] = {name = "Val'kyr", subname = nil}
+MultiLanguageNpcData['nl'][250958] = {name = "Seneschal Ulen", subname = nil}
+MultiLanguageNpcData['nl'][250964] = {name = "Loa A", subname = nil}
+MultiLanguageNpcData['nl'][250970] = {name = "Yolan Hidor", subname = nil}
+MultiLanguageNpcData['nl'][250971] = {name = "Julia Sunstriker", subname = "Professor in de Opstand"}
+MultiLanguageNpcData['nl'][250972] = {name = "Kapitein.", subname = nil}
+MultiLanguageNpcData['nl'][250975] = {name = "Rij Bruiser", subname = nil}
 MultiLanguageNpcData['nl'][250976] = {name = "11.2 - K'aresh - Campagne - Epiloog - Wereldziel (YGR)", subname = nil}
+MultiLanguageNpcData['nl'][250977] = {name = "Kill Credit: Kill Credit: 20,000 Points", subname = nil}
+MultiLanguageNpcData['nl'][250978] = {name = "Gesleept ongedierte", subname = nil}
+MultiLanguageNpcData['nl'][250979] = {name = "Silvermoon Gardener", subname = nil}
+MultiLanguageNpcData['nl'][250980] = {name = "Silvermoon Bewoner", subname = nil}
+MultiLanguageNpcData['nl'][250981] = {name = "Faeldin", subname = "Wijnhandelaar"}
+MultiLanguageNpcData['nl'][250982] = {name = "Dethelin", subname = "Purloinedecoratie"}
+MultiLanguageNpcData['nl'][250985] = {name = "Ripe Wortel", subname = nil}
+MultiLanguageNpcData['nl'][250986] = {name = "Shady Patron", subname = nil}
+MultiLanguageNpcData['nl'][250987] = {name = "Onzichtbare konijn (branddoel)", subname = nil}
+MultiLanguageNpcData['nl'][250990] = {name = "Discreet Sommelier", subname = nil}
+MultiLanguageNpcData['nl'][250991] = {name = "Jij", subname = nil}
+MultiLanguageNpcData['nl'][250992] = {name = "Raging Squall", subname = nil}
+MultiLanguageNpcData['nl'][250994] = {name = "Sunwing Chick", subname = nil}
+MultiLanguageNpcData['nl'][250995] = {name = "Sunwing Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][250999] = {name = "Silvermoon Artiest", subname = nil}
+MultiLanguageNpcData['nl'][251000] = {name = "Riemenkolf", subname = nil}
+MultiLanguageNpcData['nl'][251002] = {name = "Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251003] = {name = "Ripedruiven", subname = nil}
+MultiLanguageNpcData['nl'][251005] = {name = "Gehuurde hand", subname = nil}
+MultiLanguageNpcData['nl'][251006] = {name = "Verdachte Lever", subname = nil}
+MultiLanguageNpcData['nl'][251007] = {name = "Barrel van Ripe Appels", subname = nil}
+MultiLanguageNpcData['nl'][251008] = {name = "Kill Credit: Velf Stuff", subname = nil}
+MultiLanguageNpcData['nl'][251009] = {name = "Verloren padvinder", subname = nil}
+MultiLanguageNpcData['nl'][251010] = {name = "Illustrieuze Scholar", subname = nil}
+MultiLanguageNpcData['nl'][251011] = {name = "Foute Shroom Jumper", subname = nil}
+MultiLanguageNpcData['nl'][251012] = {name = "Cataloog Lendeya", subname = nil}
+MultiLanguageNpcData['nl'][251013] = {name = "Rat Catcher", subname = nil}
+MultiLanguageNpcData['nl'][251014] = {name = "Kill Credit - Brand", subname = nil}
+MultiLanguageNpcData['nl'][251015] = {name = "Infiltrator Gulkat", subname = nil}
+MultiLanguageNpcData['nl'][251017] = {name = "Sin'dorei Kind", subname = nil}
+MultiLanguageNpcData['nl'][251018] = {name = "Tuinkat", subname = nil}
+MultiLanguageNpcData['nl'][251020] = {name = "Open gebied", subname = nil}
+MultiLanguageNpcData['nl'][251021] = {name = "Scouting Trapper", subname = nil}
+MultiLanguageNpcData['nl'][251022] = {name = "Alendis", subname = "The Row's Tapster"}
+MultiLanguageNpcData['nl'][251023] = {name = "Silvermoon Noble", subname = nil}
+MultiLanguageNpcData['nl'][251024] = {name = "Dreadflail", subname = nil}
+MultiLanguageNpcData['nl'][251025] = {name = "Farstrider Aerieminder", subname = nil}
+MultiLanguageNpcData['nl'][251026] = {name = "Rookery Arcanist", subname = nil}
 MultiLanguageNpcData['nl'][251027] = {name = "Buurtwacht", subname = nil}
+MultiLanguageNpcData['nl'][251028] = {name = "Isaa", subname = nil}
+MultiLanguageNpcData['nl'][251029] = {name = "Twilight Summoner", subname = nil}
+MultiLanguageNpcData['nl'][251030] = {name = "Niet geconsolideerd voor Salhadaar", subname = nil}
+MultiLanguageNpcData['nl'][251031] = {name = "Grand Nullifier", subname = nil}
+MultiLanguageNpcData['nl'][251032] = {name = "Blademaster Darza", subname = nil}
+MultiLanguageNpcData['nl'][251033] = {name = "Onzichtbare konijn (Arcane Target)", subname = nil}
+MultiLanguageNpcData['nl'][251035] = {name = "Ariani", subname = nil}
 MultiLanguageNpcData['nl'][251036] = {name = "Argali", subname = nil}
+MultiLanguageNpcData['nl'][251037] = {name = "Twilight Summoner", subname = nil}
+MultiLanguageNpcData['nl'][251038] = {name = "Silvermoon Guard", subname = nil}
+MultiLanguageNpcData['nl'][251040] = {name = "Aeriekeeper Heliothe", subname = nil}
+MultiLanguageNpcData['nl'][251041] = {name = "Lady Lazaro", subname = nil}
 MultiLanguageNpcData['nl'][251042] = {name = "Domelius", subname = "Home Verbeteringen"}
+MultiLanguageNpcData['nl'][251043] = {name = "Opgejaagde Nester", subname = nil}
+MultiLanguageNpcData['nl'][251045] = {name = "Hunted Sparklet", subname = nil}
+MultiLanguageNpcData['nl'][251046] = {name = "Baby Amazard", subname = "Critter"}
+MultiLanguageNpcData['nl'][251047] = {name = "Soulbind Totem", subname = nil}
 MultiLanguageNpcData['nl'][251048] = {name = "Fase duiken verlaten", subname = nil}
+MultiLanguageNpcData['nl'][251049] = {name = "Cog", subname = nil}
+MultiLanguageNpcData['nl'][251050] = {name = "Cog", subname = nil}
+MultiLanguageNpcData['nl'][251051] = {name = "Gevangen shredclaw", subname = nil}
+MultiLanguageNpcData['nl'][251052] = {name = "Sporelord's Guard", subname = nil}
+MultiLanguageNpcData['nl'][251053] = {name = "Docile Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][251054] = {name = "Outfitter Meladine", subname = nil}
+MultiLanguageNpcData['nl'][251055] = {name = "Briljante Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251056] = {name = "Gerath", subname = nil}
+MultiLanguageNpcData['nl'][251057] = {name = "Shadowtrade Mercenary", subname = nil}
+MultiLanguageNpcData['nl'][251058] = {name = "Shadowtrade Mercenary", subname = nil}
+MultiLanguageNpcData['nl'][251060] = {name = "Shadowtrade Mercenary", subname = nil}
+MultiLanguageNpcData['nl'][251061] = {name = "Havazza?", subname = nil}
+MultiLanguageNpcData['nl'][251062] = {name = "Ruige Stablehand", subname = nil}
+MultiLanguageNpcData['nl'][251063] = {name = "Silvermoon Bewoner", subname = nil}
+MultiLanguageNpcData['nl'][251064] = {name = "Translocatie van Arcane", subname = nil}
+MultiLanguageNpcData['nl'][251066] = {name = "Onduidelijke Springrunner", subname = nil}
+MultiLanguageNpcData['nl'][251068] = {name = "Spinnen", subname = nil}
+MultiLanguageNpcData['nl'][251069] = {name = "Dundun", subname = "<Loa of Abundance>"}
+MultiLanguageNpcData['nl'][251070] = {name = "Behoorlijk nobel", subname = nil}
+MultiLanguageNpcData['nl'][251071] = {name = "Rijrat", subname = nil}
+MultiLanguageNpcData['nl'][251073] = {name = "Eagletender Do'nac", subname = "Vluchtmeester"}
+MultiLanguageNpcData['nl'][251074] = {name = "Loa B", subname = nil}
+MultiLanguageNpcData['nl'][251075] = {name = "Loa C", subname = nil}
+MultiLanguageNpcData['nl'][251076] = {name = "Loa D", subname = nil}
+MultiLanguageNpcData['nl'][251077] = {name = "Loa E", subname = nil}
 MultiLanguageNpcData['nl'][251078] = {name = "Grootvaderboom", subname = nil}
+MultiLanguageNpcData['nl'][251079] = {name = "Farstrider Trainee", subname = nil}
+MultiLanguageNpcData['nl'][251081] = {name = "Eagletender Ful'nac", subname = "Vluchtmeester"}
 MultiLanguageNpcData['nl'][251082] = {name = "Smerige helper", subname = "Minion of the Greench"}
+MultiLanguageNpcData['nl'][251083] = {name = "Pesky Sludger", subname = nil}
+MultiLanguageNpcData['nl'][251084] = {name = "Verwelkte plant", subname = nil}
+MultiLanguageNpcData['nl'][251085] = {name = "Lovesick Gardener", subname = nil}
+MultiLanguageNpcData['nl'][251086] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][251087] = {name = "Ren'dorei Scout", subname = nil}
+MultiLanguageNpcData['nl'][251089] = {name = "Riftwalker Kaye", subname = "Bibliotheek"}
+MultiLanguageNpcData['nl'][251090] = {name = "Lovesick Artiest", subname = nil}
+MultiLanguageNpcData['nl'][251091] = {name = "Nael Silvertongue", subname = "\"Bookseller\""}
+MultiLanguageNpcData['nl'][251092] = {name = "Nethermancy Assistant", subname = nil}
+MultiLanguageNpcData['nl'][251093] = {name = "Nieuwe heksenmeester", subname = nil}
+MultiLanguageNpcData['nl'][251095] = {name = "Lounge Waitstaff", subname = nil}
 MultiLanguageNpcData['nl'][251097] = {name = "Geschroefde stambarrel", subname = "Beschikbaar voor Aankoop bij Leverancier"}
 MultiLanguageNpcData['nl'][251098] = {name = "Robotkip", subname = nil}
+MultiLanguageNpcData['nl'][251100] = {name = "Kemet", subname = nil}
+MultiLanguageNpcData['nl'][251101] = {name = "Farstrider Luitenant", subname = nil}
+MultiLanguageNpcData['nl'][251102] = {name = "Silvermoon Mage", subname = nil}
+MultiLanguageNpcData['nl'][251106] = {name = "Vastzittende baby Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][251107] = {name = "Gered baby Potadpole", subname = nil}
+MultiLanguageNpcData['nl'][251109] = {name = "Mausoloa Spirit", subname = nil}
+MultiLanguageNpcData['nl'][251110] = {name = "Mausoloa Spirit", subname = nil}
+MultiLanguageNpcData['nl'][251112] = {name = "Dagopvang Denizen", subname = nil}
+MultiLanguageNpcData['nl'][251113] = {name = "Wachtdienst buiten dienst", subname = nil}
+MultiLanguageNpcData['nl'][251114] = {name = "Tylos Darksight", subname = "Demon Hunter Trainer"}
+MultiLanguageNpcData['nl'][251116] = {name = "Tracker Aelix", subname = "Stablemaster"}
+MultiLanguageNpcData['nl'][251119] = {name = "Roark", subname = "Riftwalker Aelix's Pet"}
+MultiLanguageNpcData['nl'][251120] = {name = "Farstrider Luitenant", subname = nil}
+MultiLanguageNpcData['nl'][251121] = {name = "Overweldigd verzorger", subname = nil}
+MultiLanguageNpcData['nl'][251122] = {name = "Elara", subname = "Rogue Trainer"}
+MultiLanguageNpcData['nl'][251123] = {name = "Instructeur Cel", subname = nil}
+MultiLanguageNpcData['nl'][251124] = {name = "Firea", subname = nil}
+MultiLanguageNpcData['nl'][251125] = {name = "Alcor", subname = nil}
+MultiLanguageNpcData['nl'][251128] = {name = "Paws", subname = nil}
+MultiLanguageNpcData['nl'][251129] = {name = "Shara Sunwing", subname = "Algemene leveringen"}
+MultiLanguageNpcData['nl'][251130] = {name = "Silvermoon Smith", subname = nil}
+MultiLanguageNpcData['nl'][251132] = {name = "Keyanomir", subname = nil}
+MultiLanguageNpcData['nl'][251133] = {name = "Nimrida", subname = "Keyanomir's Minion"}
+MultiLanguageNpcData['nl'][251134] = {name = "Nimridor", subname = "Keyanomir's Minion"}
+MultiLanguageNpcData['nl'][251135] = {name = "Uitgeputte padvinder", subname = nil}
+MultiLanguageNpcData['nl'][251136] = {name = "Off-Duty Farstrider", subname = nil}
+MultiLanguageNpcData['nl'][251137] = {name = "Torian", subname = "Demon Trainer"}
+MultiLanguageNpcData['nl'][251138] = {name = "Silvermoon Handelaar", subname = nil}
+MultiLanguageNpcData['nl'][251139] = {name = "Sinthar", subname = nil}
+MultiLanguageNpcData['nl'][251140] = {name = "Garden Nibbler", subname = nil}
+MultiLanguageNpcData['nl'][251141] = {name = "Sketchy Merchant", subname = nil}
+MultiLanguageNpcData['nl'][251142] = {name = "Aspect van Shadra", subname = "The Venom Queen"}
+MultiLanguageNpcData['nl'][251144] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251146] = {name = "Riftwalker Bea", subname = nil}
+MultiLanguageNpcData['nl'][251148] = {name = "Coldshade", subname = "Ebon Riftblade"}
+MultiLanguageNpcData['nl'][251149] = {name = "Hulp", subname = nil}
+MultiLanguageNpcData['nl'][251150] = {name = "Twilight Mindshaper", subname = nil}
+MultiLanguageNpcData['nl'][251151] = {name = "Twilight Zealot", subname = nil}
+MultiLanguageNpcData['nl'][251152] = {name = "Twilight Soulbinder", subname = nil}
+MultiLanguageNpcData['nl'][251153] = {name = "Twilight Voidtongue", subname = nil}
+MultiLanguageNpcData['nl'][251154] = {name = "Twilight Dreadblade", subname = nil}
+MultiLanguageNpcData['nl'][251155] = {name = "TB Doodsstrijder", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][251156] = {name = "Twilight Bonecrusher", subname = nil}
+MultiLanguageNpcData['nl'][251157] = {name = "TB Schaduw Elementaal", subname = "T2 (2/1,2)"}
+MultiLanguageNpcData['nl'][251158] = {name = "Kapitein Rugsworth.", subname = nil}
+MultiLanguageNpcData['nl'][251159] = {name = "Schaduwstalker", subname = nil}
+MultiLanguageNpcData['nl'][251161] = {name = "Vrouwe van Mirth", subname = nil}
+MultiLanguageNpcData['nl'][251162] = {name = "Nieuwsgierige Chick", subname = nil}
+MultiLanguageNpcData['nl'][251163] = {name = "Onregelmatige Hawkstrider Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][251164] = {name = "Lawn Burrower", subname = nil}
+MultiLanguageNpcData['nl'][251167] = {name = "Golden Wyrmette", subname = nil}
+MultiLanguageNpcData['nl'][251168] = {name = "Mooie Bloodwing", subname = nil}
+MultiLanguageNpcData['nl'][251170] = {name = "Duikpak", subname = nil}
+MultiLanguageNpcData['nl'][251171] = {name = "Cobblepecker", subname = nil}
+MultiLanguageNpcData['nl'][251172] = {name = "Nu'lan", subname = nil}
+MultiLanguageNpcData['nl'][251173] = {name = "Lysolde", subname = nil}
+MultiLanguageNpcData['nl'][251174] = {name = "Off-duty artiest", subname = nil}
+MultiLanguageNpcData['nl'][251175] = {name = "Haranir Hunter", subname = nil}
+MultiLanguageNpcData['nl'][251176] = {name = "Voidmaw", subname = nil}
+MultiLanguageNpcData['nl'][251178] = {name = "Silvermoon Bezoeker", subname = nil}
 MultiLanguageNpcData['nl'][251179] = {name = "Domelius", subname = nil}
+MultiLanguageNpcData['nl'][251180] = {name = "Dawn Crystal", subname = nil}
+MultiLanguageNpcData['nl'][251181] = {name = "Cragback zeeschildpad", subname = nil}
+MultiLanguageNpcData['nl'][251182] = {name = "Cheneta", subname = "Horde Afgezant"}
+MultiLanguageNpcData['nl'][251183] = {name = "Tatai", subname = "Horde Afgezant"}
+MultiLanguageNpcData['nl'][251184] = {name = "Traveling Trainee", subname = nil}
+MultiLanguageNpcData['nl'][251185] = {name = "Jaren Holdart", subname = nil}
+MultiLanguageNpcData['nl'][251186] = {name = "Dela Runetotem", subname = "Horde Afgezant"}
+MultiLanguageNpcData['nl'][251188] = {name = "Jaren Holdart", subname = nil}
+MultiLanguageNpcData['nl'][251189] = {name = "Sneeuwbol Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251191] = {name = "Kristine Denny", subname = "Horde Afgezant"}
+MultiLanguageNpcData['nl'][251193] = {name = "Ambassadeur Kelemar", subname = nil}
 MultiLanguageNpcData['nl'][251195] = {name = "Rottenpummel", subname = "Minion of the Greench"}
+MultiLanguageNpcData['nl'][251196] = {name = "Dalon Sunsuiker", subname = "Gebakken goederen"}
+MultiLanguageNpcData['nl'][251198] = {name = "Silvermoon-werknemer", subname = nil}
+MultiLanguageNpcData['nl'][251200] = {name = "Shale Spider", subname = nil}
+MultiLanguageNpcData['nl'][251201] = {name = "Treant Sapling", subname = nil}
+MultiLanguageNpcData['nl'][251203] = {name = "Seigemaster Malenor", subname = nil}
+MultiLanguageNpcData['nl'][251204] = {name = "Silvermoon Seigemaster", subname = nil}
+MultiLanguageNpcData['nl'][251205] = {name = "Trusty Aerie-Steed", subname = nil}
+MultiLanguageNpcData['nl'][251206] = {name = "Luna", subname = nil}
+MultiLanguageNpcData['nl'][251207] = {name = "Olijfolie", subname = nil}
+MultiLanguageNpcData['nl'][251208] = {name = "Aqua", subname = nil}
+MultiLanguageNpcData['nl'][251209] = {name = "Trickies", subname = nil}
+MultiLanguageNpcData['nl'][251210] = {name = "Sammy", subname = nil}
+MultiLanguageNpcData['nl'][251211] = {name = "Zesta", subname = nil}
+MultiLanguageNpcData['nl'][251212] = {name = "Melba", subname = nil}
+MultiLanguageNpcData['nl'][251213] = {name = "Ella", subname = nil}
+MultiLanguageNpcData['nl'][251214] = {name = "Boe.", subname = nil}
+MultiLanguageNpcData['nl'][251215] = {name = "Oltuk", subname = nil}
+MultiLanguageNpcData['nl'][251217] = {name = "Harrower", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][251218] = {name = "Harrower", subname = "T1 (2/1,2)"}
 MultiLanguageNpcData['nl'][251219] = {name = "Lost Legion Doomguard", subname = nil}
+MultiLanguageNpcData['nl'][251221] = {name = "Voidcaller", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][251223] = {name = "Voidcaller", subname = "T1 (1/1)"}
+MultiLanguageNpcData['nl'][251224] = {name = "Kill Credit: Diepteduikers - Evenement voltooid", subname = nil}
+MultiLanguageNpcData['nl'][251225] = {name = "Bazaar Herbalist", subname = nil}
+MultiLanguageNpcData['nl'][251226] = {name = "Fledgling Alchemist", subname = nil}
+MultiLanguageNpcData['nl'][251228] = {name = "Over Death Helper Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251230] = {name = "Zippervis", subname = nil}
+MultiLanguageNpcData['nl'][251231] = {name = "Goudzeeschildpad", subname = nil}
+MultiLanguageNpcData['nl'][251232] = {name = "Brakpuffer", subname = nil}
+MultiLanguageNpcData['nl'][251233] = {name = "Boom Stalker [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][251234] = {name = "Axetooth Thresher", subname = nil}
+MultiLanguageNpcData['nl'][251235] = {name = "Osselan", subname = nil}
+MultiLanguageNpcData['nl'][251236] = {name = "Coalescing Imp", subname = nil}
+MultiLanguageNpcData['nl'][251237] = {name = "Riftschaduw", subname = nil}
 MultiLanguageNpcData['nl'][251238] = {name = "Kill Credit: Dead Scar", subname = nil}
+MultiLanguageNpcData['nl'][251239] = {name = "Shadowguard Stalwart", subname = nil}
+MultiLanguageNpcData['nl'][251240] = {name = "Vaeron Kormar", subname = nil}
+MultiLanguageNpcData['nl'][251241] = {name = "Melaya Tassier", subname = nil}
+MultiLanguageNpcData['nl'][251242] = {name = "Fledgling Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251243] = {name = "Knight-Errant Ashlainne", subname = nil}
+MultiLanguageNpcData['nl'][251244] = {name = "Chief Herbalist Draiser", subname = nil}
+MultiLanguageNpcData['nl'][251246] = {name = "Geanimeerde herbarium", subname = nil}
+MultiLanguageNpcData['nl'][251248] = {name = "Intrepid Ondernemer", subname = nil}
+MultiLanguageNpcData['nl'][251249] = {name = "Betoverde hamer", subname = nil}
+MultiLanguageNpcData['nl'][251251] = {name = "Skittering Underroot Beetle", subname = nil}
+MultiLanguageNpcData['nl'][251252] = {name = "Snijden", subname = nil}
+MultiLanguageNpcData['nl'][251253] = {name = "Dobbelstenen", subname = nil}
+MultiLanguageNpcData['nl'][251254] = {name = "Leerling Metaalwerker", subname = nil}
+MultiLanguageNpcData['nl'][251255] = {name = "Reizende ertshandelaar", subname = nil}
+MultiLanguageNpcData['nl'][251256] = {name = "Bloedridder Adept", subname = nil}
+MultiLanguageNpcData['nl'][251257] = {name = "Archivist Emeline", subname = nil}
+MultiLanguageNpcData['nl'][251258] = {name = "Ani", subname = nil}
+MultiLanguageNpcData['nl'][251259] = {name = "Motkeeper Wew'tam", subname = "Lichtgevende stofverlener"}
+MultiLanguageNpcData['nl'][251260] = {name = "Battle Lynx", subname = "Farstriders huisdier"}
+MultiLanguageNpcData['nl'][251262] = {name = "Smithing Apprentice", subname = nil}
+MultiLanguageNpcData['nl'][251264] = {name = "Onzichtbare konijn (Tailor Target)", subname = nil}
+MultiLanguageNpcData['nl'][251265] = {name = "Goed uitgerust vervoer", subname = nil}
+MultiLanguageNpcData['nl'][251266] = {name = "Twilight Bladesworn", subname = nil}
+MultiLanguageNpcData['nl'][251267] = {name = "Obscurion Endwalker", subname = nil}
+MultiLanguageNpcData['nl'][251268] = {name = "Sporbit", subname = nil}
+MultiLanguageNpcData['nl'][251269] = {name = "Silvermoon Chauffer", subname = nil}
+MultiLanguageNpcData['nl'][251270] = {name = "Twilight Overseer", subname = nil}
+MultiLanguageNpcData['nl'][251271] = {name = "Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251272] = {name = "Geschoolde leerwerker", subname = nil}
+MultiLanguageNpcData['nl'][251273] = {name = "Eager Squire", subname = nil}
+MultiLanguageNpcData['nl'][251274] = {name = "Rijrat", subname = nil}
+MultiLanguageNpcData['nl'][251275] = {name = "Rijrat", subname = nil}
+MultiLanguageNpcData['nl'][251276] = {name = "Blood Knight Initiate", subname = nil}
+MultiLanguageNpcData['nl'][251277] = {name = "Lanlae Noxa", subname = nil}
+MultiLanguageNpcData['nl'][251278] = {name = "Orweyna", subname = nil}
+MultiLanguageNpcData['nl'][251280] = {name = "Getrouwd Wyrmette", subname = nil}
+MultiLanguageNpcData['nl'][251281] = {name = "Veteranenbloedridder", subname = nil}
+MultiLanguageNpcData['nl'][251282] = {name = "Verzwakt entiteit", subname = nil}
+MultiLanguageNpcData['nl'][251283] = {name = "Haranir Zur'ashar", subname = "TEMP MODEL"}
+MultiLanguageNpcData['nl'][251285] = {name = "Alestus", subname = "Eerste hulp"}
+MultiLanguageNpcData['nl'][251286] = {name = "Lanlae Noxa", subname = nil}
+MultiLanguageNpcData['nl'][251287] = {name = "Bepaald starten", subname = nil}
+MultiLanguageNpcData['nl'][251289] = {name = "Celana", subname = "Bowyer"}
+MultiLanguageNpcData['nl'][251294] = {name = "Tana", subname = "Hunter Trainer"}
+MultiLanguageNpcData['nl'][251295] = {name = "Oninath", subname = "Hunter Trainer"}
+MultiLanguageNpcData['nl'][251296] = {name = "Zandine", subname = "Hunter Trainer"}
+MultiLanguageNpcData['nl'][251297] = {name = "Halthenis", subname = "Huisdiertrainer"}
+MultiLanguageNpcData['nl'][251298] = {name = "Kieupid", subname = "Huisdiertrainer"}
+MultiLanguageNpcData['nl'][251299] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][251300] = {name = "Sleazy Barkeep", subname = nil}
+MultiLanguageNpcData['nl'][251301] = {name = "Mathaleron", subname = "Wapensmid"}
+MultiLanguageNpcData['nl'][251302] = {name = "Shalenn", subname = "Stabiele meester"}
+MultiLanguageNpcData['nl'][251303] = {name = "Anri", subname = nil}
+MultiLanguageNpcData['nl'][251304] = {name = "Darise", subname = "Boekenmaker"}
+MultiLanguageNpcData['nl'][251305] = {name = "Toa'mara", subname = nil}
+MultiLanguageNpcData['nl'][251308] = {name = "Toa'mara", subname = nil}
+MultiLanguageNpcData['nl'][251311] = {name = "Aangetrokken Wyrmling", subname = nil}
+MultiLanguageNpcData['nl'][251312] = {name = "Archmage Khadgar", subname = nil}
+MultiLanguageNpcData['nl'][251313] = {name = "Krat", subname = nil}
+MultiLanguageNpcData['nl'][251315] = {name = "Terrace Waitstaff", subname = "Augurs' Delights"}
+MultiLanguageNpcData['nl'][251316] = {name = "Verdantbark", subname = "Oude Beschermer"}
+MultiLanguageNpcData['nl'][251318] = {name = "Kussen", subname = nil}
+MultiLanguageNpcData['nl'][251319] = {name = "Cheese Board", subname = nil}
+MultiLanguageNpcData['nl'][251322] = {name = "Wijnfles", subname = nil}
+MultiLanguageNpcData['nl'][251323] = {name = "Rysha Berrybloesem", subname = "Augurs' Delights"}
+MultiLanguageNpcData['nl'][251324] = {name = "Quilen Cub", subname = nil}
+MultiLanguageNpcData['nl'][251325] = {name = "Faerie Dragonling", subname = nil}
+MultiLanguageNpcData['nl'][251326] = {name = "Raven Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][251327] = {name = "Violet Pufferfish", subname = nil}
+MultiLanguageNpcData['nl'][251328] = {name = "Sierkrab", subname = nil}
+MultiLanguageNpcData['nl'][251329] = {name = "Fiery Kitten", subname = nil}
+MultiLanguageNpcData['nl'][251330] = {name = "Vliertak", subname = "Oud van Lore"}
+MultiLanguageNpcData['nl'][251331] = {name = "Drani", subname = nil}
+MultiLanguageNpcData['nl'][251332] = {name = "Grote Baobob", subname = "Oud van de oorlog"}
+MultiLanguageNpcData['nl'][251333] = {name = "Snoepgoedmaker Jyllian", subname = "Augurs' Delights"}
+MultiLanguageNpcData['nl'][251334] = {name = "Nederlandwhelp", subname = nil}
+MultiLanguageNpcData['nl'][251335] = {name = "Arator", subname = nil}
+MultiLanguageNpcData['nl'][251336] = {name = "Verdachte Regal Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251337] = {name = "Hoofd Telemancer Oculeth", subname = nil}
+MultiLanguageNpcData['nl'][251338] = {name = "Juveniele Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][251339] = {name = "Ornery Winebat", subname = nil}
+MultiLanguageNpcData['nl'][251344] = {name = "Madelia Bruder", subname = "Kampioen Ambossar"}
+MultiLanguageNpcData['nl'][251345] = {name = "BloemPawa", subname = "Madelia's huisdier"}
+MultiLanguageNpcData['nl'][251346] = {name = "Beldis", subname = "Krijgerstrainer"}
+MultiLanguageNpcData['nl'][251347] = {name = "Alsudar de Bastion", subname = "Krijgerstrainer"}
+MultiLanguageNpcData['nl'][251348] = {name = "Sarithra", subname = "Krijgerstrainer"}
+MultiLanguageNpcData['nl'][251349] = {name = "Dusty Moth", subname = nil}
+MultiLanguageNpcData['nl'][251350] = {name = "Sho the Wise", subname = "Monnikentrainer"}
+MultiLanguageNpcData['nl'][251351] = {name = "Onduidelijk aristocraat", subname = nil}
+MultiLanguageNpcData['nl'][251352] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251353] = {name = "Farstrider Ranger", subname = nil}
+MultiLanguageNpcData['nl'][251355] = {name = "Alonsus Faol", subname = "Bisschop der Geheimen"}
+MultiLanguageNpcData['nl'][251356] = {name = "Inn Waitstaff", subname = nil}
+MultiLanguageNpcData['nl'][251357] = {name = "Arcane Spellbook", subname = nil}
+MultiLanguageNpcData['nl'][251359] = {name = "Wrok Pit Kampioen", subname = "Glow Guard"}
+MultiLanguageNpcData['nl'][251360] = {name = "Vis", subname = nil}
+MultiLanguageNpcData['nl'][251370] = {name = "Vreselijk Pit Combatant", subname = "Cap Clash"}
+MultiLanguageNpcData['nl'][251372] = {name = "Cyn'drel de patiënt", subname = "Monnikentrainer"}
+MultiLanguageNpcData['nl'][251377] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][251378] = {name = "Kill Credit [DNT]", subname = nil}
+MultiLanguageNpcData['nl'][251381] = {name = "Dwalende Sellblade", subname = nil}
+MultiLanguageNpcData['nl'][251382] = {name = "Gestationeerde bloedridder", subname = nil}
+MultiLanguageNpcData['nl'][251383] = {name = "Geplaatst V-indicator", subname = nil}
+MultiLanguageNpcData['nl'][251384] = {name = "Rijlogboek", subname = nil}
+MultiLanguageNpcData['nl'][251385] = {name = "Sunwell Priest", subname = nil}
+MultiLanguageNpcData['nl'][251386] = {name = "Bazaar Overseer", subname = nil}
+MultiLanguageNpcData['nl'][251388] = {name = "Devout Pilgrim", subname = nil}
+MultiLanguageNpcData['nl'][251390] = {name = "Koekjesmarkter", subname = nil}
+MultiLanguageNpcData['nl'][251391] = {name = "Harbor Worker", subname = nil}
+MultiLanguageNpcData['nl'][251393] = {name = "Overbelaste valet", subname = nil}
+MultiLanguageNpcData['nl'][251394] = {name = "Hongerige Scalebiter", subname = nil}
+MultiLanguageNpcData['nl'][251395] = {name = "Wing of Dawn", subname = nil}
+MultiLanguageNpcData['nl'][251396] = {name = "Sun Sliver", subname = nil}
+MultiLanguageNpcData['nl'][251397] = {name = "Meadow Hopper", subname = nil}
+MultiLanguageNpcData['nl'][251398] = {name = "Lady Gianna", subname = "Oudheden & Curios"}
+MultiLanguageNpcData['nl'][251399] = {name = "Blossom Brightbulb", subname = nil}
+MultiLanguageNpcData['nl'][251400] = {name = "Blossom Brightbulb", subname = nil}
+MultiLanguageNpcData['nl'][251401] = {name = "Zeeschildpad", subname = nil}
+MultiLanguageNpcData['nl'][251403] = {name = "Arcane Guardian", subname = nil}
+MultiLanguageNpcData['nl'][251405] = {name = "Sheri", subname = "Algemene goederen"}
+MultiLanguageNpcData['nl'][251406] = {name = "Landraelanis", subname = "Handelaar"}
+MultiLanguageNpcData['nl'][251408] = {name = "Quarelestra", subname = "Kooktrainer"}
+MultiLanguageNpcData['nl'][251409] = {name = "Kyrenna", subname = "Kaasverkoper"}
+MultiLanguageNpcData['nl'][251410] = {name = "Runway Elfhond", subname = nil}
+MultiLanguageNpcData['nl'][251412] = {name = "Nieuwsgierig Peahen", subname = nil}
+MultiLanguageNpcData['nl'][251413] = {name = "Doodsbang perzik", subname = nil}
+MultiLanguageNpcData['nl'][251414] = {name = "Airborne Treeglider", subname = nil}
+MultiLanguageNpcData['nl'][251415] = {name = "Phoenix Fledgling", subname = nil}
+MultiLanguageNpcData['nl'][251416] = {name = "Geron", subname = "Wapenhandelaar"}
+MultiLanguageNpcData['nl'][251417] = {name = "Overweldigde handler", subname = nil}
+MultiLanguageNpcData['nl'][251418] = {name = "Arcane Guardian", subname = nil}
+MultiLanguageNpcData['nl'][251419] = {name = "Milo", subname = nil}
+MultiLanguageNpcData['nl'][251420] = {name = "Rijrat", subname = nil}
+MultiLanguageNpcData['nl'][251421] = {name = "Elder Larenis", subname = nil}
+MultiLanguageNpcData['nl'][251422] = {name = "Dread Shade", subname = nil}
+MultiLanguageNpcData['nl'][251423] = {name = "Elder Marsilla Dawnstar", subname = nil}
+MultiLanguageNpcData['nl'][251424] = {name = "Clio", subname = nil}
+MultiLanguageNpcData['nl'][251425] = {name = "Silvermoon-werknemer", subname = nil}
+MultiLanguageNpcData['nl'][251426] = {name = "Arcane Barber", subname = nil}
+MultiLanguageNpcData['nl'][251427] = {name = "Jarson Everlong", subname = "Battle Pet Trainer"}
+MultiLanguageNpcData['nl'][251429] = {name = "Flappen", subname = "Jarson's huisdier"}
+MultiLanguageNpcData['nl'][251430] = {name = "Overbelaste valet", subname = nil}
+MultiLanguageNpcData['nl'][251431] = {name = "Kanaria", subname = "Bandage Trainer"}
+MultiLanguageNpcData['nl'][251432] = {name = "Garridel", subname = "Mage Trainer"}
+MultiLanguageNpcData['nl'][251433] = {name = "Celoenus", subname = "Heksenjager"}
+MultiLanguageNpcData['nl'][251434] = {name = "Trixit", subname = "Celoenus' Minion"}
+MultiLanguageNpcData['nl'][251435] = {name = "Kali Goldenstar", subname = nil}
+MultiLanguageNpcData['nl'][251436] = {name = "Ariya", subname = "Kali's huisdier"}
+MultiLanguageNpcData['nl'][251438] = {name = "Ponaris", subname = "Priestertrainer"}
+MultiLanguageNpcData['nl'][251440] = {name = "Zadelde Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251441] = {name = "Noellen", subname = "Paladin Trainer"}
+MultiLanguageNpcData['nl'][251442] = {name = "Glammering Darter", subname = nil}
+MultiLanguageNpcData['nl'][251443] = {name = "Tannaria", subname = "Rogue Trainer"}
 MultiLanguageNpcData['nl'][251444] = {name = "Feestelijke Caroller", subname = nil}
+MultiLanguageNpcData['nl'][251446] = {name = "Feylen", subname = "Wapenverkoper"}
+MultiLanguageNpcData['nl'][251447] = {name = "Farsil", subname = "Armor & Schild Merchant"}
+MultiLanguageNpcData['nl'][251449] = {name = "Vara", subname = "Cloth & Leather Merchant"}
+MultiLanguageNpcData['nl'][251450] = {name = "Aeldon Sunbrand", subname = "Gedecoreerde kapitein"}
+MultiLanguageNpcData['nl'][251452] = {name = "Ontsnappen van kinderopvang", subname = nil}
+MultiLanguageNpcData['nl'][251453] = {name = "Farstrider Aerie-Blade", subname = nil}
+MultiLanguageNpcData['nl'][251454] = {name = "Juffrouw Jadepaw", subname = "Geïmporteerde juwelen"}
+MultiLanguageNpcData['nl'][251455] = {name = "Ambershade Matriarch", subname = nil}
+MultiLanguageNpcData['nl'][251456] = {name = "Zathanna", subname = "Purveyor van Oude Wapens"}
+MultiLanguageNpcData['nl'][251457] = {name = "Ambershade Lynx", subname = nil}
+MultiLanguageNpcData['nl'][251458] = {name = "Gezadelde Talbuk", subname = nil}
+MultiLanguageNpcData['nl'][251459] = {name = "Ambershade Kitten", subname = nil}
+MultiLanguageNpcData['nl'][251460] = {name = "Lightscale Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][251462] = {name = "Sunset Clacker", subname = nil}
+MultiLanguageNpcData['nl'][251463] = {name = "Islebound Treant", subname = nil}
+MultiLanguageNpcData['nl'][251464] = {name = "Meadowstep Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251465] = {name = "Overleden Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251466] = {name = "Bezorgd patron", subname = nil}
+MultiLanguageNpcData['nl'][251467] = {name = "Split-open clacker", subname = nil}
+MultiLanguageNpcData['nl'][251468] = {name = "Listless Mana Wyrm", subname = nil}
+MultiLanguageNpcData['nl'][251470] = {name = "Tai", subname = nil}
+MultiLanguageNpcData['nl'][251471] = {name = "Kellani", subname = nil}
+MultiLanguageNpcData['nl'][251472] = {name = "Lothan zilverblad", subname = "Krijgerstrainer"}
+MultiLanguageNpcData['nl'][251474] = {name = "Tyrantus", subname = "Kieupid's huisdier"}
+MultiLanguageNpcData['nl'][251475] = {name = "Voluntold Trainee", subname = nil}
+MultiLanguageNpcData['nl'][251476] = {name = "Traveling Warrior", subname = nil}
+MultiLanguageNpcData['nl'][251477] = {name = "Traveling Mage", subname = nil}
+MultiLanguageNpcData['nl'][251482] = {name = "Avontuurlijk schatje.", subname = nil}
+MultiLanguageNpcData['nl'][251483] = {name = "Avontuurlijk schatje.", subname = nil}
+MultiLanguageNpcData['nl'][251484] = {name = "Vain Noble", subname = nil}
 MultiLanguageNpcData['nl'][251508] = {name = "Baard Bronzebrann", subname = nil}
+MultiLanguageNpcData['nl'][251509] = {name = "Drained Protector", subname = nil}
+MultiLanguageNpcData['nl'][251510] = {name = "Onzichtbare konijn (Arcane Target)", subname = nil}
+MultiLanguageNpcData['nl'][251518] = {name = "Seneschal Ulen", subname = nil}
+MultiLanguageNpcData['nl'][251521] = {name = "Farstrider Hawktamer", subname = nil}
+MultiLanguageNpcData['nl'][251522] = {name = "Idago", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][251524] = {name = "Sturdy Fungarian", subname = nil}
+MultiLanguageNpcData['nl'][251525] = {name = "Dri'hara", subname = nil}
+MultiLanguageNpcData['nl'][251526] = {name = "Dri'hara", subname = nil}
+MultiLanguageNpcData['nl'][251527] = {name = "Sunwing Dragonhawk", subname = nil}
+MultiLanguageNpcData['nl'][251528] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251529] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251531] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251532] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251533] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251535] = {name = "Luminbulb", subname = nil}
+MultiLanguageNpcData['nl'][251538] = {name = "Sommolier Tremithian", subname = "Augurs' Delights"}
+MultiLanguageNpcData['nl'][251539] = {name = "Magistrix Silanna", subname = nil}
+MultiLanguageNpcData['nl'][251540] = {name = "Leerling Erilia", subname = nil}
+MultiLanguageNpcData['nl'][251541] = {name = "Bloomkeeper Thornflare", subname = nil}
+MultiLanguageNpcData['nl'][251542] = {name = "Outrunner Alarion", subname = nil}
+MultiLanguageNpcData['nl'][251543] = {name = "Trainee Solanin", subname = nil}
+MultiLanguageNpcData['nl'][251544] = {name = "Kham'dur", subname = nil}
+MultiLanguageNpcData['nl'][251545] = {name = "Padhulp", subname = nil}
+MultiLanguageNpcData['nl'][251546] = {name = "Kham'dur", subname = nil}
+MultiLanguageNpcData['nl'][251547] = {name = "Lightbloom Weedling", subname = nil}
+MultiLanguageNpcData['nl'][251548] = {name = "Deeprock-slak", subname = nil}
+MultiLanguageNpcData['nl'][251549] = {name = "Griezelschaduw", subname = nil}
+MultiLanguageNpcData['nl'][251550] = {name = "Cavern Sporebat", subname = nil}
+MultiLanguageNpcData['nl'][251552] = {name = "Cascade Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][251557] = {name = "Assistent Bloomkeeper", subname = nil}
+MultiLanguageNpcData['nl'][251558] = {name = "Sitch Lowdown", subname = "Donkere oplossingen"}
+MultiLanguageNpcData['nl'][251560] = {name = "Magister Aradis", subname = nil}
+MultiLanguageNpcData['nl'][251561] = {name = "Cascade Bull", subname = nil}
+MultiLanguageNpcData['nl'][251562] = {name = "Groveherd Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][251563] = {name = "Groveherd Bull", subname = nil}
+MultiLanguageNpcData['nl'][251568] = {name = "Gebroken afbeelding", subname = nil}
+MultiLanguageNpcData['nl'][251569] = {name = "Grimlynx", subname = nil}
+MultiLanguageNpcData['nl'][251571] = {name = "Wibwib", subname = "Schimmelkracht"}
+MultiLanguageNpcData['nl'][251572] = {name = "Gluco", subname = "Schimmelkracht"}
+MultiLanguageNpcData['nl'][251573] = {name = "Vubvub", subname = "Schimmelkracht"}
+MultiLanguageNpcData['nl'][251577] = {name = "Shadowguard Steelsoul", subname = nil}
+MultiLanguageNpcData['nl'][251578] = {name = "Schaduwwacht Null Bastion", subname = nil}
+MultiLanguageNpcData['nl'][251579] = {name = "Shadeye Observer", subname = nil}
+MultiLanguageNpcData['nl'][251580] = {name = "Schaduwbeschermer Soulbreaker", subname = nil}
+MultiLanguageNpcData['nl'][251581] = {name = "Schaduwbeschermer Phasecutter", subname = nil}
+MultiLanguageNpcData['nl'][251582] = {name = "Schaduwwacht Arcanotech", subname = nil}
+MultiLanguageNpcData['nl'][251583] = {name = "Shadowguard Void Adept", subname = nil}
+MultiLanguageNpcData['nl'][251584] = {name = "Prowling Voidstalker", subname = nil}
+MultiLanguageNpcData['nl'][251585] = {name = "Arcane Fragment", subname = nil}
+MultiLanguageNpcData['nl'][251587] = {name = "Halduron Brightwing", subname = nil}
+MultiLanguageNpcData['nl'][251588] = {name = "Fungarian Flinger", subname = nil}
+MultiLanguageNpcData['nl'][251589] = {name = "Schimmel Speartender", subname = nil}
+MultiLanguageNpcData['nl'][251590] = {name = "Schimmelrotcaster", subname = nil}
+MultiLanguageNpcData['nl'][251591] = {name = "Schimmelgoot", subname = nil}
+MultiLanguageNpcData['nl'][251592] = {name = "Gnarled Reviver", subname = nil}
+MultiLanguageNpcData['nl'][251593] = {name = "Beest geïnfecteerd", subname = nil}
+MultiLanguageNpcData['nl'][251594] = {name = "Schimmelrotspreider", subname = nil}
+MultiLanguageNpcData['nl'][251595] = {name = "Schimmelschimmel", subname = nil}
+MultiLanguageNpcData['nl'][251596] = {name = "Vleesetende Lasher", subname = nil}
+MultiLanguageNpcData['nl'][251597] = {name = "Verken verder in de crypten...", subname = nil}
+MultiLanguageNpcData['nl'][251598] = {name = "Gepocheerde Pango", subname = nil}
+MultiLanguageNpcData['nl'][251599] = {name = "Gepocheerde pup", subname = nil}
+MultiLanguageNpcData['nl'][251600] = {name = "Infiltrator Gulkat", subname = nil}
+MultiLanguageNpcData['nl'][251601] = {name = "Dundun", subname = "Loa van Overvloed"}
+MultiLanguageNpcData['nl'][251602] = {name = "Bloomkeeper Thornflare", subname = nil}
+MultiLanguageNpcData['nl'][251604] = {name = "Kill Credit: Tutorial - Q02 - T0 benaderd", subname = nil}
+MultiLanguageNpcData['nl'][251605] = {name = "Arcane-lading", subname = nil}
+MultiLanguageNpcData['nl'][251606] = {name = "Ongedierte", subname = nil}
+MultiLanguageNpcData['nl'][251607] = {name = "Kill Credit", subname = nil}
+MultiLanguageNpcData['nl'][251608] = {name = "Dark Star Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251609] = {name = "Body Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251611] = {name = "Geïnteresseerde burger", subname = nil}
+MultiLanguageNpcData['nl'][251613] = {name = "Veilige locatie", subname = nil}
+MultiLanguageNpcData['nl'][251614] = {name = "Gebiedstrigger (12,0 WQ 06)", subname = nil}
+MultiLanguageNpcData['nl'][251619] = {name = "Preyseeker's Nachtmerrie", subname = nil}
+MultiLanguageNpcData['nl'][251621] = {name = "Kern", subname = nil}
+MultiLanguageNpcData['nl'][251624] = {name = "Venster Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251627] = {name = "Swift Grimlynx", subname = nil}
+MultiLanguageNpcData['nl'][251628] = {name = "Stressed Magister", subname = nil}
+MultiLanguageNpcData['nl'][251632] = {name = "Swift Grimlynx", subname = nil}
+MultiLanguageNpcData['nl'][251636] = {name = "Gladde snapper", subname = nil}
+MultiLanguageNpcData['nl'][251639] = {name = "Verloren Ziel", subname = nil}
+MultiLanguageNpcData['nl'][251643] = {name = "Algemeen - lege konijn", subname = nil}
+MultiLanguageNpcData['nl'][251645] = {name = "Incubating Lasher", subname = nil}
+MultiLanguageNpcData['nl'][251658] = {name = "Void Stabilisator", subname = nil}
+MultiLanguageNpcData['nl'][251659] = {name = "Fladderende Firefly", subname = nil}
+MultiLanguageNpcData['nl'][251660] = {name = "Void Rift", subname = nil}
+MultiLanguageNpcData['nl'][251666] = {name = "Lichtbloeiende groei", subname = nil}
 MultiLanguageNpcData['nl'][251668] = {name = "Illidan kostuum", subname = nil}
+MultiLanguageNpcData['nl'][251669] = {name = "Lilaju", subname = "Revantusk-stam"}
+MultiLanguageNpcData['nl'][251671] = {name = "Lightbloated Magister", subname = nil}
+MultiLanguageNpcData['nl'][251674] = {name = "Maligne Ziel", subname = nil}
+MultiLanguageNpcData['nl'][251675] = {name = "Gewonde Magister", subname = nil}
 MultiLanguageNpcData['nl'][251678] = {name = "Yin Shuilan", subname = nil}
-MultiLanguageNpcData['nl'][251810] = {name = "Vis", subname = nil}
-MultiLanguageNpcData['nl'][251911] = {name = "Stapels Topskimmer", subname = "Gebruikte decorverkoper"}
-MultiLanguageNpcData['nl'][251921] = {name = "Arcanist Peroleth", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][251989] = {name = "Nomi", subname = nil}
-MultiLanguageNpcData['nl'][252008] = {name = "Kill Credit [DNT]", subname = nil}
-MultiLanguageNpcData['nl'][252013] = {name = "Bijen", subname = nil}
-MultiLanguageNpcData['nl'][252018] = {name = "Niffen Guest", subname = nil}
-MultiLanguageNpcData['nl'][252043] = {name = "Halenthos Brightstride", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252052] = {name = "Blat", subname = nil}
-MultiLanguageNpcData['nl'][252118] = {name = "Kill Credit: Ontmoeting met Arathi", subname = nil}
-MultiLanguageNpcData['nl'][252120] = {name = "Starter voor vuurwerk", subname = nil}
-MultiLanguageNpcData['nl'][252193] = {name = "Boze bij", subname = nil}
-MultiLanguageNpcData['nl'][252229] = {name = "Spookachtige geest [PH]", subname = nil}
-MultiLanguageNpcData['nl'][252230] = {name = "Warpweaver Razeem", subname = "Transmogrifier"}
-MultiLanguageNpcData['nl'][252232] = {name = "Elarion Nightember", subname = "Verkoper"}
-MultiLanguageNpcData['nl'][252233] = {name = "Leeg gebroken", subname = nil}
-MultiLanguageNpcData['nl'][252234] = {name = "Darklost Brute", subname = nil}
-MultiLanguageNpcData['nl'][252236] = {name = "Void Wraith", subname = nil}
-MultiLanguageNpcData['nl'][252237] = {name = "Etherische gast", subname = nil}
-MultiLanguageNpcData['nl'][252242] = {name = "Writing Shambler", subname = nil}
-MultiLanguageNpcData['nl'][252280] = {name = "Writing Shambler", subname = nil}
-MultiLanguageNpcData['nl'][252312] = {name = "Tweede voorzitter Pawdo", subname = "Frederick's Fabulous Meubilair"}
-MultiLanguageNpcData['nl'][252313] = {name = "Kaspisch", subname = "Traveling Decor Specialist"}
-MultiLanguageNpcData['nl'][252316] = {name = "Delphine", subname = "Chandelier Maker"}
-MultiLanguageNpcData['nl'][252326] = {name = "T'lama", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252345] = {name = "Pearl Barlow", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252498] = {name = "Corbin Branbell", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252507] = {name = "Bronzen Drake", subname = nil}
-MultiLanguageNpcData['nl'][252520] = {name = "Ripley Kiefer", subname = "Verplaatste Carpenter"}
-MultiLanguageNpcData['nl'][252597] = {name = "Glorp", subname = nil}
-MultiLanguageNpcData['nl'][252598] = {name = "Gloop", subname = nil}
-MultiLanguageNpcData['nl'][252651] = {name = "Feestelijk heden", subname = nil}
-MultiLanguageNpcData['nl'][252652] = {name = "Greenchling Present Thief", subname = "Minion of the Greench"}
-MultiLanguageNpcData['nl'][252667] = {name = "Gestolen Feestelijke Present", subname = nil}
-MultiLanguageNpcData['nl'][252687] = {name = "Verzamelaar Ta'steld", subname = "Timewalking Leverancier"}
-MultiLanguageNpcData['nl'][252700] = {name = "Kill Credit: Ringing Deeps Ending Samenvatting", subname = nil}
-MultiLanguageNpcData['nl'][252706] = {name = "Kill Credit: Crash in Azj'kahet", subname = nil}
-MultiLanguageNpcData['nl'][252721] = {name = "Renegade Swabbie", subname = nil}
-MultiLanguageNpcData['nl'][252724] = {name = "Toren", subname = nil}
-MultiLanguageNpcData['nl'][252726] = {name = "De storm", subname = nil}
-MultiLanguageNpcData['nl'][252750] = {name = "Leveringsverlies", subname = nil}
-MultiLanguageNpcData['nl'][252752] = {name = "Kill Credit: Pre Ansurak Story mode Break", subname = nil}
-MultiLanguageNpcData['nl'][252778] = {name = "Zonnig", subname = nil}
-MultiLanguageNpcData['nl'][252782] = {name = "Zonnebranden", subname = nil}
-MultiLanguageNpcData['nl'][252786] = {name = "Prattling Pugilist", subname = nil}
-MultiLanguageNpcData['nl'][252838] = {name = "De laatste assistent-architect", subname = nil}
-MultiLanguageNpcData['nl'][252857] = {name = "Garrulusgladiator", subname = nil}
-MultiLanguageNpcData['nl'][252880] = {name = "Een klein afscheid", subname = nil}
-MultiLanguageNpcData['nl'][252881] = {name = "Een klein afscheid", subname = nil}
-MultiLanguageNpcData['nl'][252887] = {name = "Chert", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252901] = {name = "Cinnabar", subname = "Freywold Meubilair"}
-MultiLanguageNpcData['nl'][252904] = {name = "Maulspike", subname = nil}
-MultiLanguageNpcData['nl'][252910] = {name = "Garnett", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252921] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][252933] = {name = "Alton Philips", subname = nil}
-MultiLanguageNpcData['nl'][252946] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][252954] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][252969] = {name = "Jocenna", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][252982] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][253013] = {name = "Ongelukkige Ducky", subname = nil}
-MultiLanguageNpcData['nl'][253016] = {name = "Exodar Replica", subname = nil}
-MultiLanguageNpcData['nl'][253060] = {name = "El-ahrairah", subname = nil}
-MultiLanguageNpcData['nl'][253067] = {name = "Silvrath", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][253086] = {name = "Jolinth", subname = "Treasure Hunter"}
-MultiLanguageNpcData['nl'][253103] = {name = "Smeulende Coalitie", subname = "Minion of the Greench"}
-MultiLanguageNpcData['nl'][253111] = {name = "Professor Pallin.", subname = "Inscriptietrainer"}
-MultiLanguageNpcData['nl'][253123] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][253170] = {name = "Kies Butterworth", subname = nil}
-MultiLanguageNpcData['nl'][253181] = {name = "Babbling Brawler", subname = nil}
-MultiLanguageNpcData['nl'][253183] = {name = "Chatty Contender", subname = nil}
-MultiLanguageNpcData['nl'][253221] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
-MultiLanguageNpcData['nl'][253223] = {name = "Mishi", subname = "Lorewalker Cho's Companion"}
-MultiLanguageNpcData['nl'][253227] = {name = "Breana Bitterbrand", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][253232] = {name = "Inge Brightview", subname = "Bibliotheek liefhebber"}
-MultiLanguageNpcData['nl'][253234] = {name = "Archmage Timar", subname = nil}
-MultiLanguageNpcData['nl'][253235] = {name = "Dedric Sleetshaper", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][253348] = {name = "Speed Boost", subname = nil}
-MultiLanguageNpcData['nl'][253381] = {name = "Uitdaging Broker Guo", subname = nil}
-MultiLanguageNpcData['nl'][253387] = {name = "Selfira Ambergrove", subname = "Decorspecialist"}
-MultiLanguageNpcData['nl'][253434] = {name = "Sileas Duskvine", subname = "IJzergrovegoederen"}
-MultiLanguageNpcData['nl'][253456] = {name = "Vrolijke werkbank", subname = nil}
-MultiLanguageNpcData['nl'][253460] = {name = "Vastzittende Ogre", subname = nil}
-MultiLanguageNpcData['nl'][253463] = {name = "Een zeer fluffy kat", subname = nil}
-MultiLanguageNpcData['nl'][253488] = {name = "Snowy Workbench", subname = nil}
-MultiLanguageNpcData['nl'][253582] = {name = "Frigid Helper", subname = "Minion of the Greench"}
-MultiLanguageNpcData['nl'][253596] = {name = "De laatste architect", subname = nil}
-MultiLanguageNpcData['nl'][253602] = {name = "Frederick the Fabulous", subname = nil}
-MultiLanguageNpcData['nl'][253677] = {name = "Mind-morphing massa", subname = nil}
-MultiLanguageNpcData['nl'][253699] = {name = "Generic Bunny - PRK", subname = nil}
-MultiLanguageNpcData['nl'][253700] = {name = "Vernietigde overgrootvaderboom", subname = nil}
-MultiLanguageNpcData['nl'][253710] = {name = "Wrathion", subname = "De Zwarte Prins"}
-MultiLanguageNpcData['nl'][253714] = {name = "Vervalsing Corpse", subname = nil}
-MultiLanguageNpcData['nl'][253717] = {name = "Wickerman Pinata", subname = nil}
-MultiLanguageNpcData['nl'][253723] = {name = "Poort", subname = nil}
-MultiLanguageNpcData['nl'][253724] = {name = "Poort", subname = nil}
-MultiLanguageNpcData['nl'][253725] = {name = "Wickerman Pinata", subname = nil}
-MultiLanguageNpcData['nl'][253758] = {name = "Wrathion", subname = "De Zwarte Prins"}
-MultiLanguageNpcData['nl'][253772] = {name = "Joanna Koperpinch", subname = "Buurtfeesten"}
-MultiLanguageNpcData['nl'][253879] = {name = "Cord Wind-a-ma-jigger 1000", subname = nil}
-MultiLanguageNpcData['nl'][253952] = {name = "Cord Wind-a-ma-jigger 2000", subname = nil}
-MultiLanguageNpcData['nl'][253966] = {name = "Cord Wind-a-ma-jigger 3000", subname = nil}
-MultiLanguageNpcData['nl'][254059] = {name = "Steward", subname = nil}
-MultiLanguageNpcData['nl'][254062] = {name = "Schaduw van de Ruiter", subname = nil}
-MultiLanguageNpcData['nl'][254065] = {name = "Shade of Seabreaker Skoloth", subname = nil}
-MultiLanguageNpcData['nl'][254071] = {name = "Dredger", subname = nil}
-MultiLanguageNpcData['nl'][254090] = {name = "Buurtbewoner", subname = nil}
-MultiLanguageNpcData['nl'][254091] = {name = "Buurtbewoner", subname = nil}
-MultiLanguageNpcData['nl'][254092] = {name = "Eternus", subname = nil}
-MultiLanguageNpcData['nl'][254093] = {name = "Eternus", subname = nil}
-MultiLanguageNpcData['nl'][254148] = {name = "Twilight Cultist", subname = nil}
-MultiLanguageNpcData['nl'][254164] = {name = "Waterspout", subname = nil}
-MultiLanguageNpcData['nl'][254369] = {name = "Controller", subname = nil}
-MultiLanguageNpcData['nl'][254456] = {name = "Lorewalker Cho", subname = nil}
-MultiLanguageNpcData['nl'][254478] = {name = "Arena Tar Pit", subname = nil}
-MultiLanguageNpcData['nl'][254479] = {name = "Kill Credit: Storting Ghost [DNT]", subname = nil}
-MultiLanguageNpcData['nl'][254480] = {name = "Kill Credit: Equip Gear [DNT]", subname = nil}
-MultiLanguageNpcData['nl'][254484] = {name = "Blaster X-treme werkbank", subname = nil}
-MultiLanguageNpcData['nl'][254507] = {name = "Bazzie Cheergear", subname = "Buurtfeesten"}
-MultiLanguageNpcData['nl'][254532] = {name = "Poort naar Drustvar", subname = nil}
-MultiLanguageNpcData['nl'][254547] = {name = "Stromgarde Footman", subname = nil}
-MultiLanguageNpcData['nl'][254575] = {name = "Arator", subname = nil}
-MultiLanguageNpcData['nl'][254579] = {name = "Arfus", subname = nil}
-MultiLanguageNpcData['nl'][254584] = {name = "Dirt Mound", subname = nil}
-MultiLanguageNpcData['nl'][254587] = {name = "Truffels", subname = nil}
-MultiLanguageNpcData['nl'][254603] = {name = "Riica", subname = "Battleground Decor Specialist"}
-MultiLanguageNpcData['nl'][254606] = {name = "Joruh", subname = "Battleground Decor Specialist"}
-MultiLanguageNpcData['nl'][254638] = {name = "Kill Credit: Zoek Truffel [DNT]", subname = nil}
-MultiLanguageNpcData['nl'][254667] = {name = "Spook", subname = nil}
-MultiLanguageNpcData['nl'][254668] = {name = "Spook", subname = nil}
-MultiLanguageNpcData['nl'][254687] = {name = "Rotha", subname = "Algemene contractant"}
-MultiLanguageNpcData['nl'][254688] = {name = "Tocho Cloudhide", subname = "Steward"}
-MultiLanguageNpcData['nl'][254694] = {name = "Nomi", subname = nil}
-MultiLanguageNpcData['nl'][254696] = {name = "Portaal naar Duskwood", subname = nil}
-MultiLanguageNpcData['nl'][254704] = {name = "Grote rendieren", subname = nil}
-MultiLanguageNpcData['nl'][254705] = {name = "Rendier buiten dienst", subname = nil}
-MultiLanguageNpcData['nl'][254713] = {name = "Rendier Fawn", subname = nil}
-MultiLanguageNpcData['nl'][254721] = {name = "Michellz Koperpinch", subname = nil}
-MultiLanguageNpcData['nl'][254723] = {name = "Holiday Helper", subname = nil}
-MultiLanguageNpcData['nl'][254725] = {name = "Hobbs Koperpinch", subname = nil}
-MultiLanguageNpcData['nl'][254727] = {name = "Snoep", subname = nil}
-MultiLanguageNpcData['nl'][254735] = {name = "Kostuum Kid", subname = nil}
-MultiLanguageNpcData['nl'][254760] = {name = "Brawlin' Bruno", subname = nil}
-MultiLanguageNpcData['nl'][254768] = {name = "InvisBunny", subname = nil}
-MultiLanguageNpcData['nl'][254908] = {name = "Lokale handelaar", subname = nil}
-MultiLanguageNpcData['nl'][254922] = {name = "Lala", subname = nil}
-MultiLanguageNpcData['nl'][254940] = {name = "Uitdaging Broker Senna", subname = nil}
-MultiLanguageNpcData['nl'][254961] = {name = "Buurtwacht", subname = nil}
-MultiLanguageNpcData['nl'][254963] = {name = "Carrion", subname = nil}
-MultiLanguageNpcData['nl'][254993] = {name = "Skypaw Glimmerfur", subname = nil}
-MultiLanguageNpcData['nl'][254995] = {name = "Crimson Lupine", subname = nil}
-MultiLanguageNpcData['nl'][255045] = {name = "Lokaal", subname = nil}
-MultiLanguageNpcData['nl'][255101] = {name = "Mynde", subname = "Stone Skimmer"}
-MultiLanguageNpcData['nl'][255104] = {name = "Jorvan Longmoor", subname = "Algemene contractant"}
-MultiLanguageNpcData['nl'][255110] = {name = "Kleurstofstation", subname = nil}
-MultiLanguageNpcData['nl'][255125] = {name = "Haleth Turnwater", subname = "Dye Crafter"}
-MultiLanguageNpcData['nl'][255126] = {name = "Helmi Cooper", subname = "Dye Crafter"}
-MultiLanguageNpcData['nl'][255128] = {name = "Teleporter", subname = nil}
-MultiLanguageNpcData['nl'][255129] = {name = "Teleporter", subname = nil}
-MultiLanguageNpcData['nl'][255130] = {name = "Teleporter", subname = nil}
-MultiLanguageNpcData['nl'][255203] = {name = "Xiao Dan", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255213] = {name = "Laarden de Bouwer", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255216] = {name = "Balen Starfinder", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255218] = {name = "Argan Hammerfist", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255221] = {name = "Trevor Grenner", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255222] = {name = "High Tides Ren", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255227] = {name = "Werknemer", subname = nil}
-MultiLanguageNpcData['nl'][255228] = {name = "\"Len\" Splinthof", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255230] = {name = "\"Yen\" Malone", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255243] = {name = "Werknemer", subname = nil}
-MultiLanguageNpcData['nl'][255248] = {name = "Smokkelaar Swabbie", subname = nil}
-MultiLanguageNpcData['nl'][255249] = {name = "Lokale Pandaren", subname = nil}
-MultiLanguageNpcData['nl'][255278] = {name = "Gronthul", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255285] = {name = "Ballistische Bronco", subname = nil}
-MultiLanguageNpcData['nl'][255297] = {name = "Shon'ja", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255298] = {name = "Jehzar Starfall", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255299] = {name = "Lefton Farrer", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255301] = {name = "Botanist Boh'an", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255319] = {name = "\"Yen\" Malone", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255325] = {name = "High Tides Ren", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255326] = {name = "\"Len\" Splinthof", subname = "Decor vendor"}
-MultiLanguageNpcData['nl'][255351] = {name = "Felsworn Adept", subname = nil}
-MultiLanguageNpcData['nl'][255352] = {name = "Lokale Kid", subname = nil}
-MultiLanguageNpcData['nl'][255408] = {name = "Lokaal", subname = nil}
-MultiLanguageNpcData['nl'][255413] = {name = "Snowpaw Glimmerfur Prowler", subname = nil}
-MultiLanguageNpcData['nl'][255477] = {name = "Jevien", subname = "Handelaar"}
-MultiLanguageNpcData['nl'][255519] = {name = "Lestia Goudenstrike", subname = "Houthakker"}
-MultiLanguageNpcData['nl'][255520] = {name = "Xiz'ro", subname = "Houthakker"}
-MultiLanguageNpcData['nl'][255567] = {name = "Sparking Sharptooth", subname = nil}
-MultiLanguageNpcData['nl'][255612] = {name = "Buurtarbeider", subname = nil}
-MultiLanguageNpcData['nl'][255625] = {name = "Halaina", subname = nil}
-MultiLanguageNpcData['nl'][255626] = {name = "Zalani", subname = nil}
-MultiLanguageNpcData['nl'][255627] = {name = "Zurunu", subname = nil}
-MultiLanguageNpcData['nl'][255630] = {name = "Horakan", subname = "Fruitverkoper"}
-MultiLanguageNpcData['nl'][255631] = {name = "Huaqin", subname = "Sushi Chef"}
-MultiLanguageNpcData['nl'][255632] = {name = "Fuller", subname = "Mosselverkoper"}
-MultiLanguageNpcData['nl'][255634] = {name = "Tortollan Trader", subname = nil}
-MultiLanguageNpcData['nl'][255636] = {name = "Tortollan bezoeker", subname = nil}
-MultiLanguageNpcData['nl'][255637] = {name = "Buurtarbeider", subname = nil}
-MultiLanguageNpcData['nl'][255643] = {name = "Emielle", subname = "Shell Trader"}
-MultiLanguageNpcData['nl'][255644] = {name = "Olafus", subname = "Handelaar"}
-MultiLanguageNpcData['nl'][255647] = {name = "Margona", subname = "Farm Trader"}
-MultiLanguageNpcData['nl'][255651] = {name = "Khamdiril", subname = "Pretzels en bier"}
-MultiLanguageNpcData['nl'][255654] = {name = "Lorisin", subname = "Op maat"}
-MultiLanguageNpcData['nl'][255664] = {name = "Stromgarde Footman", subname = nil}
-MultiLanguageNpcData['nl'][255684] = {name = "Saga Mistrunner", subname = "Vleesverkoper"}
-MultiLanguageNpcData['nl'][255694] = {name = "Nisala", subname = "Bloemist"}
-MultiLanguageNpcData['nl'][255695] = {name = "Antazai", subname = "Baker"}
-MultiLanguageNpcData['nl'][255710] = {name = "Rijden Alpaca", subname = nil}
-MultiLanguageNpcData['nl'][255713] = {name = "Kargash", subname = "Vleesverkoper"}
-MultiLanguageNpcData['nl'][255714] = {name = "Seleriaan", subname = "Voederdier"}
-MultiLanguageNpcData['nl'][255787] = {name = "Verplaatste Sunwhisker", subname = nil}
-MultiLanguageNpcData['nl'][255805] = {name = "Gedomineerde wolf", subname = nil}
-MultiLanguageNpcData['nl'][255806] = {name = "Gedomineerde Kodo", subname = nil}
-MultiLanguageNpcData['nl'][255886] = {name = "Sand Swooper", subname = nil}
-MultiLanguageNpcData['nl'][255888] = {name = "Goddelijke Vlam van Beledar", subname = nil}
-MultiLanguageNpcData['nl'][255908] = {name = "Theryn", subname = "Onderwerp 16"}
-MultiLanguageNpcData['nl'][255910] = {name = "Zeeschildpad", subname = nil}
-MultiLanguageNpcData['nl'][255911] = {name = "Sawtail Thresher", subname = nil}
-MultiLanguageNpcData['nl'][255912] = {name = "Oude zeeschildpad", subname = nil}
-MultiLanguageNpcData['nl'][255913] = {name = "Zwermende Frenzy", subname = nil}
-MultiLanguageNpcData['nl'][255914] = {name = "Diepe aal", subname = nil}
-MultiLanguageNpcData['nl'][255915] = {name = "Kusthaas", subname = nil}
-MultiLanguageNpcData['nl'][255917] = {name = "Getijdeskimmer", subname = nil}
-MultiLanguageNpcData['nl'][255918] = {name = "Fathom Ray", subname = nil}
-MultiLanguageNpcData['nl'][255919] = {name = "Spike Fish", subname = nil}
-MultiLanguageNpcData['nl'][255920] = {name = "Hardnosed Tideskipper", subname = nil}
-MultiLanguageNpcData['nl'][255924] = {name = "Tidal Minnow", subname = nil}
-MultiLanguageNpcData['nl'][255941] = {name = "Cassandla Blanch", subname = "Produceer leverancier"}
-MultiLanguageNpcData['nl'][255942] = {name = "Jendry Clockson", subname = "Donutverkoper"}
-MultiLanguageNpcData['nl'][255943] = {name = "Torm Swindel", subname = "Kledingverlener"}
-MultiLanguageNpcData['nl'][255944] = {name = "Ema Zilverswatch", subname = nil}
-MultiLanguageNpcData['nl'][255945] = {name = "Rahgi Sourbone", subname = "Broodverkoper"}
-MultiLanguageNpcData['nl'][255946] = {name = "Glin Doomwish", subname = "Plantenverkoper"}
-MultiLanguageNpcData['nl'][255947] = {name = "Tzurg Lowlock", subname = "Fruitverkoper"}
-MultiLanguageNpcData['nl'][255948] = {name = "Sun Viceheart", subname = "Barkeeper"}
-MultiLanguageNpcData['nl'][255949] = {name = "Zin'n", subname = "Mixoloog"}
-MultiLanguageNpcData['nl'][255950] = {name = "Jasha", subname = "Handdoekhouder"}
-MultiLanguageNpcData['nl'][255966] = {name = "Aeonicus", subname = nil}
-MultiLanguageNpcData['nl'][255967] = {name = "Durus", subname = nil}
-MultiLanguageNpcData['nl'][255968] = {name = "Grootmeester Jakkus", subname = nil}
-MultiLanguageNpcData['nl'][255970] = {name = "Larah Treebender", subname = nil}
-MultiLanguageNpcData['nl'][256071] = {name = "Solelo", subname = "Reisboekenwinkel"}
-MultiLanguageNpcData['nl'][256078] = {name = "Lyssabel Dawnpetal", subname = "Steward"}
-MultiLanguageNpcData['nl'][256085] = {name = "Buurtwacht", subname = nil}
-MultiLanguageNpcData['nl'][256119] = {name = "Lonalo", subname = "Reisboekenwinkel"}
-MultiLanguageNpcData['nl'][256218] = {name = "Tome of History", subname = nil}
-MultiLanguageNpcData['nl'][256267] = {name = "Schreeuwende corruptie", subname = nil}
-MultiLanguageNpcData['nl'][256286] = {name = "Azerothian Athenaeum", subname = nil}
-MultiLanguageNpcData['nl'][256288] = {name = "Kill Credit: Aelric Puppet Show", subname = nil}
-MultiLanguageNpcData['nl'][256311] = {name = "Wagon", subname = nil}
-MultiLanguageNpcData['nl'][256327] = {name = "Kirt", subname = "Openbaar vervoer"}
-MultiLanguageNpcData['nl'][256520] = {name = "Switchback Grouper", subname = nil}
-MultiLanguageNpcData['nl'][256521] = {name = "Skate Ray", subname = nil}
-MultiLanguageNpcData['nl'][256522] = {name = "Wolf Pup", subname = nil}
-MultiLanguageNpcData['nl'][256523] = {name = "Raptor Hatchling", subname = nil}
-MultiLanguageNpcData['nl'][256525] = {name = "Pittige druif", subname = nil}
-MultiLanguageNpcData['nl'][256526] = {name = "Energetic Pufferfin", subname = nil}
-MultiLanguageNpcData['nl'][256527] = {name = "Majestic Orca", subname = nil}
-MultiLanguageNpcData['nl'][256530] = {name = "Wolf Pup", subname = nil}
-MultiLanguageNpcData['nl'][256630] = {name = "Openbaar vervoer", subname = nil}
-MultiLanguageNpcData['nl'][256632] = {name = "Kellyn", subname = "Chauffeur"}
-MultiLanguageNpcData['nl'][256636] = {name = "Iyanna", subname = "Speelgoedverkoper"}
-MultiLanguageNpcData['nl'][256641] = {name = "Darl", subname = "Stuurprogramma"}
-MultiLanguageNpcData['nl'][256642] = {name = "Gemeenschappelijke winkelwagen", subname = nil}
-MultiLanguageNpcData['nl'][256644] = {name = "Kruzz", subname = "Stuurprogramma"}
-MultiLanguageNpcData['nl'][256645] = {name = "Gemeenschappelijke winkelwagen", subname = nil}
-MultiLanguageNpcData['nl'][256656] = {name = "Aelric Leid", subname = nil}
-MultiLanguageNpcData['nl'][256668] = {name = "Bull", subname = nil}
-MultiLanguageNpcData['nl'][256719] = {name = "Aelric Leid", subname = nil}
-MultiLanguageNpcData['nl'][256721] = {name = "Glooming Disciple", subname = nil}
-MultiLanguageNpcData['nl'][256722] = {name = "Glooming Disciple", subname = nil}
-MultiLanguageNpcData['nl'][256724] = {name = "Glooming Belligerent", subname = nil}
-MultiLanguageNpcData['nl'][256725] = {name = "Xal'atath", subname = "De voorbode"}
-MultiLanguageNpcData['nl'][256750] = {name = "Klasa", subname = "Geprefereerde delen"}
-MultiLanguageNpcData['nl'][256793] = {name = "Kill Credit", subname = nil}
-MultiLanguageNpcData['nl'][256825] = {name = "Gryphon", subname = nil}
-MultiLanguageNpcData['nl'][256938] = {name = "Khadgar's Upgraded Servant", subname = nil}
-MultiLanguageNpcData['nl'][257014] = {name = "Bauman", subname = nil}
-MultiLanguageNpcData['nl'][257015] = {name = "Riev", subname = nil}
-MultiLanguageNpcData['nl'][257023] = {name = "Hyena", subname = nil}
-MultiLanguageNpcData['nl'][257026] = {name = "Kniphoef", subname = nil}
-MultiLanguageNpcData['nl'][257031] = {name = "Felhound", subname = nil}
-MultiLanguageNpcData['nl'][257032] = {name = "Stone Guardian", subname = nil}
-MultiLanguageNpcData['nl'][257038] = {name = "Jonge duivel", subname = nil}
-MultiLanguageNpcData['nl'][257072] = {name = "Gnoll Biter", subname = nil}
-MultiLanguageNpcData['nl'][257168] = {name = "Tortollan Trader", subname = nil}
-MultiLanguageNpcData['nl'][257171] = {name = "Hammerfall Grunt", subname = nil}
-MultiLanguageNpcData['nl'][257173] = {name = "Hammerfall Grunt", subname = nil}
-MultiLanguageNpcData['nl'][257174] = {name = "Onderzoeker op drakenschaal", subname = nil}
-MultiLanguageNpcData['nl'][257178] = {name = "Vulpera Mixoloog", subname = "The Bilge Rats"}
-MultiLanguageNpcData['nl'][257276] = {name = "Baine Bloodhoof", subname = "High Chieftain"}
-MultiLanguageNpcData['nl'][257277] = {name = "Tyrande Whisperwind", subname = nil}
-MultiLanguageNpcData['nl'][257279] = {name = "Anduin Wrynn", subname = nil}
-MultiLanguageNpcData['nl'][257620] = {name = "Blazing Infernal", subname = nil}
-MultiLanguageNpcData['nl'][258638] = {name = "Kill Credit", subname = nil}
-MultiLanguageNpcData['nl'][259644] = {name = "Erus", subname = "Schrootmeester"}
-MultiLanguageNpcData['nl'][259645] = {name = "Erus", subname = "Schrootmeester"}
-MultiLanguageNpcData['nl'][259989] = {name = "Area Trigger Bunny", subname = nil}
-MultiLanguageNpcData['nl'][259991] = {name = "Area Trigger Bunny", subname = nil}
-MultiLanguageNpcData['nl'][259993] = {name = "Area Trigger Bunny", subname = nil}
-MultiLanguageNpcData['nl'][259998] = {name = "Area Trigger Bunny", subname = nil}
-MultiLanguageNpcData['nl'][259999] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['nl'][251686] = {name = "Lurking Umbraling", subname = nil}
+MultiLanguageNpcData['nl'][251687] = {name = "Twilight Shadowmage", subname = nil}
+MultiLanguageNpcData['nl'][251688] = {name = "Twilight Enforcer", subname = nil}
+MultiLanguageNpcData['nl'][251693] = {name = "Baleful Darkspawn", subname = nil}
+MultiLanguageNpcData['nl'][251695] = {name = "Schaduwblad starten", subname = nil}
+MultiLanguageNpcData['nl'][251697] = {name = "Grim Corrupter", subname = nil}
+MultiLanguageNpcData['nl'][251698] = {name = "Deathchanter Mish'mosh", subname = nil}
+MultiLanguageNpcData['nl'][251701] = {name = "Silvermoon Guard", subname = nil}
+MultiLanguageNpcData['nl'][251702] = {name = "Lichte groei", subname = nil}
+MultiLanguageNpcData['nl'][251704] = {name = "Bustling Shopkeep", subname = nil}
+MultiLanguageNpcData['nl'][251705] = {name = "Hongerige Hatchling", subname = nil}
+MultiLanguageNpcData['nl'][251706] = {name = "Twilight gijzelaar", subname = nil}
+MultiLanguageNpcData['nl'][251715] = {name = "Tuktuk", subname = nil}
+MultiLanguageNpcData['nl'][251717] = {name = "Vastworteling-bewegingen", subname = nil}
+MultiLanguageNpcData['nl'][251721] = {name = "Ingebouwde artiest", subname = nil}
+MultiLanguageNpcData['nl'][251722] = {name = "Brakko", subname = nil}
+MultiLanguageNpcData['nl'][251723] = {name = "Ziny", subname = nil}
+MultiLanguageNpcData['nl'][251724] = {name = "Sporegorger Chloroceros", subname = nil}
+MultiLanguageNpcData['nl'][251726] = {name = "Silvermoon Burger", subname = nil}
+MultiLanguageNpcData['nl'][251728] = {name = "Kalgorg de Ongeschrapte", subname = nil}
+MultiLanguageNpcData['nl'][251729] = {name = "Verdedigen van Magister", subname = nil}
+MultiLanguageNpcData['nl'][251732] = {name = "Goed aangewezen vervoer", subname = nil}
+MultiLanguageNpcData['nl'][251733] = {name = "Briljante Hawkstrider", subname = nil}
+MultiLanguageNpcData['nl'][251738] = {name = "Preyseeker's Wrath", subname = nil}
+MultiLanguageNpcData['nl'][251743] = {name = "Bloedridder Afgezant", subname = nil}
+MultiLanguageNpcData['nl'][251748] = {name = "Glimmercap", subname = "Cap Clash"}
+MultiLanguageNpcData['nl'][251749] = {name = "Tuffcap", subname = "Cap Clash"}
+MultiLanguageNpcData['nl'][251750] = {name = "Skullcap", subname = "Cap Clash"}
+MultiLanguageNpcData['nl'][251751] = {name = "Fizzcap", subname = "Cap Clash"}
+MultiLanguageNpcData['nl'][251753] = {name = "Rijrat", subname = nil}
+MultiLanguageNpcData['nl'][251754] = {name = "Jomjom", subname = "Spore Storm"}
+MultiLanguageNpcData['nl'][251755] = {name = "Zibzib", subname = "Spore Storm"}
+MultiLanguageNpcData['nl'][251756] = {name = "Kipkip", subname = "Spore Storm"}
+MultiLanguageNpcData['nl'][251757] = {name = "Lady Lazaro", subname = nil}
+MultiLanguageNpcData['nl'][251758] = {name = "Vonto", subname = "Spore Storm"}
+MultiLanguageNpcData['nl'][251764] = {name = "Infested Lynx", subname = nil}
+MultiLanguageNpcData['nl'][251769] = {name = "Lightbloated Magister", subname = nil}
+MultiLanguageNpcData['nl'][251770] = {name = "Silvermoon-kind", subname = nil}
+MultiLanguageNpcData['nl'][251772] = {name = "Ontsnappen van kinderopvang", subname = nil}
+MultiLanguageNpcData['nl'][251775] = {name = "University Undergraduate", subname = nil}
+MultiLanguageNpcData['nl'][251776] = {name = "Gemellus Spawner Portaal Stalker", subname = nil}
+MultiLanguageNpcData['nl'][251777] = {name = "Woede Aarde", subname = nil}

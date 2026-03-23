@@ -589,6 +589,30 @@ def load_progress(config: DataTypeConfig) -> dict[str, str]:
     return {}
 
 
+def _sources_file(config: DataTypeConfig) -> Path:
+    """Pad naar het brontext-bestand voor delta-detectie."""
+    return config.progress_file.with_suffix(".sources.json")
+
+
+def load_sources(config: DataTypeConfig) -> dict[str, str]:
+    """Laad opgeslagen Engelse bronteksten {compound_key: en_text}."""
+    sf = _sources_file(config)
+    if sf.exists():
+        try:
+            return json.loads(sf.read_text("utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
+
+
+def save_sources(config: DataTypeConfig, data: dict[str, str]):
+    """Sla Engelse bronteksten op voor delta-detectie."""
+    _sources_file(config).write_text(
+        json.dumps(data, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
 def save_progress(config: DataTypeConfig, data: dict[str, str]):
     """Sla tussentijdse resultaten op."""
     config.progress_file.write_text(
@@ -724,16 +748,23 @@ def build_tasks(
     retranslate_ids: set[int] | None = None,
     retranslate_all: bool = False,
     already_retranslated: set[str] | None = None,
-) -> list[dict]:
+    sources: dict[str, str] | None = None,
+) -> tuple[list[dict], int]:
     """Bouw lijst van te vertalen taken.
 
     Normaal: sla reeds vertaalde entries over (compound_key in done).
+    Bij delta-detectie: vertaal opnieuw als de EN brontekst gewijzigd is.
     retranslate_ids: alleen deze IDs opnieuw vertalen.
     retranslate_all: ALLE entries opnieuw vertalen.
     already_retranslated: keys die al klaar zijn in deze run (voor hervatting).
+    sources: opgeslagen EN bronteksten voor delta-detectie.
+
+    Returns: (tasks, changed_count) — changed_count = aantal door delta-detectie gevonden wijzigingen.
     """
     tasks = []
     skip_done = already_retranslated or set()
+    sources = sources or {}
+    changed_count = 0
 
     for entry_id, fields in entries.items():
         # Filter op specifieke IDs als opgegeven
@@ -747,6 +778,11 @@ def build_tasks(
 
             compound_key = f"{entry_id}_{field_name}"
 
+            # Voor spells: strip stats uit additional_info vóór vertaling
+            text = raw
+            if config.name == "spells" and field_name == "additional_info":
+                text = strip_spell_additional_info(text)
+
             if retranslate_all or retranslate_ids:
                 # Hervertaling: sla over als al klaar in deze run
                 if compound_key in skip_done:
@@ -754,12 +790,14 @@ def build_tasks(
             else:
                 # Normale modus: sla over als al vertaald
                 if compound_key in done:
-                    continue
-
-            # Voor spells: strip stats uit additional_info vóór vertaling
-            text = raw
-            if config.name == "spells" and field_name == "additional_info":
-                text = strip_spell_additional_info(text)
+                    # Delta-detectie: brontekst gewijzigd?
+                    if compound_key in sources and sources[compound_key] == text:
+                        continue
+                    elif compound_key not in sources:
+                        # Geen opgeslagen brontekst (legacy) — overslaan
+                        continue
+                    # Brontekst gewijzigd → opnieuw vertalen
+                    changed_count += 1
 
             tasks.append({
                 "entry_id": entry_id,
@@ -767,7 +805,7 @@ def build_tasks(
                 "text": text,
                 "compound_key": compound_key,
             })
-    return tasks
+    return tasks, changed_count
 
 
 # ─── Lua bestand genereren ───────────────────────────────────────────────────
@@ -1149,7 +1187,8 @@ def process_type(config: DataTypeConfig, args,
 
     # Voortgang laden
     done = load_progress(config)
-    log.info(f"Voortgang geladen: {len(done)} vertalingen")
+    sources = load_sources(config)
+    log.info(f"Voortgang geladen: {len(done)} vertalingen, {len(sources)} bronteksten")
 
     # Brondata parsen
     log.info(f"Parsen: {config.source_dir}")
@@ -1176,18 +1215,20 @@ def process_type(config: DataTypeConfig, args,
             tracker = {"version": run_version, "done_keys": []}
             already_retranslated = set()
 
-    # Taken opbouwen
-    tasks = build_tasks(config, entries, done, retranslate_ids,
-                        retranslate_all, already_retranslated)
+    # Taken opbouwen (met delta-detectie)
+    tasks, changed_count = build_tasks(config, entries, done, retranslate_ids,
+                        retranslate_all, already_retranslated, sources)
     total_possible = sum(
         1 for e in entries.values()
         for f in config.fields
         if e.get(f, "").strip()
     )
     tts_enabled = args.tts and config.supports_tts
+    new_count = len(tasks) - changed_count
     log.info(
         f"Tekstvelden: {total_possible} | Al klaar: {len(done)} | "
-        f"Te vertalen: {len(tasks)} | TTS: {'AAN' if tts_enabled else 'UIT'}"
+        f"Te vertalen: {len(tasks)} (nieuw: {new_count}, gewijzigd: {changed_count}) | "
+        f"TTS: {'AAN' if tts_enabled else 'UIT'}"
     )
 
     if args.dry_run or not tasks:
@@ -1244,6 +1285,7 @@ def process_type(config: DataTypeConfig, args,
 
                 if result and result.get("nl"):
                     done[task["compound_key"]] = result["nl"]
+                    sources[task["compound_key"]] = task["text"]
                     succeeded += 1
                     # Tracker bijwerken voor hervertaling
                     if tracker is not None:
@@ -1254,6 +1296,7 @@ def process_type(config: DataTypeConfig, args,
             total_done = succeeded + failed
             if total_done % save_interval < batch_size or task_idx >= len(tasks):
                 save_progress(config, done)
+                save_sources(config, sources)
                 if tracker is not None:
                     save_retranslate_tracker(tracker)
                 elapsed = time.time() - start
@@ -1274,6 +1317,7 @@ def process_type(config: DataTypeConfig, args,
 
     # Eindresultaten opslaan
     save_progress(config, done)
+    save_sources(config, sources)
     elapsed = time.time() - start
     log.info(f"═══ {config.name.upper()} {'Onderbroken' if shutdown else 'Klaar'} ═══")
     log.info(f"Vertaald: {succeeded} | Mislukt: {failed} | Tijd: {elapsed / 60:.1f}m")
@@ -1317,6 +1361,8 @@ def main():
                         help="Regenereer TTS voor specifieke quest IDs (komma-gescheiden)")
     parser.add_argument("--regenerate-tts-all", action="store_true",
                         help="Regenereer TTS voor ALLE quests (nieuwe versie)")
+    parser.add_argument("--backfill-sources", action="store_true",
+                        help="Leg huidige EN bronteksten vast voor delta-detectie (geen vertaling)")
     parser.add_argument("--version-info", action="store_true",
                         help="Toon versie informatie en stop")
     parser.add_argument("--version-note", type=str, default=None,
@@ -1476,6 +1522,32 @@ def main():
         if removed_ogg:
             log.info(f"TTS regeneratie: {removed_ogg} OGG bestanden verwijderd")
         args.tts_ogg = True
+
+    # Backfill: leg huidige EN bronteksten vast zonder te vertalen
+    if args.backfill_sources:
+        for type_name in types_to_process:
+            config = DATA_TYPES[type_name]
+            log.info(f"═══ Backfill bronteksten: {config.name.upper()} ═══")
+            entries, _ = parse_data(config)
+            done = load_progress(config)
+            sources = load_sources(config)
+            added = 0
+            for entry_id, fields in entries.items():
+                for field_name in config.fields:
+                    raw = fields.get(field_name)
+                    if not raw or not raw.strip():
+                        continue
+                    compound_key = f"{entry_id}_{field_name}"
+                    if compound_key in done and compound_key not in sources:
+                        text = raw
+                        if config.name == "spells" and field_name == "additional_info":
+                            text = strip_spell_additional_info(text)
+                        sources[compound_key] = text
+                        added += 1
+            save_sources(config, sources)
+            log.info(f"Bronteksten vastgelegd: {added} nieuw, {len(sources)} totaal")
+        log.info("═══ Backfill klaar ═══")
+        return
 
     # Verwerk elk type
     for type_name in types_to_process:
